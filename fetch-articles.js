@@ -18,14 +18,20 @@ const EXCLUDE_RE = /tv|television|laptop|phone|smartphone|camera|mattress|vpn|ga
 
 function category(text) {
   const s = text.toLowerCase();
-  if (/earbud|earbuds|airpods|iems?\b/.test(s)) return '耳塞／真無線';
-  if (/headphone|headphones/.test(s)) return '耳機';
+  if (/headphone|headphones|earbud|earbuds|airpods|iems?\b/.test(s)) return '耳機';
   if (/soundbar/.test(s)) return 'Soundbar';
   if (/speaker|speakers|subwoofer/.test(s)) return '喇叭';
   if (/turntable|vinyl|phono/.test(s)) return '黑膠／唱盤';
   if (/dac|amplifier|\bamp\b|receiver/.test(s)) return 'DAC／擴大機';
   if (/streamer|streaming/.test(s)) return '串流播放器';
   return '其他音訊';
+}
+
+function articleType(title, url, description='') {
+  const s = `${title} ${url} ${description}`.toLowerCase();
+  if (/\breview\b|\breviews\b|hands-on|hands on|tested|test verdict|our verdict|we test|full review/.test(s)) return '評測';
+  if (/\bnews\b|announc|launch|unveil|release|revealed|new model|new headphones|new earbuds|new speaker|coming soon|preorder|pre-order/.test(s)) return '新聞';
+  return '其他';
 }
 
 function parseDate(raw) {
@@ -116,7 +122,8 @@ async function collectSource(source) {
         author: meta.author || '',
         description: (meta.description || '').replace(/\s+/g, ' ').trim(),
         image: meta.image || '',
-        category: category(combined)
+        category: category(combined),
+        articleType: articleType(c.title, c.url, meta.description || '')
       });
     } catch (e) {
       console.warn(`Skip ${c.url}: ${e.message}`);
