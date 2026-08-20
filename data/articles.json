@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T02:22:48.553Z",
+  "generatedAt": "2026-08-20T02:29:18.267Z",
   "days": 30,
   "count": 44,
   "articles": [
@@ -11,7 +11,8 @@
       "author": "",
       "description": "Latest hi-fi, home cinema and technology reviews, products, news, advice, videos and more, from the world's no.1 technology buyer's guide - What Hi-Fi?",
       "image": "",
-      "category": "其他音訊"
+      "category": "其他音訊",
+      "articleType": "評測"
     },
     {
       "source": "SoundGuys",
@@ -21,7 +22,8 @@
       "author": "Ryan McNeal",
       "description": "CMF has shared a brand new teaser for its next major product launch. The teaser hints at a third-gen version of the CMF Buds.",
       "image": "https://www.soundguys.com/wp-content/uploads/2026/08/CMF-earbud-teaser-2.jpg",
-      "category": "耳塞／真無線"
+      "category": "耳機",
+      "articleType": "新聞"
     },
     {
       "source": "What Hi-Fi?",
@@ -31,7 +33,8 @@
       "author": "",
       "description": "Discover the latest content written by Becky Roberts, Freelance contributor at What Hi-Fi?.",
       "image": "https://cdn.mos.cms.futurecdn.net/nha9TNQaa5Cqj2GGCiTDTX.jpg",
-      "category": "其他音訊"
+      "category": "其他音訊",
+      "articleType": "其他"
     },
     {
       "source": "What Hi-Fi?",
@@ -41,7 +44,8 @@
       "author": "",
       "description": "The latest Streaming & Entertainment breaking news, comment, reviews and features from the experts at Whathifi",
       "image": "",
-      "category": "串流播放器"
+      "category": "串流播放器",
+      "articleType": "評測"
     },
     {
       "source": "What Hi-Fi?",
@@ -51,7 +55,8 @@
       "author": "Robyn Quick",
       "description": "Dan Mackta discusses the company's fight against AI music",
       "image": "https://cdn.mos.cms.futurecdn.net/8JHPwuMnqwYHH649HDpAfc-2560-80.jpg",
-      "category": "串流播放器"
+      "category": "串流播放器",
+      "articleType": "其他"
     },
     {
       "source": "What Hi-Fi?",
@@ -61,7 +66,8 @@
       "author": "Becky Roberts, Kashfia Kabir",
       "description": "As What Hi-Fi? turns 50, we take a long nostalgic walk down memory lane at some of the great early hi-fi successes",
       "image": "https://cdn.mos.cms.futurecdn.net/mTVAEdsnpUUHfWeynLYNrX-1778-80.jpg",
-      "category": "黑膠／唱盤"
+      "category": "黑膠／唱盤",
+      "articleType": "其他"
     },
     {
       "source": "What Hi-Fi?",
@@ -71,7 +77,8 @@
       "author": "Harry McKerrell",
       "description": "Rotel reveals the Amora 5",
       "image": "https://cdn.mos.cms.futurecdn.net/Strej5Z37VK7QMwcdYGExR-2560-80.jpg",
-      "category": "喇叭"
+      "category": "喇叭",
+      "articleType": "其他"
     },
     {
       "source": "What Hi-Fi?",
@@ -81,7 +88,8 @@
       "author": "",
       "description": "Discover the latest content written by Harry McKerrell, Senior staff writer at What Hi-Fi?.",
       "image": "https://cdn.mos.cms.futurecdn.net/PW6fn7jt9KVP2WxNdyExbk.jpg",
-      "category": "其他音訊"
+      "category": "其他音訊",
+      "articleType": "其他"
     },
     {
       "source": "What Hi-Fi?",
@@ -91,7 +99,8 @@
       "author": "Ioan Hazell",
       "description": "A newbie’s field guide to speaker testing",
       "image": "https://cdn.mos.cms.futurecdn.net/h78xSqDLnar47Eih8j8K8B-2560-80.jpg",
-      "category": "喇叭"
+      "category": "喇叭",
+      "articleType": "其他"
     },
     {
       "source": "TechRadar",
@@ -101,7 +110,8 @@
       "author": "Tom Bedford",
       "description": "The legendary Technics SL-1200 is getting a birthday make-over with lots and lots of gold.",
       "image": "https://cdn.mos.cms.futurecdn.net/KCuzonoN9gmfrYyuRMfb5i-2560-80.jpg",
-      "category": "黑膠／唱盤"
+      "category": "黑膠／唱盤",
+      "articleType": "其他"
     },
     {
       "source": "What Hi-Fi?",
@@ -111,7 +121,8 @@
       "author": "",
       "description": "Discover the latest content written by Alastair Stevenson, Editor in Chief at What Hi-Fi?.",
       "image": "https://cdn.mos.cms.futurecdn.net/FwaQJGoBFJFRYcvVVwhtrF.jpg",
-      "category": "其他音訊"
+      "category": "其他音訊",
+      "articleType": "其他"
     },
     {
       "source": "What Hi-Fi?",
@@ -121,7 +132,8 @@
       "author": "Harry McKerrell",
       "description": "The old ones really are the best",
       "image": "https://cdn.mos.cms.futurecdn.net/Hra8h97cYPdqpGvrM2xWd9-2560-80.jpg",
-      "category": "黑膠／唱盤"
+      "category": "黑膠／唱盤",
+      "articleType": "其他"
     },
     {
       "source": "SoundGuys",
@@ -131,7 +143,8 @@
       "author": "Ryan McNeal",
       "description": "PlayStation has revealed when its Pulse Elevate wireless speakers will become available and when you'll be able to pre-order.",
       "image": "https://www.soundguys.com/wp-content/uploads/2026/08/Sony-Pulse-Elevate-speakers.jpg",
-      "category": "喇叭"
+      "category": "喇叭",
+      "articleType": "新聞"
     },
     {
       "source": "What Hi-Fi?",
@@ -141,7 +154,8 @@
       "author": "Ioan Hazell",
       "description": "The SL-1200 55th Anniversary Edition looks as good as gold",
       "image": "https://cdn.mos.cms.futurecdn.net/UoYQmXMFKRnRBisYG8Z22N-2560-80.jpg",
-      "category": "黑膠／唱盤"
+      "category": "黑膠／唱盤",
+      "articleType": "其他"
     },
     {
       "source": "What Hi-Fi?",
@@ -151,7 +165,8 @@
       "author": "",
       "description": "Discover the latest content written by Lewis Empson, Senior Staff Writer at What Hi-Fi?.",
       "image": "",
-      "category": "其他音訊"
+      "category": "其他音訊",
+      "articleType": "其他"
     },
     {
       "source": "What Hi-Fi?",
@@ -161,7 +176,8 @@
       "author": "Joe Svetlik",
       "description": "A dead cert to arrive at the rumoured iPhone launch next month?",
       "image": "https://cdn.mos.cms.futurecdn.net/ip4jh9hJ9ZCXZBKtoWSqXW-610-80.jpg",
-      "category": "耳塞／真無線"
+      "category": "耳機",
+      "articleType": "新聞"
     },
     {
       "source": "What Hi-Fi?",
@@ -171,7 +187,8 @@
       "author": "Harry McKerrell",
       "description": "The E1.2 BT arrives alongside a ‘Phono’ edition",
       "image": "https://cdn.mos.cms.futurecdn.net/mgQ8HsPAZwU8NGMV22XKKQ-2560-80.png",
-      "category": "黑膠／唱盤"
+      "category": "黑膠／唱盤",
+      "articleType": "其他"
     },
     {
       "source": "TechRadar",
@@ -181,7 +198,8 @@
       "author": "",
       "description": "The latest Wireless & Bluetooth Speakers breaking news, comment, reviews and features from the experts at TechRadar",
       "image": "",
-      "category": "喇叭"
+      "category": "喇叭",
+      "articleType": "評測"
     },
     {
       "source": "Tom's Guide",
@@ -191,7 +209,8 @@
       "author": "",
       "description": "The Marshall Stockwell III is a beautiful portable speaker that can get very loud, and it boasts meaty bass and bright treble. It also packs a 40-hour battery.",
       "image": "https://cdn.mos.cms.futurecdn.net/9bzmRUT3eRzPgjBmwSYNgC-2000-80.jpg",
-      "category": "喇叭"
+      "category": "喇叭",
+      "articleType": "評測"
     },
     {
       "source": "What Hi-Fi?",
@@ -201,7 +220,8 @@
       "author": "",
       "description": "The smallest speakers in Dali’s entry level range, the Sonik 1, punch well above their weight.",
       "image": "https://cdn.mos.cms.futurecdn.net/sKQkMaPNjKUeZHD5FCK7WY-1920-80.jpg",
-      "category": "喇叭"
+      "category": "喇叭",
+      "articleType": "評測"
     },
     {
       "source": "What Hi-Fi?",
@@ -211,7 +231,8 @@
       "author": "Joe Svetlik",
       "description": "We love physical media but it's not always the best version",
       "image": "https://cdn.mos.cms.futurecdn.net/ueRwruTULHfTbnxTQCQhHT-2560-80.jpg",
-      "category": "黑膠／唱盤"
+      "category": "黑膠／唱盤",
+      "articleType": "其他"
     },
     {
       "source": "What Hi-Fi?",
@@ -221,7 +242,8 @@
       "author": "Ioan Hazell",
       "description": "The Silver Series 8G consists of seven models for hi-fi and home cinema systems",
       "image": "https://cdn.mos.cms.futurecdn.net/6EVSG2ZG2SrxTpB8DbdQK6-2560-80.jpg",
-      "category": "喇叭"
+      "category": "喇叭",
+      "articleType": "其他"
     },
     {
       "source": "What Hi-Fi?",
@@ -231,7 +253,8 @@
       "author": "Alastair Stevenson",
       "description": "All the biggest hi-fi and home cinema news, explained by our experts",
       "image": "https://cdn.mos.cms.futurecdn.net/i3rKcvqnkg4yrnB9BH54he-1920-80.jpg",
-      "category": "DAC／擴大機"
+      "category": "DAC／擴大機",
+      "articleType": "新聞"
     },
     {
       "source": "Tom's Guide",
@@ -241,7 +264,8 @@
       "author": "Ashley Thieme",
       "description": "Everyone needs open-earbuds, but you don’t have to spend big bucks",
       "image": "https://cdn.mos.cms.futurecdn.net/HedS42fRmsmCGB8DQY2JK4-2000-80.jpg",
-      "category": "耳塞／真無線"
+      "category": "耳機",
+      "articleType": "其他"
     },
     {
       "source": "What Hi-Fi?",
@@ -251,7 +275,8 @@
       "author": "",
       "description": "Topping Audio’s D900 brings cutting-edge conversion technology and an unusually fluid sonic presentation to the premium DAC market.",
       "image": "https://cdn.mos.cms.futurecdn.net/SYhukfP6nem2bwKUsCorkb-1920-80.jpg",
-      "category": "DAC／擴大機"
+      "category": "DAC／擴大機",
+      "articleType": "其他"
     },
     {
       "source": "What Hi-Fi?",
@@ -261,7 +286,8 @@
       "author": "Kashfia Kabir",
       "description": "The newly launched, just-reviewed CD 70 marks a new chapter for Marantz CD players",
       "image": "https://cdn.mos.cms.futurecdn.net/N6bhjsZqY36ZJnG5jGtuLM-1920-80.jpg",
-      "category": "其他音訊"
+      "category": "其他音訊",
+      "articleType": "新聞"
     },
     {
       "source": "What Hi-Fi?",
@@ -271,7 +297,8 @@
       "author": "",
       "description": "Discover the latest content written by Kashfia Kabir, Hi-Fi and Audio Editor at What Hi-Fi?.",
       "image": "https://cdn.mos.cms.futurecdn.net/W5LyjQLnpURpF8S2awFAXm.jpg",
-      "category": "其他音訊"
+      "category": "其他音訊",
+      "articleType": "其他"
     },
     {
       "source": "What Hi-Fi?",
@@ -281,7 +308,8 @@
       "author": "Andy Madden",
       "description": "How fast can you find them?",
       "image": "https://cdn.mos.cms.futurecdn.net/NKWSrFmh9DrdbWAjzuZTsF-1920-80.jpg",
-      "category": "黑膠／唱盤"
+      "category": "黑膠／唱盤",
+      "articleType": "其他"
     },
     {
       "source": "What Hi-Fi?",
@@ -291,7 +319,8 @@
       "author": "Lewis Empson",
       "description": "ANC is getting a significant upgrade this year",
       "image": "https://cdn.mos.cms.futurecdn.net/TYAQCe2ALEjSE7dHb9Tb24-1028-80.jpg",
-      "category": "耳塞／真無線"
+      "category": "耳機",
+      "articleType": "其他"
     },
     {
       "source": "What Hi-Fi?",
@@ -301,7 +330,8 @@
       "author": "",
       "description": "The Luna 2 makes a memorable impression in a field dominated by JBL rivals",
       "image": "https://cdn.mos.cms.futurecdn.net/jFHmMJSznmycJiD8VjxmgL-1920-80.jpg",
-      "category": "喇叭"
+      "category": "喇叭",
+      "articleType": "其他"
     },
     {
       "source": "What Hi-Fi?",
@@ -311,7 +341,8 @@
       "author": "Daniel Furn",
       "description": "We are big fans of 2026’s tech so far, but it’s their predecessors that are in the performance-per-pound sweet spot",
       "image": "https://cdn.mos.cms.futurecdn.net/LC23hfpGfE7zESFbqnSfAX-1366-80.png",
-      "category": "其他音訊"
+      "category": "其他音訊",
+      "articleType": "其他"
     },
     {
       "source": "What Hi-Fi?",
@@ -321,7 +352,8 @@
       "author": "Daniel Furn",
       "description": "Get through this extreme heat with some Xtreme sound",
       "image": "https://cdn.mos.cms.futurecdn.net/jfJdkpFRUiYbHbxHZBhrw3-2560-80.jpg",
-      "category": "喇叭"
+      "category": "喇叭",
+      "articleType": "其他"
     },
     {
       "source": "Tom's Guide",
@@ -331,7 +363,8 @@
       "author": "",
       "description": "The Bluesound Pulse Cinema is a pretty pricey all-in-one soundbar, but has great bass, great music performance, and great buildability.",
       "image": "https://cdn.mos.cms.futurecdn.net/GnLFxHeLq6bkj2QRVrsmif-1920-80.jpg",
-      "category": "Soundbar"
+      "category": "Soundbar",
+      "articleType": "評測"
     },
     {
       "source": "Tom's Guide",
@@ -341,7 +374,8 @@
       "author": "",
       "description": "Literal spy buds",
       "image": "https://cdn.mos.cms.futurecdn.net/XcMP4TzW7QSE4kKZxa2nRd-1920-80.jpg",
-      "category": "耳塞／真無線"
+      "category": "耳機",
+      "articleType": "評測"
     },
     {
       "source": "SoundGuys",
@@ -351,7 +385,8 @@
       "author": "Brady Snyder",
       "description": "The Fiio DM13 and Fosi Audio Merak are two of the best CD players, and they double as USB DACs. They just can't replace your optical drive.",
       "image": "https://www.soundguys.com/wp-content/uploads/2026/07/CD-Player-7-scaled.jpg",
-      "category": "DAC／擴大機"
+      "category": "DAC／擴大機",
+      "articleType": "其他"
     },
     {
       "source": "What Hi-Fi?",
@@ -361,7 +396,8 @@
       "author": "Harry McKerrell",
       "description": "The Award-winning WF-C710N drop back to £69",
       "image": "https://cdn.mos.cms.futurecdn.net/M5pRRLvhvAkUZxwBbxmdV7-2560-80.jpg",
-      "category": "耳塞／真無線"
+      "category": "耳機",
+      "articleType": "其他"
     },
     {
       "source": "Tom's Guide",
@@ -371,7 +407,8 @@
       "author": "Will Salmon",
       "description": "Build a killer record collection with these 12 essential albums",
       "image": "https://cdn.mos.cms.futurecdn.net/rYf2wkjigccuQmg76sobmS-1920-80.jpg",
-      "category": "黑膠／唱盤"
+      "category": "黑膠／唱盤",
+      "articleType": "新聞"
     },
     {
       "source": "What Hi-Fi?",
@@ -381,7 +418,8 @@
       "author": "Ioan Hazell",
       "description": "Better late than never, or too little, too late?",
       "image": "https://cdn.mos.cms.futurecdn.net/tCMnihsYz4yCUZYu38gMV6-2155-80.jpg",
-      "category": "其他音訊"
+      "category": "其他音訊",
+      "articleType": "其他"
     },
     {
       "source": "What Hi-Fi?",
@@ -391,7 +429,8 @@
       "author": "Ioan Hazell",
       "description": "It seems like speaker designers weren't immune to millennium fever...",
       "image": "https://cdn.mos.cms.futurecdn.net/983DdKGsRcdNYSWLcB96hk-2560-80.jpg",
-      "category": "喇叭"
+      "category": "喇叭",
+      "articleType": "評測"
     },
     {
       "source": "What Hi-Fi?",
@@ -401,7 +440,8 @@
       "author": "",
       "description": "Philips’ retro Bluetooth speaker is an enjoyable blast from the past",
       "image": "https://cdn.mos.cms.futurecdn.net/pBfFJ55yZxMckSv426LqVZ-1920-80.jpg",
-      "category": "喇叭"
+      "category": "喇叭",
+      "articleType": "其他"
     },
     {
       "source": "What Hi-Fi?",
@@ -411,7 +451,8 @@
       "author": "",
       "description": "All the latest tv & home cinema best buys from What Hi-Fi?",
       "image": "",
-      "category": "其他音訊"
+      "category": "其他音訊",
+      "articleType": "其他"
     },
     {
       "source": "What Hi-Fi?",
@@ -421,7 +462,8 @@
       "author": "Ioan Hazell",
       "description": "The jazz and classical streaming service even has a three-month free trial",
       "image": "https://cdn.mos.cms.futurecdn.net/usX7E8myTSFS3xixq693To-2560-80.jpg",
-      "category": "串流播放器"
+      "category": "串流播放器",
+      "articleType": "其他"
     },
     {
       "source": "What Hi-Fi?",
@@ -431,7 +473,8 @@
       "author": "Andy Madden",
       "description": "Acronyms assemble!",
       "image": "https://cdn.mos.cms.futurecdn.net/NENcr7NVScjBG5G7aQMyR9-1920-80.jpg",
-      "category": "其他音訊"
+      "category": "其他音訊",
+      "articleType": "其他"
     },
     {
       "source": "What Hi-Fi?",
@@ -441,7 +484,8 @@
       "author": "Ioan Hazell",
       "description": "Because sometimes you’ve got to get behind the mule",
       "image": "https://cdn.mos.cms.futurecdn.net/qrU3sihRGJ766iQTFGuEZk-1717-80.jpg",
-      "category": "喇叭"
+      "category": "喇叭",
+      "articleType": "其他"
     }
   ]
 }
