@@ -1,0 +1,13 @@
+{
+  "name": "audio-content-searcher",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "fetch": "node fetch-articles.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "dayjs": "^1.11.13"
+  }
+}
