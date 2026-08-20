@@ -27,6 +27,13 @@ function category(text) {
   return '其他音訊';
 }
 
+function articleType(title, url, description='') {
+  const s = `${title} ${url} ${description}`.toLowerCase();
+  if (/\breview\b|\breviews\b|hands-on|hands on|tested|test verdict|our verdict|we test|full review/.test(s)) return '評測';
+  if (/\bnews\b|announc|launch|unveil|release|revealed|new model|new headphones|new earbuds|new speaker|coming soon|preorder|pre-order/.test(s)) return '新聞';
+  return '其他';
+}
+
 function parseDate(raw) {
   if (!raw) return null;
   const d = dayjs(raw);
@@ -115,7 +122,8 @@ async function collectSource(source) {
         author: meta.author || '',
         description: (meta.description || '').replace(/\s+/g, ' ').trim(),
         image: meta.image || '',
-        category: category(combined)
+        category: category(combined),
+        articleType: articleType(c.title, c.url, meta.description || '')
       });
     } catch (e) {
       console.warn(`Skip ${c.url}: ${e.message}`);
