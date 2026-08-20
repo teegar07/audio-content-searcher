@@ -18,8 +18,7 @@ const EXCLUDE_RE = /tv|television|laptop|phone|smartphone|camera|mattress|vpn|ga
 
 function category(text) {
   const s = text.toLowerCase();
-  if (/earbud|earbuds|airpods|iems?\b/.test(s)) return '耳塞／真無線';
-  if (/headphone|headphones/.test(s)) return '耳機';
+  if (/headphone|headphones|earbud|earbuds|airpods|iems?\b/.test(s)) return '耳機';
   if (/soundbar/.test(s)) return 'Soundbar';
   if (/speaker|speakers|subwoofer/.test(s)) return '喇叭';
   if (/turntable|vinyl|phono/.test(s)) return '黑膠／唱盤';
