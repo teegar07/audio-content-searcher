@@ -2,7 +2,7 @@ import fs from 'node:fs/promises';
 import * as cheerio from 'cheerio';
 import dayjs from 'dayjs';
 
-const DAYS = Number(process.env.DAYS || 7);
+const DAYS = Number(process.env.DAYS || 30);
 const now = dayjs();
 const cutoff = now.subtract(DAYS, 'day');
 
@@ -63,7 +63,7 @@ function extractCandidates(html, source) {
     if (!AUDIO_RE.test(text) || EXCLUDE_RE.test(title)) return;
     if (!out.has(href)) out.set(href, { title, url: href });
   });
-  return [...out.values()].slice(0, 80);
+  return [...out.values()].slice(0, 120);
 }
 
 function extractMeta(html) {
