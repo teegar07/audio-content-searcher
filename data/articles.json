@@ -1,8 +1,74 @@
 {
-  "generatedAt": "2026-08-21T02:10:49.301Z",
+  "generatedAt": "2026-08-21T23:52:14.456Z",
   "days": 30,
-  "count": 31,
+  "count": 30,
   "articles": [
+    {
+      "source": "TechRadar",
+      "title": "Apple Music will force artists to label AI music, but some users want more By Alex Blake Published 21 August 26 Apple Music will require artists to label their AI-generated music so users know what they’re getting.",
+      "url": "https://www.techradar.com/audio/apple-music/better-move-would-be-to-ban-it-apple-music-steps-up-plan-for-ai-generated-song-labels-but-some-users-think-it-doesnt-go-far-enough",
+      "publishedAt": "2026-08-21T22:00:00.000Z",
+      "author": "Alex Blake",
+      "description": "Apple Music will require artists to label their AI-generated music so users know what they’re getting.",
+      "image": "https://cdn.mos.cms.futurecdn.net/mHR88ToNSF9ZfWouuiPsLW-1920-80.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "TechRadar",
+      "title": "'We're offering gamers not just two more headsets, but two different ways to experience their games' — Audio specialist beyerdynamic announces two new, affordable wireless headsets, the MMX 100 and MMX 130",
+      "url": "https://www.techradar.com/gaming/were-offering-gamers-not-just-two-more-headsets-but-two-different-ways-to-experience-their-games-audio-specialist-beyerdynamic-announces-two-new-affordable-wireless-headsets-the-mmx-100-and-mmx-130",
+      "publishedAt": "2026-08-21T20:15:07.000Z",
+      "author": "Demi Williams",
+      "description": "German audio specialist beyerdynamic has announced two new wireless headsets, the closed-back MMX 100 wireless and the open-back MMX 130 wireless.",
+      "image": "https://cdn.mos.cms.futurecdn.net/vueyxHtUcWFWACcFGVUiwd-1920-80.jpg",
+      "category": "其他音訊",
+      "articleType": "新聞"
+    },
+    {
+      "source": "TechRadar",
+      "title": "JBL Live Beam 4 review: excellent touchscreen-equipped earbuds By Harry Padoan Published 21 August 26 These JBL earbuds have a touchscreen-fitted charging case, and they might just be my favorite model of 2026 — here’s why.",
+      "url": "https://www.techradar.com/audio/earbuds-airpods/jbl-live-beam-4-review",
+      "publishedAt": "2026-08-21T16:00:00.000Z",
+      "author": "",
+      "description": "These JBL earbuds have a touchscreen-fitted charging case, and they might just be my favorite model of 2026 — here’s why.",
+      "image": "https://cdn.mos.cms.futurecdn.net/nrgWPNtkmDArYHENz4SA2d-1920-80.jpg",
+      "category": "耳機",
+      "articleType": "評測"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Esoteric’s new T-01 turntable is “dedicated to reproducing the original master sound with breathtaking realism, musical energy and emotional depth” Ioan Hazell Published 21 August 26 The price might also take your breath away",
+      "url": "https://www.whathifi.com/hi-fi/turntables/esoterics-new-t-01-turntable-is-dedicated-to-reproducing-the-original-master-sound-with-breathtaking-realism-musical-energy-and-emotional-depth",
+      "publishedAt": "2026-08-21T15:25:15.000Z",
+      "author": "Ioan Hazell",
+      "description": "The sound might not be the only feature to take your breath away",
+      "image": "https://cdn.mos.cms.futurecdn.net/rpmyfZpuJvTiTiAnZa9TTd-1920-80.jpg",
+      "category": "黑膠／唱盤",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Quiz! Take on our turntable-themed crossword for a spin and see how quickly you can solve the clues Andy Madden Published 21 August 26 Can you secure a spot on our leaderboard?",
+      "url": "https://www.whathifi.com/hi-fi/turntables/quiz-take-on-our-turntable-themed-crossword-for-a-spin-and-see-how-quickly-you-can-solve-the-clues",
+      "publishedAt": "2026-08-21T14:20:01.000Z",
+      "author": "Andy Madden",
+      "description": "Can you guess the words from the clues?",
+      "image": "https://cdn.mos.cms.futurecdn.net/tQUYtf2VQKxdCVvjX3DGZW-1920-80.jpg",
+      "category": "黑膠／唱盤",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "What makes great sound? We asked the audio experts at Sennheiser and iconic club Fabric how they get hi-fi results in different environments The two brands have more in common than you might think...",
+      "url": "https://www.whathifi.com/headphones/what-makes-great-sound-we-asked-the-audio-experts-at-sennheiser-and-iconic-club-fabric-how-they-get-hi-fi-results-in-different-environments",
+      "publishedAt": "2026-08-21T08:43:21.000Z",
+      "author": "Joe Svetlik",
+      "description": "The two brands have more in common than you might think...",
+      "image": "https://cdn.mos.cms.futurecdn.net/mbsy4xTYGXsomFhBtYcdMV-1683-80.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
     {
       "source": "TechRadar",
       "title": "Sennheiser gives its flagship true wireless earbuds a full revamp, complete with Bluetooth 6 and replaceable batteries By Max Langridge Published 21 August 26 Clearly aiming for the wireless earbud supremacy, Sennheiser has rebuilt its flagship buds from the ground up.",
@@ -27,7 +93,7 @@
     },
     {
       "source": "What Hi-Fi?",
-      "title": "A classic R.E.M. album is getting a limited-edition vinyl upgrade Ioan Hazell Published 20 August 26 Only 5000 copies are available… I’m sorry, I'm sorry",
+      "title": "A classic R.E.M. album is getting a limited-edition vinyl upgrade By Ioan Hazell Published 20 August 26 Only 5000 copies are available… I’m sorry, I'm sorry",
       "url": "https://www.whathifi.com/hi-fi/vinyl/a-classic-r-e-m-album-is-getting-a-limited-edition-vinyl-upgrade",
       "publishedAt": "2026-08-20T15:17:33.000Z",
       "author": "Ioan Hazell",
@@ -49,18 +115,18 @@
     },
     {
       "source": "What Hi-Fi?",
-      "title": "Cambridge Audio Evo 300 review Andy Madden Published 20 August 26 Cambridge Audio’s flagship Evo 300 streaming amplifier promises serious power, but is that enough?",
+      "title": "Cambridge Audio Evo 300 By Andy Madden Published 20 August 26 Cambridge Audio’s flagship Evo 300 streaming amplifier promises serious power, but is that enough?",
       "url": "https://www.whathifi.com/hi-fi/stereo-systems/cambridge-audio-evo-300",
       "publishedAt": "2026-08-20T13:49:28.000Z",
       "author": "",
       "description": "Cambridge Audio’s flagship streaming amplifier promises serious power, but is that enough?",
       "image": "https://cdn.mos.cms.futurecdn.net/aoc6rRRbwaxjKP7WiQyfL4-1920-80.jpg",
       "category": "DAC／擴大機",
-      "articleType": "評測"
+      "articleType": "其他"
     },
     {
       "source": "What Hi-Fi?",
-      "title": "Want a speaker that can withstand rain or shine? Our experts recommend this Award-winning Bluetooth speaker, now 49% off Daniel Furn Published 20 August 26 Whether heatwaves or downpours, this JBL can handle all aspects of a UK summer",
+      "title": "Want a speaker that can withstand rain or shine? Our experts recommend this Award-winning Bluetooth speaker, now 49% off By Daniel Furn Published 20 August 26 Whether heatwaves or downpours, this JBL can handle all aspects of a UK summer",
       "url": "https://www.whathifi.com/speakers/wireless-speakers/want-a-speaker-that-can-withstand-rain-or-shine-our-experts-recommend-this-award-winning-bluetooth-speaker-now-49-percent-off",
       "publishedAt": "2026-08-20T13:08:45.000Z",
       "author": "Daniel Furn",
@@ -71,7 +137,7 @@
     },
     {
       "source": "What Hi-Fi?",
-      "title": "The vinyl revival continues! Our audio experts pick out the best turntables and some of our favourite records to spin on them By Daniel Furn Published 20 August 26 Vinyl is dead, long live vinyl 3 Comments",
+      "title": "The vinyl revival continues! Our audio experts pick out the best turntables and some of our favourite records to spin on them By Daniel Furn Published 20 August 26 Vinyl is dead, long live vinyl 4 Comments",
       "url": "https://www.whathifi.com/tv-home-cinema/blu-ray-players/the-vinyl-revival-continues-our-audio-experts-pick-out-the-best-turntables-and-some-of-our-favourite-records-to-spin-on-them",
       "publishedAt": "2026-08-20T12:20:11.000Z",
       "author": "Daniel Furn",
@@ -93,7 +159,7 @@
     },
     {
       "source": "What Hi-Fi?",
-      "title": "Dali Sonik 1 vs Bowers & Wilkins 607 S3: which standmount speakers are best for you? Two reasonably priced standmounters with different strengths",
+      "title": "Dali Sonik 1 vs Bowers & Wilkins 607 S3: which standmount speakers are best for you? By Ioan Hazell Published 20 August 26 Two reasonably priced standmounters with different strengths",
       "url": "https://www.whathifi.com/speakers/hi-fi-speakers/dali-sonik-1-vs-bowers-and-wilkins-607-s3-which-standmounter-speakers-are-best-for-you",
       "publishedAt": "2026-08-20T11:41:21.000Z",
       "author": "Ioan Hazell",
@@ -110,6 +176,17 @@
       "author": "Harry McKerrell",
       "description": "Sennheiser's Momentum 5 True Wireless have arrived",
       "image": "https://cdn.mos.cms.futurecdn.net/7YSDHbQEoGpz3pqQqtT9de-1985-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "Tom's Guide",
+      "title": "I found the 15 best Apple deals in Best Buy's massive 60th Anniversary sale — AirPods, Apple Watches, MacBooks and more",
+      "url": "https://www.tomsguide.com/sales-events/i-found-the-15-best-apple-deals-in-best-buys-massive-60th-anniversary-sale-airpods-apple-watches-macbooks-and-more",
+      "publishedAt": "2026-08-19T13:00:00.000Z",
+      "author": "Will Salmon",
+      "description": "There are massive savings to be had in Best Buy's birthday sale",
+      "image": "https://cdn.mos.cms.futurecdn.net/BXhV24KJt9zwMmGe6SeiTR-1920-80.jpg",
       "category": "耳機",
       "articleType": "其他"
     },
@@ -148,24 +225,13 @@
     },
     {
       "source": "What Hi-Fi?",
-      "title": "I have just started reviewing speakers for a living – here are three surprising lessons I’ve learned By Ioan Hazell Published 19 August 26 A newbie’s field guide to speaker testing 5 Comments",
+      "title": "I have just started reviewing speakers for a living – here are three surprising lessons I’ve learned By Ioan Hazell Published 19 August 26 A newbie’s field guide to speaker testing 6 Comments",
       "url": "https://www.whathifi.com/speakers/hi-fi-speakers/i-have-just-started-reviewing-speakers-for-a-living-here-are-three-surprising-lessons-ive-learned",
       "publishedAt": "2026-08-19T10:04:42.000Z",
       "author": "Ioan Hazell",
       "description": "A newbie’s field guide to speaker testing",
       "image": "https://cdn.mos.cms.futurecdn.net/h78xSqDLnar47Eih8j8K8B-2560-80.jpg",
       "category": "喇叭",
-      "articleType": "其他"
-    },
-    {
-      "source": "TechRadar",
-      "title": "Technics' classic SL-1200 turntable is getting a 55th anniversary edition — and the big upgrade is 'lots of gold' By Tom Bedford Published 19 August 26 The Technics SL-1200 is getting a 55th anniversary edition, with lots of gold being the main change over the base model.",
-      "url": "https://www.techradar.com/audio/technics-classic-sl-1200-turntable-is-getting-a-55th-anniversary-edition-and-the-big-upgrade-is-lots-of-gold",
-      "publishedAt": "2026-08-19T09:40:22.000Z",
-      "author": "Tom Bedford",
-      "description": "The legendary Technics SL-1200 is getting a birthday make-over with lots and lots of gold.",
-      "image": "https://cdn.mos.cms.futurecdn.net/KCuzonoN9gmfrYyuRMfb5i-2560-80.jpg",
-      "category": "黑膠／唱盤",
       "articleType": "其他"
     },
     {
@@ -202,17 +268,6 @@
       "articleType": "新聞"
     },
     {
-      "source": "What Hi-Fi?",
-      "title": "Pro-Ject adds aptX Bluetooth powers to its entry-level, plug-and-play turntable By Harry McKerrell Published 18 August 26 The E1.2 BT arrives alongside a ‘Phono’ edition",
-      "url": "https://www.whathifi.com/hi-fi/turntables/pro-ject-adds-aptx-bluetooth-powers-to-its-entry-level-plug-and-play-turntable",
-      "publishedAt": "2026-08-18T12:34:06.000Z",
-      "author": "Harry McKerrell",
-      "description": "The E1.2 BT arrives alongside a ‘Phono’ edition",
-      "image": "https://cdn.mos.cms.futurecdn.net/mgQ8HsPAZwU8NGMV22XKKQ-2560-80.png",
-      "category": "黑膠／唱盤",
-      "articleType": "其他"
-    },
-    {
       "source": "Tom's Guide",
       "title": "With its suave looks, class-leading battery life and phenomenal sound, the Marshall Stockwell III has become my go-to Bluetooth speaker By Nikita Achanta Published 18 August 26 Editor's Choice The Marshall Stockwell III is a beautiful portable speaker that can get very loud, and it boasts meaty bass and bright treble. It also packs a 40-hour battery.",
       "url": "https://www.tomsguide.com/audio/bluetooth-speakers/marshall-stockwell-iii-review",
@@ -222,39 +277,6 @@
       "image": "https://cdn.mos.cms.futurecdn.net/9bzmRUT3eRzPgjBmwSYNgC-2000-80.jpg",
       "category": "喇叭",
       "articleType": "評測"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "Dali Sonik 1 By Ioan Hazell Published 17 August 26 The smallest standmount speakers in Dali’s entry level range, the Sonik 1, punch well above their weight.",
-      "url": "https://www.whathifi.com/speakers/hi-fi-speakers/dali-sonik-1",
-      "publishedAt": "2026-08-17T16:31:01.000Z",
-      "author": "",
-      "description": "The smallest speakers in Dali’s entry level range, the Sonik 1, punch well above their weight.",
-      "image": "https://cdn.mos.cms.futurecdn.net/sKQkMaPNjKUeZHD5FCK7WY-1920-80.jpg",
-      "category": "喇叭",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "Beware: these vinyl albums are actually worse than their streaming versions By Joe Svetlik Published 17 August 26 Some are lacking entire tracks – and fans are understandably miffed 11 Comments",
-      "url": "https://www.whathifi.com/hi-fi/vinyl/beware-these-vinyl-albums-are-actually-worse-than-their-streaming-versions",
-      "publishedAt": "2026-08-17T14:01:21.000Z",
-      "author": "Joe Svetlik",
-      "description": "We love physical media but it's not always the best version",
-      "image": "https://cdn.mos.cms.futurecdn.net/ueRwruTULHfTbnxTQCQhHT-2560-80.jpg",
-      "category": "黑膠／唱盤",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "Monitor Audio updates its popular Silver range of speakers to “set a new benchmark for high-fidelity performance at its price” By Ioan Hazell Published 17 August 26 The Silver Series 8G consists of seven models for hi-fi and home cinema systems 4 Comments",
-      "url": "https://www.whathifi.com/speakers/hi-fi-speakers/monitor-audio-updates-its-popular-silver-range-of-speakers-to-set-a-new-benchmark-for-high-fidelity-performance-at-its-price",
-      "publishedAt": "2026-08-17T08:00:00.000Z",
-      "author": "Ioan Hazell",
-      "description": "The Silver Series 8G consists of seven models for hi-fi and home cinema systems",
-      "image": "https://cdn.mos.cms.futurecdn.net/6EVSG2ZG2SrxTpB8DbdQK6-2560-80.jpg",
-      "category": "喇叭",
-      "articleType": "其他"
     },
     {
       "source": "What Hi-Fi?",
@@ -276,17 +298,6 @@
       "description": "Everyone needs open-earbuds, but you don’t have to spend big bucks",
       "image": "https://cdn.mos.cms.futurecdn.net/HedS42fRmsmCGB8DQY2JK4-2000-80.jpg",
       "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "Harman Kardon Luna 2 By Becky Roberts Published 13 August 26 Harman Kardon’s new light-enhanced portable Bluetooth speaker has appealing features and design, but does its sound quality stand out from the class leaders?",
-      "url": "https://www.whathifi.com/speakers/wireless-speakers/harman-kardon-luna-2",
-      "publishedAt": "2026-08-13T15:55:53.000Z",
-      "author": "",
-      "description": "The Luna 2 makes a memorable impression in a field dominated by JBL rivals",
-      "image": "https://cdn.mos.cms.futurecdn.net/jFHmMJSznmycJiD8VjxmgL-1920-80.jpg",
-      "category": "喇叭",
       "articleType": "其他"
     },
     {
@@ -320,28 +331,6 @@
       "description": "The jazz and classical streaming service even has a three-month free trial",
       "image": "https://cdn.mos.cms.futurecdn.net/usX7E8myTSFS3xixq693To-2560-80.jpg",
       "category": "串流播放器",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "Quiz! Hi-fi fans, prove your knowledge by decoding these 11 audio file formats By Andy Madden Published 7 August 26 Acronyms assemble!",
-      "url": "https://www.whathifi.com/streaming-entertainment/music-streaming/quiz-hi-fi-fans-prove-your-knowledge-by-decoding-these-11-audio-file-formats",
-      "publishedAt": "2026-08-07T10:16:57.000Z",
-      "author": "Andy Madden",
-      "description": "Acronyms assemble!",
-      "image": "https://cdn.mos.cms.futurecdn.net/NENcr7NVScjBG5G7aQMyR9-1920-80.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "Why this distinctive 1999 album I’ve loved for 15 years is a fantastic test for your stereo speakers By Ioan Hazell Published 6 August 26 Because sometimes you’ve got to get behind the mule",
-      "url": "https://www.whathifi.com/streaming-entertainment/music-streaming/why-this-distinctive-1997-album-ive-loved-for-15-years-is-a-fantastic-test-for-your-stereo-speakers",
-      "publishedAt": "2026-08-06T15:16:23.000Z",
-      "author": "Ioan Hazell",
-      "description": "Because sometimes you’ve got to get behind the mule",
-      "image": "https://cdn.mos.cms.futurecdn.net/qrU3sihRGJ766iQTFGuEZk-1717-80.jpg",
-      "category": "喇叭",
       "articleType": "其他"
     }
   ]
