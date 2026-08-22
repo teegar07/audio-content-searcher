@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-22T03:10:01.362Z",
+  "generatedAt": "2026-08-22T23:43:10.541Z",
   "days": 30,
-  "count": 30,
+  "count": 27,
   "articles": [
     {
       "source": "TechRadar",
@@ -13,17 +13,6 @@
       "image": "https://cdn.mos.cms.futurecdn.net/mHR88ToNSF9ZfWouuiPsLW-1920-80.jpg",
       "category": "其他音訊",
       "articleType": "其他"
-    },
-    {
-      "source": "TechRadar",
-      "title": "'We're offering gamers not just two more headsets, but two different ways to experience their games' — Audio specialist beyerdynamic announces two new, affordable wireless headsets, the MMX 100 and MMX 130",
-      "url": "https://www.techradar.com/gaming/were-offering-gamers-not-just-two-more-headsets-but-two-different-ways-to-experience-their-games-audio-specialist-beyerdynamic-announces-two-new-affordable-wireless-headsets-the-mmx-100-and-mmx-130",
-      "publishedAt": "2026-08-21T20:15:07.000Z",
-      "author": "Demi Williams",
-      "description": "German audio specialist beyerdynamic has announced two new wireless headsets, the closed-back MMX 100 wireless and the open-back MMX 130 wireless.",
-      "image": "https://cdn.mos.cms.futurecdn.net/vueyxHtUcWFWACcFGVUiwd-1920-80.jpg",
-      "category": "其他音訊",
-      "articleType": "新聞"
     },
     {
       "source": "TechRadar",
@@ -115,7 +104,7 @@
     },
     {
       "source": "What Hi-Fi?",
-      "title": "Cambridge Audio Evo 300 By Andy Madden Published 20 August 26 Cambridge Audio’s flagship Evo 300 streaming amplifier promises serious power, but is that enough?",
+      "title": "Cambridge Audio Evo 300 By Andy Madden Published 20 August 26 Cambridge Audio’s flagship Evo 300 streaming amplifier promises serious power, but is that enough? 2 Comments",
       "url": "https://www.whathifi.com/hi-fi/stereo-systems/cambridge-audio-evo-300",
       "publishedAt": "2026-08-20T13:49:28.000Z",
       "author": "",
@@ -176,17 +165,6 @@
       "author": "Harry McKerrell",
       "description": "Sennheiser's Momentum 5 True Wireless have arrived",
       "image": "https://cdn.mos.cms.futurecdn.net/7YSDHbQEoGpz3pqQqtT9de-1985-80.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "Tom's Guide",
-      "title": "I found the 15 best Apple deals in Best Buy's massive 60th Anniversary sale — AirPods, Apple Watches, MacBooks and more",
-      "url": "https://www.tomsguide.com/sales-events/i-found-the-15-best-apple-deals-in-best-buys-massive-60th-anniversary-sale-airpods-apple-watches-macbooks-and-more",
-      "publishedAt": "2026-08-19T13:00:00.000Z",
-      "author": "Will Salmon",
-      "description": "There are massive savings to be had in Best Buy's birthday sale",
-      "image": "https://cdn.mos.cms.futurecdn.net/BXhV24KJt9zwMmGe6SeiTR-1920-80.jpg",
       "category": "耳機",
       "articleType": "其他"
     },
@@ -320,17 +298,6 @@
       "description": "Better late than never, or too little, too late?",
       "image": "https://cdn.mos.cms.futurecdn.net/tCMnihsYz4yCUZYu38gMV6-2155-80.jpg",
       "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "This hi-res streaming service dedicated to jazz and classical music is now available on Focal & Naim streaming products By Ioan Hazell Published 7 August 26 And you can even get a three-month free trial… yay Presto!",
-      "url": "https://www.whathifi.com/streaming-entertainment/this-hi-res-streaming-service-dedicated-to-jazz-and-classical-music-is-now-available-on-focal-and-naim-streaming-products",
-      "publishedAt": "2026-08-07T11:55:45.000Z",
-      "author": "Ioan Hazell",
-      "description": "The jazz and classical streaming service even has a three-month free trial",
-      "image": "https://cdn.mos.cms.futurecdn.net/usX7E8myTSFS3xixq693To-2560-80.jpg",
-      "category": "串流播放器",
       "articleType": "其他"
     }
   ]
