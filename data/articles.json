@@ -1,8 +1,19 @@
 {
-  "generatedAt": "2026-08-23T03:31:44.139Z",
+  "generatedAt": "2026-08-23T23:43:41.669Z",
   "days": 30,
   "count": 27,
   "articles": [
+    {
+      "source": "TechRadar",
+      "title": "Why Goldenear's hybrid T44 tower speakers somehow boast the best of powered and passive worlds By James Holland Published 23 August 26 The Goldenear T44 are both powered and passive speakers (depending on the driver and frequency you want to talk about), allowing for some truly unique blending of sound.",
+      "url": "https://www.techradar.com/audio/speakers/why-goldenears-hybrid-t44-tower-speakers-somehow-boast-the-best-of-powered-and-passive-worlds",
+      "publishedAt": "2026-08-23T15:00:00.000Z",
+      "author": "James Holland",
+      "description": "Giving new definition to hybrid speakers",
+      "image": "https://cdn.mos.cms.futurecdn.net/4h84nzbP5AGhXgkGEHxpFX-2560-80.jpg",
+      "category": "喇叭",
+      "articleType": "其他"
+    },
     {
       "source": "TechRadar",
       "title": "Apple Music will force artists to label AI music, but some users want more By Alex Blake Published 21 August 26 Apple Music will require artists to label their AI-generated music so users know what they’re getting.",
@@ -70,17 +81,6 @@
       "articleType": "其他"
     },
     {
-      "source": "TechRadar",
-      "title": "How hearing the Martin Logan ElectroMotion ESL X made me fall in love with the surpreme detail and clarity in electrostatic speakers By James Holland Published 20 August 26 One of this year's Audio Advice Live's biggest surprises is the Martin Logan ElectroMotion ESL X speakers, and their detailed sound at a somewhat reasonable price.",
-      "url": "https://www.techradar.com/audio/speakers/how-hearing-the-martin-logan-electromotion-esl-x-made-me-fall-in-love-with-and-the-surpreme-detail-and-clarity-in-electrostatic-speakers",
-      "publishedAt": "2026-08-20T19:00:00.000Z",
-      "author": "James Holland",
-      "description": "I might be an electrostatic convert",
-      "image": "https://cdn.mos.cms.futurecdn.net/tP6FNcdwCzKMdW4v67t5JX-2560-80.jpg",
-      "category": "喇叭",
-      "articleType": "其他"
-    },
-    {
       "source": "What Hi-Fi?",
       "title": "A classic R.E.M. album is getting a limited-edition vinyl upgrade By Ioan Hazell Published 20 August 26 Only 5000 copies are available… I’m sorry, I'm sorry",
       "url": "https://www.whathifi.com/hi-fi/vinyl/a-classic-r-e-m-album-is-getting-a-limited-edition-vinyl-upgrade",
@@ -104,7 +104,7 @@
     },
     {
       "source": "What Hi-Fi?",
-      "title": "Cambridge Audio Evo 300 By Andy Madden Published 20 August 26 Cambridge Audio’s flagship Evo 300 streaming amplifier promises serious power, but is that enough? 2 Comments",
+      "title": "Cambridge Audio Evo 300 By Andy Madden Published 20 August 26 Cambridge Audio’s flagship Evo 300 streaming amplifier promises serious power, but is that enough? 3 Comments",
       "url": "https://www.whathifi.com/hi-fi/stereo-systems/cambridge-audio-evo-300",
       "publishedAt": "2026-08-20T13:49:28.000Z",
       "author": "",
