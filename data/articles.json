@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-23T23:59:18.924Z",
+  "generatedAt": "2026-08-24T02:28:16.546Z",
   "days": 30,
-  "count": 27,
+  "count": 49,
   "articles": [
     {
       "source": "TechRadar",
@@ -23,6 +23,17 @@
       "description": "Apple Music will require artists to label their AI-generated music so users know what they’re getting.",
       "image": "https://cdn.mos.cms.futurecdn.net/mHR88ToNSF9ZfWouuiPsLW-1920-80.jpg",
       "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "Need cheap everyday earbuds? Skullcandy Smokin’ Buds are just $19.99 right nowMatt HorneAugust 21, 20260",
+      "url": "https://www.soundguys.com/skullcandy-smokin-buds-deal-161871/",
+      "publishedAt": "2026-08-21T16:13:20.000Z",
+      "author": "Matt Horne",
+      "description": "Skullcandy Smokin’ Buds drop to $19.99 at Amazon in every colorway, a 29% discount and matching the all-time low price.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/08/Skullcandy-Smokin-Buds-Press-Image.jpg",
+      "category": "耳機",
       "articleType": "其他"
     },
     {
@@ -81,6 +92,28 @@
       "articleType": "其他"
     },
     {
+      "source": "SoundGuys",
+      "title": "AirPods Max 2 deal knocks $120 off all five colors at AmazonMatt HorneAugust 20, 20260",
+      "url": "https://www.soundguys.com/airpods-max-2-deal-amazon-161815/",
+      "publishedAt": "2026-08-20T17:21:51.000Z",
+      "author": "Matt Horne",
+      "description": "AirPods Max 2 drop to $429 at Amazon, a 22% discount, with H2 upgrades, USB-C, and a strong 4.5-star rating.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/04/apple-airpods-max-2-hero-image-scaled.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "Deal: Sony ULT Field 3 Bluetooth speaker gets a rare 34% price dropMatt HorneAugust 20, 20260",
+      "url": "https://www.soundguys.com/sony-ult-field-3-bluetooth-speaker-deal-161805/",
+      "publishedAt": "2026-08-20T16:39:40.000Z",
+      "author": "Matt Horne",
+      "description": "Amazon slashes the Sony ULT Field 3 to its Prime Day price of $138, with big bass, rugged outdoor design, and a 4.5-star shopper rating.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2025/04/ULT-Field-3-3-scaled.jpeg",
+      "category": "喇叭",
+      "articleType": "其他"
+    },
+    {
       "source": "What Hi-Fi?",
       "title": "A classic R.E.M. album is getting a limited-edition vinyl upgrade By Ioan Hazell Published 20 August 26 Only 5000 copies are available… I’m sorry, I'm sorry",
       "url": "https://www.whathifi.com/hi-fi/vinyl/a-classic-r-e-m-album-is-getting-a-limited-edition-vinyl-upgrade",
@@ -101,6 +134,17 @@
       "image": "https://cdn.mos.cms.futurecdn.net/dr8U3yLb8PKHVUkXdyaJFZ-2000-80.jpg",
       "category": "黑膠／唱盤",
       "articleType": "評測"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "CMF's new Buds Neo earbuds might be its most tempting pair yetShimul SoodAugust 20, 20260",
+      "url": "https://www.soundguys.com/cmf-buds-neo-launch-161794/",
+      "publishedAt": "2026-08-20T14:03:24.000Z",
+      "author": "Shimul Sood",
+      "description": "CMF's new Buds Neo pack 35dB ANC, spatial audio, and up to 52 hours of battery life, all at a surprisingly affordable price.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/08/CMF-Buds-Neo-charging-case-and-earbuds-in-a-persons-ear.jpg",
+      "category": "耳機",
+      "articleType": "新聞"
     },
     {
       "source": "What Hi-Fi?",
@@ -158,6 +202,17 @@
       "articleType": "其他"
     },
     {
+      "source": "SoundGuys",
+      "title": "Sennheiser's new MOMENTUM True Wireless 5 earbuds give you more for the same priceShimul SoodAugust 20, 20260",
+      "url": "https://www.soundguys.com/sennheiser-momentum-true-wireless-5-launch-161772/",
+      "publishedAt": "2026-08-20T10:00:06.000Z",
+      "author": "Shimul Sood",
+      "description": "Sennheiser's MOMENTUM True Wireless 5 brings better ANC, clearer calls, replaceable batteries, and more. Here's how much they cost.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/08/Sennheiser-MOMENTUM-True-Wireless-5-different-colors.jpg",
+      "category": "耳機",
+      "articleType": "新聞"
+    },
+    {
       "source": "What Hi-Fi?",
       "title": "Sennheiser's flagship earbuds are back to battle Bose and Sony – and they could have an ace up their sleeve By Harry McKerrell Published 20 August 26",
       "url": "https://www.whathifi.com/headphones/wireless-earbuds/sennheisers-flagship-earbuds-are-back-to-battle-bose-and-sony-and-they-could-have-an-ace-up-their-sleeve",
@@ -167,6 +222,50 @@
       "image": "https://cdn.mos.cms.futurecdn.net/7YSDHbQEoGpz3pqQqtT9de-1985-80.jpg",
       "category": "耳機",
       "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "JBL is quietly switching its Bluetooth speakers to one appDave CarrAugust 19, 20260",
+      "url": "https://www.soundguys.com/jbl-is-quietly-switching-its-bluetooth-speakers-to-one-app-161728/",
+      "publishedAt": "2026-08-19T21:42:47.000Z",
+      "author": "Dave Carr",
+      "description": "JBL is quietly moving its portable and PartyBox speakers to the JBL One app. Here's what we know about the change so far.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/08/JBL-One-app-consolidation-1-1.jpeg",
+      "category": "喇叭",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "Amazon deal brings Sony INZONE gaming earbuds down to a record-low priceMatt HorneAugust 19, 20260",
+      "url": "https://www.soundguys.com/sony-inzone-gaming-buds-deal-161700/",
+      "publishedAt": "2026-08-19T16:42:25.000Z",
+      "author": "Matt Horne",
+      "description": "Sony INZONE Buds hit a new all-time low at Amazon: $153, down 36% from the $239.99 RRP for PS5 and PC gaming.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/04/Sony-INZONE-buds-Glass-Purple-scaled.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "The new SoundPEATS UU2 earbuds are 60% off right after launchMatt HorneAugust 19, 20260",
+      "url": "https://www.soundguys.com/soundpeats-uu2-earbuds-deal-161695/",
+      "publishedAt": "2026-08-19T15:36:32.000Z",
+      "author": "Matt Horne",
+      "description": "Amazon has already dropped the new SoundPEATS UU2 to $39.99. You get a clip-on open-ear fit, Bluetooth 6 multipoint, and a 42-hour battery.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/08/SoundPEATS-UU2-Wireless-Open-Ear-Earbuds-Press-Image.jpg",
+      "category": "耳機",
+      "articleType": "新聞"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "CMF confirms its next earbuds are the Buds Neo, launching tomorrowRyan McNealAugust 19, 20260",
+      "url": "https://www.soundguys.com/cmf-buds-3-teaser-161554/",
+      "publishedAt": "2026-08-19T15:04:02.000Z",
+      "author": "Ryan McNeal",
+      "description": "CMF has shared a brand new teaser for its next major product launch. The teaser hints at a third-gen version of the CMF Buds.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/08/CMF-earbud-teaser-2.jpg",
+      "category": "耳機",
+      "articleType": "新聞"
     },
     {
       "source": "What Hi-Fi?",
@@ -224,6 +323,17 @@
       "articleType": "其他"
     },
     {
+      "source": "SoundGuys",
+      "title": "PlayStation's Pulse Elevate speakers finally have a release dateRyan McNealAugust 18, 20260",
+      "url": "https://www.soundguys.com/playstation-pulse-elevate-launch-date-161630/",
+      "publishedAt": "2026-08-18T18:53:42.000Z",
+      "author": "Ryan McNeal",
+      "description": "PlayStation has revealed when its Pulse Elevate wireless speakers will become available and when you'll be able to pre-order.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/08/Sony-Pulse-Elevate-speakers.jpg",
+      "category": "喇叭",
+      "articleType": "新聞"
+    },
+    {
       "source": "What Hi-Fi?",
       "title": "Technics is celebrating 55 years of its legendary SL-1200 turntable with a limited-edition design By Ioan Hazell Published 18 August 26 The SL-1200 55th Anniversary Edition looks as good as gold",
       "url": "https://www.whathifi.com/hi-fi/turntables/technics-is-celebrating-55-years-of-its-legendary-sl-1200-turntable-with-a-limited-edition-design",
@@ -232,6 +342,17 @@
       "description": "The SL-1200 55th Anniversary Edition looks as good as gold",
       "image": "https://cdn.mos.cms.futurecdn.net/UoYQmXMFKRnRBisYG8Z22N-2560-80.jpg",
       "category": "黑膠／唱盤",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "Record price drop: Marshall Stanmore III falls to $199.99 with a 50% Amazon discountMatt HorneAugust 18, 20260",
+      "url": "https://www.soundguys.com/marshall-stanmore-iii-bluetooth-speaker-deal-161619/",
+      "publishedAt": "2026-08-18T15:37:30.000Z",
+      "author": "Matt Horne",
+      "description": "The Stanmore III Bluetooth speaker is down to half price for the first time at Amazon, with a 4.6-star rating and classic amp-style design.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/08/Marshall-Stanmore-III-Bluetooth-Speaker-Press-Image.jpg",
+      "category": "喇叭",
       "articleType": "其他"
     },
     {
@@ -246,6 +367,17 @@
       "articleType": "新聞"
     },
     {
+      "source": "SoundGuys",
+      "title": "A mysterious new Sonos soundbar just surfaced ahead of launchShimul SoodAugust 18, 20260",
+      "url": "https://www.soundguys.com/new-sonos-soundbar-fcc-listing-161599/",
+      "publishedAt": "2026-08-18T07:05:34.000Z",
+      "author": "Shimul Sood",
+      "description": "Sonos' mysterious S59 Gambit soundbar has surfaced in a FCC filing and could launch as soon as September alongside the Ace Ultra headphones.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2024/06/Sonos-Arc-Soundbar-Logo-Close-Up-On-Table-scaled-e1739560919962.jpg",
+      "category": "耳機",
+      "articleType": "新聞"
+    },
+    {
       "source": "Tom's Guide",
       "title": "With its suave looks, class-leading battery life and phenomenal sound, the Marshall Stockwell III has become my go-to Bluetooth speaker By Nikita Achanta Published 18 August 26 Editor's Choice The Marshall Stockwell III is a beautiful portable speaker that can get very loud, and it boasts meaty bass and bright treble. It also packs a 40-hour battery.",
       "url": "https://www.tomsguide.com/audio/bluetooth-speakers/marshall-stockwell-iii-review",
@@ -255,6 +387,28 @@
       "image": "https://cdn.mos.cms.futurecdn.net/9bzmRUT3eRzPgjBmwSYNgC-2000-80.jpg",
       "category": "喇叭",
       "articleType": "評測"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "This 4.6-star Ultimate Ears Miniroll speaker is back to its $49.99 lowMatt HorneAugust 17, 20260",
+      "url": "https://www.soundguys.com/ultimate-ears-miniroll-speaker-deal-161541/",
+      "publishedAt": "2026-08-17T15:39:18.000Z",
+      "author": "Matt Horne",
+      "description": "Need a tiny outdoor speaker? The 4.6-star Ultimate Ears Miniroll drops to $49.99 with 38% off and IP67 water resistance.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2024/09/UE-Miniroll_10-scaled.jpeg",
+      "category": "喇叭",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "SHOKZ OpenDots 2 deal cuts $30 off the new clip-on open-ear earbudsMatt HorneAugust 17, 20260",
+      "url": "https://www.soundguys.com/shokz-opendots-2-deal-161538/",
+      "publishedAt": "2026-08-17T14:46:07.000Z",
+      "author": "Matt Horne",
+      "description": "The SHOKZ OpenDots 2 hit a record-low $169.95 on Amazon, marking the first 15% price drop on these premium open-ear earbuds.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/06/wearing-shokz-opendots-2-scaled-e1780530831648.jpg",
+      "category": "耳機",
+      "articleType": "其他"
     },
     {
       "source": "What Hi-Fi?",
@@ -290,6 +444,39 @@
       "articleType": "其他"
     },
     {
+      "source": "SoundGuys",
+      "title": "The fan-favorite JBL Go 5 speaker is down to $44.95 on AmazonMatt HorneAugust 13, 20260",
+      "url": "https://www.soundguys.com/jbl-go-5-speaker-deal-161377/",
+      "publishedAt": "2026-08-13T15:38:48.000Z",
+      "author": "Matt Horne",
+      "description": "JBL Go 5 drops to its lowest price at Amazon, with 18% off a tiny speaker that sounds bigger than it looks.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/04/JBL-Go-5-2-scaled.jpeg",
+      "category": "喇叭",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "The Ozlo Sleepbuds 2 are the most comfortable sleep earbuds I've tried, but they'll cost youAdam BirneyAugust 13, 202607.6",
+      "url": "https://www.soundguys.com/ozlo-sleepbuds-2-review-161143/",
+      "publishedAt": "2026-08-13T09:00:00.000Z",
+      "author": "Adam Birney",
+      "description": "The Ozlo Sleepbuds 2 review: Fix the original's worst habits and last all night, but $279 buys you no ANC. Here's who should still buy them",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/08/ozlo-sleepbuds-2-open-case-scaled.jpg",
+      "category": "耳機",
+      "articleType": "評測"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "This highly rated Beats Pill deal cuts the portable speaker to just $99.95Matt HorneAugust 12, 20260",
+      "url": "https://www.soundguys.com/beats-pill-deal-161344/",
+      "publishedAt": "2026-08-12T17:46:46.000Z",
+      "author": "Matt Horne",
+      "description": "Save 33% on the Beats Pill at Amazon and grab this 4.7-star Bluetooth speaker with a 24-hour battery at a great price.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2024/07/Beats-Pill-on-a-table-next-to-plants.jpg",
+      "category": "喇叭",
+      "articleType": "其他"
+    },
+    {
       "source": "What Hi-Fi?",
       "title": "Spotify is finally doing something to combat AI music, but is it enough? By Ioan Hazell Published 12 August 26 Better late than never, or too little, too late?",
       "url": "https://www.whathifi.com/streaming-entertainment/spotify-is-finally-doing-something-to-combat-ai-music-but-is-it-enough",
@@ -299,6 +486,61 @@
       "image": "https://cdn.mos.cms.futurecdn.net/tCMnihsYz4yCUZYu38gMV6-2155-80.jpg",
       "category": "其他音訊",
       "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "Why I stopped worrying about my Bluetooth speaker battery lifeDave CarrAugust 11, 20260",
+      "url": "https://www.soundguys.com/why-i-stopped-worrying-about-my-bluetooth-speaker-battery-life-161092/",
+      "publishedAt": "2026-08-11T09:00:07.000Z",
+      "author": "Dave Carr",
+      "description": "Bluetooth speaker battery life rarely matches the number on the box. After testing dozens of speakers, I’ve stopped worrying about it.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/08/Bluetooth-Battery-Feature-1-scaled.jpeg",
+      "category": "喇叭",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "Creative’s new $180 XF1 speakers undercut studio monitors with Hi-Res wireless audio and LDACAamir SiddiquiAugust 6, 20260",
+      "url": "https://www.soundguys.com/creative-xf1-desktop-speakers-161076/",
+      "publishedAt": "2026-08-06T12:27:01.000Z",
+      "author": "Aamir Siddiqui",
+      "description": "Creative's $180 XF1 desktop speakers challenge studio monitors with 72W RMS output, Hi-Res wireless audio, and LDAC support.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/08/Creative-XF1.jpg",
+      "category": "喇叭",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "Why I stopped looking for the perfect Bluetooth speakerDave CarrAugust 6, 20260",
+      "url": "https://www.soundguys.com/why-i-stopped-looking-for-the-perfect-bluetooth-speaker-160862/",
+      "publishedAt": "2026-08-06T09:00:33.000Z",
+      "author": "Dave Carr",
+      "description": "Every portable Bluetooth speaker makes compromises. Here's how to choose the trade-offs that matter most to you.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/07/Bluetooth-speaker-buying-guide-feature-hero-1-scaled.jpeg",
+      "category": "喇叭",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "Deal: The compact Klipsch Flexus Core 100 soundbar hits one of its best prices everMatt HorneJuly 31, 20260",
+      "url": "https://www.soundguys.com/klipsch-flexus-core-100-soundbar-deal-160847/",
+      "publishedAt": "2026-07-31T15:48:44.000Z",
+      "author": "Matt Horne",
+      "description": "Klipsch Flexus Core 100 drops to one of its best prices ever, with a 31% discount on a compact Dolby Atmos soundbar offering strong bass.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/07/Klipsch-Flexus-Core-100-Soundbar-Press-Image.jpg",
+      "category": "Soundbar",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "These luxury KEF Hi-Fi speakers are built to impress your ears and your eyesShimul SoodJuly 30, 20260",
+      "url": "https://www.soundguys.com/kef-ls-luxe-wireless-speakers-launch-160785/",
+      "publishedAt": "2026-07-30T13:53:18.000Z",
+      "author": "Shimul Sood",
+      "description": "KEF's $4000 LS LUXE blends luxury design with flagship wireless Hi-Fi audio and modern streaming features.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/07/KEF-LS-LUXE-in-living-room.jpg",
+      "category": "喇叭",
+      "articleType": "新聞"
     }
   ]
 }
