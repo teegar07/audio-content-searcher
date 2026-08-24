@@ -7,10 +7,10 @@ const now = dayjs();
 const cutoff = now.subtract(DAYS, 'day');
 
 const sources = [
-  { name: 'What Hi-Fi?', url: 'https://www.whathifi.com/', hosts: ['www.whathifi.com'] },
-  { name: 'TechRadar', url: 'https://www.techradar.com/audio', hosts: ['www.techradar.com'] },
-  { name: 'SoundGuys', url: 'https://www.soundguys.com/', hosts: ['www.soundguys.com'] },
-  { name: "Tom's Guide", url: 'https://www.tomsguide.com/audio', hosts: ['www.tomsguide.com'] }
+  { name: 'What Hi-Fi?', urls: ['https://www.whathifi.com/'], hosts: ['www.whathifi.com'] },
+  { name: 'TechRadar', urls: ['https://www.techradar.com/audio'], hosts: ['www.techradar.com'] },
+  { name: 'SoundGuys', urls: ['https://www.soundguys.com/earbuds-headphones/','https://www.soundguys.com/speakers/','https://www.soundguys.com/news/','https://www.soundguys.com/reviews/'], hosts: ['www.soundguys.com'], soundguys: true },
+  { name: "Tom's Guide", urls: ['https://www.tomsguide.com/audio'], hosts: ['www.tomsguide.com'] }
 ];
 
 const AUDIO_RE = /headphone|headphones|earbud|earbuds|airpods|speaker|speakers|bluetooth|audio|hi-fi|hifi|dac|amplifier|amp\b|turntable|vinyl|soundbar|receiver|streamer|stereo|subwoofer|iems?\b|music/i;
@@ -28,9 +28,9 @@ function category(text) {
   return '其他音訊';
 }
 
-function articleType(title, url, description='') {
+function articleType(title, url, description='', sourceName='') {
   const s = `${title} ${url} ${description}`.toLowerCase();
-  if (/\breview\b|\breviews\b|hands-on|hands on|tested|test verdict|our verdict|we test|full review/.test(s)) return '評測';
+  if (/\breview\b|\breviews\b|hands-on|hands on|tested|test verdict|our verdict|we test|full review|i tested/.test(s)) return '評測';
   if (/\bnews\b|announc|launch|unveil|release|revealed|new model|new headphones|new earbuds|new speaker|coming soon|preorder|pre-order|leak|confirms|debut/.test(s)) return '新聞';
   return '其他';
 }
@@ -45,14 +45,15 @@ function sameHost(link, hosts) {
   try { return hosts.includes(new URL(link).host); } catch { return false; }
 }
 
-function looksLikeArticleUrl(link) {
+function looksLikeArticleUrl(link, source) {
   try {
     const u = new URL(link);
     const path = u.pathname.replace(/\/$/, '') || '/';
     if (NON_ARTICLE_PATH_RE.test(`${path}/`) || NON_ARTICLE_PATH_RE.test(path)) return false;
     const parts = path.split('/').filter(Boolean);
-    if (parts.length < 2) return false;
     const last = parts.at(-1) || '';
+    if (source?.soundguys) return /^.+-\d{4,}$/.test(last);
+    if (parts.length < 2) return false;
     return last.length >= 12 && /-/.test(last);
   } catch { return false; }
 }
@@ -68,21 +69,21 @@ async function fetchText(url) {
   return await res.text();
 }
 
-function extractCandidates(html, source) {
+function extractCandidates(html, source, baseUrl) {
   const $ = cheerio.load(html);
   const out = new Map();
   $('a[href]').each((_, el) => {
     const a = $(el);
     const title = a.text().replace(/\s+/g, ' ').trim();
-    if (title.length < 25) return;
+    if (title.length < 20) return;
     let href;
-    try { href = new URL(a.attr('href'), source.url).href.split('#')[0]; } catch { return; }
-    if (!sameHost(href, source.hosts) || !looksLikeArticleUrl(href)) return;
+    try { href = new URL(a.attr('href'), baseUrl).href.split('#')[0]; } catch { return; }
+    if (!sameHost(href, source.hosts) || !looksLikeArticleUrl(href, source)) return;
     const text = `${title} ${href}`;
     if (!AUDIO_RE.test(text) || EXCLUDE_RE.test(title)) return;
     if (!out.has(href)) out.set(href, { title, url: href });
   });
-  return [...out.values()].slice(0, 120);
+  return [...out.values()];
 }
 
 function extractMeta(html) {
@@ -94,7 +95,7 @@ function extractMeta(html) {
     }
     return '';
   };
-  let date = get('meta[property="article:published_time"]','meta[name="pub_date"]','meta[name="parsely-pub-date"]','time[datetime]');
+  let date = get('meta[property="article:published_time"]','meta[name="pub_date"]','meta[name="parsely-pub-date"]','meta[name="date"]','time[datetime]');
   let image = get('meta[property="og:image"]','meta[name="twitter:image"]');
   let description = get('meta[property="og:description"]','meta[name="description"]');
   let author = get('meta[name="author"]');
@@ -118,22 +119,32 @@ function extractMeta(html) {
   return { date, image, description, author, pageType, schemaTypes };
 }
 
-function hasArticleMetadata(meta) {
+function hasArticleMetadata(meta, source) {
   const types = meta.schemaTypes.map(String).join(' ').toLowerCase();
-  return meta.pageType.toLowerCase() === 'article' || /article|newsarticle|review|reportage/.test(types);
+  if (meta.pageType.toLowerCase() === 'article' || /article|newsarticle|review|reportage/.test(types)) return true;
+  // SoundGuys article pages reliably expose publication dates even when article schema varies.
+  return Boolean(source?.soundguys && meta.date);
 }
 
 async function collectSource(source) {
-  console.log(`Fetching ${source.name}: ${source.url}`);
-  const listing = await fetchText(source.url);
-  const candidates = extractCandidates(listing, source);
+  console.log(`Fetching ${source.name}`);
+  const candidateMap = new Map();
+  for (const listingUrl of source.urls) {
+    try {
+      const listing = await fetchText(listingUrl);
+      for (const c of extractCandidates(listing, source, listingUrl)) candidateMap.set(c.url, c);
+    } catch (e) {
+      console.warn(`Listing failed ${listingUrl}: ${e.message}`);
+    }
+  }
+  const candidates = [...candidateMap.values()].slice(0, 160);
   console.log(`${source.name}: ${candidates.length} candidate article URLs`);
   const articles = [];
   for (const c of candidates) {
     try {
       const html = await fetchText(c.url);
       const meta = extractMeta(html);
-      if (!hasArticleMetadata(meta)) continue;
+      if (!hasArticleMetadata(meta, source)) continue;
       const d = parseDate(meta.date);
       if (!d || d.isBefore(cutoff) || d.isAfter(now.add(1, 'day'))) continue;
       const combined = `${c.title} ${meta.description || ''}`;
@@ -147,7 +158,7 @@ async function collectSource(source) {
         description: (meta.description || '').replace(/\s+/g, ' ').trim(),
         image: meta.image || '',
         category: category(combined),
-        articleType: articleType(c.title, c.url, meta.description || '')
+        articleType: articleType(c.title, c.url, meta.description || '', source.name)
       });
     } catch (e) {
       console.warn(`Skip ${c.url}: ${e.message}`);
