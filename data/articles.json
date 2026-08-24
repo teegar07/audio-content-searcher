@@ -1,8 +1,52 @@
 {
-  "generatedAt": "2026-08-24T03:35:04.022Z",
+  "generatedAt": "2026-08-24T23:48:44.749Z",
   "days": 30,
-  "count": 49,
+  "count": 47,
   "articles": [
+    {
+      "source": "SoundGuys",
+      "title": "Shokz's new OpenFit Air 2 open-ear earbuds might finally solve fit fatigueA light 7.2g design with a nickel-titanium frame promise to deliver comfort without ear canal fatigue.Aamir Siddiqui",
+      "url": "https://www.soundguys.com/shokz-openfit-air-2-launch-161931/",
+      "publishedAt": "2026-08-24T15:30:13.000Z",
+      "author": "Aamir Siddiqui",
+      "description": "Shokz has announced the ultra-light OpenFit Air 2 open-ear earbuds with Bluetooth 6.1, improved bass, pressure controls, and more.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/08/Shokz-OpenFit-Air-2_4.jpg",
+      "category": "耳機",
+      "articleType": "新聞"
+    },
+    {
+      "source": "TechRadar",
+      "title": "'I'm embracing it': Dr Dre outs himself as a pro-AI producer By Tom Bedford Published 24 August 26 Dr. Dre has admitted he uses AI in his music producing, despite most music streaming services trying to ban the stuff.",
+      "url": "https://www.techradar.com/ai-platforms-assistants/im-embracing-it-dr-dre-defends-ai-music-and-compares-it-to-synths-despite-most-streaming-services-ousting-slop-from-their-libraries",
+      "publishedAt": "2026-08-24T13:52:54.000Z",
+      "author": "Tom Bedford",
+      "description": "Dr. Dre has admitted he uses AI in his music producing, despite most music streaming services trying to ban the stuff.",
+      "image": "https://cdn.mos.cms.futurecdn.net/UVNxuGjYyv6pUpS9AdXSnS-2000-80.jpg",
+      "category": "串流播放器",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "iFi iDSD GR 2 review Harry McKerrell Published 24 August 26 The portable and premium iDSD GR 2 DAC promises to give your music listening a boost at home or on the go, boasting plenty of connections.",
+      "url": "https://www.whathifi.com/hi-fi/dacs/ifi-idsd-gr-2",
+      "publishedAt": "2026-08-24T13:19:23.000Z",
+      "author": "",
+      "description": "The portable and premium iDSD GR 2 DAC promises to give your music listening a boost at home or on the go, boasting plenty of connections.",
+      "image": "https://cdn.mos.cms.futurecdn.net/8ir3gZseaTQdYgac7wxUYo-1920-80.jpg",
+      "category": "DAC／擴大機",
+      "articleType": "評測"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Bogus vinyl, “talented and adaptable speakers”, a special-edition Technics turntable and more Alastair Stevenson Published 24 August 26 All the top hi-fi and home cinema stories explained by our experts",
+      "url": "https://www.whathifi.com/av/bogus-vinyl-talented-and-adaptable-speakers-a-special-edition-technics-turntable-and-more",
+      "publishedAt": "2026-08-24T07:00:00.000Z",
+      "author": "Alastair Stevenson",
+      "description": "All the top hi-fi and home cinema stories explained by our experts",
+      "image": "https://cdn.mos.cms.futurecdn.net/5F6JcE5LCXjWtH9LFWMrGJ-1920-80.jpg",
+      "category": "喇叭",
+      "articleType": "其他"
+    },
     {
       "source": "TechRadar",
       "title": "Why Goldenear's hybrid T44 tower speakers somehow boast the best of powered and passive worlds By James Holland Published 23 August 26 The Goldenear T44 are both powered and passive speakers (depending on the driver and frequency you want to talk about), allowing for some truly unique blending of sound.",
@@ -49,7 +93,7 @@
     },
     {
       "source": "What Hi-Fi?",
-      "title": "Esoteric’s new T-01 turntable is “dedicated to reproducing the original master sound with breathtaking realism, musical energy and emotional depth” Ioan Hazell Published 21 August 26 The price might also take your breath away",
+      "title": "Esoteric’s new T-01 turntable is “dedicated to reproducing the original master sound with breathtaking realism, musical energy and emotional depth” By Ioan Hazell Published 21 August 26 The price might also take your breath away",
       "url": "https://www.whathifi.com/hi-fi/turntables/esoterics-new-t-01-turntable-is-dedicated-to-reproducing-the-original-master-sound-with-breathtaking-realism-musical-energy-and-emotional-depth",
       "publishedAt": "2026-08-21T15:25:15.000Z",
       "author": "Ioan Hazell",
@@ -60,7 +104,7 @@
     },
     {
       "source": "What Hi-Fi?",
-      "title": "Quiz! Take on our turntable-themed crossword for a spin and see how quickly you can solve the clues Andy Madden Published 21 August 26 Can you secure a spot on our leaderboard?",
+      "title": "Quiz! Take on our turntable-themed crossword for a spin and see how quickly you can solve the clues By Andy Madden Published 21 August 26 Can you secure a spot on our leaderboard?",
       "url": "https://www.whathifi.com/hi-fi/turntables/quiz-take-on-our-turntable-themed-crossword-for-a-spin-and-see-how-quickly-you-can-solve-the-clues",
       "publishedAt": "2026-08-21T14:20:01.000Z",
       "author": "Andy Madden",
@@ -71,24 +115,13 @@
     },
     {
       "source": "What Hi-Fi?",
-      "title": "What makes great sound? We asked the audio experts at Sennheiser and iconic club Fabric how they get hi-fi results in different environments The two brands have more in common than you might think...",
+      "title": "What makes great sound? We asked the audio experts at Sennheiser and iconic club Fabric how they get hi-fi results in different environments By Joe Svetlik Published 21 August 26",
       "url": "https://www.whathifi.com/headphones/what-makes-great-sound-we-asked-the-audio-experts-at-sennheiser-and-iconic-club-fabric-how-they-get-hi-fi-results-in-different-environments",
       "publishedAt": "2026-08-21T08:43:21.000Z",
       "author": "Joe Svetlik",
       "description": "The two brands have more in common than you might think...",
       "image": "https://cdn.mos.cms.futurecdn.net/mbsy4xTYGXsomFhBtYcdMV-1683-80.jpg",
       "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "TechRadar",
-      "title": "Sennheiser gives its flagship true wireless earbuds a full revamp, complete with Bluetooth 6 and replaceable batteries By Max Langridge Published 21 August 26 Clearly aiming for the wireless earbud supremacy, Sennheiser has rebuilt its flagship buds from the ground up.",
-      "url": "https://www.techradar.com/audio/earbuds-airpods/sennheiser-gives-its-flagship-true-wireless-earbuds-a-full-revamp-complete-with-bluetooth-6-and-replaceable-batteries",
-      "publishedAt": "2026-08-21T01:16:43.000Z",
-      "author": "Max Langridge",
-      "description": "Clearly aiming for the wireless earbud supremacy, Sennheiser has rebuilt its flagship buds from the ground up.",
-      "image": "https://cdn.mos.cms.futurecdn.net/a6hH4xeci4tapmcWhbrWEd-1920-80.jpg",
-      "category": "耳機",
       "articleType": "其他"
     },
     {
@@ -269,7 +302,7 @@
     },
     {
       "source": "What Hi-Fi?",
-      "title": "\"Music can only work if it's an intentional creation of one human, experienced by another human\" – Qobuz's MD on the future of music streaming By Robyn Quick Published 19 August 26 Dan Mackta discusses the company's fight against AI music",
+      "title": "\"Music can only work if it's an intentional creation of one human, experienced by another human\" – Qobuz's MD on the future of music streaming By Robyn Quick Published 19 August 26 Dan Mackta discusses the company's fight against AI music 2 Comments",
       "url": "https://www.whathifi.com/streaming-entertainment/music-streaming/music-can-only-work-if-its-an-intentional-creation-of-one-human-experienced-by-another-human-qobuzs-md-on-the-future-of-music-streaming",
       "publishedAt": "2026-08-19T12:19:30.000Z",
       "author": "Robyn Quick",
@@ -280,7 +313,7 @@
     },
     {
       "source": "What Hi-Fi?",
-      "title": "From legendary turntables to cutting-edge DACs: 33 debut products that defined hi-fi history As What Hi-Fi? turns 50, we take a nostalgic walk down memory lane at some of the great early hi-fi successes that defined generations of products since.",
+      "title": "From legendary turntables to cutting-edge DACs: 33 debut products that defined hi-fi history As What Hi-Fi? turns 50, we take a nostalgic walk down memory lane at some of the great early hi-fi successes that defined generations of products since. 2 Comments",
       "url": "https://www.whathifi.com/hi-fi/from-legendary-turntables-to-cutting-edge-dacs-33-debut-products-that-defined-hi-fi-history",
       "publishedAt": "2026-08-19T12:16:07.000Z",
       "author": "Becky Roberts, Kashfia Kabir",
@@ -312,17 +345,6 @@
       "articleType": "其他"
     },
     {
-      "source": "What Hi-Fi?",
-      "title": "From Technics’ iconic turntables to JBL’s Classic standmounts – discover five of the best hi-fi product revivals By Harry McKerrell Published 19 August 26 The old ones really are the best",
-      "url": "https://www.whathifi.com/hi-fi/from-technics-iconic-turntables-to-jbls-classic-standmounts-discover-five-of-the-best-hi-fi-product-revivals",
-      "publishedAt": "2026-08-19T08:00:00.000Z",
-      "author": "Harry McKerrell",
-      "description": "The old ones really are the best",
-      "image": "https://cdn.mos.cms.futurecdn.net/Hra8h97cYPdqpGvrM2xWd9-2560-80.jpg",
-      "category": "黑膠／唱盤",
-      "articleType": "其他"
-    },
-    {
       "source": "SoundGuys",
       "title": "PlayStation's Pulse Elevate speakers finally have a release dateRyan McNealAugust 18, 20260",
       "url": "https://www.soundguys.com/playstation-pulse-elevate-launch-date-161630/",
@@ -332,17 +354,6 @@
       "image": "https://www.soundguys.com/wp-content/uploads/2026/08/Sony-Pulse-Elevate-speakers.jpg",
       "category": "喇叭",
       "articleType": "新聞"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "Technics is celebrating 55 years of its legendary SL-1200 turntable with a limited-edition design By Ioan Hazell Published 18 August 26 The SL-1200 55th Anniversary Edition looks as good as gold",
-      "url": "https://www.whathifi.com/hi-fi/turntables/technics-is-celebrating-55-years-of-its-legendary-sl-1200-turntable-with-a-limited-edition-design",
-      "publishedAt": "2026-08-18T16:00:00.000Z",
-      "author": "Ioan Hazell",
-      "description": "The SL-1200 55th Anniversary Edition looks as good as gold",
-      "image": "https://cdn.mos.cms.futurecdn.net/UoYQmXMFKRnRBisYG8Z22N-2560-80.jpg",
-      "category": "黑膠／唱盤",
-      "articleType": "其他"
     },
     {
       "source": "SoundGuys",
@@ -378,17 +389,6 @@
       "articleType": "新聞"
     },
     {
-      "source": "Tom's Guide",
-      "title": "With its suave looks, class-leading battery life and phenomenal sound, the Marshall Stockwell III has become my go-to Bluetooth speaker By Nikita Achanta Published 18 August 26 Editor's Choice The Marshall Stockwell III is a beautiful portable speaker that can get very loud, and it boasts meaty bass and bright treble. It also packs a 40-hour battery.",
-      "url": "https://www.tomsguide.com/audio/bluetooth-speakers/marshall-stockwell-iii-review",
-      "publishedAt": "2026-08-18T06:00:00.000Z",
-      "author": "",
-      "description": "The Marshall Stockwell III is a beautiful portable speaker that can get very loud, and it boasts meaty bass and bright treble. It also packs a 40-hour battery.",
-      "image": "https://cdn.mos.cms.futurecdn.net/9bzmRUT3eRzPgjBmwSYNgC-2000-80.jpg",
-      "category": "喇叭",
-      "articleType": "評測"
-    },
-    {
       "source": "SoundGuys",
       "title": "This 4.6-star Ultimate Ears Miniroll speaker is back to its $49.99 lowMatt HorneAugust 17, 20260",
       "url": "https://www.soundguys.com/ultimate-ears-miniroll-speaker-deal-161541/",
@@ -420,17 +420,6 @@
       "image": "https://cdn.mos.cms.futurecdn.net/i3rKcvqnkg4yrnB9BH54he-1920-80.jpg",
       "category": "DAC／擴大機",
       "articleType": "新聞"
-    },
-    {
-      "source": "Tom's Guide",
-      "title": "I ditched my $300 Bose earbuds this much cheaper open pair — and it’s the best choice I could have made By Ashley Thieme Published 15 August 26 After testing the £300 Bose Ultra Open Earbuds, I was left disappointed, but I switched to a cheaper pair by Beyerdynamic, and everything changed",
-      "url": "https://www.tomsguide.com/audio/earbuds/i-ditched-my-usd300-bose-earbuds-for-a-usd180-pair-and-its-the-best-choice-i-could-have-made",
-      "publishedAt": "2026-08-15T08:45:00.000Z",
-      "author": "Ashley Thieme",
-      "description": "Everyone needs open-earbuds, but you don’t have to spend big bucks",
-      "image": "https://cdn.mos.cms.futurecdn.net/HedS42fRmsmCGB8DQY2JK4-2000-80.jpg",
-      "category": "耳機",
-      "articleType": "其他"
     },
     {
       "source": "What Hi-Fi?",
@@ -518,17 +507,6 @@
       "description": "Every portable Bluetooth speaker makes compromises. Here's how to choose the trade-offs that matter most to you.",
       "image": "https://www.soundguys.com/wp-content/uploads/2026/07/Bluetooth-speaker-buying-guide-feature-hero-1-scaled.jpeg",
       "category": "喇叭",
-      "articleType": "其他"
-    },
-    {
-      "source": "SoundGuys",
-      "title": "Deal: The compact Klipsch Flexus Core 100 soundbar hits one of its best prices everMatt HorneJuly 31, 20260",
-      "url": "https://www.soundguys.com/klipsch-flexus-core-100-soundbar-deal-160847/",
-      "publishedAt": "2026-07-31T15:48:44.000Z",
-      "author": "Matt Horne",
-      "description": "Klipsch Flexus Core 100 drops to one of its best prices ever, with a 31% discount on a compact Dolby Atmos soundbar offering strong bass.",
-      "image": "https://www.soundguys.com/wp-content/uploads/2026/07/Klipsch-Flexus-Core-100-Soundbar-Press-Image.jpg",
-      "category": "Soundbar",
       "articleType": "其他"
     },
     {
