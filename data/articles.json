@@ -1,11 +1,77 @@
 {
-  "generatedAt": "2026-08-25T03:16:36.139Z",
+  "generatedAt": "2026-08-25T23:51:39.932Z",
   "days": 30,
-  "count": 47,
+  "count": 49,
   "articles": [
     {
       "source": "SoundGuys",
-      "title": "Shokz's new OpenFit Air 2 open-ear earbuds might finally solve fit fatigueA light 7.2g design with a nickel-titanium frame promise to deliver comfort without ear canal fatigue.Aamir Siddiqui",
+      "title": "Marshall drops limited edition gear as a tribute to Jimi HendrixThe lineup includes an amp stack, new Tushar Mehta",
+      "url": "https://www.soundguys.com/marshall-jimi-hendrix-limited-edition-162004/",
+      "publishedAt": "2026-08-25T18:12:56.000Z",
+      "author": "Tushar Mehta",
+      "description": "Marshall reveals limited-edition headphones, a portable speaker, and an amp-cab combo to honor 60 years of Jimi Hendrix's legendary music.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/08/jimi-hendrix-marshall-60th-anniversay-special-edition-copy.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "Best deal yet drops the new Soundcore P42i buds to $69.99Matt HorneAugust 25, 20260",
+      "url": "https://www.soundguys.com/soundcore-anker-p42i-wireless-earbuds-deal-162007/",
+      "publishedAt": "2026-08-25T16:33:41.000Z",
+      "author": "Matt Horne",
+      "description": "The new Soundcore P42i earbuds drop to their best price since launch with ANC, LDAC, and 40-hour battery life.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/08/Soundcore-Anker-P42i-Wireless-Earbuds-Press-Image.jpg",
+      "category": "耳機",
+      "articleType": "新聞"
+    },
+    {
+      "source": "TechRadar",
+      "title": "An affordable analog tube amp from an actually good audiophile brand? Christmas has come early By Carrie Marshall Published 25 August 26 Fiio's EA13 is a tube amplifier that's surprisingly affordable.",
+      "url": "https://www.techradar.com/audio/hi-fi/an-analog-tube-stereo-amp-for-under-usd800-gbp800-from-an-actually-good-audiophile-brand-oh-christmas-has-come-early",
+      "publishedAt": "2026-08-25T16:22:09.000Z",
+      "author": "Carrie Marshall",
+      "description": "Fiio's EA13 is a tube amplifier that's surprisingly affordable",
+      "image": "https://cdn.mos.cms.futurecdn.net/qBLAduJCy3Q5fHULTvXHTZ-2048-80.png",
+      "category": "DAC／擴大機",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "FiiO's retro-modern amp takes inspiration from the \"golden era of 1950s tube amplifiers\" Harry McKerrell Published 25 August 26 FiiO EA13 promises a \"classic hi-fi\" sound in a modern, feature-heavy design",
+      "url": "https://www.whathifi.com/hi-fi/stereo-amplifiers/fiios-retro-modern-amp-takes-inspiration-from-the-golden-era-of-1950s-tube-amplifiers",
+      "publishedAt": "2026-08-25T15:55:51.000Z",
+      "author": "Harry McKerrell",
+      "description": "FiiO EA13 promises a \"classic hi-fi\" sound in a modern, feature-heavy design",
+      "image": "https://cdn.mos.cms.futurecdn.net/XD6BaDmnrXQK2n3MskACkA-1120-80.jpg",
+      "category": "DAC／擴大機",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Porsche and Burmester have a new secret weapon for their car hi-fi systems, and it sounds like sci-fi Andy Madden Published 25 August 26 New tech will feature from 2027",
+      "url": "https://www.whathifi.com/hi-fi/porsche-and-burmester-have-a-new-secret-weapon-for-their-car-hi-fi-systems-and-it-sounds-like-sci-fi",
+      "publishedAt": "2026-08-25T14:57:55.000Z",
+      "author": "Andy Madden",
+      "description": "New tech will feature from 2027",
+      "image": "https://cdn.mos.cms.futurecdn.net/hdQkSjxLG7s2bFKeFHdRBS-2560-80.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Bose Lifestyle Ultra Soundbar review Robyn Quick Published 25 August 26 Bose fires another shot at the soundbar leaders.",
+      "url": "https://www.whathifi.com/tv-home-cinema/soundbars/bose-lifestyle-ultra-soundbar-solo",
+      "publishedAt": "2026-08-25T12:00:53.000Z",
+      "author": "",
+      "description": "Bose fires another shot at the soundbar leaders.",
+      "image": "https://cdn.mos.cms.futurecdn.net/HhmLD5onywoNmC84ve6Y4X-1920-80.jpg",
+      "category": "Soundbar",
+      "articleType": "評測"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "Shokz's new OpenFit Air 2 open-ear earbuds might finally solve fit fatigueAamir SiddiquiAugust 24, 20260",
       "url": "https://www.soundguys.com/shokz-openfit-air-2-launch-161931/",
       "publishedAt": "2026-08-24T15:30:13.000Z",
       "author": "Aamir Siddiqui",
@@ -27,7 +93,7 @@
     },
     {
       "source": "What Hi-Fi?",
-      "title": "iFi iDSD GR 2 review Harry McKerrell Published 24 August 26 The portable and premium iDSD GR 2 DAC promises to give your music listening a boost at home or on the go, boasting plenty of connections.",
+      "title": "iFi iDSD GR 2 review: a premium portable DAC that offers clear, composed performance iFi’s premium portable DAC offers a clear, composed performance",
       "url": "https://www.whathifi.com/hi-fi/dacs/ifi-idsd-gr-2",
       "publishedAt": "2026-08-24T13:19:23.000Z",
       "author": "",
@@ -38,7 +104,7 @@
     },
     {
       "source": "What Hi-Fi?",
-      "title": "Bogus vinyl, “talented and adaptable speakers”, a special-edition Technics turntable and more Alastair Stevenson Published 24 August 26 All the top hi-fi and home cinema stories explained by our experts",
+      "title": "Bogus vinyl, “talented and adaptable speakers”, a special-edition Technics turntable and more By Alastair Stevenson Published 24 August 26 All the top hi-fi and home cinema stories explained by our experts",
       "url": "https://www.whathifi.com/av/bogus-vinyl-talented-and-adaptable-speakers-a-special-edition-technics-turntable-and-more",
       "publishedAt": "2026-08-24T07:00:00.000Z",
       "author": "Alastair Stevenson",
@@ -93,7 +159,7 @@
     },
     {
       "source": "What Hi-Fi?",
-      "title": "Esoteric’s new T-01 turntable is “dedicated to reproducing the original master sound with breathtaking realism, musical energy and emotional depth” By Ioan Hazell Published 21 August 26 The price might also take your breath away",
+      "title": "Esoteric’s new T-01 turntable is “dedicated to reproducing the original master sound with breathtaking realism, musical energy and emotional depth” The price might also take your breath away",
       "url": "https://www.whathifi.com/hi-fi/turntables/esoterics-new-t-01-turntable-is-dedicated-to-reproducing-the-original-master-sound-with-breathtaking-realism-musical-energy-and-emotional-depth",
       "publishedAt": "2026-08-21T15:25:15.000Z",
       "author": "Ioan Hazell",
@@ -313,17 +379,6 @@
     },
     {
       "source": "What Hi-Fi?",
-      "title": "From legendary turntables to cutting-edge DACs: 33 debut products that defined hi-fi history As What Hi-Fi? turns 50, we take a nostalgic walk down memory lane at some of the great early hi-fi successes that defined generations of products since. 2 Comments",
-      "url": "https://www.whathifi.com/hi-fi/from-legendary-turntables-to-cutting-edge-dacs-33-debut-products-that-defined-hi-fi-history",
-      "publishedAt": "2026-08-19T12:16:07.000Z",
-      "author": "Becky Roberts, Kashfia Kabir",
-      "description": "As What Hi-Fi? turns 50, we take a long nostalgic walk down memory lane at some of the great early hi-fi successes",
-      "image": "https://cdn.mos.cms.futurecdn.net/mTVAEdsnpUUHfWeynLYNrX-1778-80.jpg",
-      "category": "黑膠／唱盤",
-      "articleType": "新聞"
-    },
-    {
-      "source": "What Hi-Fi?",
       "title": "Rotel's first passive speakers in over 25 years tease \"exceptional resolution and accuracy\" By Harry McKerrell Published 19 August 26 Rotel reveals the Amora 5",
       "url": "https://www.whathifi.com/speakers/hi-fi-speakers/rotels-first-passive-speakers-in-over-25-years-tease-exceptional-resolution-and-accuracy",
       "publishedAt": "2026-08-19T11:09:29.000Z",
@@ -367,17 +422,6 @@
       "articleType": "其他"
     },
     {
-      "source": "What Hi-Fi?",
-      "title": "Apple’s next AirPods just leaked in an official video – here’s how their unique new feature will work By Joe Svetlik Published 18 August 26",
-      "url": "https://www.whathifi.com/headphones/wireless-earbuds/apples-next-airpods-just-leaked-in-an-official-video-heres-how-their-unique-new-feature-will-work",
-      "publishedAt": "2026-08-18T14:13:11.000Z",
-      "author": "Joe Svetlik",
-      "description": "A dead cert to arrive at the rumoured iPhone launch next month?",
-      "image": "https://cdn.mos.cms.futurecdn.net/ip4jh9hJ9ZCXZBKtoWSqXW-610-80.jpg",
-      "category": "耳機",
-      "articleType": "新聞"
-    },
-    {
       "source": "SoundGuys",
       "title": "A mysterious new Sonos soundbar just surfaced ahead of launchShimul SoodAugust 18, 20260",
       "url": "https://www.soundguys.com/new-sonos-soundbar-fcc-listing-161599/",
@@ -397,17 +441,6 @@
       "description": "Need a tiny outdoor speaker? The 4.6-star Ultimate Ears Miniroll drops to $49.99 with 38% off and IP67 water resistance.",
       "image": "https://www.soundguys.com/wp-content/uploads/2024/09/UE-Miniroll_10-scaled.jpeg",
       "category": "喇叭",
-      "articleType": "其他"
-    },
-    {
-      "source": "SoundGuys",
-      "title": "SHOKZ OpenDots 2 deal cuts $30 off the new clip-on open-ear earbudsMatt HorneAugust 17, 20260",
-      "url": "https://www.soundguys.com/shokz-opendots-2-deal-161538/",
-      "publishedAt": "2026-08-17T14:46:07.000Z",
-      "author": "Matt Horne",
-      "description": "The SHOKZ OpenDots 2 hit a record-low $169.95 on Amazon, marking the first 15% price drop on these premium open-ear earbuds.",
-      "image": "https://www.soundguys.com/wp-content/uploads/2026/06/wearing-shokz-opendots-2-scaled-e1780530831648.jpg",
-      "category": "耳機",
       "articleType": "其他"
     },
     {
@@ -495,17 +528,6 @@
       "author": "Aamir Siddiqui",
       "description": "Creative's $180 XF1 desktop speakers challenge studio monitors with 72W RMS output, Hi-Res wireless audio, and LDAC support.",
       "image": "https://www.soundguys.com/wp-content/uploads/2026/08/Creative-XF1.jpg",
-      "category": "喇叭",
-      "articleType": "其他"
-    },
-    {
-      "source": "SoundGuys",
-      "title": "Why I stopped looking for the perfect Bluetooth speakerDave CarrAugust 6, 20260",
-      "url": "https://www.soundguys.com/why-i-stopped-looking-for-the-perfect-bluetooth-speaker-160862/",
-      "publishedAt": "2026-08-06T09:00:33.000Z",
-      "author": "Dave Carr",
-      "description": "Every portable Bluetooth speaker makes compromises. Here's how to choose the trade-offs that matter most to you.",
-      "image": "https://www.soundguys.com/wp-content/uploads/2026/07/Bluetooth-speaker-buying-guide-feature-hero-1-scaled.jpeg",
       "category": "喇叭",
       "articleType": "其他"
     },
