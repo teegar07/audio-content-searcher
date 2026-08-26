@@ -7,10 +7,10 @@ const now = dayjs();
 const cutoff = now.subtract(DAYS, 'day');
 
 const sources = [
-  { name: 'What Hi-Fi?', urls: ['https://www.whathifi.com/'], hosts: ['www.whathifi.com'] },
-  { name: 'TechRadar', urls: ['https://www.techradar.com/audio'], hosts: ['www.techradar.com'] },
+  { name: 'What Hi-Fi?', urls: ['https://www.whathifi.com/','https://www.whathifi.com/headphones','https://www.whathifi.com/reviews/headphones','https://www.whathifi.com/hi-fi','https://www.whathifi.com/hi-fi/speakers','https://www.whathifi.com/hi-fi/turntables','https://www.whathifi.com/hi-fi/dacs','https://www.whathifi.com/home-cinema/soundbars'], hosts: ['www.whathifi.com'] },
+  { name: 'TechRadar', urls: ['https://www.techradar.com/audio','https://www.techradar.com/audio/headphones','https://www.techradar.com/audio/earbuds-airpods','https://www.techradar.com/audio/speakers','https://www.techradar.com/audio/hi-fi','https://www.techradar.com/audio/soundbars'], hosts: ['www.techradar.com'] },
   { name: 'SoundGuys', urls: ['https://www.soundguys.com/earbuds-headphones/','https://www.soundguys.com/speakers/','https://www.soundguys.com/news/','https://www.soundguys.com/reviews/'], hosts: ['www.soundguys.com'], soundguys: true },
-  { name: "Tom's Guide", urls: ['https://www.tomsguide.com/audio'], hosts: ['www.tomsguide.com'] }
+  { name: "Tom's Guide", urls: ['https://www.tomsguide.com/audio','https://www.tomsguide.com/audio/headphones','https://www.tomsguide.com/audio/earbuds','https://www.tomsguide.com/audio/over-ear-headphones','https://www.tomsguide.com/audio/speakers','https://www.tomsguide.com/audio/soundbars'], hosts: ['www.tomsguide.com'] }
 ];
 
 const AUDIO_RE = /headphone|headphones|earbud|earbuds|airpods|speaker|speakers|bluetooth|audio|hi-fi|hifi|dac|amplifier|amp\b|turntable|vinyl|soundbar|receiver|streamer|stereo|subwoofer|iems?\b|music/i;
@@ -122,7 +122,6 @@ function extractMeta(html) {
 function hasArticleMetadata(meta, source) {
   const types = meta.schemaTypes.map(String).join(' ').toLowerCase();
   if (meta.pageType.toLowerCase() === 'article' || /article|newsarticle|review|reportage/.test(types)) return true;
-  // SoundGuys article pages reliably expose publication dates even when article schema varies.
   return Boolean(source?.soundguys && meta.date);
 }
 
@@ -137,7 +136,7 @@ async function collectSource(source) {
       console.warn(`Listing failed ${listingUrl}: ${e.message}`);
     }
   }
-  const candidates = [...candidateMap.values()].slice(0, 160);
+  const candidates = [...candidateMap.values()].slice(0, 240);
   console.log(`${source.name}: ${candidates.length} candidate article URLs`);
   const articles = [];
   for (const c of candidates) {
