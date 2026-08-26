@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-26T00:02:42.026Z",
+  "generatedAt": "2026-08-26T00:49:30.762Z",
   "days": 30,
-  "count": 49,
+  "count": 67,
   "articles": [
     {
       "source": "SoundGuys",
@@ -38,7 +38,7 @@
     },
     {
       "source": "What Hi-Fi?",
-      "title": "FiiO's retro-modern amp takes inspiration from the \"golden era of 1950s tube amplifiers\" Harry McKerrell Published 25 August 26 FiiO EA13 promises a \"classic hi-fi\" sound in a modern, feature-heavy design",
+      "title": "FiiO's retro-modern amp takes inspiration from the \"golden era of 1950s tube amplifiers\" By Harry McKerrell Published 25 August 26 FiiO EA13 promises a \"classic hi-fi\" sound in a modern, feature-heavy design",
       "url": "https://www.whathifi.com/hi-fi/stereo-amplifiers/fiios-retro-modern-amp-takes-inspiration-from-the-golden-era-of-1950s-tube-amplifiers",
       "publishedAt": "2026-08-25T15:55:51.000Z",
       "author": "Harry McKerrell",
@@ -49,7 +49,7 @@
     },
     {
       "source": "What Hi-Fi?",
-      "title": "Porsche and Burmester have a new secret weapon for their car hi-fi systems, and it sounds like sci-fi Andy Madden Published 25 August 26 New tech will feature from 2027",
+      "title": "Porsche and Burmester have a new secret weapon for their car hi-fi systems, and it sounds like sci-fi",
       "url": "https://www.whathifi.com/hi-fi/porsche-and-burmester-have-a-new-secret-weapon-for-their-car-hi-fi-systems-and-it-sounds-like-sci-fi",
       "publishedAt": "2026-08-25T14:57:55.000Z",
       "author": "Andy Madden",
@@ -60,7 +60,7 @@
     },
     {
       "source": "What Hi-Fi?",
-      "title": "Bose Lifestyle Ultra Soundbar review Robyn Quick Published 25 August 26 Bose fires another shot at the soundbar leaders.",
+      "title": "Bose Lifestyle Ultra Soundbar review",
       "url": "https://www.whathifi.com/tv-home-cinema/soundbars/bose-lifestyle-ultra-soundbar-solo",
       "publishedAt": "2026-08-25T12:00:53.000Z",
       "author": "",
@@ -93,14 +93,14 @@
     },
     {
       "source": "What Hi-Fi?",
-      "title": "iFi iDSD GR 2 review: a premium portable DAC that offers clear, composed performance iFi’s premium portable DAC offers a clear, composed performance",
+      "title": "iFi iDSD GR 2 By Harry McKerrell Published 24 August 26 The portable and premium iDSD GR 2 DAC promises to give your music listening a boost at home or on the go, boasting plenty of connections.",
       "url": "https://www.whathifi.com/hi-fi/dacs/ifi-idsd-gr-2",
       "publishedAt": "2026-08-24T13:19:23.000Z",
       "author": "",
       "description": "The portable and premium iDSD GR 2 DAC promises to give your music listening a boost at home or on the go, boasting plenty of connections.",
       "image": "https://cdn.mos.cms.futurecdn.net/8ir3gZseaTQdYgac7wxUYo-1920-80.jpg",
       "category": "DAC／擴大機",
-      "articleType": "評測"
+      "articleType": "其他"
     },
     {
       "source": "What Hi-Fi?",
@@ -159,7 +159,7 @@
     },
     {
       "source": "What Hi-Fi?",
-      "title": "Esoteric’s new T-01 turntable is “dedicated to reproducing the original master sound with breathtaking realism, musical energy and emotional depth” The price might also take your breath away",
+      "title": "Esoteric’s new T-01 turntable is “dedicated to reproducing the original master sound with breathtaking realism, musical energy and emotional depth” By Ioan Hazell Published 21 August 26 The price might also take your breath away",
       "url": "https://www.whathifi.com/hi-fi/turntables/esoterics-new-t-01-turntable-is-dedicated-to-reproducing-the-original-master-sound-with-breathtaking-realism-musical-energy-and-emotional-depth",
       "publishedAt": "2026-08-21T15:25:15.000Z",
       "author": "Ioan Hazell",
@@ -181,13 +181,35 @@
     },
     {
       "source": "What Hi-Fi?",
-      "title": "What makes great sound? We asked the audio experts at Sennheiser and iconic club Fabric how they get hi-fi results in different environments By Joe Svetlik Published 21 August 26",
+      "title": "What makes great sound? We asked the audio experts at Sennheiser and iconic club Fabric how they get hi-fi results in different environments By Joe Svetlik Published 21 August 26 The two brands have more in common than you might think...",
       "url": "https://www.whathifi.com/headphones/what-makes-great-sound-we-asked-the-audio-experts-at-sennheiser-and-iconic-club-fabric-how-they-get-hi-fi-results-in-different-environments",
       "publishedAt": "2026-08-21T08:43:21.000Z",
       "author": "Joe Svetlik",
       "description": "The two brands have more in common than you might think...",
       "image": "https://cdn.mos.cms.futurecdn.net/mbsy4xTYGXsomFhBtYcdMV-1683-80.jpg",
       "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "TechRadar",
+      "title": "Sennheiser gives its flagship true wireless earbuds a full revamp, complete with Bluetooth 6 and replaceable batteries By Max Langridge Published 21 August 26 Clearly aiming for the wireless earbud supremacy, Sennheiser has rebuilt its flagship buds from the ground up.",
+      "url": "https://www.techradar.com/audio/earbuds-airpods/sennheiser-gives-its-flagship-true-wireless-earbuds-a-full-revamp-complete-with-bluetooth-6-and-replaceable-batteries",
+      "publishedAt": "2026-08-21T01:16:43.000Z",
+      "author": "Max Langridge",
+      "description": "Clearly aiming for the wireless earbud supremacy, Sennheiser has rebuilt its flagship buds from the ground up.",
+      "image": "https://cdn.mos.cms.futurecdn.net/a6hH4xeci4tapmcWhbrWEd-1920-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "TechRadar",
+      "title": "How hearing the Martin Logan ElectroMotion ESL X made me fall in love with the surpreme detail and clarity in electrostatic speakers By James Holland Published 20 August 26 One of this year's Audio Advice Live's biggest surprises is the Martin Logan ElectroMotion ESL X speakers, and their detailed sound at a somewhat reasonable price.",
+      "url": "https://www.techradar.com/audio/speakers/how-hearing-the-martin-logan-electromotion-esl-x-made-me-fall-in-love-with-and-the-surpreme-detail-and-clarity-in-electrostatic-speakers",
+      "publishedAt": "2026-08-20T19:00:00.000Z",
+      "author": "James Holland",
+      "description": "I might be an electrostatic convert",
+      "image": "https://cdn.mos.cms.futurecdn.net/tP6FNcdwCzKMdW4v67t5JX-2560-80.jpg",
+      "category": "喇叭",
       "articleType": "其他"
     },
     {
@@ -313,7 +335,7 @@
     },
     {
       "source": "What Hi-Fi?",
-      "title": "Sennheiser's flagship earbuds are back to battle Bose and Sony – and they could have an ace up their sleeve By Harry McKerrell Published 20 August 26",
+      "title": "Sennheiser's flagship earbuds are back to battle Bose and Sony – and they could have an ace up their sleeve By Harry McKerrell Published 20 August 26 Sennheiser's Momentum 5 True Wireless have arrived",
       "url": "https://www.whathifi.com/headphones/wireless-earbuds/sennheisers-flagship-earbuds-are-back-to-battle-bose-and-sony-and-they-could-have-an-ace-up-their-sleeve",
       "publishedAt": "2026-08-20T10:00:00.000Z",
       "author": "Harry McKerrell",
@@ -411,6 +433,17 @@
       "articleType": "新聞"
     },
     {
+      "source": "What Hi-Fi?",
+      "title": "Technics is celebrating 55 years of its legendary SL-1200 turntable with a limited-edition design By Ioan Hazell Published 18 August 26 The SL-1200 55th Anniversary Edition looks as good as gold 2 Comments",
+      "url": "https://www.whathifi.com/hi-fi/turntables/technics-is-celebrating-55-years-of-its-legendary-sl-1200-turntable-with-a-limited-edition-design",
+      "publishedAt": "2026-08-18T16:00:00.000Z",
+      "author": "Ioan Hazell",
+      "description": "The SL-1200 55th Anniversary Edition looks as good as gold",
+      "image": "https://cdn.mos.cms.futurecdn.net/UoYQmXMFKRnRBisYG8Z22N-2560-80.jpg",
+      "category": "黑膠／唱盤",
+      "articleType": "其他"
+    },
+    {
       "source": "SoundGuys",
       "title": "Record price drop: Marshall Stanmore III falls to $199.99 with a 50% Amazon discountMatt HorneAugust 18, 20260",
       "url": "https://www.soundguys.com/marshall-stanmore-iii-bluetooth-speaker-deal-161619/",
@@ -419,6 +452,17 @@
       "description": "The Stanmore III Bluetooth speaker is down to half price for the first time at Amazon, with a 4.6-star rating and classic amp-style design.",
       "image": "https://www.soundguys.com/wp-content/uploads/2026/08/Marshall-Stanmore-III-Bluetooth-Speaker-Press-Image.jpg",
       "category": "喇叭",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Pro-Ject adds aptX Bluetooth powers to its entry-level, plug-and-play turntable By Harry McKerrell Published 18 August 26 The E1.2 BT arrives alongside a ‘Phono’ edition",
+      "url": "https://www.whathifi.com/hi-fi/turntables/pro-ject-adds-aptx-bluetooth-powers-to-its-entry-level-plug-and-play-turntable",
+      "publishedAt": "2026-08-18T12:34:06.000Z",
+      "author": "Harry McKerrell",
+      "description": "The E1.2 BT arrives alongside a ‘Phono’ edition",
+      "image": "https://cdn.mos.cms.futurecdn.net/mgQ8HsPAZwU8NGMV22XKKQ-2560-80.png",
+      "category": "黑膠／唱盤",
       "articleType": "其他"
     },
     {
@@ -433,6 +477,17 @@
       "articleType": "新聞"
     },
     {
+      "source": "Tom's Guide",
+      "title": "With its suave looks, class-leading battery life and phenomenal sound, the Marshall Stockwell III has become my go-to Bluetooth speaker By Nikita Achanta Published 18 August 26 Editor's Choice The Marshall Stockwell III is a beautiful portable speaker that can get very loud, and it boasts meaty bass and bright treble. It also packs a 40-hour battery.",
+      "url": "https://www.tomsguide.com/audio/bluetooth-speakers/marshall-stockwell-iii-review",
+      "publishedAt": "2026-08-18T06:00:00.000Z",
+      "author": "",
+      "description": "The Marshall Stockwell III is a beautiful portable speaker that can get very loud, and it boasts meaty bass and bright treble. It also packs a 40-hour battery.",
+      "image": "https://cdn.mos.cms.futurecdn.net/9bzmRUT3eRzPgjBmwSYNgC-2000-80.jpg",
+      "category": "喇叭",
+      "articleType": "評測"
+    },
+    {
       "source": "SoundGuys",
       "title": "This 4.6-star Ultimate Ears Miniroll speaker is back to its $49.99 lowMatt HorneAugust 17, 20260",
       "url": "https://www.soundguys.com/ultimate-ears-miniroll-speaker-deal-161541/",
@@ -445,6 +500,17 @@
     },
     {
       "source": "What Hi-Fi?",
+      "title": "Beware: these vinyl albums are actually worse than their streaming versions By Joe Svetlik Published 17 August 26 Some are lacking entire tracks – and fans are understandably miffed 13 Comments",
+      "url": "https://www.whathifi.com/hi-fi/vinyl/beware-these-vinyl-albums-are-actually-worse-than-their-streaming-versions",
+      "publishedAt": "2026-08-17T14:01:21.000Z",
+      "author": "Joe Svetlik",
+      "description": "We love physical media but it's not always the best version",
+      "image": "https://cdn.mos.cms.futurecdn.net/ueRwruTULHfTbnxTQCQhHT-2560-80.jpg",
+      "category": "黑膠／唱盤",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
       "title": "Goldmund’s most advanced amp yet, something new from Sonos, 21st Century boombox reviewed and more By Alastair Stevenson Published 17 August 26 All the biggest hi-fi and home cinema news, explained by our experts",
       "url": "https://www.whathifi.com/av/goldmunds-most-advanced-amp-yet-something-new-from-sonos-21st-century-boombox-reviewed-and-more",
       "publishedAt": "2026-08-17T07:00:00.000Z",
@@ -453,6 +519,105 @@
       "image": "https://cdn.mos.cms.futurecdn.net/i3rKcvqnkg4yrnB9BH54he-1920-80.jpg",
       "category": "DAC／擴大機",
       "articleType": "新聞"
+    },
+    {
+      "source": "TechRadar",
+      "title": "4 of the most detailed and sonically stellar elite hi-fi speakers I heard Audio at Audio Advice Live By James Holland Published 16 August 26 This year's Audio Advice Live has brought with it some of the best new stereo speakers from Bowers & Wilkins, Focal, Klipsch, and JBL, redefining what a great HiFi speaker is.",
+      "url": "https://www.techradar.com/audio/speakers/4-of-the-most-detailed-and-sonically-stellar-elite-hi-fi-speakers-i-heard-audio-at-audio-advice-live",
+      "publishedAt": "2026-08-16T19:00:00.000Z",
+      "author": "James Holland",
+      "description": "Enter a new aural frontier with these game-changing speakers",
+      "image": "https://cdn.mos.cms.futurecdn.net/dsdhQ9xe76sC55VRKYc3HX-2560-80.jpg",
+      "category": "喇叭",
+      "articleType": "其他"
+    },
+    {
+      "source": "TechRadar",
+      "title": "Fosi Audio Merak review: a compact and affordable CD player with a fatal flaw By Simon Lucas Published 15 August 26 If your system needs an affordable compact disc solution (or if you want to hear your CDs in private), the Fosi Audio Merak might just be the answer…",
+      "url": "https://www.techradar.com/audio/earbuds-airpods/fosi-audio-merak-review",
+      "publishedAt": "2026-08-15T09:00:00.000Z",
+      "author": "",
+      "description": "If your system needs an affordable compact disc solution (or if you want to hear your CDs in private), the Fosi Audio Merak might just be the answer…",
+      "image": "https://cdn.mos.cms.futurecdn.net/7q4aAFzCFToxep8zuYyrrA-2560-80.jpg",
+      "category": "其他音訊",
+      "articleType": "評測"
+    },
+    {
+      "source": "Tom's Guide",
+      "title": "I ditched my $300 Bose earbuds this much cheaper open pair — and it’s the best choice I could have made By Ashley Thieme Published 15 August 26 After testing the £300 Bose Ultra Open Earbuds, I was left disappointed, but I switched to a cheaper pair by Beyerdynamic, and everything changed",
+      "url": "https://www.tomsguide.com/audio/earbuds/i-ditched-my-usd300-bose-earbuds-for-a-usd180-pair-and-its-the-best-choice-i-could-have-made",
+      "publishedAt": "2026-08-15T08:45:00.000Z",
+      "author": "Ashley Thieme",
+      "description": "Everyone needs open-earbuds, but you don’t have to spend big bucks",
+      "image": "https://cdn.mos.cms.futurecdn.net/HedS42fRmsmCGB8DQY2JK4-2000-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "TechRadar",
+      "title": "Meet the Sims-meets-speaker creation that generates its own music By Becky Scarrott Published 14 August 26 Part Sims-style society, part AI-generated muzak?",
+      "url": "https://www.techradar.com/audio/speakers/what-if-sims-and-a-smart-speaker-had-a-baby-meet-the-bijou-speaker-with-a-tiny-world-inside-just-dont-expect-it-to-play-your-spotify-playlists",
+      "publishedAt": "2026-08-14T15:00:00.000Z",
+      "author": "Becky Scarrott",
+      "description": "Part Sims-style society, part AI-generated muzak?",
+      "image": "https://cdn.mos.cms.futurecdn.net/RCWiqY4uVsczzfa9FAHrnb-2490-80.png",
+      "category": "喇叭",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Topping Audio D900 By Ketan Bharadia Published 14 August 26 Topping Audio’s D900 brings cutting-edge conversion technology and an unusually fluid sonic presentation to the premium DAC market. 4 Comments",
+      "url": "https://www.whathifi.com/hi-fi/dacs/topping-audio-d900",
+      "publishedAt": "2026-08-14T13:12:50.000Z",
+      "author": "",
+      "description": "Topping Audio’s D900 brings cutting-edge conversion technology and an unusually fluid sonic presentation to the premium DAC market.",
+      "image": "https://cdn.mos.cms.futurecdn.net/SYhukfP6nem2bwKUsCorkb-1920-80.jpg",
+      "category": "DAC／擴大機",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Quiz! How fast can you solve our turntable challenge? Test your wordsearch skills now By Andy Madden Published 14 August 26 Bonus points for the fastest word finder",
+      "url": "https://www.whathifi.com/hi-fi/turntables/quiz-how-fast-can-you-solve-our-turntable-challenge-test-your-wordsearch-skills-now",
+      "publishedAt": "2026-08-14T12:57:47.000Z",
+      "author": "Andy Madden",
+      "description": "How fast can you find them?",
+      "image": "https://cdn.mos.cms.futurecdn.net/NKWSrFmh9DrdbWAjzuZTsF-1920-80.jpg",
+      "category": "黑膠／唱盤",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Could this affordable, feature-packed Bluetooth turntable rival the five-star Sony PS-LX3BT? By Ioan Hazell Published 14 August 26 The second generation Obi3 features built-in speed sensors and a heavier base",
+      "url": "https://www.whathifi.com/hi-fi/turntables/could-this-affordable-feature-packed-bluetooth-turntable-rival-the-five-star-sony-ps-lx3bt",
+      "publishedAt": "2026-08-14T11:46:10.000Z",
+      "author": "Ioan Hazell",
+      "description": "The second generation Obi3 features built-in speed sensors and a heavier base",
+      "image": "https://cdn.mos.cms.futurecdn.net/B7VEJVk3oA2r7SrkWNUKC6-2000-80.jpg",
+      "category": "黑膠／唱盤",
+      "articleType": "其他"
+    },
+    {
+      "source": "TechRadar",
+      "title": "Kanto's new budget-friendly turntable has a few smart features to make it easy for novices to use, and it's lovely and compact too By Tom Bedford Published 14 August 26 Kanto Audio has unveiled the Obi3 Gen 2, a new affordable turntable that's designed with some entry-level considerations in mind.",
+      "url": "https://www.techradar.com/audio/turntables/kantos-new-budget-friendly-turntable-has-a-few-smart-features-to-make-it-easy-for-novices-to-use-and-its-lovely-and-compact-too",
+      "publishedAt": "2026-08-14T10:41:04.000Z",
+      "author": "Tom Bedford",
+      "description": "The Kanto Audio Obi3 Gen 2 has a few neat features for entry-level turntable owners, including a smart speed sensor.",
+      "image": "https://cdn.mos.cms.futurecdn.net/pxVjJRUjcV42MyYBCcSVB4-1984-80.jpg",
+      "category": "黑膠／唱盤",
+      "articleType": "新聞"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "This striking vertical turntable is the brainchild of former Apple engineers By Ioan Hazell Published 13 August 26 The TD-1 is the first product from Los Angeles based Ruka Studio",
+      "url": "https://www.whathifi.com/hi-fi/turntables/this-striking-turntable-is-the-brainchild-of-former-apple-engineers",
+      "publishedAt": "2026-08-13T15:52:51.000Z",
+      "author": "Ioan Hazell",
+      "description": "The TD-1 is the first product from Los Angeles based Ruka Studio",
+      "image": "https://cdn.mos.cms.futurecdn.net/k43CfMwBwzdRntnfBd86eZ-1931-80.jpg",
+      "category": "黑膠／唱盤",
+      "articleType": "其他"
     },
     {
       "source": "What Hi-Fi?",
@@ -475,6 +640,28 @@
       "image": "https://www.soundguys.com/wp-content/uploads/2026/04/JBL-Go-5-2-scaled.jpeg",
       "category": "喇叭",
       "articleType": "其他"
+    },
+    {
+      "source": "Tom's Guide",
+      "title": "I tested a music-lover's $1,499 all-in-one soundbar — and it's not by Samsung, Bose, or Sony By Erin Bashford Published 13 August 26 The Bluesound Pulse Cinema is a pretty pricey all-in-one soundbar, but has great bass, great music performance, and great buildability.",
+      "url": "https://www.tomsguide.com/audio/soundbars/bluesound-pulse-cinema-review",
+      "publishedAt": "2026-08-13T12:40:55.000Z",
+      "author": "",
+      "description": "The Bluesound Pulse Cinema is a pretty pricey all-in-one soundbar, but has great bass, great music performance, and great buildability.",
+      "image": "https://cdn.mos.cms.futurecdn.net/GnLFxHeLq6bkj2QRVrsmif-1920-80.jpg",
+      "category": "Soundbar",
+      "articleType": "評測"
+    },
+    {
+      "source": "Tom's Guide",
+      "title": "I tested Nothing’s new earbuds — they sound great but have a huge privacy problem By Peter Wolinski Published 13 August 26 Recommended The Ear (3a) perform pretty well, with a little EQ fettling. I have a pretty big privacy concern with them though.",
+      "url": "https://www.tomsguide.com/audio/earbuds/nothing-ear-3a-review",
+      "publishedAt": "2026-08-13T12:38:51.000Z",
+      "author": "",
+      "description": "Literal spy buds",
+      "image": "https://cdn.mos.cms.futurecdn.net/XcMP4TzW7QSE4kKZxa2nRd-1920-80.jpg",
+      "category": "耳機",
+      "articleType": "評測"
     },
     {
       "source": "SoundGuys",
@@ -541,6 +728,17 @@
       "image": "https://www.soundguys.com/wp-content/uploads/2026/07/KEF-LS-LUXE-in-living-room.jpg",
       "category": "喇叭",
       "articleType": "新聞"
+    },
+    {
+      "source": "Tom's Guide",
+      "title": "Turn up the volume with these Tribit Bluetooth speaker deals — starting at $32 By Will Salmon Published 30 July 26 Tribit offers great value, rugged speakers that don't compromise on quality, despite their small price tags. Take a look at these six feature-packed speakers and find the right one for you.",
+      "url": "https://www.tomsguide.com/audio/bluetooth-speakers/turn-up-the-volume-with-these-tribit-bluetooth-speaker-deals-starting-at-usd32",
+      "publishedAt": "2026-07-30T13:00:00.000Z",
+      "author": "Will Salmon",
+      "description": "These Bluetooth speakers deliver rich, punchy audio at a great price",
+      "image": "https://cdn.mos.cms.futurecdn.net/kAaWoTMtuaEHb4cmcQo6YJ-1920-80.jpg",
+      "category": "喇叭",
+      "articleType": "其他"
     }
   ]
 }
