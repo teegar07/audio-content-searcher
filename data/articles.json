@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-26T00:49:30.762Z",
+  "generatedAt": "2026-08-26T00:52:40.881Z",
   "days": 30,
-  "count": 67,
+  "count": 83,
   "articles": [
     {
       "source": "SoundGuys",
@@ -49,6 +49,17 @@
     },
     {
       "source": "What Hi-Fi?",
+      "title": "Eversolo brings streaming, downloads and physical CD playback together in one multitasking product",
+      "url": "https://www.whathifi.com/hi-fi/music-streamers/eversolo-brings-streaming-downloads-and-physical-cd-playback-together-in-one-multitasking-product",
+      "publishedAt": "2026-08-25T15:30:24.000Z",
+      "author": "Kashfia Kabir",
+      "description": "The DMP-A8 Master Edition Gen 2 has a top-loading CD player, while the DMP-A8 shares the same streaming features",
+      "image": "https://cdn.mos.cms.futurecdn.net/XBfFVC3CVFrgjwTT6t86CD-2100-80.png",
+      "category": "串流播放器",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
       "title": "Porsche and Burmester have a new secret weapon for their car hi-fi systems, and it sounds like sci-fi",
       "url": "https://www.whathifi.com/hi-fi/porsche-and-burmester-have-a-new-secret-weapon-for-their-car-hi-fi-systems-and-it-sounds-like-sci-fi",
       "publishedAt": "2026-08-25T14:57:55.000Z",
@@ -81,6 +92,17 @@
       "articleType": "新聞"
     },
     {
+      "source": "What Hi-Fi?",
+      "title": "Pining for The Odyssey on 4K Blu-ray? We have some very good (and slightly bad) news",
+      "url": "https://www.whathifi.com/streaming-entertainment/pining-for-the-odyssey-on-4k-blu-ray-we-have-some-very-good-and-slightly-bad-news-for-you",
+      "publishedAt": "2026-08-24T14:03:31.000Z",
+      "author": "Robyn Quick",
+      "description": "A refreshing take on Nolan's epic release",
+      "image": "https://cdn.mos.cms.futurecdn.net/Ak4Fnv62ydwz2ZDW6PNrKj-1189-80.jpg",
+      "category": "串流播放器",
+      "articleType": "新聞"
+    },
+    {
       "source": "TechRadar",
       "title": "'I'm embracing it': Dr Dre outs himself as a pro-AI producer By Tom Bedford Published 24 August 26 Dr. Dre has admitted he uses AI in his music producing, despite most music streaming services trying to ban the stuff.",
       "url": "https://www.techradar.com/ai-platforms-assistants/im-embracing-it-dr-dre-defends-ai-music-and-compares-it-to-synths-despite-most-streaming-services-ousting-slop-from-their-libraries",
@@ -104,6 +126,17 @@
     },
     {
       "source": "What Hi-Fi?",
+      "title": "Fiio unveils its latest retro-inspired portable cassette player – but there's a catch By Harry McKerrell Published 24 August 26 Fiio has a change of plans",
+      "url": "https://www.whathifi.com/hi-fi/portable-music-players/fiio-unveils-its-latest-retro-inspired-portable-cassette-player-but-theres-a-catch",
+      "publishedAt": "2026-08-24T10:25:30.000Z",
+      "author": "Harry McKerrell",
+      "description": "Fiio has a change of plans",
+      "image": "https://cdn.mos.cms.futurecdn.net/nMKXVCKGUDawo4gK7oKLQk-1057-80.jpg",
+      "category": "其他音訊",
+      "articleType": "新聞"
+    },
+    {
+      "source": "What Hi-Fi?",
       "title": "Bogus vinyl, “talented and adaptable speakers”, a special-edition Technics turntable and more By Alastair Stevenson Published 24 August 26 All the top hi-fi and home cinema stories explained by our experts",
       "url": "https://www.whathifi.com/av/bogus-vinyl-talented-and-adaptable-speakers-a-special-edition-technics-turntable-and-more",
       "publishedAt": "2026-08-24T07:00:00.000Z",
@@ -122,6 +155,39 @@
       "description": "Giving new definition to hybrid speakers",
       "image": "https://cdn.mos.cms.futurecdn.net/4h84nzbP5AGhXgkGEHxpFX-2560-80.jpg",
       "category": "喇叭",
+      "articleType": "其他"
+    },
+    {
+      "source": "TechRadar",
+      "title": "Think CD players died in the 2000s? These 9 wonderfully weird new models prove otherwise By Ruth Hamilton Published 23 August 26 Dust off your CD collection and get ready to party like it's 2002.",
+      "url": "https://www.techradar.com/audio/9-of-the-coolest-new-cd-players-of-2026-from-a-b-and-o-masterpiece-that-costs-more-than-a-house-deposit-to-the-turducken-of-hi-fi",
+      "publishedAt": "2026-08-23T01:00:00.000Z",
+      "author": "Ruth Hamilton",
+      "description": "Dust off your CD collection and get ready to party like it's 2002",
+      "image": "https://cdn.mos.cms.futurecdn.net/8z75k6QnA5WeRPiVTPeVw8-1920-80.jpg",
+      "category": "其他音訊",
+      "articleType": "新聞"
+    },
+    {
+      "source": "TechRadar",
+      "title": "Trinnov's Altitude CI AV processor creates high-quality sound in non-ideal spaces — and I love it By James Holland Published 22 August 26 The Trinnov Altitude CI AV processor is a magical piece of equipment you didn’t know you needed. Its 3D room correction, software-based processing, and modularity are all next level.",
+      "url": "https://www.techradar.com/audio/hi-fi/how-trinnovs-altitude-ci-av-processor-showed-me-the-importance-of-flagship-3d-room-correction-in-elite-home-cinema-setups",
+      "publishedAt": "2026-08-22T19:00:00.000Z",
+      "author": "James Holland",
+      "description": "All this, and it did it in a lobby",
+      "image": "https://cdn.mos.cms.futurecdn.net/PgJYWvbqnKYs8NfvBBkBCb-2560-80.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Adventures In AV: for football, Dolby Atmos is a bigger game-changer than 4K and HDR combined – and Sky could make it even better By Tom Parsons Published 22 August 26 4K makes football look better, but Dolby Atmos makes it feel like you're there",
+      "url": "https://www.whathifi.com/tv-home-cinema/surround-sound-systems/adventures-in-av-for-football-dolby-atmos-is-a-bigger-game-changer-than-4k-and-hdr-combined-and-sky-could-make-it-even-better",
+      "publishedAt": "2026-08-22T06:00:00.000Z",
+      "author": "Tom Parsons",
+      "description": "4K makes football look better, but Dolby Atmos makes it feel like you're there",
+      "image": "https://cdn.mos.cms.futurecdn.net/WRviwLxhEoQFGxe3A6Gzse-1920-80.jpg",
+      "category": "其他音訊",
       "articleType": "其他"
     },
     {
@@ -181,13 +247,46 @@
     },
     {
       "source": "What Hi-Fi?",
+      "title": "Backrooms isn’t my cup of tea, but one of the film’s features has stuck with me By Ioan Hazell Published 21 August 26 There’s no escaping this soundtrack",
+      "url": "https://www.whathifi.com/streaming-entertainment/backrooms-isnt-my-cup-of-tea-but-one-of-the-films-features-has-stuck-with-me",
+      "publishedAt": "2026-08-21T13:35:23.000Z",
+      "author": "Ioan Hazell",
+      "description": "There’s no escaping this soundtrack",
+      "image": "https://cdn.mos.cms.futurecdn.net/KvPvZBdwwVRHzUZBAXXMnB-1338-80.jpg",
+      "category": "串流播放器",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Sonos is having a sale, but there's only one real deal I'd recommend By Daniel Furn Published 21 August 26 Sonos in its sale era",
+      "url": "https://www.whathifi.com/speakers/wireless-speakers/sonos-is-having-a-sale-but-theres-only-one-real-deal-id-recommend",
+      "publishedAt": "2026-08-21T12:31:29.000Z",
+      "author": "Daniel Furn",
+      "description": "Sonos in its sale era",
+      "image": "https://cdn.mos.cms.futurecdn.net/3sr3SePNtJJEEP3KWU22i9-2560-80.jpg",
+      "category": "喇叭",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "This stop-motion movie just turned 10 – and it reminded me to use animation to test home cinema systems more By Robyn Quick Published 21 August 26 Happy birthday, Kubo!",
+      "url": "https://www.whathifi.com/tv-home-cinema/this-stop-motion-movie-just-turned-10-and-it-reminded-me-to-use-animation-to-test-home-cinema-systems-more",
+      "publishedAt": "2026-08-21T11:56:26.000Z",
+      "author": "Robyn Quick",
+      "description": "Happy birthday, Kubo!",
+      "image": "https://cdn.mos.cms.futurecdn.net/pQe6DKB2mC2mVyJXoyuDzS-992-80.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
       "title": "What makes great sound? We asked the audio experts at Sennheiser and iconic club Fabric how they get hi-fi results in different environments By Joe Svetlik Published 21 August 26 The two brands have more in common than you might think...",
       "url": "https://www.whathifi.com/headphones/what-makes-great-sound-we-asked-the-audio-experts-at-sennheiser-and-iconic-club-fabric-how-they-get-hi-fi-results-in-different-environments",
       "publishedAt": "2026-08-21T08:43:21.000Z",
       "author": "Joe Svetlik",
       "description": "The two brands have more in common than you might think...",
       "image": "https://cdn.mos.cms.futurecdn.net/mbsy4xTYGXsomFhBtYcdMV-1683-80.jpg",
-      "category": "其他音訊",
+      "category": "耳機",
       "articleType": "其他"
     },
     {
@@ -269,6 +368,17 @@
     },
     {
       "source": "What Hi-Fi?",
+      "title": "10 years on, this underrated horror is still a masterclass in surround sound – and proves you don’t always need Dolby Atmos By Alastair Stevenson Published 20 August 26 I revisit an old favourite for testing home theatre systems as it turns 10",
+      "url": "https://www.whathifi.com/tv-home-cinema/10-years-on-this-underrated-horror-is-still-a-masterclass-in-surround-sound-and-proves-you-dont-always-need-dolby-atmos",
+      "publishedAt": "2026-08-20T14:00:00.000Z",
+      "author": "Alastair Stevenson",
+      "description": "I revisit an old favourite for testing home theatre systems as it turns 10",
+      "image": "https://cdn.mos.cms.futurecdn.net/mKvL7xVbaEjwH8SyGCR6Ug-1507-80.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
       "title": "Cambridge Audio Evo 300 By Andy Madden Published 20 August 26 Cambridge Audio’s flagship Evo 300 streaming amplifier promises serious power, but is that enough? 3 Comments",
       "url": "https://www.whathifi.com/hi-fi/stereo-systems/cambridge-audio-evo-300",
       "publishedAt": "2026-08-20T13:49:28.000Z",
@@ -276,6 +386,17 @@
       "description": "Cambridge Audio’s flagship streaming amplifier promises serious power, but is that enough?",
       "image": "https://cdn.mos.cms.futurecdn.net/aoc6rRRbwaxjKP7WiQyfL4-1920-80.jpg",
       "category": "DAC／擴大機",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "As a fan of both football and F1, I'm nerdily excited about this new Sky feature By Tom Parsons Published 20 August 26 Your Multiview allows you to watch several sports at once",
+      "url": "https://www.whathifi.com/streaming-entertainment/tv-streaming-services/as-a-fan-of-both-football-and-f1-im-nerdily-excited-about-this-new-sky-feature",
+      "publishedAt": "2026-08-20T13:14:17.000Z",
+      "author": "Tom Parsons",
+      "description": "Your Multiview allows you to watch several sports at once",
+      "image": "https://cdn.mos.cms.futurecdn.net/5izLSpBvViGsiSADqhaALd-1600-80.jpg",
+      "category": "串流播放器",
       "articleType": "其他"
     },
     {
@@ -323,6 +444,17 @@
       "articleType": "其他"
     },
     {
+      "source": "What Hi-Fi?",
+      "title": "Sony VPL-XW5000ES vs Optoma UHZ78LV: which premium 4K projector should you buy? By Esat Dedezade Published 20 August 26 Two premium laser projectors take very different approaches to home cinema – but which one is right for you?",
+      "url": "https://www.whathifi.com/tv-home-cinema/projectors/sony-vpl-xw5000es-vs-optoma-uhz78lv-which-premium-4k-projector-should-you-buy",
+      "publishedAt": "2026-08-20T10:17:24.000Z",
+      "author": "Esat Dedezade",
+      "description": "Sony VPL-XW5000ES vs Optoma UHZ78LV: Two premium laser projectors take very different approaches to home cinema – but which one is right for you?",
+      "image": "https://cdn.mos.cms.futurecdn.net/NYhBaWnDjS7vWWQVyrnUEH-1920-80.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
       "source": "SoundGuys",
       "title": "Sennheiser's new MOMENTUM True Wireless 5 earbuds give you more for the same priceShimul SoodAugust 20, 20260",
       "url": "https://www.soundguys.com/sennheiser-momentum-true-wireless-5-launch-161772/",
@@ -343,6 +475,28 @@
       "image": "https://cdn.mos.cms.futurecdn.net/7YSDHbQEoGpz3pqQqtT9de-1985-80.jpg",
       "category": "耳機",
       "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Finally! Is this our best evidence yet that Apple is about to launch a long-awaited sequel to the HomePod Mini? By Harry McKerrell Published 20 August 26 A HomePod 3 could also arrive in September...",
+      "url": "https://www.whathifi.com/speakers/wireless-speakers/finally-is-this-our-best-evidence-yet-that-apple-is-about-to-launch-a-long-awaited-sequel-to-the-homepod-mini",
+      "publishedAt": "2026-08-20T09:37:15.000Z",
+      "author": "Harry McKerrell",
+      "description": "A HomePod 3 could also arrive in September, too...",
+      "image": "https://cdn.mos.cms.futurecdn.net/3i8isvtGhMHsrCbSipvs9M-2000-80.jpg",
+      "category": "喇叭",
+      "articleType": "新聞"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Sony's XM4 reboot has leaked again in official-looking images, with one notable spec upgrade By Joe Svetlik Published 20 August 26 And a couple of downgrades, in exchange for a lower price",
+      "url": "https://www.whathifi.com/headphones/wireless-headphones/sonys-xm4-reboot-has-leaked-again-in-official-looking-images-with-one-notable-spec-upgrade",
+      "publishedAt": "2026-08-20T09:25:51.000Z",
+      "author": "Joe Svetlik",
+      "description": "And a couple of downgrades, in exchange for a lower price",
+      "image": "https://cdn.mos.cms.futurecdn.net/bKsDswTrytEwoCidui89qd-2560-80.jpg",
+      "category": "耳機",
+      "articleType": "新聞"
     },
     {
       "source": "SoundGuys",
@@ -387,6 +541,17 @@
       "image": "https://www.soundguys.com/wp-content/uploads/2026/08/CMF-earbud-teaser-2.jpg",
       "category": "耳機",
       "articleType": "新聞"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Yamaha YH-C3000 By Becky Roberts Published 19 August 26 Yamaha follows up its planar magnetic, open-back successes with a dynamic, closed-back model. Can the YH-C3000 garner the same acclaim?",
+      "url": "https://www.whathifi.com/headphones/yamaha-yh-c3000",
+      "publishedAt": "2026-08-19T13:07:04.000Z",
+      "author": "",
+      "description": "Yamaha follows up its planar magnetic, open-back successes with a dynamic, closed-back model. Can the YH-C3000 garner the same acclaim?",
+      "image": "https://cdn.mos.cms.futurecdn.net/CWdVZ3tSy94MJd9oh2eW5P-1920-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
     },
     {
       "source": "What Hi-Fi?",
@@ -477,6 +642,17 @@
       "articleType": "新聞"
     },
     {
+      "source": "TechRadar",
+      "title": "Marshall Stockwell III review: luxurious looks with sound to back it up By Harry Padoan Published 18 August 26 The Marshall Stockwell III almost sounds as luxurious as it looks, and boasts almighty power for its size.",
+      "url": "https://www.techradar.com/audio/wireless-bluetooth-speakers/marshall-stockwell-iii-review",
+      "publishedAt": "2026-08-18T06:00:00.000Z",
+      "author": "",
+      "description": "The Marshall Stockwell III almost sounds as luxurious as it looks, and boasts almighty power for its size.",
+      "image": "https://cdn.mos.cms.futurecdn.net/sdWtb4NKnYayHqA9gRAEgF-1920-80.jpg",
+      "category": "喇叭",
+      "articleType": "評測"
+    },
+    {
       "source": "Tom's Guide",
       "title": "With its suave looks, class-leading battery life and phenomenal sound, the Marshall Stockwell III has become my go-to Bluetooth speaker By Nikita Achanta Published 18 August 26 Editor's Choice The Marshall Stockwell III is a beautiful portable speaker that can get very loud, and it boasts meaty bass and bright treble. It also packs a 40-hour battery.",
       "url": "https://www.tomsguide.com/audio/bluetooth-speakers/marshall-stockwell-iii-review",
@@ -539,7 +715,7 @@
       "author": "",
       "description": "If your system needs an affordable compact disc solution (or if you want to hear your CDs in private), the Fosi Audio Merak might just be the answer…",
       "image": "https://cdn.mos.cms.futurecdn.net/7q4aAFzCFToxep8zuYyrrA-2560-80.jpg",
-      "category": "其他音訊",
+      "category": "耳機",
       "articleType": "評測"
     },
     {
@@ -693,7 +869,7 @@
       "author": "Ioan Hazell",
       "description": "Better late than never, or too little, too late?",
       "image": "https://cdn.mos.cms.futurecdn.net/tCMnihsYz4yCUZYu38gMV6-2155-80.jpg",
-      "category": "其他音訊",
+      "category": "串流播放器",
       "articleType": "其他"
     },
     {
