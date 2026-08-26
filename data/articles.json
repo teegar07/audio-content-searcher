@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-26T02:25:08.343Z",
+  "generatedAt": "2026-08-26T02:28:14.519Z",
   "days": 30,
-  "count": 300,
+  "count": 384,
   "articles": [
     {
       "source": "SoundGuys",
@@ -136,6 +136,28 @@
       "articleType": "其他"
     },
     {
+      "source": "What Hi-Fi?",
+      "title": "Shokz's bone-conducting headphones tease an ultra-light fit for runners on a budget",
+      "url": "https://www.whathifi.com/headphones/wireless-earbuds/shokzs-bone-conducting-headphones-tease-an-ultra-light-fit-for-runners-on-a-budget",
+      "publishedAt": "2026-08-25T09:24:25.000Z",
+      "author": "Harry McKerrell",
+      "description": "The OpenRun Air 2 have landed",
+      "image": "https://cdn.mos.cms.futurecdn.net/ojxs4byACr8vrHQMF7ee9R-1057-80.png",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "Before you buy the new Bose headphones, these Skullcandy cans have all the same tech for $80 less",
+      "url": "https://www.soundguys.com/bose-quietcomfort-headphones-vs-skullcandy-crusher-1080-anc-161901/",
+      "publishedAt": "2026-08-25T09:00:46.000Z",
+      "author": "Adam Birney",
+      "description": "The new Bose QuietComfort Headphones cost $359. But the Skullcandy Crusher 1080 ANC packs the same official Bose tech for $80 less.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/08/Bose-vs-Skullcandy-Crusher.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
       "source": "TechRadar",
       "title": "The 'world's first audiophile soundbar' is getting an awesome Atmos update",
       "url": "https://www.techradar.com/televisions/soundbars/the-worlds-first-audiophile-soundbar-is-getting-expanded-with-wireless-dolby-atmos-surround-support-as-if-this-bonkers-speaker-wasnt-immersive-enough",
@@ -236,6 +258,17 @@
     },
     {
       "source": "What Hi-Fi?",
+      "title": "All evidence suggests new Beats headphones are on the way – and an official launch could be imminent",
+      "url": "https://www.whathifi.com/headphones/wireless-headphones/all-evidence-suggests-new-beats-headphones-are-on-the-way-and-an-official-launch-could-be-imminent",
+      "publishedAt": "2026-08-24T08:39:43.000Z",
+      "author": "Harry McKerrell",
+      "description": "The Beats 360 have leaked...again",
+      "image": "https://cdn.mos.cms.futurecdn.net/fkEeS9MGgjqJwRJZEaoBiD-1020-80.jpg",
+      "category": "耳機",
+      "articleType": "新聞"
+    },
+    {
+      "source": "What Hi-Fi?",
       "title": "Bogus vinyl, “talented and adaptable speakers”, a special-edition Technics turntable and more",
       "url": "https://www.whathifi.com/av/bogus-vinyl-talented-and-adaptable-speakers-a-special-edition-technics-turntable-and-more",
       "publishedAt": "2026-08-24T07:00:00.000Z",
@@ -277,6 +310,28 @@
       "image": "https://cdn.mos.cms.futurecdn.net/PgJYWvbqnKYs8NfvBBkBCb-2560-80.jpg",
       "category": "其他音訊",
       "articleType": "其他"
+    },
+    {
+      "source": "TechRadar",
+      "title": "Here's what the rumored Apple AirPods with cameras might bring with them — while privacy concerns continue",
+      "url": "https://www.techradar.com/audio/earbuds-airpods/this-is-going-to-get-airpods-banned-weve-got-more-leaked-details-of-the-camera-equipped-airpods-that-are-on-the-way",
+      "publishedAt": "2026-08-22T14:30:00.000Z",
+      "author": "David Nield",
+      "description": "We've got a bit more unofficial information on the camera quality and the capabilities of these upcoming AirPods.",
+      "image": "https://cdn.mos.cms.futurecdn.net/FgZ8XFjMxDyihEqroE6Yjd-1920-80.jpg",
+      "category": "耳機",
+      "articleType": "新聞"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "I tested the Bose QuietComfort Headphones (2nd Gen) and they’re a legit upgrade",
+      "url": "https://www.soundguys.com/i-tested-the-bose-quietcomfort-headphones-2nd-gen-and-theyre-a-legit-upgrade-161251/",
+      "publishedAt": "2026-08-22T09:00:34.000Z",
+      "author": "Dave Carr",
+      "description": "Our Bose QuietComfort Headphones (2nd Gen) review covers the improved ANC, USB-C audio, comfort, and whether these headphones are worth $359.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/08/Bose-QC-Headphones-2nd-Gen-12-scaled.jpeg",
+      "category": "耳機",
+      "articleType": "評測"
     },
     {
       "source": "What Hi-Fi?",
@@ -368,6 +423,28 @@
     },
     {
       "source": "What Hi-Fi?",
+      "title": "Our experts have found the best deals on five-star Bluetooth speakers, Award-winning open-back headphones and high-end 4K projectors",
+      "url": "https://www.whathifi.com/av/our-experts-have-found-the-best-deals-on-five-star-bluetooth-speakers-award-winning-open-back-headphones-and-high-end-4k-projectors",
+      "publishedAt": "2026-08-21T15:10:25.000Z",
+      "author": "Daniel Furn",
+      "description": "Perfect entertainment for a rainy day",
+      "image": "https://cdn.mos.cms.futurecdn.net/VdtS2Xx7wu4vueAnmAnbG8-1920-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "TechRadar",
+      "title": "Beats 360 over-ear headphones revealed in fresh leak — and there could be a disappointing missing feature",
+      "url": "https://www.techradar.com/audio/beats-leak-reveals-the-name-of-its-next-headphones-plus-most-of-its-specs-but-there-could-be-one-disappointing-omission",
+      "publishedAt": "2026-08-21T14:25:13.000Z",
+      "author": "Tom Bedford",
+      "description": "Some early listing pages have told us the name, feature set and design quicks of Beats' upcoming over-ear headphones.",
+      "image": "https://cdn.mos.cms.futurecdn.net/YtgPuvWXaGD3JrXdH7DtUZ-1920-80.jpg",
+      "category": "耳機",
+      "articleType": "新聞"
+    },
+    {
+      "source": "What Hi-Fi?",
       "title": "Calling all vinyl junkies! We’ve built a cheeky turntable crossword quiz to test your knowledge",
       "url": "https://www.whathifi.com/hi-fi/turntables/quiz-take-on-our-turntable-themed-crossword-for-a-spin-and-see-how-quickly-you-can-solve-the-clues",
       "publishedAt": "2026-08-21T14:20:01.000Z",
@@ -386,6 +463,17 @@
       "description": "There’s no escaping this soundtrack",
       "image": "https://cdn.mos.cms.futurecdn.net/KvPvZBdwwVRHzUZBAXXMnB-1338-80.jpg",
       "category": "串流播放器",
+      "articleType": "其他"
+    },
+    {
+      "source": "TechRadar",
+      "title": "Best Buy's Anniversary sale is like a Labor Day preview — 60% off Apple, TVs, appliances, and laptops",
+      "url": "https://www.techradar.com/seasonal-sales/best-buys-massive-anniversary-sale-is-like-a-labor-day-preview-60-percent-off-tvs-airpods-laptops-appliances-and-more",
+      "publishedAt": "2026-08-21T12:52:33.000Z",
+      "author": "Mackenzie Frazier",
+      "description": "No need to wait for Labor Day — shop record-low prices right now",
+      "image": "https://cdn.mos.cms.futurecdn.net/Q7xKhUaDKm6h6EqonKPm6e-2000-80.png",
+      "category": "耳機",
       "articleType": "其他"
     },
     {
@@ -420,6 +508,17 @@
       "image": "https://cdn.mos.cms.futurecdn.net/uDQJtnifmb4Qk8sBCPyzfQ-1920-80.jpg",
       "category": "其他音訊",
       "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "These $60 headphones offer Bluetooth 6 and and dual-jack wired playback",
+      "url": "https://www.soundguys.com/oneodio-fusion-a70-gen-2-launch-161858/",
+      "publishedAt": "2026-08-21T09:01:16.000Z",
+      "author": "Tushar Mehta",
+      "description": "These budget Bluetooth 6.0 headphones offer a playback feature missing from more premium headphones, for a fraction of their price.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/08/Oneodio-A70-Gen-2.jpg",
+      "category": "耳機",
+      "articleType": "新聞"
     },
     {
       "source": "What Hi-Fi?",
@@ -599,6 +698,28 @@
     },
     {
       "source": "What Hi-Fi?",
+      "title": "“I have never been happier” – 4K Blu-ray, OLED TVs, Dolby Atmos, and six unforgettable years as editor of What Hi-Fi?",
+      "url": "https://www.whathifi.com/hi-fi/i-have-never-been-happier-4k-blu-ray-oled-tvs-dolby-atmos-and-six-unforgettable-years-as-editor-of-what-hi-fi",
+      "publishedAt": "2026-08-20T12:50:09.000Z",
+      "author": "Simon Lucas",
+      "description": "What Hi-Fi? at 50 (and how I helped to get it there)",
+      "image": "https://cdn.mos.cms.futurecdn.net/CXKQFemGZyPUWpvkPjQi7m-2560-80.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "TechRadar",
+      "title": "Sony WH-1000XM4C leak suggests its award-winning ANC headphones will soon get a successor — but they could still struggle to beat Bose and Sennhesier for value",
+      "url": "https://www.techradar.com/audio/wireless-headphones/sony-leak-suggests-its-rebooting-some-of-its-best-ever-headphones-to-compete-with-bose-and-sennheiser-but-im-not-sure-the-predicted-price-is-going-to-be-cheap-enough",
+      "publishedAt": "2026-08-20T12:32:55.000Z",
+      "author": "Carrie Marshall",
+      "description": "A Sony leak suggests it's preparing to launch a new, more affordable version of its legendary WH-1000XM4 headphones to better compete in the ANC headphone sector.",
+      "image": "https://cdn.mos.cms.futurecdn.net/2ipU8HdmDX4SqHv2cEyuB4-2536-80.jpg",
+      "category": "耳機",
+      "articleType": "新聞"
+    },
+    {
+      "source": "What Hi-Fi?",
       "title": "The vinyl revival continues! Our audio experts pick out the best turntables and some of our favourite records to spin on them",
       "url": "https://www.whathifi.com/tv-home-cinema/blu-ray-players/the-vinyl-revival-continues-our-audio-experts-pick-out-the-best-turntables-and-some-of-our-favourite-records-to-spin-on-them",
       "publishedAt": "2026-08-20T12:20:11.000Z",
@@ -629,6 +750,17 @@
       "image": "https://cdn.mos.cms.futurecdn.net/zdHVRgA8YAKBs522AekvZC-1920-80.jpg",
       "category": "喇叭",
       "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "New Beats 360 headphone leak leaves almost nothing to the imagination",
+      "url": "https://www.soundguys.com/beats-360-headphone-leak-161760/",
+      "publishedAt": "2026-08-20T10:34:14.000Z",
+      "author": "Akshay Gangwar",
+      "description": "A new Beats 360 leak has given us a great look at the headphone's design, features, IPX4 rating, and expected pricing.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/08/beats-360-leaked-image.jpg",
+      "category": "耳機",
+      "articleType": "新聞"
     },
     {
       "source": "What Hi-Fi?",
@@ -686,6 +818,17 @@
       "articleType": "新聞"
     },
     {
+      "source": "Tom's Guide",
+      "title": "Amazon just slashed prices on JBL, Bose, Sony and Apple headphones — 15 deals from $19",
+      "url": "https://www.tomsguide.com/audio/amazons-headphone-sale-is-packed-with-deals-from-usd19-here-are-the-15-id-buy",
+      "publishedAt": "2026-08-20T09:00:00.000Z",
+      "author": "Olivia Halevy",
+      "description": "Amazon is knocking up to 50% off headphones and earbuds. Check out my favorite affordable picks from Bose, Apple, Sony and more.",
+      "image": "https://cdn.mos.cms.futurecdn.net/7wLqZcwbmtG4uVPwXApnVG-2560-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
       "source": "What Hi-Fi?",
       "title": "How to watch Premier League 2026/27 online from anywhere: live streams for every match",
       "url": "https://www.whathifi.com/streaming-entertainment/watch-premier-league-2026-27",
@@ -708,6 +851,17 @@
       "articleType": "其他"
     },
     {
+      "source": "TechRadar",
+      "title": "Heading back to school and need some headphones? Here are the affordable earbuds and over-ears I'd recommend for budget-conscious students",
+      "url": "https://www.techradar.com/audio/wireless-headphones/6-brilliant-budget-friendly-headphones-for-students-including-five-star-earbuds-and-sony-cans-that-deliver-flagship-level-features-for-an-astoundingly-low-price",
+      "publishedAt": "2026-08-19T21:00:00.000Z",
+      "author": "Ruth Hamilton",
+      "description": "Great listening from as little as $20",
+      "image": "https://cdn.mos.cms.futurecdn.net/rRVbfsoaPsDywpqeLX9r6S-1920-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
       "source": "SoundGuys",
       "title": "Sony XM4C leak delivers new images and details how it could differ from the original",
       "url": "https://www.soundguys.com/sony-wh-1000xm4c-images-and-details-161705/",
@@ -715,6 +869,17 @@
       "author": "Ryan McNeal",
       "description": "A new leak has provided images of Sony's upcoming WH-1000XM4C headphones. It also details how the headphones may differ from the original.",
       "image": "https://www.soundguys.com/wp-content/uploads/2020/08/Sony-WH-1000XM4-4-of-10.jpg",
+      "category": "耳機",
+      "articleType": "新聞"
+    },
+    {
+      "source": "TechRadar",
+      "title": "AirPods with cameras could not arrive at a worse time — and I'll just say no",
+      "url": "https://www.techradar.com/audio/earbuds-airpods/airpods-with-cameras-could-not-arrive-at-a-worse-time-and-ill-just-say-no",
+      "publishedAt": "2026-08-19T18:50:00.000Z",
+      "author": "Lance Ulanoff",
+      "description": "Apple may have accidentally leaked its AirPods with Cameras plans, and it's clear that this is the last thing our ears need.",
+      "image": "https://cdn.mos.cms.futurecdn.net/SeyySRCWyA8uETQ8MbGzdB-2560-80.jpg",
       "category": "耳機",
       "articleType": "新聞"
     },
@@ -763,6 +928,28 @@
       "articleType": "新聞"
     },
     {
+      "source": "What Hi-Fi?",
+      "title": "Even brighter OLED TVs could be on the way thanks to a new “dream” panel technology – and super-large models might get cheaper",
+      "url": "https://www.whathifi.com/tv-home-cinema/televisions/even-brighter-oled-tvs-could-be-on-the-way-thanks-to-a-new-dream-panel-technology-and-super-large-models-might-get-cheaper",
+      "publishedAt": "2026-08-19T13:08:13.000Z",
+      "author": "Tom Parsons",
+      "description": "LG Display’s FLiPP tech should also improve durability and reduce power consumption",
+      "image": "https://cdn.mos.cms.futurecdn.net/h38SmdYvpnJpZawzp38Van-1920-80.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Yamaha's YH-C3000 premium closed-back headphones set new standards in their class",
+      "url": "https://www.whathifi.com/headphones/yamaha-yh-c3000",
+      "publishedAt": "2026-08-19T13:07:04.000Z",
+      "author": "",
+      "description": "Yamaha follows up its planar magnetic, open-back successes with a dynamic, closed-back model. Can the YH-C3000 garner the same acclaim?",
+      "image": "https://cdn.mos.cms.futurecdn.net/CWdVZ3tSy94MJd9oh2eW5P-1920-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
       "source": "Tom's Guide",
       "title": "I found the 15 best Apple deals in Best Buy's massive 60th Anniversary sale — AirPods, Apple Watches, MacBooks and more",
       "url": "https://www.tomsguide.com/sales-events/i-found-the-15-best-apple-deals-in-best-buys-massive-60th-anniversary-sale-airpods-apple-watches-macbooks-and-more",
@@ -794,6 +981,17 @@
       "image": "https://cdn.mos.cms.futurecdn.net/mTVAEdsnpUUHfWeynLYNrX-1778-80.jpg",
       "category": "黑膠／唱盤",
       "articleType": "新聞"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Heading to university? This affordable Samsung is one of the cheapest TVs we recommend",
+      "url": "https://www.whathifi.com/tv-home-cinema/televisions/heading-to-university-this-impressive-samsung-is-one-of-the-most-affordable-tvs-we-recommend",
+      "publishedAt": "2026-08-19T11:50:46.000Z",
+      "author": "Daniel Furn",
+      "description": "Currently at its lowest price",
+      "image": "https://cdn.mos.cms.futurecdn.net/jxUkPfsmxFPN3DDKy3gW4V-1920-80.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
     },
     {
       "source": "What Hi-Fi?",
@@ -830,6 +1028,17 @@
     },
     {
       "source": "SoundGuys",
+      "title": "Here's how I've kept my headphones alive for years",
+      "url": "https://www.soundguys.com/heres-how-ive-kept-my-headphones-alive-for-years-161297/",
+      "publishedAt": "2026-08-19T09:30:12.000Z",
+      "author": "Christian Thomas",
+      "description": "Chris talks about how he kept his headphones alive for almost a decade, with a few tricks you can copy on your own.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/05/sennheiser-momentum-5-wireless-screw.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
       "title": "I tested the $79 CMF Clip Pro, and my favorite feature is back",
       "url": "https://www.soundguys.com/i-tested-the-79-cmf-clip-pro-and-my-favorite-feature-is-back-161502/",
       "publishedAt": "2026-08-19T09:00:15.000Z",
@@ -838,6 +1047,17 @@
       "image": "https://www.soundguys.com/wp-content/uploads/2026/08/CMF-Clip-Pro-scaled.jpg",
       "category": "耳機",
       "articleType": "評測"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "AI will shape the future of wireless headphones – and we’ll all love it, according to these 5 audio execs",
+      "url": "https://www.whathifi.com/headphones/wireless-headphones/ai-tuned-personal-audio-higher-data-rates-and-better-repairability-five-audio-pros-predict-the-future-of-wireless-headphones",
+      "publishedAt": "2026-08-19T08:44:07.000Z",
+      "author": "Alastair Stevenson",
+      "description": "I asked experts from Sony, Technics, B&W, Harman Luxury and Sennheiser to predict the future of portable audio, and they all had one thing in common",
+      "image": "https://cdn.mos.cms.futurecdn.net/oJvmwR6QR8VmzyqpWpQyBg-2560-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
     },
     {
       "source": "What Hi-Fi?",
@@ -929,6 +1149,17 @@
     },
     {
       "source": "What Hi-Fi?",
+      "title": "Considering wired headphones? These open-backed Grado pair have won five What Hi-Fi? Awards in a row – and are at their lowest price",
+      "url": "https://www.whathifi.com/headphones/wired-headphones/considering-wired-headphones-these-open-backed-grado-pair-have-won-five-what-hi-fi-awards-in-a-row-and-are-at-their-lowest-price",
+      "publishedAt": "2026-08-18T13:29:00.000Z",
+      "author": "Daniel Furn",
+      "description": "Under £200 for a pair of What Hi-Fi? legends",
+      "image": "https://cdn.mos.cms.futurecdn.net/NxGbpUnNGLbbgEJAB7Hu3P-2560-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
       "title": "Pro-Ject adds aptX Bluetooth powers to its entry-level, plug-and-play turntable",
       "url": "https://www.whathifi.com/hi-fi/turntables/pro-ject-adds-aptx-bluetooth-powers-to-its-entry-level-plug-and-play-turntable",
       "publishedAt": "2026-08-18T12:34:06.000Z",
@@ -947,6 +1178,50 @@
       "description": "Spotify's new Playlist Notes let you add context and background about the songs you love the most.",
       "image": "https://cdn.mos.cms.futurecdn.net/8MfDZjQBfRSj7bUSZbSdiP-2000-80.jpg",
       "category": "其他音訊",
+      "articleType": "新聞"
+    },
+    {
+      "source": "Tom's Guide",
+      "title": "AirPods Ultra with cameras just leaked in video — and the privacy debate has already started",
+      "url": "https://www.tomsguide.com/audio/airpods/airpods-ultra-with-cameras-just-appeared-in-leaked-video-and-the-privacy-debate-has-already-started",
+      "publishedAt": "2026-08-18T11:27:44.000Z",
+      "author": "Jeff Parsons",
+      "description": "Our first look at the next generation of AirPods",
+      "image": "https://cdn.mos.cms.futurecdn.net/k9ErLVhkHsuycKsa3Xzej8-2560-80.jpg",
+      "category": "耳機",
+      "articleType": "新聞"
+    },
+    {
+      "source": "TechRadar",
+      "title": "Shokz open-ear headphones drop to the lowest prices I've seen since Black Friday — save up to 30% on 'our top pick for the best running headphones in 2026'",
+      "url": "https://www.techradar.com/health-fitness/fitness-headphones/get-shokzs-best-rated-open-ear-headphones-for-the-lowest-prices-weve-seen-this-year-save-up-to-30-percent-off-the-openrun-at-amazon",
+      "publishedAt": "2026-08-18T11:26:37.000Z",
+      "author": "James Pickard",
+      "description": "There's a massive sale on Shokz headphones right now at Amazon, with savings of up to 30% available on the OpenRun, OpenFit, OpenMove, and more — I've picked out the best deals.",
+      "image": "https://cdn.mos.cms.futurecdn.net/xuLSzibouvKPhQgrAF4Rrf-2560-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "TechRadar",
+      "title": "A new leaked video shows how AirPods with cameras could work — and it's a lot more like smart glasses than some of us would like",
+      "url": "https://www.techradar.com/audio/these-things-arent-meant-to-take-pictures-as-a-fresh-clip-of-camera-equipped-airpods-leaks-people-appear-to-have-already-made-their-minds-up-whatever-the-experts-say",
+      "publishedAt": "2026-08-18T09:52:39.000Z",
+      "author": "Tom Bedford",
+      "description": "All systems go on AirPods with cameras",
+      "image": "https://cdn.mos.cms.futurecdn.net/c479LR5bC7GXfmkrxf3isM-1920-80.jpg",
+      "category": "耳機",
+      "articleType": "新聞"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Reports suggest that Sonos could launch a major product in September – and it isn't the Ace Ultra headphones",
+      "url": "https://www.whathifi.com/tv-home-cinema/soundbars/reports-suggest-that-sonos-could-launch-a-major-product-in-september-and-it-isnt-the-ace-ultra-headphones",
+      "publishedAt": "2026-08-18T09:18:13.000Z",
+      "author": "Harry McKerrell",
+      "description": "Could the Ultra be joined by a new soundbar?",
+      "image": "https://cdn.mos.cms.futurecdn.net/TDxFFP59eoKv9o9QEcxQXf-1600-80.jpg",
+      "category": "耳機",
       "articleType": "新聞"
     },
     {
@@ -1005,6 +1280,17 @@
       "articleType": "其他"
     },
     {
+      "source": "TechRadar",
+      "title": "I've found the 31 best tech deals in the Best Buy 60th Anniversary sale — celebrate with big savings on laptops, TVs, Apple, appliances, headphones, and more",
+      "url": "https://www.techradar.com/seasonal-sales/31-top-deals-from-the-best-buy-60th-anniversary-sale-ive-found-the-biggest-savings-on-laptops-tvs-apple-appliances-headphones-and-more",
+      "publishedAt": "2026-08-17T15:53:04.000Z",
+      "author": "James Pickard",
+      "description": "Best Buy is celebrating its 60th anniversary with a massive week-long tech sale, so I've looked through it and picked out the 31 best deals on laptops, TVs, Apple, appliances, headphones, and more.",
+      "image": "https://cdn.mos.cms.futurecdn.net/95toAqCZxigvcBmsa5zNPS-2560-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
       "source": "SoundGuys",
       "title": "This 4.6-star Ultimate Ears Miniroll speaker is back to its $49.99 low",
       "url": "https://www.soundguys.com/ultimate-ears-miniroll-speaker-deal-161541/",
@@ -1046,6 +1332,17 @@
       "description": "Nearly 30 per cent off this five-star home cinema projector",
       "image": "https://cdn.mos.cms.futurecdn.net/RdGd2j9K55JYqUsTCgEAs7-1920-80.jpg",
       "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Sony and Bose beware! Reports suggest Samsung is working on a pair of wireless over-ear headphones",
+      "url": "https://www.whathifi.com/headphones/wireless-headphones/is-samsung-about-to-take-on-sony-bose-and-apple-with-its-first-over-ear-headphones-in-11-years",
+      "publishedAt": "2026-08-17T12:15:06.000Z",
+      "author": "Harry McKerrell",
+      "description": "Recent reports would suggest so...",
+      "image": "https://cdn.mos.cms.futurecdn.net/GAvZ7jEAFLbwtvZqoWenkB-1920-80.webp",
+      "category": "耳機",
       "articleType": "其他"
     },
     {
@@ -1225,6 +1522,17 @@
       "articleType": "其他"
     },
     {
+      "source": "SoundGuys",
+      "title": "Amazon cuts Philips open-back stereo headphones to $89.99 for home listening",
+      "url": "https://www.soundguys.com/philips-open-back-stereo-headphones-161463/",
+      "publishedAt": "2026-08-14T16:21:17.000Z",
+      "author": "Matt Horne",
+      "description": "Amazon cuts Philips wired open-back headphones by $40, bringing airy home listening and gaming sound to $89.99.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/08/Philips-Open-Back-Stereo-Headphones-Press-Image.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
       "source": "What Hi-Fi?",
       "title": "Our experts pick the 3 best 4K Blu-ray players right now (and some great reference discs)",
       "url": "https://www.whathifi.com/tv-home-cinema/blu-ray-players/long-live-physical-media-our-home-cinema-experts-pick-out-the-best-4k-blu-ray-players-and-some-of-our-favourite-discs-to-play-on-them",
@@ -1244,6 +1552,17 @@
       "description": "The Google Pixel Buds 2a are back to their best price ever, with ANC, Multipoint, Fast Pair, and hands-free Gemini support.",
       "image": "https://www.soundguys.com/wp-content/uploads/2025/10/google-pixel-buds-2a-hero.jpg",
       "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Our deal experts have found the best discounts on dissected Dolby Atmos soundbars, RGB Mini LED TVs and five-star Bluetooth speakers",
+      "url": "https://www.whathifi.com/av/our-deal-experts-have-found-the-best-discounts-on-dissected-dolby-atmos-soundbars-rgb-mini-led-tvs-and-five-star-bluetooth-speakers",
+      "publishedAt": "2026-08-14T15:31:29.000Z",
+      "author": "Daniel Furn",
+      "description": "Record high temperatures and record low prices",
+      "image": "https://cdn.mos.cms.futurecdn.net/HbSCjRBq9HekrKzuWNtkM4-1920-80.jpg",
+      "category": "Soundbar",
       "articleType": "其他"
     },
     {
@@ -1322,6 +1641,28 @@
       "image": "https://cdn.mos.cms.futurecdn.net/pxVjJRUjcV42MyYBCcSVB4-1984-80.jpg",
       "category": "黑膠／唱盤",
       "articleType": "新聞"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "Samsung could take on Apple's AirPods Max with its own over-ear 'Galaxy' headphones",
+      "url": "https://www.soundguys.com/samsung-over-ear-headphones-leak-161442/",
+      "publishedAt": "2026-08-14T09:43:33.000Z",
+      "author": "Tushar Mehta",
+      "description": "Samsung may finally be working on a new pair over-ear headphones, after years of limiting itself to developing only earbuds.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/02/samsung-galaxy-buds-4-pro-hero.jpg",
+      "category": "耳機",
+      "articleType": "新聞"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "Survey shows listeners overwhelmingly want replaceable batteries in headphones",
+      "url": "https://www.soundguys.com/survey-shows-listeners-want-replaceable-batteries-in-headphones-161046/",
+      "publishedAt": "2026-08-14T08:30:51.000Z",
+      "author": "Adam Birney",
+      "description": "Our poll shows listeners overwhelmingly want replaceable batteries as a standard feature of headphones, not just a bonus.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/04/SteelSeries-Arctis-Nova-Pro-Omni-batteries.jpg",
+      "category": "耳機",
+      "articleType": "其他"
     },
     {
       "source": "Tom's Guide",
@@ -1500,6 +1841,17 @@
       "articleType": "其他"
     },
     {
+      "source": "What Hi-Fi?",
+      "title": "Curious about RGB Mini LED TVs? Sony's vibrant step-down model just hit a new lowest price",
+      "url": "https://www.whathifi.com/tv-home-cinema/televisions/curious-about-rgb-mini-led-sonys-vibrant-step-down-model-just-hit-a-new-lowest-price",
+      "publishedAt": "2026-08-13T09:58:07.000Z",
+      "author": "Daniel Furn",
+      "description": "The big new panel technology of 2026 is now a bit more affordable",
+      "image": "https://cdn.mos.cms.futurecdn.net/Put3o7je68SK7yu9y7kM83-1920-80.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
       "source": "SoundGuys",
       "title": "I tried two of the best modern CD players, but they're both missing something obvious",
       "url": "https://www.soundguys.com/cd-players-fiio-fosi-audio-160626/",
@@ -1599,6 +1951,17 @@
       "articleType": "其他"
     },
     {
+      "source": "TechRadar",
+      "title": "‘Sonos Ace Ultra’ headphones spotted in FCC listing and I truly hope Sonos’ second shot at wireless over-ears fixes a key issue with the originals",
+      "url": "https://www.techradar.com/audio/wireless-headphones/sonos-sees-your-airpods-max-2-and-raises-you-an-ace-ultra-and-the-much-rumored-second-generation-headphones-sound-extreme",
+      "publishedAt": "2026-08-12T13:00:00.000Z",
+      "author": "Tom Bedford",
+      "description": "The hotly anticipated Sonos Ace Ultra sound like they're just around the corner, according to leaks and filings.",
+      "image": "https://cdn.mos.cms.futurecdn.net/Y6kBzou8fVRsttf3vHq8ib-1920-80.jpg",
+      "category": "耳機",
+      "articleType": "新聞"
+    },
+    {
       "source": "What Hi-Fi?",
       "title": "How to watch UEFA Super Cup 2026: free live streams for PSG vs Aston Villa",
       "url": "https://www.whathifi.com/streaming-entertainment/how-to-watch/uefa-super-cup-2026-psg-vs-aston-villa-free",
@@ -1607,6 +1970,17 @@
       "description": "How to watch UEFA Super Cup 2026 live streams around the world. Free coverage, teams, preview, start time for PSG vs Aston Villa at the Red Bull Arena.",
       "image": "https://cdn.mos.cms.futurecdn.net/YxQzW7PSJnrAioUaxtmknG-1920-80.jpg",
       "category": "串流播放器",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "I’m excited by the latest Sony wireless headphones rumours - but I have one major worry",
+      "url": "https://www.whathifi.com/headphones/wireless-headphones/im-excited-by-the-latest-sony-wireless-headphones-rumours-but-i-have-one-major-worry",
+      "publishedAt": "2026-08-12T11:15:39.000Z",
+      "author": "Andy Madden",
+      "description": "Surely it can’t just be a new colour?",
+      "image": "https://cdn.mos.cms.futurecdn.net/iT9CCQAFQLRr8UrahPm6Tb-2560-80.jpg",
+      "category": "耳機",
       "articleType": "其他"
     },
     {
@@ -1665,6 +2039,17 @@
       "articleType": "其他"
     },
     {
+      "source": "SoundGuys",
+      "title": "This could be our first look at the premium Sonos Ace Ultra headphones",
+      "url": "https://www.soundguys.com/sonos-ace-ultra-leak-161313/",
+      "publishedAt": "2026-08-12T06:58:31.000Z",
+      "author": "Shimul Sood",
+      "description": "The Sonos Ace Ultra has leaked in new images, revealing a chunkier design, updated controls, and a mysterious new switch.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2024/05/DSC09991-scaled.jpg",
+      "category": "耳機",
+      "articleType": "新聞"
+    },
+    {
       "source": "TechRadar",
       "title": "Quote of the day by musician Nick Cave on AI-generated lyrics: 'A grotesque mockery of what it is to be human' — dismissing the use of AI in the creative process",
       "url": "https://www.techradar.com/pro/quote-of-the-day-by-musician-nick-cave-on-ai-generated-lyrics-a-grotesque-mockery-of-what-it-is-to-be-human-dismissing-the-use-of-ai-in-the-creative-process",
@@ -1685,6 +2070,17 @@
       "image": "https://www.soundguys.com/wp-content/uploads/2026/08/sennheiser-accentum-clip-hero.jpg",
       "category": "耳機",
       "articleType": "評測"
+    },
+    {
+      "source": "TechRadar",
+      "title": "Our 26 favorite back-to-school deals this week — including cheap laptops, headphones, appliances, and other student essentials",
+      "url": "https://www.techradar.com/seasonal-sales/the-best-back-to-school-sales-2026-techradars-recommendations-for-laptops-headphones-essentials-and-more",
+      "publishedAt": "2026-08-11T16:39:27.000Z",
+      "author": "Alex Whitelock",
+      "description": "Looking for some essentials before you head off to school, college, or university? Here's what we'd buy if we were students this month.",
+      "image": "https://cdn.mos.cms.futurecdn.net/Exs5yUXyH7PNYfBhMtBkab-2560-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
     },
     {
       "source": "What Hi-Fi?",
@@ -1718,6 +2114,28 @@
       "image": "https://cdn.mos.cms.futurecdn.net/9Mp7o7Fy4NrWKfjvXPcbAU-1920-80.jpg",
       "category": "其他音訊",
       "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Sonos will launch new wireless headphones next month, official filing suggests",
+      "url": "https://www.whathifi.com/headphones/wireless-headphones/sonos-will-launch-new-wireless-headphones-next-month-official-filing-suggests",
+      "publishedAt": "2026-08-11T11:17:16.000Z",
+      "author": "Joe Svetlik",
+      "description": "Rumoured to be called the Sonos Ace Ultra",
+      "image": "https://cdn.mos.cms.futurecdn.net/2XeUsGJY5XJgzHjZBrvdrg-2560-80.jpg",
+      "category": "耳機",
+      "articleType": "新聞"
+    },
+    {
+      "source": "TechRadar",
+      "title": "Saving up for Beats’ headphones since you saw them at the World Cup? The brand is still ghosting us — but Reddit sleuths think they know when the new cans will land",
+      "url": "https://www.techradar.com/audio/wireless-headphones/beats-teased-new-headphones-then-ghosted-us-but-now-reddit-sleuths-think-theyve-worked-out-when-the-new-cans-will-land",
+      "publishedAt": "2026-08-11T11:17:09.000Z",
+      "author": "Tom Bedford",
+      "description": "Online sleuths think that the new Beats headphones, teased at the World Cup, might be poised to release right at the end of the year.",
+      "image": "https://cdn.mos.cms.futurecdn.net/6K7KuaehYgzDqQjc44cnJA-2304-80.jpg",
+      "category": "耳機",
+      "articleType": "新聞"
     },
     {
       "source": "SoundGuys",
@@ -1761,6 +2179,17 @@
       "description": "This SHOKZ deal cuts the OpenFit Air to $89.95, with open-ear audio, ear hooks, and IP54 protection for runs and gym sessions.",
       "image": "https://www.soundguys.com/wp-content/uploads/2023/07/Sequence-03.00_02_42_27.Still008-scaled.jpg",
       "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "Sony WH-CH720N deal drops the lightweight ANC headphones under $90",
+      "url": "https://www.soundguys.com/sony-wh-ch720n-headphones-amazon-deal-161238/",
+      "publishedAt": "2026-08-10T16:27:59.000Z",
+      "author": "Matt Horne",
+      "description": "Sony WH-CH720N headphones drop to $86.95 at Amazon, a huge 52% off RRP for ANC, multipoint Bluetooth, and long battery life.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2023/09/Sony-WH-CH720N-Featured-Image-1-scaled.jpg",
+      "category": "耳機",
       "articleType": "其他"
     },
     {
@@ -1819,6 +2248,17 @@
       "articleType": "新聞"
     },
     {
+      "source": "What Hi-Fi?",
+      "title": "Sony could be giving my favourite wireless headphones of all time an unexpected revival",
+      "url": "https://www.whathifi.com/headphones/wireless-headphones/sony-could-be-giving-my-favourite-wireless-headphones-of-all-time-an-unexpected-revival",
+      "publishedAt": "2026-08-10T12:09:02.000Z",
+      "author": "Lewis Empson",
+      "description": "Sony's six-year-old cans could be making a comeback",
+      "image": "https://cdn.mos.cms.futurecdn.net/iT9CCQAFQLRr8UrahPm6Tb-2560-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
       "source": "TechRadar",
       "title": "The 4.5-star-rated Sony WF-C510 have dropped to a record-low price on Amazon — here's why I'd buy our 'favorite low-cost earbuds'",
       "url": "https://www.techradar.com/audio/earbuds-airpods/sonys-best-cheap-earbuds-just-fell-to-an-unbeatable-low-price-at-amazon",
@@ -1826,6 +2266,17 @@
       "author": "James Pickard",
       "description": "The Sony WF-C510 are some of the best cheap earbuds you can buy and they've now fallen to a record-low price on Amazon — here's why I'd buy them.",
       "image": "https://cdn.mos.cms.futurecdn.net/cy8bpYQpTv9wmZyKQ6jCfe-1600-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Bose QuietComfort Headphones (2nd Gen) vs Bose QuietComfort Ultra Headphones (2nd Gen)",
+      "url": "https://www.whathifi.com/headphones/wireless-headphones/bose-quietcomfort-headphones-2nd-gen-vs-bose-quietcomfort-ultra-headphones-2nd-gen-what-are-the-differences",
+      "publishedAt": "2026-08-10T11:07:35.000Z",
+      "author": "Ioan Hazell",
+      "description": "What are the differences?",
+      "image": "https://cdn.mos.cms.futurecdn.net/99aJCzGUXVqpZJfzzaPND-1920-80.jpg",
       "category": "耳機",
       "articleType": "其他"
     },
@@ -1861,6 +2312,17 @@
       "image": "https://cdn.mos.cms.futurecdn.net/qnnh7nHMYfXJYbqPtCaPkL-2000-80.jpg",
       "category": "DAC／擴大機",
       "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "Sony's surprise WH-1000XM4 revival could be exactly what headphone fans wanted",
+      "url": "https://www.soundguys.com/sony-wh-1000xm4c-leak-161224/",
+      "publishedAt": "2026-08-10T06:57:41.000Z",
+      "author": "Adamya Sharma",
+      "description": "Sony is reportedly preparing to launch the WH-1000XM4C, a surprising new variant of its six-year-old WH-1000XM4 headphones.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2020/08/Sony-WH-1000XM4-2-of-10.jpg",
+      "category": "耳機",
+      "articleType": "新聞"
     },
     {
       "source": "What Hi-Fi?",
@@ -1908,6 +2370,28 @@
     },
     {
       "source": "TechRadar",
+      "title": "I tested Dynaudio's awe-inspiring Dolby Atmos soundbar with mechanized wooden fins and 24 drivers — and spoke to an exec about building a soundbars for giant TVs and how to hide elite home theater tech in 'beautiful objects'",
+      "url": "https://www.techradar.com/televisions/soundbars/dynaudio-opus-one-preview",
+      "publishedAt": "2026-08-09T01:00:00.000Z",
+      "author": "Harry Padoan",
+      "description": "I tried Dynaudio’s huge soundbar with moving wooden fins, and was wowed by its immense power and scale.",
+      "image": "https://cdn.mos.cms.futurecdn.net/JyaCZed2wVhxJpHqsSiovd-2560-80.jpg",
+      "category": "Soundbar",
+      "articleType": "評測"
+    },
+    {
+      "source": "TechRadar",
+      "title": "Glasses that watch, earbuds that hear, speakers that eavesdrop, TVs that use your home life to train AI: how much closer will we allow our tech to come before enough is enough — and what can we do to regain some privacy?",
+      "url": "https://www.techradar.com/audio/earbuds-airpods/the-great-privacy-revolt-people-are-pushing-back-against-the-glasses-that-record-the-earbuds-that-eavesdrop-and-the-tvs-watching-our-lives-heres-what-we-can-do-about-it-according-to-an-ai-research-ceo-and-a-digital-rights-advocate",
+      "publishedAt": "2026-08-08T19:00:00.000Z",
+      "author": "Becky Scarrott",
+      "description": "'The chicification of surveillance is deeply concerning'",
+      "image": "https://cdn.mos.cms.futurecdn.net/kYf4AgYPKP7fQjoErXAhYa-2000-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "TechRadar",
       "title": "‘A growing share of consumers want to do more than just listen’: Spotify’s upcoming AI-powered remix tool will mark a big step for the streamer and labels alike — but music organizations and analysts have their reservations",
       "url": "https://www.techradar.com/audio/spotify/playing-around-with-your-favourite-artists-song-is-an-ultimate-expression-of-fandom-spotify-is-taking-another-step-into-participatory-music-tools-with-its-upcoming-ai-remix-feature-but-it-signals-red-flags-for-industry-professionals",
       "publishedAt": "2026-08-08T14:30:00.000Z",
@@ -1916,6 +2400,50 @@
       "image": "https://cdn.mos.cms.futurecdn.net/GuMhvRqoaRqUadh5darDaC-2000-80.jpg",
       "category": "串流播放器",
       "articleType": "新聞"
+    },
+    {
+      "source": "TechRadar",
+      "title": "Skip the QuietComfort Headphones (2nd Gen) — Bose just discounted these 5 top headphones and earbuds at Amazon",
+      "url": "https://www.techradar.com/audio/headphones/5-of-the-best-bose-headphones-and-earbuds-are-up-to-usd130-off-ahead-of-the-launch-of-the-quietcomfort-headphones-2nd-gen-which-ones-are-worth-buying",
+      "publishedAt": "2026-08-08T11:45:00.000Z",
+      "author": "James Pickard",
+      "description": "With the QuietComfort Headphones (2nd Gen) on the way, Bose has just discounted several of its older models at Amazon, but which ones are actually worth buying?",
+      "image": "https://cdn.mos.cms.futurecdn.net/uWv8F9hDi429tFvq6a8WUT-2560-80.jpg",
+      "category": "耳機",
+      "articleType": "新聞"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "We're about to test two of 2026's most important TVs – but what makes them so special?",
+      "url": "https://www.whathifi.com/tv-home-cinema/televisions/were-about-to-test-two-of-2026s-most-important-tvs-but-what-makes-them-so-special",
+      "publishedAt": "2026-08-08T07:00:00.000Z",
+      "author": "Lewis Empson",
+      "description": "Top notch panel tech and a big HDR upgrade coming to our test room soon",
+      "image": "https://cdn.mos.cms.futurecdn.net/va9jKxt9kuRoE6RJU9MpSM-1920-80.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Our experts have found the best deals on newly reviewed OLED TVs, our favourite Apple AirPods and Dolby Atmos soundbars",
+      "url": "https://www.whathifi.com/av/our-experts-have-found-the-best-deals-on-newly-reviewed-oled-tvs-our-favourite-apple-airpods-and-dolby-atmos-soundbars",
+      "publishedAt": "2026-08-07T15:35:33.000Z",
+      "author": "Daniel Furn",
+      "description": "There are deals across the hi-fi and home cinema categories this week",
+      "image": "https://cdn.mos.cms.futurecdn.net/i4TAD2gdQ2vPjWkVKbqxbL-1920-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "Bowers & Wilkins Px8 deal cuts 36% off these premium wireless ANC headphones",
+      "url": "https://www.soundguys.com/bowers-wilkins-px8-deal-161140/",
+      "publishedAt": "2026-08-07T15:30:14.000Z",
+      "author": "Matt Horne",
+      "description": "The Royal Burgundy Bowers & Wilkins Px8 drops to $479, bringing premium sound and luxury build for $270 less.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2024/05/bowers-and-wilkins-px8-hero.jpg",
+      "category": "耳機",
+      "articleType": "其他"
     },
     {
       "source": "What Hi-Fi?",
@@ -1959,6 +2487,17 @@
       "description": "Behind-the-scenes of the restoration process",
       "image": "https://cdn.mos.cms.futurecdn.net/QK88UgjvSvJEemuYXEH9Qh-2560-80.jpg",
       "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Do your headphones keep running out of power? This £25 pair could be the answer",
+      "url": "https://www.whathifi.com/headphones/wireless-headphones/do-your-headphones-keep-running-out-of-power-our-audio-experts-recommend-this-50-hour-gbp25-pair-that-will-last-you-all-weekend",
+      "publishedAt": "2026-08-07T12:49:44.000Z",
+      "author": "Daniel Furn",
+      "description": "Fly to Australia and back with plenty of juice to spare",
+      "image": "https://cdn.mos.cms.futurecdn.net/ymd5NzCzM7smLmwY7ThHsB-2560-80.jpg",
+      "category": "耳機",
       "articleType": "其他"
     },
     {
@@ -2039,6 +2578,17 @@
       "articleType": "其他"
     },
     {
+      "source": "SoundGuys",
+      "title": "Sony might revive its fan-favorite WH-1000XM4 headphones",
+      "url": "https://www.soundguys.com/sony-wh-1000-xm4-revive-rumor-161121/",
+      "publishedAt": "2026-08-07T08:28:37.000Z",
+      "author": "Tushar Mehta",
+      "description": "Sony may be reviving one of its best-selling WH-1000XM4 wireless headphones, shaking up the flagship audio market all over again.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2020/08/Sony-WH-1000XM4-4-of-10.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
       "source": "What Hi-Fi?",
       "title": "Sony's five-star Bluetooth turntable is the perfect way to start your vinyl journey – and now it's cheaper than ever",
       "url": "https://www.whathifi.com/hi-fi/turntables/sonys-five-star-bluetooth-turntable-is-the-perfect-way-to-start-your-vinyl-journey-and-now-its-cheaper-than-ever",
@@ -2068,6 +2618,17 @@
       "author": "Alex Whitelock",
       "description": "Don't hesitate to pick them up while they're just $189.",
       "image": "https://cdn.mos.cms.futurecdn.net/i3AkV4gyXkZFuRs6zD4gpf-2560-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "Nothing Headphone (a) drops to $164.99 in second-best deal ever",
+      "url": "https://www.soundguys.com/nothing-headphone-a-deal-161090/",
+      "publishedAt": "2026-08-06T17:10:12.000Z",
+      "author": "Matt Horne",
+      "description": "Nothing Headphone (a) is 17% off right now on Amazon, with 135-hour battery life, ANC, and a 4.6-star rating.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/03/Nothing-Headphone-a-5-scaled.jpeg",
       "category": "耳機",
       "articleType": "其他"
     },
@@ -2113,6 +2674,28 @@
       "description": "Because sometimes you’ve got to get behind the mule",
       "image": "https://cdn.mos.cms.futurecdn.net/qrU3sihRGJ766iQTFGuEZk-1717-80.jpg",
       "category": "喇叭",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "Bose's new QuietComfort headphones finally bring Ultra audio features for less",
+      "url": "https://www.soundguys.com/bose-quietcomfort-headphones-2nd-gen-161066/",
+      "publishedAt": "2026-08-06T13:00:44.000Z",
+      "author": "Adamya Sharma",
+      "description": "Bose has launched the QuietComfort Headphones (2nd Gen) with a refreshed design, new audio modes, and limited-edition colors",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/08/Bose-QuietComfort-Headphones-2nd-Gen-Rosewood-Mauve.jpg",
+      "category": "耳機",
+      "articleType": "新聞"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Bose's latest ANC wireless headphones have Ultra-inspired upgrades",
+      "url": "https://www.whathifi.com/headphones/wireless-headphones/boses-latest-anc-wireless-headphones-arrive-with-ultra-inspired-upgrades-and-three-limited-edition-colours",
+      "publishedAt": "2026-08-06T13:00:00.000Z",
+      "author": "Ioan Hazell",
+      "description": "The QuietComfort Headphones (2nd Gen) have landed",
+      "image": "https://cdn.mos.cms.futurecdn.net/u6LFwyxHGUpqC2qpJDzNWo-2560-80.jpg",
+      "category": "耳機",
       "articleType": "其他"
     },
     {
@@ -2215,6 +2798,28 @@
       "articleType": "其他"
     },
     {
+      "source": "SoundGuys",
+      "title": "I thought ANC headphones were best for office work. I was wrong",
+      "url": "https://www.soundguys.com/why-i-use-open-back-headphones-for-work-160974/",
+      "publishedAt": "2026-08-06T08:30:21.000Z",
+      "author": "Adam Birney",
+      "description": "I expected ANC headphones to win for office work. Open-back headphones ended up being the better fit for focus and comfort at my desk.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2022/06/hifiman-sundara-wear-reverse-e1655929119510.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "“The broad majority is quite satisfied” – outside of luxury, most headphone brands aren’t fussed about a key hi-res wireless audio upgrade",
+      "url": "https://www.whathifi.com/headphones/wireless-headphones/we-were-promised-a-huge-hi-res-wireless-audio-upgrade-but-one-year-on-the-big-headphone-brands-still-dont-seem-fussed",
+      "publishedAt": "2026-08-06T08:00:00.000Z",
+      "author": "Alastair Stevenson",
+      "description": "Outside the high-end, many brands aren’t convinced people want fully scalable, lossless 24-bit/192kHz wireless audio quality (yet)",
+      "image": "https://cdn.mos.cms.futurecdn.net/7DFPLikMnuZFfjrkUhHeeb-2560-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
       "source": "What Hi-Fi?",
       "title": "Marantz adds four new AV receivers to its home cinema line-up with \"ground-breaking\" feature sets",
       "url": "https://www.whathifi.com/tv-home-cinema/av-receivers/marantz-adds-four-new-av-receivers-to-its-home-cinema-line-up-with-ground-breaking-feature-sets",
@@ -2304,6 +2909,17 @@
     },
     {
       "source": "What Hi-Fi?",
+      "title": "Are you an iPhone user going on holiday soon? This is the AirPods deal our audio experts recommend",
+      "url": "https://www.whathifi.com/headphones/wireless-earbuds/are-you-an-iphone-user-going-on-holiday-soon-this-is-the-airpods-deal-our-audio-experts-recommend",
+      "publishedAt": "2026-08-05T12:17:02.000Z",
+      "author": "Daniel Furn",
+      "description": "Top-tier noise-cancelling, live translation... all at a new lowest price",
+      "image": "https://cdn.mos.cms.futurecdn.net/LgULQ8tTGGUUB5kFbF4tu9-1920-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
       "title": "I used four wireless speakers to finally hear this album that's almost impossible to listen to – and it made my brain hurt (in a good way)",
       "url": "https://www.whathifi.com/speakers/wireless-speakers/i-used-four-wireless-speakers-to-finally-hear-this-album-thats-almost-impossible-to-listen-to-and-it-made-my-brain-hurt-in-a-good-way",
       "publishedAt": "2026-08-05T10:53:56.000Z",
@@ -2336,6 +2952,17 @@
       "articleType": "其他"
     },
     {
+      "source": "What Hi-Fi?",
+      "title": "I edited What Hi-Fi? in the late 2000s and saw Sony launch a dancing egg, headphones go mainstream, and the launch of a revolutionary (and divisive) music service",
+      "url": "https://www.whathifi.com/hi-fi/i-edited-what-hi-fi-in-the-late-2000s-and-saw-sony-launch-a-dancing-egg-headphones-go-mainstream-and-the-launch-of-a-revolutionary-and-divisive-music-service",
+      "publishedAt": "2026-08-05T08:00:00.000Z",
+      "author": "Richard Melville",
+      "description": "The hi-fi industry in the 2000s and 2010s could be a curious place – but it was also a time of revolution",
+      "image": "https://cdn.mos.cms.futurecdn.net/wv45NBmr8FjTjGaW937uR9-2560-80.jpg",
+      "category": "耳機",
+      "articleType": "新聞"
+    },
+    {
       "source": "TechRadar",
       "title": "Love Nothing’s LDAC support and design language, hate its big brother-style in-call recording? Meet the cheaper CMF sub-brand and first ever clip-style open earbuds",
       "url": "https://www.techradar.com/audio/earbuds-airpods/cmfs-first-clip-style-open-earbuds-are-here-with-a-tempting-price-tag-and-thankfully-none-of-nothings-flagship-surveillance-tech",
@@ -2343,6 +2970,17 @@
       "author": "Becky Scarrott",
       "description": "Please do not wear three pairs like this",
       "image": "https://cdn.mos.cms.futurecdn.net/rYQdWtYt5pLRhnYawwevPB-2560-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "Meze just made a $999 headphone cable that nobody really needs",
+      "url": "https://www.soundguys.com/meze-just-made-a-999-headphone-cable-that-nobody-really-needs-160949/",
+      "publishedAt": "2026-08-04T18:39:00.000Z",
+      "author": "Adam Birney",
+      "description": "Meze's Ultra cable costs $999 and promises purer sound. Here's why no cable, at any price, can deliver that.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/08/Meze-Audio-ULTRA_cable_-_07.jpg",
       "category": "耳機",
       "articleType": "其他"
     },
@@ -2358,6 +2996,17 @@
       "articleType": "其他"
     },
     {
+      "source": "SoundGuys",
+      "title": "This Beats Studio Pro Amazon deal slashes the premium headphones to $169.95",
+      "url": "https://www.soundguys.com/beats-studio-pro-amazon-deal-160942/",
+      "publishedAt": "2026-08-04T15:58:07.000Z",
+      "author": "Matt Horne",
+      "description": "The high-end Beats Studio Pro drops 51% on Amazon, with ANC, USB-C lossless audio, and up to 40 hours of battery life.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2023/07/beats-studio-pro-reverse-e1690900885278.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
       "source": "TechRadar",
       "title": "This wild see-through CD player shows the guts of the tech while playing like it's a Damien Hirst exhibition — and I like the way this cheap Kickstarter idea slides out of its case like vinyl",
       "url": "https://www.techradar.com/audio/this-transparent-cd-player-puts-the-inner-workings-on-full-display-like-a-work-of-art-its-the-perfect-showpiece-for-physical-media-fans",
@@ -2367,6 +3016,17 @@
       "image": "https://cdn.mos.cms.futurecdn.net/89uVkWxHkucevo8teHZe25-2000-80.jpg",
       "category": "黑膠／唱盤",
       "articleType": "其他"
+    },
+    {
+      "source": "TechRadar",
+      "title": "Amazon launches a massive Sony headphones sale — here are the 7 best deals I'd buy, including the 4.5-star WH-1000XM6",
+      "url": "https://www.techradar.com/audio/headphones/ive-found-7-of-the-best-sony-headphones-and-earbuds-on-sale-right-now-at-amazon-deals-from-usd23",
+      "publishedAt": "2026-08-04T13:52:00.000Z",
+      "author": "James Pickard",
+      "description": "Amazon is running a big sale on Sony headphones and earbuds, so I've searched through all of the offers and picked out the 7 deals that I'd buy, with prices starting at $23.",
+      "image": "https://cdn.mos.cms.futurecdn.net/WNiNDRqNZDiAzjZbwNUhDj-1376-80.jpg",
+      "category": "耳機",
+      "articleType": "新聞"
     },
     {
       "source": "What Hi-Fi?",
@@ -2411,6 +3071,17 @@
       "image": "https://cdn.mos.cms.futurecdn.net/ai84j6o7UdBv2TRLyfEGFd-1119-80.jpg",
       "category": "耳機",
       "articleType": "新聞"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Now Playing: beat the heat with the 6 best tracks we have been using to test headphones and hi-fi",
+      "url": "https://www.whathifi.com/streaming-entertainment/music-streaming/now-playing-beat-the-heat-with-the-6-best-tracks-we-have-been-using-to-test-headphones-and-hi-fi",
+      "publishedAt": "2026-08-04T12:04:55.000Z",
+      "author": "Harry McKerrell",
+      "description": "You look hot. We can’t fix that.",
+      "image": "https://cdn.mos.cms.futurecdn.net/8aG3dmwVRm3UWfpyJQ4ADZ-1920-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
     },
     {
       "source": "SoundGuys",
@@ -2512,6 +3183,17 @@
       "articleType": "新聞"
     },
     {
+      "source": "TechRadar",
+      "title": "I've looked through Best Buy's back-to-school sale — it includes cheap AirPods, laptops, tablets, and even TVs",
+      "url": "https://www.techradar.com/seasonal-sales/i-scanned-best-buys-massive-back-to-school-sale-these-are-the-12-deals-id-buy-on-laptops-tablets-airpods-tvs-and-more",
+      "publishedAt": "2026-08-03T15:59:24.000Z",
+      "author": "Alex Whitelock",
+      "description": "From AirPods to OLED laptops: these are the essentials that I'd pick up from Best Buy's back-to-school sale.",
+      "image": "https://cdn.mos.cms.futurecdn.net/B6oeysM9J5psrNTUvQ4Qjc-1920-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
       "source": "SoundGuys",
       "title": "Sony WH-1000XM6 drops back to $398, matching its best non-Prime Day price",
       "url": "https://www.soundguys.com/sony-wh-1000xm6-august-deal-160906/",
@@ -2546,6 +3228,17 @@
     },
     {
       "source": "What Hi-Fi?",
+      "title": "Looking to upgrade to OLED? We’ve just reviewed this Samsung model, and it’s one of the best entry-level OLED TVs we have tested",
+      "url": "https://www.whathifi.com/tv-home-cinema/televisions/looking-to-upgrade-to-oled-weve-just-reviewed-this-samsung-model-and-its-one-of-the-best-entry-level-oled-tvs-we-have-tested",
+      "publishedAt": "2026-08-03T12:06:38.000Z",
+      "author": "Daniel Furn",
+      "description": "Now with £241 off",
+      "image": "https://cdn.mos.cms.futurecdn.net/P6NvA947hkwrhkiznS9v5B-1920-80.jpg",
+      "category": "其他音訊",
+      "articleType": "評測"
+    },
+    {
+      "source": "What Hi-Fi?",
       "title": "It might look a bit boring on paper, but Amazon’s 8-inch tablet has one or two surprises up its sleeve.",
       "url": "https://www.whathifi.com/smartphones-tablets/tablets/amazon-fire-hd-8-newest-gen",
       "publishedAt": "2026-08-03T11:46:54.000Z",
@@ -2553,6 +3246,17 @@
       "description": "Amazon’s impressive budget tablet gets a spec boost, but comes with unwritten improvements to its picture performance, too.",
       "image": "https://cdn.mos.cms.futurecdn.net/H6XZCxMts6q4hkeKxWx9wf-1920-80.jpg",
       "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Sony's Award-winning budget headphones could be getting a long-awaited sequel",
+      "url": "https://www.whathifi.com/headphones/wireless-headphones/sonys-award-winning-budget-headphones-could-be-getting-a-long-awaited-sequel",
+      "publishedAt": "2026-08-03T11:07:11.000Z",
+      "author": "Harry McKerrell",
+      "description": "It's about time!",
+      "image": "https://cdn.mos.cms.futurecdn.net/PUt5NtfJoB8Nf6xNxEb4Co-1920-80.jpg",
+      "category": "耳機",
       "articleType": "其他"
     },
     {
@@ -2589,6 +3293,17 @@
       "articleType": "新聞"
     },
     {
+      "source": "Tom's Guide",
+      "title": "These iClever Q950s might be the best kid headphones I’ve ever tried",
+      "url": "https://www.tomsguide.com/audio/over-ear-headphones/iclever-q950-review",
+      "publishedAt": "2026-08-03T06:00:00.000Z",
+      "author": "",
+      "description": "The iClever Q950 headphones sound surprisingly good while still offering kid-friendly aesthetics.",
+      "image": "https://cdn.mos.cms.futurecdn.net/E3pFvqE76FWphdbdYrnGvU-2000-80.jpg",
+      "category": "耳機",
+      "articleType": "評測"
+    },
+    {
       "source": "TechRadar",
       "title": "‘We're not building something that puts the music in the background, we want to put it in the foreground’: Former Head of Innovation at Spotify on wanting to make music platforms interactive again, and whether they can survive without the reliance on AI",
       "url": "https://www.techradar.com/audio/audio-streaming/the-next-major-music-platform-should-give-people-something-to-do-with-the-music-spotifys-former-head-of-innovation-on-his-plans-to-launch-an-interactive-music-service-and-whether-ai-features-will-help-or-hinder-streaming",
@@ -2598,6 +3313,39 @@
       "image": "https://cdn.mos.cms.futurecdn.net/ufKUEgAY6U9CNv9Ep4Rq5V-1920-80.jpg",
       "category": "串流播放器",
       "articleType": "新聞"
+    },
+    {
+      "source": "Tom's Guide",
+      "title": "I spoke to a hearing expert to find out the best ways to protect your kids' hearing — from headphones to listening limits",
+      "url": "https://www.tomsguide.com/audio/headphones/i-spoke-to-a-hearing-expert-to-find-out-the-best-ways-to-protect-your-kids-hearing-from-headphones-to-listening-limits",
+      "publishedAt": "2026-08-02T12:30:00.000Z",
+      "author": "Scott Younker",
+      "description": "The right equipment and settings can protect your little one",
+      "image": "https://cdn.mos.cms.futurecdn.net/BSyVcCPUHbeUwDeM2s3WPC-2560-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "Tom's Guide",
+      "title": "I compared Reddit's favorite audiophile headphones, then got something else instead — here's why",
+      "url": "https://www.tomsguide.com/audio/over-ear-headphones/i-ignored-reddit-and-built-my-own-audiophile-headphone-setup-for-under-usd500-heres-the-gear-i-chose",
+      "publishedAt": "2026-08-02T11:00:00.000Z",
+      "author": "Peter Wolinski",
+      "description": "No Sennheiser, no HIFIMAN",
+      "image": "https://cdn.mos.cms.futurecdn.net/kk5B3Je4bNQ5DDsZg8ja73-2000-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "TechRadar",
+      "title": "‘A lot of things are just dirty and need to be cleaned deeply’: I spent a day at a volunteer tech repair group learning how to fix tech from the experts, and found that some gadget repairs are easier than we think — maybe it's time to breathe life into your old hi-fi or headphones",
+      "url": "https://www.techradar.com/audio/you-can-literally-fix-anything-if-you-watch-enough-youtube-i-met-with-tech-repair-experts-and-campaigners-to-learn-how-to-fix-my-broken-gadgets-and-why-its-so-important",
+      "publishedAt": "2026-08-02T10:00:00.000Z",
+      "author": "Tom Bedford",
+      "description": "How legislation, battery fires and community groups are changing the tech repair scene",
+      "image": "https://cdn.mos.cms.futurecdn.net/Vqp3LyYRbf4FWhEPcJV8gM-2560-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
     },
     {
       "source": "TechRadar",
@@ -2633,6 +3381,17 @@
       "articleType": "其他"
     },
     {
+      "source": "Tom's Guide",
+      "title": "I tested the most expensive ANC headphones you can buy — here’s what $2,200 gets you",
+      "url": "https://www.tomsguide.com/audio/headphones/bang-and-olufsen-beoplay-h100-review",
+      "publishedAt": "2026-08-01T06:00:00.000Z",
+      "author": "",
+      "description": "ANC headphones for millionaires",
+      "image": "https://cdn.mos.cms.futurecdn.net/JB4cAZEw4LXHiUm38cPKse-1920-80.jpg",
+      "category": "耳機",
+      "articleType": "評測"
+    },
+    {
       "source": "TechRadar",
       "title": "As a gigging musician, this awesome home Dolby Atmos recording studio makes me jealous in the best way — here's the gear involved, including how AirPods Max and a Sonos home theater setup are involved",
       "url": "https://www.techradar.com/audio/what-does-a-backyard-dolby-atmos-home-music-studio-look-like",
@@ -2662,6 +3421,17 @@
       "author": "Jacob Krol",
       "description": "Touring its labs and speaking with the executives behind Apple's most distinctive audio brand",
       "image": "https://cdn.mos.cms.futurecdn.net/4xatXwThhDy7w9fuU7JoAG-2000-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Stop buying the wrong headphones – our expert quiz reveals your best match",
+      "url": "https://www.whathifi.com/headphones/stop-buying-the-wrong-headphones-our-expert-quiz-reveals-your-best-match",
+      "publishedAt": "2026-07-31T16:40:48.000Z",
+      "author": "Daniel Furn",
+      "description": "Whatever headphone style you prefer, four quick questions will get you a personalised recommendation",
+      "image": "https://cdn.mos.cms.futurecdn.net/bWeh4dGRvr6La2wY5oWUnc-1920-80.jpg",
       "category": "耳機",
       "articleType": "其他"
     },
@@ -2706,6 +3476,17 @@
       "author": "Andy Madden",
       "description": "I had the best of intentions...",
       "image": "https://cdn.mos.cms.futurecdn.net/sBNeK9mGvwVi3xYLdreZ9H-1920-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "Highly rated ANC headphones get a huge 75% discount with this on-page Amazon coupon",
+      "url": "https://www.soundguys.com/boean-active-noise-canceling-headphones-deal-160843/",
+      "publishedAt": "2026-07-31T15:16:17.000Z",
+      "author": "Matt Horne",
+      "description": "Need cheap wireless over-ear cans? These Boean ANC headphones are down to $44.99, their best price so far.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/07/Boean-Active-Noise-Canceling-Headphones-Press-Image.jpg",
       "category": "耳機",
       "articleType": "其他"
     },
@@ -2840,6 +3621,17 @@
       "image": "https://cdn.mos.cms.futurecdn.net/LTrC2kkYNsoQqcfxj6Kb2Z-2560-80.jpg",
       "category": "喇叭",
       "articleType": "評測"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "JBL's bass-friendly Tune 770NC headphones get a 40% price cut at Amazon",
+      "url": "https://www.soundguys.com/jbl-tune-770nc-deal-160797/",
+      "publishedAt": "2026-07-30T15:02:32.000Z",
+      "author": "Matt Horne",
+      "description": "JBL Tune 770NC headphones drop to $89.95 at Amazon, with ANC, 70-hour battery life, and a 4.5-star rating.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/07/JBL-Tune-770NC-Headphones-Press-Image.jpg",
+      "category": "耳機",
+      "articleType": "其他"
     },
     {
       "source": "Tom's Guide",
@@ -2996,6 +3788,17 @@
       "articleType": "其他"
     },
     {
+      "source": "Tom's Guide",
+      "title": "3 Anker Soundcore headphones I'd buy for back to school: my top picks from $19",
+      "url": "https://www.tomsguide.com/audio/3-anker-soundcore-headphones-id-buy-for-back-to-school-my-top-picks-from-usd19",
+      "publishedAt": "2026-07-29T21:38:32.000Z",
+      "author": "Louis Ramirez",
+      "description": "Anker earbuds and headphones from just $19",
+      "image": "https://cdn.mos.cms.futurecdn.net/4DhQeq2xR3Qhq56QVySDfY-2000-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
       "source": "TechRadar",
       "title": "How the PS 2026 collection from IKEA delivers fun and function to your home",
       "url": "https://www.techradar.com/home/ps-collection-fun-function-living-space-lamp-shelves-cabinet-ikea",
@@ -3015,6 +3818,28 @@
       "description": "Years worth of backorders, custom paint jobs, and 33 years of success: I spoke to Bowers & Wilkins about its most iconic loudspeaker ever.",
       "image": "https://cdn.mos.cms.futurecdn.net/t2wdDZsU3eBmFWD7xn5a4b-2560-80.jpg",
       "category": "喇叭",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "This Sony WH-1000XM5 deal cuts 38% off premium noise canceling headphones",
+      "url": "https://www.soundguys.com/sony-wh-1000xm5-amazon-deal-160736/",
+      "publishedAt": "2026-07-29T16:18:18.000Z",
+      "author": "Matt Horne",
+      "description": "The Sony WH-1000XM5 headphones drop to $248 at Amazon, with 38% off premium ANC, 30-hour battery life, and LDAC support.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2022/05/sony-wh-1000xm5-hero.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "Beats Studio Buds Plus are down to $99.99 and still shine for iPhone and Android users",
+      "url": "https://www.soundguys.com/beats-studio-buds-plus-deal-160731/",
+      "publishedAt": "2026-07-29T15:32:13.000Z",
+      "author": "Matt Horne",
+      "description": "Amazon slashes the Beats Studio Buds Plus by 41%, bringing these cross-platform wireless earbuds down to $99.99.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2023/06/Beats-Studio-Buds-Plus-hand-holds-case-scaled-e1686931914871.jpg",
+      "category": "耳機",
       "articleType": "其他"
     },
     {
@@ -3041,6 +3866,17 @@
     },
     {
       "source": "What Hi-Fi?",
+      "title": "New issue of What Hi-Fi? out now: stunning stars of future hi-fi, premium noise-cancelling headphones and more",
+      "url": "https://www.whathifi.com/hi-fi/new-issue-of-what-hi-fi-out-now-stunning-stars-of-future-hi-fi-premium-noise-cancelling-headphones-and-more",
+      "publishedAt": "2026-07-29T12:00:54.000Z",
+      "author": "Chris Burke",
+      "description": "Impressive new launches from Bowers & Wilkins, Dali, and Cambridge Audio, plus awesome ANC over-ears",
+      "image": "https://cdn.mos.cms.futurecdn.net/aQGvxK9DvnE6gq55KzGMfZ-1488-80.jpg",
+      "category": "耳機",
+      "articleType": "新聞"
+    },
+    {
+      "source": "What Hi-Fi?",
       "title": "Deaf home cinema fans deserve more than subtitles – here's why",
       "url": "https://www.whathifi.com/streaming-entertainment/deaf-home-cinema-fans-deserve-more-than-subtitles-heres-why",
       "publishedAt": "2026-07-29T11:45:31.000Z",
@@ -3059,6 +3895,28 @@
       "description": "The joy of Cex",
       "image": "https://cdn.mos.cms.futurecdn.net/RYSS5hskosHJ9fFk7CjZq9-2560-80.jpg",
       "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "Forget booming bass: Beyerdynamic's new headphones focus on what creators actually need",
+      "url": "https://www.soundguys.com/beyerdynamic-dt-275-pro-launch-160718/",
+      "publishedAt": "2026-07-29T09:19:51.000Z",
+      "author": "Shimul Sood",
+      "description": "The Beyerdynamic DT 275 PRO is built for creators, offering accurate audio monitoring and up to 22 dBA of passive noise isolation.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/07/Beyerdynamics-DT-275-PRO-4.jpg",
+      "category": "耳機",
+      "articleType": "新聞"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "I revisited Dyson's weird over-ear headphones, and they're actually an incredible value in 2026",
+      "url": "https://www.soundguys.com/dyson-ontrac-headphones-revisited-160577/",
+      "publishedAt": "2026-07-29T09:00:27.000Z",
+      "author": "Brady Snyder",
+      "description": "The Dyson OnTrac headphones were hard to justify at $500. Now, they're the sleeper no one is talking about.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/07/Dyson-OnTrac-1-scaled.jpg",
+      "category": "耳機",
       "articleType": "其他"
     },
     {
@@ -3081,6 +3939,17 @@
       "description": "‘One day, people may tell us, “OK, everything that was generated with that AI model prior to this date, when people actually have agreements to compensate musicians for their work, all of this needs to be removed” — and we would have to be prepared for that’",
       "image": "https://cdn.mos.cms.futurecdn.net/mugG9TGyxnBpQR5fKmxqMa-2000-80.jpg",
       "category": "串流播放器",
+      "articleType": "其他"
+    },
+    {
+      "source": "Tom's Guide",
+      "title": "Anker's Soundcore headphones are great for everyday use — here's my top picks for back to school from $20",
+      "url": "https://www.tomsguide.com/audio/ankers-soundcore-headphones-are-great-for-everyday-use-heres-my-top-picks-for-back-to-school-from-usd20",
+      "publishedAt": "2026-07-28T18:32:51.000Z",
+      "author": "Louis Ramirez",
+      "description": "Shop earbuds and headphones from $20",
+      "image": "https://cdn.mos.cms.futurecdn.net/sEG7JDB5XQsBorForn4e7A-2000-80.jpg",
+      "category": "耳機",
       "articleType": "其他"
     },
     {
@@ -3162,6 +4031,17 @@
     },
     {
       "source": "SoundGuys",
+      "title": "These $199 Bose-tuned headphones last 38 hours and switch devices with a triple tap",
+      "url": "https://www.soundguys.com/lenovo-headphone-yoga-pc-edition-headphone-bose-tuning-us-launch-160681/",
+      "publishedAt": "2026-07-28T09:34:39.000Z",
+      "author": "Adamya Sharma",
+      "description": "Lenovo's Headphone YOGA PC Edition features Bose audio, 38 hours of battery life, ANC, and more at just $199.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/07/Lenovo-Yoga-Headphone-PC-Edition.jpg",
+      "category": "耳機",
+      "articleType": "新聞"
+    },
+    {
+      "source": "SoundGuys",
       "title": "Clip-on earbuds fixed my biggest issue with open-ears",
       "url": "https://www.soundguys.com/clip-better-open-earbuds-160602/",
       "publishedAt": "2026-07-28T09:30:14.000Z",
@@ -3181,6 +4061,28 @@
       "image": "https://www.soundguys.com/wp-content/uploads/2026/07/skullcandy-crusher-1080-ANC-hero.jpg",
       "category": "耳機",
       "articleType": "評測"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Beyerdynamic's new wired headphones promise sonic clarity and enduring comfort at an entry-level price",
+      "url": "https://www.whathifi.com/headphones/wired-headphones/beyerdynamics-new-wired-headphones-promise-sonic-clarity-and-enduring-comfort-at-an-entry-level-price",
+      "publishedAt": "2026-07-28T09:00:00.000Z",
+      "author": "Harry McKerrell",
+      "description": "Beyerdynamic introduces the affordable DT 275 Pro",
+      "image": "https://cdn.mos.cms.futurecdn.net/u7W4bynQDtJB9fEYxftURY-2560-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "TechRadar",
+      "title": "I use Beyerdynamic's wired pro headphones as a working musician, and its new cheaper DT 275 Pro pair look like a steal — huge dynamic range, lightweight design, and easy to drive on the go",
+      "url": "https://www.techradar.com/audio/headphones/beyerdynamics-latest-on-ears-are-lightweight-neutral-and-seem-like-a-steal",
+      "publishedAt": "2026-07-28T09:00:00.000Z",
+      "author": "Carrie Marshall",
+      "description": "The new Beyerdynamic DT 275 Pro headphones promise pro-level performance without the price tag — and with solid noise isolation.",
+      "image": "https://cdn.mos.cms.futurecdn.net/7DhLbUJN684Bh9neeoGffV-2560-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
     },
     {
       "source": "SoundGuys",
@@ -3250,6 +4152,17 @@
     },
     {
       "source": "What Hi-Fi?",
+      "title": "These are the five best headphones I have heard so far this year – and the one pair that disappointed me",
+      "url": "https://www.whathifi.com/headphones/these-are-the-five-best-headphones-i-have-heard-so-far-this-year-and-the-one-pair-that-disappointed-me",
+      "publishedAt": "2026-07-27T14:45:07.000Z",
+      "author": "Harry McKerrell",
+      "description": "It’s been a good year for your ears",
+      "image": "https://cdn.mos.cms.futurecdn.net/FMQgVb95XhRKBbmoavykpE-2560-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
       "title": "What will hi-fi look like in 2076? We asked some of the most influential experts in the industry",
       "url": "https://www.whathifi.com/hi-fi/hi-fi-in-2076-how-engineers-envisage-the-next-50-years-of-music-listening",
       "publishedAt": "2026-07-27T13:39:15.000Z",
@@ -3268,6 +4181,17 @@
       "description": "Charlie Henderson's background includes Naim and Cambridge Audio, and he's got big plans for refreshing his latest hi-fi charge",
       "image": "https://cdn.mos.cms.futurecdn.net/CZQUTF3o2NiEAz2B8oxBGJ-1920-80.jpg",
       "category": "Soundbar",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "The best hi-fi and home cinema products of 2026 so far: our 13 favourite five-star speakers, headphones and TVs",
+      "url": "https://www.whathifi.com/hi-fi/the-best-hi-fi-and-home-cinema-products-of-2026-our-13-favourite-five-star-speakers-headphones-and-tvs-so-far",
+      "publishedAt": "2026-07-27T11:39:31.000Z",
+      "author": "Daniel Furn, Kashfia Kabir, Tom Parsons",
+      "description": "We are officially halfway through the year – and this year’s Awards are looking to be a close contest",
+      "image": "https://cdn.mos.cms.futurecdn.net/J3wNt7EV9Fhfsq3g9oEUA6-1920-80.jpg",
+      "category": "耳機",
       "articleType": "其他"
     },
     {
