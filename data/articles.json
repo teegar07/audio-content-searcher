@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-26T00:52:40.881Z",
+  "generatedAt": "2026-08-26T00:57:42.141Z",
   "days": 30,
-  "count": 83,
+  "count": 87,
   "articles": [
     {
       "source": "SoundGuys",
@@ -786,6 +786,17 @@
     },
     {
       "source": "What Hi-Fi?",
+      "title": "Google updates its Pixel Buds Pro 2 wireless earbud with a fresh look and a noise-cancelling upgrade By Lewis Empson Published 13 August 26 ANC is getting a significant upgrade this year",
+      "url": "https://www.whathifi.com/headphones/wireless-headphones/google-updates-its-pixel-buds-pro-2-wireless-earbud-with-a-fresh-look-and-a-noise-cancelling-upgrade",
+      "publishedAt": "2026-08-13T16:24:30.000Z",
+      "author": "Lewis Empson",
+      "description": "ANC is getting a significant upgrade this year",
+      "image": "https://cdn.mos.cms.futurecdn.net/TYAQCe2ALEjSE7dHb9Tb24-1028-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
       "title": "This striking vertical turntable is the brainchild of former Apple engineers By Ioan Hazell Published 13 August 26 The TD-1 is the first product from Los Angeles based Ruka Studio",
       "url": "https://www.whathifi.com/hi-fi/turntables/this-striking-turntable-is-the-brainchild-of-former-apple-engineers",
       "publishedAt": "2026-08-13T15:52:51.000Z",
@@ -840,6 +851,17 @@
       "articleType": "評測"
     },
     {
+      "source": "What Hi-Fi?",
+      "title": "£31 off! Sony's Award-winning noise-cancelling earbuds are back to their joint-lowest price By Harry McKerrell Published 13 August 26 The Award-winning WF-C710N drop back to £69",
+      "url": "https://www.whathifi.com/headphones/wireless-earbuds/gbp31-off-sonys-award-winning-noise-cancelling-earbuds-are-back-to-their-joint-lowest-price",
+      "publishedAt": "2026-08-13T09:09:37.000Z",
+      "author": "Harry McKerrell",
+      "description": "The Award-winning WF-C710N drop back to £69",
+      "image": "https://cdn.mos.cms.futurecdn.net/M5pRRLvhvAkUZxwBbxmdV7-2560-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
       "source": "SoundGuys",
       "title": "The Ozlo Sleepbuds 2 are the most comfortable sleep earbuds I've tried, but they'll cost youAdam BirneyAugust 13, 202607.6",
       "url": "https://www.soundguys.com/ozlo-sleepbuds-2-review-161143/",
@@ -892,6 +914,28 @@
       "description": "Creative's $180 XF1 desktop speakers challenge studio monitors with 72W RMS output, Hi-Res wireless audio, and LDAC support.",
       "image": "https://www.soundguys.com/wp-content/uploads/2026/08/Creative-XF1.jpg",
       "category": "喇叭",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Nothing sub-brand CMF's first open earbuds promise a listening experience \"that feels as natural as it sounds\" By Harry McKerrell Published 4 August 26 CMF debuts the Clip Pro",
+      "url": "https://www.whathifi.com/headphones/wireless-earbuds/nothing-sub-brand-cmfs-first-open-earbuds-promise-a-listening-experience-that-feels-as-natural-as-it-sounds",
+      "publishedAt": "2026-08-04T13:00:00.000Z",
+      "author": "Harry McKerrell",
+      "description": "CMF debuts the Clip Pro",
+      "image": "https://cdn.mos.cms.futurecdn.net/ai84j6o7UdBv2TRLyfEGFd-1119-80.jpg",
+      "category": "耳機",
+      "articleType": "新聞"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "I thought this simple upgrade would elevate Sony's WF-1000XM6 wireless earbuds – I was wrong By Andy Madden Published 31 July 26 I had the best of intentions...",
+      "url": "https://www.whathifi.com/headphones/wireless-earbuds/i-tried-fixing-my-biggest-issue-with-the-sony-wf-1000xm6-and-instantly-regretted-it",
+      "publishedAt": "2026-07-31T15:32:04.000Z",
+      "author": "Andy Madden",
+      "description": "I had the best of intentions...",
+      "image": "https://cdn.mos.cms.futurecdn.net/sBNeK9mGvwVi3xYLdreZ9H-1920-80.jpg",
+      "category": "耳機",
       "articleType": "其他"
     },
     {
