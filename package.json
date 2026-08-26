@@ -4,7 +4,7 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "fetch": "node fetch-articles.js"
+    "fetch": "node fetch-articles-v3.js"
   },
   "dependencies": {
     "cheerio": "^1.0.0",
