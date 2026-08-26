@@ -146,7 +146,7 @@ async function collectSource(source) {
       if (!hasArticleMetadata(meta, source)) continue;
       const d = parseDate(meta.date);
       if (!d || d.isBefore(cutoff) || d.isAfter(now.add(1, 'day'))) continue;
-      const combined = `${c.title} ${meta.description || ''}`;
+      const combined = `${c.title} ${c.url} ${meta.description || ''}`;
       if (!AUDIO_RE.test(combined)) continue;
       articles.push({
         source: source.name,
