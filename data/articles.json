@@ -1,8 +1,228 @@
 {
-  "generatedAt": "2026-08-27T00:57:38.933Z",
+  "generatedAt": "2026-08-28T00:53:23.956Z",
   "days": 30,
-  "count": 471,
+  "count": 472,
   "articles": [
+    {
+      "source": "TechRadar",
+      "title": "'A lot of the time, for emotional scenes, we would be playing the Requiem soundtrack' — Asobo Studio used A Plague Tale: Requiem's music during Resonance: A Plague Tale Legacy mocap to help actors get into the 'sadder' and 'darker' scenes",
+      "url": "https://www.techradar.com/gaming/asobo-studio-used-the-soundtrack-from-a-plague-tale-requiem-during-resonance-a-plague-tale-legacy-mocap-to-help-the-cast-get-into-the-sadder-moments-the-darker-moments",
+      "publishedAt": "2026-08-27T21:11:43.000Z",
+      "author": "Demi Williams, Rob Dwiar",
+      "description": "Asobo Studio used A Plague Tale: Requiem's music while motion-capturing Resonance: A Plague Tale Legacy, so the cast could get in the mood for darker scenes.",
+      "image": "https://cdn.mos.cms.futurecdn.net/6mZnEp48vfbpKbexSm6qkk-1280-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "Engadget",
+      "title": "How to adjust the custom EQ settings for your AirPods in iOS 27 - Engadget",
+      "url": "https://www.engadget.com/2245470/how-to-adjust-custom-eq-settings-airpods-ios-27/",
+      "publishedAt": "2026-08-27T18:30:00.000Z",
+      "author": "Adnan Ahmed",
+      "description": "Everything you need to know about Apple's latest audio tool.",
+      "image": "https://www.engadget.com/img/gallery/how-to-adjust-the-custom-eq-settings-for-your-airpods-in-ios-27/l-intro-1787831181.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "BGR",
+      "title": "Nothing Ear (3a) Review: Raising The Bar For Budget Earbuds - BGR",
+      "url": "https://www.bgr.com/2245743/nothing-ear-3a-review/",
+      "publishedAt": "2026-08-27T18:20:41.000Z",
+      "author": "Christian de Looper",
+      "description": "If you're looking to spend $100 or less on a pair of earbuds that will last you a while, the new Nothing Ear (3a) buds are going to be hard to beat.",
+      "image": "https://www.bgr.com/img/gallery/nothing-ear-3a-review-raising-the-bar-for-budget-earbuds/l-intro-1787854732.jpg",
+      "category": "耳機",
+      "articleType": "評測"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "Amazon slashes Sony WH-CH520 price to $38 for a solid budget headphone buy",
+      "url": "https://www.soundguys.com/sony-wh-ch520-headphones-deal-162096/",
+      "publishedAt": "2026-08-27T16:43:23.000Z",
+      "author": "Matt Horne",
+      "description": "Save 46% off the Sony WH-CH520 at Amazon and get lightweight on-ear headphones with 40-hour battery life and multipoint pairing.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2023/09/Sony-WH-CH520-Featured-Image-1-scaled.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "This JBL Tune Buds deal cuts the price to $59.95 for wireless ANC earbuds",
+      "url": "https://www.soundguys.com/jbl-tune-buds-deal-162092/",
+      "publishedAt": "2026-08-27T15:36:46.000Z",
+      "author": "Matt Horne",
+      "description": "Save $40 on the JBL Tune Buds and get noise cancelling, Pure Bass sound, and up to 48 hours of total battery life.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2024/04/JBL-Tune-Buds-hero.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Do DACs need Bluetooth? Here's why this popular feature is overrated if you care about sound quality",
+      "url": "https://www.whathifi.com/hi-fi/dacs/do-dacs-need-bluetooth-heres-why-this-popular-feature-is-overrated-if-you-care-about-sound-quality",
+      "publishedAt": "2026-08-27T15:02:20.000Z",
+      "author": "Harry McKerrell",
+      "description": "Essential feature, or box-ticking exercise?",
+      "image": "https://cdn.mos.cms.futurecdn.net/sM3caPtL8cf3zqqaMJS3Bo-1920-80.jpg",
+      "category": "DAC／擴大機",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "9 monster milestones that helped shape home cinema: VHS, DVD, Dolby Atmos and more",
+      "url": "https://www.whathifi.com/tv-home-cinema/from-m-a-s-h-to-billy-lynn-the-films-that-changed-home-cinema",
+      "publishedAt": "2026-08-27T14:57:36.000Z",
+      "author": "Daniel Furn",
+      "description": "As physical media has a bit of a moment, we look at notable firsts in home cinema's many formats",
+      "image": "https://cdn.mos.cms.futurecdn.net/zTD5kX6aRd6cwMQXFn75vW-2560-80.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Is this new Hisense the ultimate coffee table projector? We tested it over several days to find out",
+      "url": "https://www.whathifi.com/tv-home-cinema/projectors/hisense-c2-ultra",
+      "publishedAt": "2026-08-27T14:53:16.000Z",
+      "author": "",
+      "description": "Another strong Hisense entry in the affordable lifestyle, coffee-table projector world",
+      "image": "https://cdn.mos.cms.futurecdn.net/aMssSDfYdf4MQHBpVdYsF9-1920-80.jpg",
+      "category": "其他音訊",
+      "articleType": "評測"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "Sony's upcoming over-ear headphones leak online, and they may not pinch your wallet",
+      "url": "https://www.soundguys.com/sony-wh-ch730n-wh-ch530-leak-162085/",
+      "publishedAt": "2026-08-27T14:00:18.000Z",
+      "author": "Aamir Siddiqui",
+      "description": "Leaked listings reveal Sony's WH-CH730N with ANC and the ultra-budget WH-CH530, both expected to launch in October.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2023/09/Sony-WH-CH720N-Featured-Image-3-scaled.jpg",
+      "category": "耳機",
+      "articleType": "新聞"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Sony’s exceptionally detailed and refined-sounding anniversary headphones just got their first price drop – and I’m sold",
+      "url": "https://www.whathifi.com/headphones/wireless-headphones/sonys-exceptionally-detailed-and-refined-sounding-anniversary-headphones-just-got-their-first-price-drop-and-im-sold",
+      "publishedAt": "2026-08-27T13:52:51.000Z",
+      "author": "Daniel Furn",
+      "description": "Add these special Sony cans to your Collexion",
+      "image": "https://cdn.mos.cms.futurecdn.net/DpXxPfR8Kko3rqdj4GtxsZ-1920-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "TechRadar",
+      "title": "Dbrand, known for its controversial PS5 and Steam Machine covers, has made a mini Pelican-style super-tough case for AirPods — we all know someone who probably needs that kind of protection for their earbuds",
+      "url": "https://www.techradar.com/audio/earbuds-airpods/ever-wished-your-airpods-could-have-their-own-tiny-rugged-pelican-case-well-dbrand-known-for-controversy-over-its-ps5-covers-and-unlicensed-steam-machine-companion-cube-has-made-one",
+      "publishedAt": "2026-08-27T13:35:07.000Z",
+      "author": "Rowan Davies",
+      "description": "Users didn't like Dbrand's Tank Case for phones, but that didn't stop it from making one for the AirPods Pro 3.",
+      "image": "https://cdn.mos.cms.futurecdn.net/qfKzgZbTpnxgPYkZVUpYiA-2048-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "The Verge",
+      "title": "Plaud is launching AI earbuds",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/985500/plaud-one-earbuds-ai-recorder-price-availability",
+      "publishedAt": "2026-08-27T13:11:23.000Z",
+      "author": "Jess Weatherbed",
+      "description": "An AI wearable, but for your ears.",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Plaud-One-earbuds-hero.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "category": "耳機",
+      "articleType": "新聞"
+    },
+    {
+      "source": "Engadget",
+      "title": "Plaud made earbuds for people who want to record every meeting and call - Engadget",
+      "url": "https://www.engadget.com/2244839/plaud-made-earbuds-for-people-who-want-to-record-every-meeting-and-call/",
+      "publishedAt": "2026-08-27T13:00:00.000Z",
+      "author": "Igor Bonifacic",
+      "description": "The Plaud One is a different take on AI wearables.",
+      "image": "https://www.engadget.com/img/gallery/plaud-made-earbuds-for-people-who-want-to-record-every-meeting-and-video-call/l-intro-1787766887.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "TechRadar",
+      "title": "‘The user stays in control’ Plaud’s new AI earbuds can record your working day — but its most ambitious agent features are coming later",
+      "url": "https://www.techradar.com/ai-platforms-assistants/exclusive-the-point-isnt-that-it-never-misunderstands-its-that-the-user-stays-in-control-plaud-tells-us-why-its-new-ai-earbuds-want-to-do-more-than-record-your-meetings",
+      "publishedAt": "2026-08-27T13:00:00.000Z",
+      "author": "Graham Barlow",
+      "description": "Plaud's new AI earbuds recording your conversations, but that's only the beginning.",
+      "image": "https://cdn.mos.cms.futurecdn.net/HU2GEPnZ8Nh2tPKet2iVFi-1024-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "\"It's really a breakthrough in how we think about physical and digital media\" – Xbox's latest announcement is a lifeline for physical media and a direct response to Sony's huge Blu-ray disc fumble",
+      "url": "https://www.whathifi.com/tv-home-cinema/gaming/its-really-a-breakthrough-in-how-we-think-about-physical-and-digital-media-xboxs-latest-announcement-is-a-lifeline-for-physical-media-and-a-direct-response-to-sonys-huge-blu-ray-disc-fumble",
+      "publishedAt": "2026-08-27T12:30:47.000Z",
+      "author": "Lewis Empson",
+      "description": "Disc to digital, coming to an Xbox near you",
+      "image": "https://cdn.mos.cms.futurecdn.net/GotQzKF7ULmCjFRKLPjyei-1920-80.png",
+      "category": "其他音訊",
+      "articleType": "新聞"
+    },
+    {
+      "source": "TechRadar",
+      "title": "Yamaha returns to the world of compact streaming hi-fi, with a new small all-in-one amp that's crammed with hi-res connections — plus a streamer to add to your own amp with all the same perks, from Bluetooth to Wi-Fi to HDMI",
+      "url": "https://www.techradar.com/audio/multi-room/yamahas-new-compact-hi-fi-streamers-have-all-the-wired-and-wireless-hi-res-connections-you-could-want-for-a-smart-small-stereo-system-and-one-doubles-as-an-amp-too",
+      "publishedAt": "2026-08-27T10:58:21.000Z",
+      "author": "Tom Bedford",
+      "description": "Yamaha has unveiled two new music devices, set to sell in November: a compact streamer and a streaming amp.",
+      "image": "https://cdn.mos.cms.futurecdn.net/XNqYtBF63L5wedgSxMeRkg-2560-80.jpg",
+      "category": "DAC／擴大機",
+      "articleType": "新聞"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "Bose ditched the headphone jack without ditching the headphone jack",
+      "url": "https://www.soundguys.com/bose-quietcomfort-headphones-usb-audio-161954/",
+      "publishedAt": "2026-08-27T09:00:46.000Z",
+      "author": "Dave Carr",
+      "description": "The Bose QuietComfort Headphones include a USB-C to 3.5mm cable, and every USB-C audio pair should do the same.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/08/Bose-QC-Headphones-2nd-Gen-1-2-scaled.jpeg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Apple’s September event has a date, which means the first foldable iPhone looks imminent – but what else is expected?",
+      "url": "https://www.whathifi.com/smartphones-tablets/smartphones/apples-september-event-has-a-date-which-means-the-first-foldable-iphone-looks-imminent-but-what-else-is-expected",
+      "publishedAt": "2026-08-27T08:36:20.000Z",
+      "author": "Tom Parsons",
+      "description": "AirPods 5? HomePods? Could we finally get a new Apple TV 4K?",
+      "image": "https://cdn.mos.cms.futurecdn.net/m3FJRUcWkjPYkSeK99wVH9-1672-80.png",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "Tom's Guide",
+      "title": "Before you buy your next pair of speakers, make sure you know this one essential difference",
+      "url": "https://www.tomsguide.com/audio/speakers/before-you-buy-your-next-pair-of-speakers-make-sure-you-know-this-one-essential-difference",
+      "publishedAt": "2026-08-27T08:15:00.000Z",
+      "author": "Nick Pino",
+      "description": "Passive vs active speakers: What are the pros and cons of each, and which set should you buy?",
+      "image": "https://cdn.mos.cms.futurecdn.net/XTvp4PbNASrTXakCzLx76h-2000-80.jpg",
+      "category": "喇叭",
+      "articleType": "其他"
+    },
+    {
+      "source": "BGR",
+      "title": "This One Setting Could Be Ruining Your YouTube Music Playlists - BGR",
+      "url": "https://www.bgr.com/2238236/youtube-music-playlist-settings-disable-autoplay/",
+      "publishedAt": "2026-08-27T03:17:00.000Z",
+      "author": "Suzanne Bonnett",
+      "description": "YouTube Music has an Autoplay feature that can interrupt personal playlists. It can also be a huge benefit. See how to use it to its best effect",
+      "image": "https://www.bgr.com/img/gallery/this-one-setting-could-be-ruining-your-youtube-music-playlists/l-intro-1786742844.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
     {
       "source": "What Hi-Fi?",
       "title": "Yamaha bolsters its streaming arsenal with a feature-laden streaming amplifier and network music player",
@@ -44,17 +264,6 @@
       "author": "Matt Horne",
       "description": "The new Pulse 6 combines the signature 360-degree light show with upgraded sound and new modes designed for winding down.",
       "image": "https://www.soundguys.com/wp-content/uploads/2026/08/JBL-Pulse-6-Lifestyle-1-scaled.jpg",
-      "category": "喇叭",
-      "articleType": "新聞"
-    },
-    {
-      "source": "Engadget",
-      "title": "The colorful JBL Pulse 6 speaker will be available next month - Engadget",
-      "url": "https://www.engadget.com/2245008/the-colorful-jbl-pulse-6-speaker-will-be-available-next-month/",
-      "publishedAt": "2026-08-26T19:58:44.000Z",
-      "author": "Anna Washenko",
-      "description": "JBL's new speaker/light hybrid will cost $330.",
-      "image": "https://www.engadget.com/img/gallery/the-colorful-jbl-pulse-6-speaker-will-be-available-next-month/l-intro-1787774245.jpg",
       "category": "喇叭",
       "articleType": "新聞"
     },
@@ -147,19 +356,8 @@
       "articleType": "其他"
     },
     {
-      "source": "Engadget",
-      "title": "SoundCloud will let you buy music directly from artists - Engadget",
-      "url": "https://www.engadget.com/2243984/soundcloud-will-let-you-buy-music-directly-from-artists/",
-      "publishedAt": "2026-08-26T14:00:00.000Z",
-      "author": "Igor Bonifacic",
-      "description": "SoundCloud will let you buy music directly from artists.",
-      "image": "https://www.engadget.com/img/gallery/soundcloud-will-let-you-buy-music-directly-from-artists/l-intro-1787683534.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
       "source": "What Hi-Fi?",
-      "title": "How to watch UCI Mountain Bike World Championships 2026 online from anywhere: free live streams of every event, Day 2",
+      "title": "How to watch UCI Mountain Bike World Championships 2026 online from anywhere: free live streams of every event, Day 3",
       "url": "https://www.whathifi.com/streaming-entertainment/how-to-watch/uci-mountain-bike-world-championships-2026",
       "publishedAt": "2026-08-26T13:00:00.000Z",
       "author": "Adam Marshall",
@@ -177,17 +375,6 @@
       "description": "Huge screen, huge performance",
       "image": "https://cdn.mos.cms.futurecdn.net/MXyxUD2rVprTuEm9ZJ94dQ-1920-80.jpg",
       "category": "其他音訊",
-      "articleType": "評測"
-    },
-    {
-      "source": "The Verge",
-      "title": "Bose is resting on its laurels with its new headphones",
-      "url": "https://www.theverge.com/tech/984764/bose-quietcomfort-headphones-gen-2-review",
-      "publishedAt": "2026-08-26T12:00:00.000Z",
-      "author": "John Higgins",
-      "description": "They’re good, but not exciting.",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268702_Bose_QuietComfort_Headphones_Gen_2_review_JHIGGINS_716A9403.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "category": "耳機",
       "articleType": "評測"
     },
     {
@@ -287,17 +474,6 @@
       "description": "Apple's EarPods are the iconic wired predecessor to its landmark AirPods, but how do the EarPods compare to their Bluetooth counterpart?",
       "image": "https://www.bgr.com/img/gallery/do-apples-earpods-have-better-audio-quality-than-airpods/l-intro-1787254395.jpg",
       "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "Engadget",
-      "title": "BenQ's first dual-monitor desk lamp will give your screens a glow up - Engadget",
-      "url": "https://www.engadget.com/2244137/benq-screenbar-max-first-dual-monitor-desk-lamp/",
-      "publishedAt": "2026-08-25T20:30:25.000Z",
-      "author": "Max Miller",
-      "description": "BenQ's first dual-monitor desk lamp is excellent, but it'll cost you.",
-      "image": "https://www.engadget.com/img/gallery/benqs-first-dual-monitor-desk-lamp-will-give-your-screens-a-glow-up/l-intro-1787689571.jpg",
-      "category": "其他音訊",
       "articleType": "其他"
     },
     {
@@ -918,7 +1094,7 @@
     },
     {
       "source": "What Hi-Fi?",
-      "title": "How to watch Vuelta a España 2026 online from anywhere: free live streams for every stage, Stage 6",
+      "title": "How to watch Vuelta a España 2026 online from anywhere: free live streams for every stage, Stage 7",
       "url": "https://www.whathifi.com/streaming-entertainment/how-to-watch/vuelta-a-espana-2026-free",
       "publishedAt": "2026-08-21T09:00:00.000Z",
       "author": "Adam Marshall",
@@ -3288,7 +3464,7 @@
       "publishedAt": "2026-08-07T14:10:00.000Z",
       "author": "Aatif Sulleyman",
       "description": "How to watch Rugby's Greatest Rivalry 2026 live streams around the world. Free coverage, schedule, venues, preview for New Zealand's tour of South Africa.",
-      "image": "https://cdn.mos.cms.futurecdn.net/JCaPhjq5GtgmBHexM9FCRn-1920-80.jpg",
+      "image": "https://cdn.mos.cms.futurecdn.net/4pEGFT8rEwb28viFsdLkpK-1920-80.jpg",
       "category": "串流播放器",
       "articleType": "其他"
     },
@@ -5017,171 +5193,6 @@
       "description": "A Line 6 Spider IV, a turntable, some speakers, an iPad, an overdrive pedal, loads of cables... what could go wrong?",
       "image": "https://cdn.mos.cms.futurecdn.net/ZR5dcvbpq9vrDGAsRfXfCa-2560-80.jpg",
       "category": "喇叭",
-      "articleType": "其他"
-    },
-    {
-      "source": "TechRadar",
-      "title": "‘I hope music will stay artisan; something that humans do to have the attention of other humans ’— Deezer’s Head of Research on how his team created the platform’s industry-leading AI filter, and why it matters",
-      "url": "https://www.techradar.com/audio/audio-streaming/what-were-really-fighting-is-people-scripting-computers-to-generate-thousands-of-songs-and-uploading-them-in-batches-to-overwhelm-flood-and-replace-deezers-head-of-research-on-that-industry-leading-ai-filter-and-why-we-need-it-now-more-than-ever",
-      "publishedAt": "2026-07-28T19:00:00.000Z",
-      "author": "Becky Scarrott",
-      "description": "‘One day, people may tell us, “OK, everything that was generated with that AI model prior to this date, when people actually have agreements to compensate musicians for their work, all of this needs to be removed” — and we would have to be prepared for that’",
-      "image": "https://cdn.mos.cms.futurecdn.net/mugG9TGyxnBpQR5fKmxqMa-2000-80.jpg",
-      "category": "串流播放器",
-      "articleType": "其他"
-    },
-    {
-      "source": "Tom's Guide",
-      "title": "Anker's Soundcore headphones are great for everyday use — here's my top picks for back to school from $20",
-      "url": "https://www.tomsguide.com/audio/ankers-soundcore-headphones-are-great-for-everyday-use-heres-my-top-picks-for-back-to-school-from-usd20",
-      "publishedAt": "2026-07-28T18:32:51.000Z",
-      "author": "Louis Ramirez",
-      "description": "Shop earbuds and headphones from $20",
-      "image": "https://cdn.mos.cms.futurecdn.net/sEG7JDB5XQsBorForn4e7A-2000-80.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "Join us this Friday for a What Hi-Fi? live Q&A!",
-      "url": "https://www.whathifi.com/tv-home-cinema/join-us-this-friday-for-a-what-hi-fi-live-q-and-a",
-      "publishedAt": "2026-07-28T17:02:29.000Z",
-      "author": "Tom Parsons",
-      "description": "Personalised buying advice, direct from our experts",
-      "image": "https://cdn.mos.cms.futurecdn.net/tZ5KzH7Bhrcd5WnhGoEoCn-675-80.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "SoundGuys",
-      "title": "This Anker Soundcore C50i deal cuts $30 off the open-ear earbuds at Amazon",
-      "url": "https://www.soundguys.com/anker-soundcore-c50i-deal-160697/",
-      "publishedAt": "2026-07-28T16:26:06.000Z",
-      "author": "Matt Horne",
-      "description": "This Anker earbud deal drops the Soundcore C50i to $39.98, offering open-ear comfort, AI call clarity, and app support.",
-      "image": "https://www.soundguys.com/wp-content/uploads/2026/07/Anker-Soundcore-C50i-Open-Ear-Earbuds-Press-Image.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "SoundGuys",
-      "title": "Highly rated Edifier MR3 desktop speakers drop 33% back to their lowest price yet",
-      "url": "https://www.soundguys.com/edifier-mr3-speakers-deal-160692/",
-      "publishedAt": "2026-07-28T15:37:43.000Z",
-      "author": "Matt Horne",
-      "description": "Need desk speakers? The Edifier MR3 drops to $99.97 with Hi-Res audio, 18W x 2 output, and wide device support.",
-      "image": "https://www.soundguys.com/wp-content/uploads/2026/07/Edifier-MR3-Powered-Studio-Monitor-Speakers-Press-Image.jpg",
-      "category": "喇叭",
-      "articleType": "其他"
-    },
-    {
-      "source": "SoundGuys",
-      "title": "Amazon cuts the Skullcandy Method 540 ANC to under $100 in its best deal yet",
-      "url": "https://www.soundguys.com/skullcandy-method-540-anc-deal-160688/",
-      "publishedAt": "2026-07-28T14:50:35.000Z",
-      "author": "Matt Horne",
-      "description": "The Skullcandy Method 540 ANC earbuds drop to $99.99, a 33% discount and the best price we’ve ever tracked.",
-      "image": "https://www.soundguys.com/wp-content/uploads/2026/01/Skullcandy-Method-540-ANC.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "TCL's new flagship soundbar features spatial audio and B&O tuning",
-      "url": "https://www.whathifi.com/tv-home-cinema/soundbars/tcls-new-flagship-soundbar-features-spatial-audio-and-b-and-o-tuning",
-      "publishedAt": "2026-07-28T14:23:44.000Z",
-      "author": "Joe Svetlik",
-      "description": "The TCL Q95K is a 11.1.4-channel monster with wireless surrounds and a wireless sub",
-      "image": "https://cdn.mos.cms.futurecdn.net/FJJGyL7Hv9kryAzjt6ZfWW-945-80.jpg",
-      "category": "Soundbar",
-      "articleType": "其他"
-    },
-    {
-      "source": "BGR",
-      "title": "Google Maps Labels Can Save You The Headache Of Lists - Here's How - BGR",
-      "url": "https://www.bgr.com/2221772/how-to-use-google-maps-labels-feature-guide/",
-      "publishedAt": "2026-07-28T12:47:00.000Z",
-      "author": "Marinel Sigue",
-      "description": "Google Maps lists are helpful, but the list page is so cluttered with details that it takes a couple of scrolls to see everything. Instead, use labels.",
-      "image": "https://www.bgr.com/img/gallery/google-maps-labels-can-save-you-the-headache-of-lists-heres-how/l-intro-1784823313.jpg",
-      "category": "DAC／擴大機",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "I’ve tested Marantz’s new entry-level CD player, and it’s an easy recommendation for the money",
-      "url": "https://www.whathifi.com/hi-fi/cd-players/marantz-cd-70",
-      "publishedAt": "2026-07-28T11:24:10.000Z",
-      "author": "",
-      "description": "Marantz keeps the CD player flag flying with excellent results",
-      "image": "https://cdn.mos.cms.futurecdn.net/D42bFPKDoj8Njtsd7ipuLM-1920-80.jpg",
-      "category": "其他音訊",
-      "articleType": "評測"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "We asked 8 sound engineers for their top studio test tracks – here’s what they picked and why",
-      "url": "https://www.whathifi.com/hi-fi/we-asked-eight-sound-engineers-for-their-top-studio-test-tracks-heres-what-they-picked-and-why",
-      "publishedAt": "2026-07-28T10:51:15.000Z",
-      "author": "Ioan Hazell",
-      "description": "The songs the people making the songs are listening to",
-      "image": "https://cdn.mos.cms.futurecdn.net/9tuKZ7KWB87geDA3SDWUxj-2000-80.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "SoundGuys",
-      "title": "These $199 Bose-tuned headphones last 38 hours and switch devices with a triple tap",
-      "url": "https://www.soundguys.com/lenovo-headphone-yoga-pc-edition-headphone-bose-tuning-us-launch-160681/",
-      "publishedAt": "2026-07-28T09:34:39.000Z",
-      "author": "Adamya Sharma",
-      "description": "Lenovo's Headphone YOGA PC Edition features Bose audio, 38 hours of battery life, ANC, and more at just $199.",
-      "image": "https://www.soundguys.com/wp-content/uploads/2026/07/Lenovo-Yoga-Headphone-PC-Edition.jpg",
-      "category": "耳機",
-      "articleType": "新聞"
-    },
-    {
-      "source": "SoundGuys",
-      "title": "Clip-on earbuds fixed my biggest issue with open-ears",
-      "url": "https://www.soundguys.com/clip-better-open-earbuds-160602/",
-      "publishedAt": "2026-07-28T09:30:14.000Z",
-      "author": "Brady Snyder",
-      "description": "I've always loved the idea behind open earbuds, but not their execution. Clip-on earbuds are the perfect middle ground.",
-      "image": "https://www.soundguys.com/wp-content/uploads/2026/07/Clip-Earbuds-5-scaled.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "SoundGuys",
-      "title": "I let the Skullcandy Crusher 1080 ANC rattle my skull for a week. The Bose tech was why I didn't quit",
-      "url": "https://www.soundguys.com/skullcandy-crusher-1080-anc-review-160375/",
-      "publishedAt": "2026-07-28T09:00:35.000Z",
-      "author": "Christian Thomas",
-      "description": "On the lookout for the bassiest headphones out there? We may have found them for our Skullcandy Crusher 1080 ANC review.",
-      "image": "https://www.soundguys.com/wp-content/uploads/2026/07/skullcandy-crusher-1080-ANC-hero.jpg",
-      "category": "耳機",
-      "articleType": "評測"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "Beyerdynamic's new wired headphones promise sonic clarity and enduring comfort at an entry-level price",
-      "url": "https://www.whathifi.com/headphones/wired-headphones/beyerdynamics-new-wired-headphones-promise-sonic-clarity-and-enduring-comfort-at-an-entry-level-price",
-      "publishedAt": "2026-07-28T09:00:00.000Z",
-      "author": "Harry McKerrell",
-      "description": "Beyerdynamic introduces the affordable DT 275 Pro",
-      "image": "https://cdn.mos.cms.futurecdn.net/u7W4bynQDtJB9fEYxftURY-2560-80.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "TechRadar",
-      "title": "I use Beyerdynamic's wired pro headphones as a working musician, and its new cheaper DT 275 Pro pair look like a steal — huge dynamic range, lightweight design, and easy to drive on the go",
-      "url": "https://www.techradar.com/audio/headphones/beyerdynamics-latest-on-ears-are-lightweight-neutral-and-seem-like-a-steal",
-      "publishedAt": "2026-07-28T09:00:00.000Z",
-      "author": "Carrie Marshall",
-      "description": "The new Beyerdynamic DT 275 Pro headphones promise pro-level performance without the price tag — and with solid noise isolation.",
-      "image": "https://cdn.mos.cms.futurecdn.net/7DhLbUJN684Bh9neeoGffV-2560-80.jpg",
-      "category": "耳機",
       "articleType": "其他"
     }
   ]
