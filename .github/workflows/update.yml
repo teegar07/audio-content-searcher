@@ -5,9 +5,10 @@ on:
     branches:
       - main
   schedule:
-    - cron: '0 23 * * *'
-    - cron: '30 23 * * *'
-    - cron: '0 0 * * *'
+    # 06:47, 07:17, 07:47 Asia/Taipei. Off the top of the hour to reduce GitHub cron congestion.
+    - cron: '47 22 * * *'
+    - cron: '17 23 * * *'
+    - cron: '47 23 * * *'
 permissions:
   contents: write
 concurrency:
@@ -16,7 +17,7 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 25
     steps:
       - uses: actions/checkout@v4
         with:
