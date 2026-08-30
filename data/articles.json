@@ -1,8 +1,19 @@
 {
-  "generatedAt": "2026-08-30T23:01:45.698Z",
+  "generatedAt": "2026-08-30T23:27:01.022Z",
   "days": 30,
   "count": 455,
   "articles": [
+    {
+      "source": "Engadget",
+      "title": "How to improve your audio quality on Apple CarPlay - Engadget",
+      "url": "https://www.engadget.com/2246402/improve-audio-quality-apple-carplay/",
+      "publishedAt": "2026-08-30T23:00:00.000Z",
+      "author": "Jack Whitcombe",
+      "description": "Make the music in your car sound better by making some easy tweaks to improve CarPlay's audio quality. You don't need to upgrade your car speakers just yet.",
+      "image": "https://www.engadget.com/img/gallery/how-to-improve-your-audio-quality-on-apple-carplay/l-intro-1787324051.jpg",
+      "category": "喇叭",
+      "articleType": "其他"
+    },
     {
       "source": "Engadget",
       "title": "How to improve your audio quality on Android Auto - Engadget",
@@ -101,17 +112,6 @@
       "image": "https://cdn.mos.cms.futurecdn.net/Ja8UpNkxcFEwRof4pgek6g-1920-80.jpg",
       "category": "耳機",
       "articleType": "評測"
-    },
-    {
-      "source": "Engadget",
-      "title": "Why does your Kindle even have Bluetooth? - Engadget",
-      "url": "https://www.engadget.com/2242764/why-does-your-kindle-even-have-bluetooth/",
-      "publishedAt": "2026-08-29T22:00:00.000Z",
-      "author": "Antony Terence",
-      "description": "Why does your Kindle even have Bluetooth?",
-      "image": "https://www.engadget.com/img/gallery/why-does-your-kindle-even-have-bluetooth/l-intro-1787161033.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
     },
     {
       "source": "The Verge",
