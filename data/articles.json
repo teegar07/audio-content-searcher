@@ -1,18 +1,172 @@
 {
-  "generatedAt": "2026-08-30T23:51:45.331Z",
+  "generatedAt": "2026-08-31T22:59:44.160Z",
   "days": 30,
   "count": 455,
   "articles": [
     {
+      "source": "TechRadar",
+      "title": "I didn’t think iFi could improve on the Gryphon portable DAC/amp — then I tested the new iDSD GR 2",
+      "url": "https://www.techradar.com/audio/dacs/ifi-idsd-gr-2-review",
+      "publishedAt": "2026-08-31T21:00:00.000Z",
+      "author": "",
+      "description": "I tested iFi’s new iDSD GR 2 portable DAC/amp, and it's a phenomenal sequel, with more power, more intuitiveness, and more features.",
+      "image": "https://cdn.mos.cms.futurecdn.net/CVWQgNe24HeYDsE4ABHunL-1600-80.jpg",
+      "category": "DAC／擴大機",
+      "articleType": "評測"
+    },
+    {
+      "source": "Tom's Guide",
+      "title": "Sam's Club deal knocks $240 off the budget Yamaha True X Bar 40A Soundbar",
+      "url": "https://www.tomsguide.com/audio/soundbars/sams-club-deal-knocks-usd240-off-the-budget-yamaha-true-x-bar-40a-soundbar",
+      "publishedAt": "2026-08-31T19:38:27.000Z",
+      "author": "Louis Ramirez",
+      "description": "A solid option for budget shoppers",
+      "image": "https://cdn.mos.cms.futurecdn.net/ncLZL53vffmBBXtkNjmfm9-2000-80.jpg",
+      "category": "Soundbar",
+      "articleType": "其他"
+    },
+    {
       "source": "Engadget",
-      "title": "How to improve your audio quality on Apple CarPlay - Engadget",
-      "url": "https://www.engadget.com/2246402/improve-audio-quality-apple-carplay/",
-      "publishedAt": "2026-08-30T23:00:00.000Z",
-      "author": "Jack Whitcombe",
-      "description": "Make the music in your car sound better by making some easy tweaks to improve CarPlay's audio quality. You don't need to upgrade your car speakers just yet.",
-      "image": "https://www.engadget.com/img/gallery/how-to-improve-your-audio-quality-on-apple-carplay/l-intro-1787324051.jpg",
+      "title": "What is the best direction to face your subwoofer? - Engadget",
+      "url": "https://www.engadget.com/2240906/best-direction-to-face-subwoofer/",
+      "publishedAt": "2026-08-31T18:00:00.000Z",
+      "author": "Gabriela Vătu",
+      "description": "While subwoofer orientation matters some, the placement of your sub in the room really makes a difference. Here's how to get the orientation and placement right.",
+      "image": "https://www.engadget.com/img/gallery/what-is-the-best-direction-to-face-your-subwoofer/l-intro-1787242541.jpg",
       "category": "喇叭",
       "articleType": "其他"
+    },
+    {
+      "source": "TechRadar",
+      "title": "I love the look (and unusual driver layout) of these retro-inspired wood-on-wood British stereo speakers",
+      "url": "https://www.techradar.com/audio/speakers/i-didnt-know-british-speaker-maker-castle-but-its-new-70s-inspired-stereo-speakers-look-really-cool-and-im-intrigued-by-the-unusual-driver-layout-on-one-model",
+      "publishedAt": "2026-08-31T16:58:58.000Z",
+      "author": "Tom Bedford",
+      "description": "Hi-fi company British Castle has four new loudspeakers, all inspired by English fortifications.",
+      "image": "https://cdn.mos.cms.futurecdn.net/XpjbvHkgn6UM5hFcyC9Rjc-2560-80.jpg",
+      "category": "喇叭",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "Nothing Ear (3a) deal brings the transparent ANC earbuds to just $79",
+      "url": "https://www.soundguys.com/nothing-ear-3a-deal-162221/",
+      "publishedAt": "2026-08-31T16:28:02.000Z",
+      "author": "Matt Horne",
+      "description": "Save $20 on the Nothing Ear (3a) at Amazon and get transparent-design earbuds with ANC, long battery life, and dual-device support.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/07/SG_Nothing-Ear-3a-02.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "Google will soon turn Pixel phones into personal PA systems using Auracast",
+      "url": "https://www.soundguys.com/android-17-qpr2-beta-4-pixel-voice-broadcast-162201/",
+      "publishedAt": "2026-08-31T15:04:16.000Z",
+      "author": "Aamir Siddiqui",
+      "description": "Android 17 QPR2 Beta 4 adds a Voice Broadcast tile to Pixels, letting you easily stream microphone audio via Auracast.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2024/09/google-pixel-buds-pro-2-pixel-phone.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "Bose QuietComfort Ultra headphones hit a record-low $249, saving you 45%",
+      "url": "https://www.soundguys.com/bose-quietcomfort-ultra-headphones-deal-amazon-162205/",
+      "publishedAt": "2026-08-31T14:39:58.000Z",
+      "author": "Matt Horne",
+      "description": "Save $200 on Bose QuietComfort Ultra headphones and get premium ANC, USB-C audio, and multipoint pairing for less.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2023/11/Bose-Quietcomfort-Ultra-Headhones-Hero-Image-4-scaled.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "Engadget",
+      "title": "How to disable absolute Bluetooth volume on Android (and why you might want to) - Engadget",
+      "url": "https://www.engadget.com/2240704/android-disable-absolute-bluetooth-volume-how-to-guide/",
+      "publishedAt": "2026-08-31T14:30:00.000Z",
+      "author": "Gabriela Vătu",
+      "description": "Disabling absolute volume control on Android lets you separate the volume levels of your phone and Bluetooth device so that you can adjust them independently.",
+      "image": "https://www.engadget.com/img/gallery/how-to-disable-absolute-bluetooth-volume-on-android-and-why-you-might-want-to/l-intro-1787232381.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "Engadget",
+      "title": "How to turn your iPhone into a Bluetooth controller - Engadget",
+      "url": "https://www.engadget.com/2243532/how-to-turn-iphone-into-bluetooth-controller/",
+      "publishedAt": "2026-08-31T13:00:00.000Z",
+      "author": "Isaac Egbon",
+      "description": "The Remote Gamepad app uses a Wi-Fi connection between your iPhone and your computer to cause your phone to behave like a Bluetooth controller for PC gaming.",
+      "image": "https://www.engadget.com/img/gallery/how-to-turn-your-iphone-into-a-bluetooth-controller/l-intro-1787662234.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "Engadget",
+      "title": "Does turning off Bluetooth actually make Wi-Fi better? - Engadget",
+      "url": "https://www.engadget.com/2245494/does-turning-off-bluetooth-actually-make-wi-fi-better/",
+      "publishedAt": "2026-08-31T12:00:00.000Z",
+      "author": "Antony Terence",
+      "description": "Does turning off Bluetooth actually make Wi-Fi better?",
+      "image": "https://www.engadget.com/img/gallery/does-turning-off-bluetooth-actually-make-wi-fi-better/l-intro-1787155365.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "BGR",
+      "title": "Bose Vs. Marshall: Which Speaker Brand Should You Opt For And Why? - BGR",
+      "url": "https://www.bgr.com/2246837/bose-vs-marshall-better-speaker-brand/",
+      "publishedAt": "2026-08-31T10:47:00.000Z",
+      "author": "Nick Woodard",
+      "description": "Two distinct sound signatures mean Bose and Marshall offer very different audio experiences, and there are important differences to consider between both.",
+      "image": "https://www.bgr.com/img/gallery/bose-vs-marshall-which-speaker-brand-should-you-opt-for-and-why/l-intro-1787929233.jpg",
+      "category": "喇叭",
+      "articleType": "其他"
+    },
+    {
+      "source": "Tom's Guide",
+      "title": "I tested Noble's high-end IEMs and they boast an unbelievably wide soundstage — but are the Iris worth $699?",
+      "url": "https://www.tomsguide.com/audio/earbuds/noble-audio-iris-iems-review",
+      "publishedAt": "2026-08-31T09:00:00.000Z",
+      "author": "",
+      "description": "The Noble Audio Iris are extremely comfortable IEMs and they boast a wide soundstage, crisp treble and refined mids. They're built well and look stunning, too.",
+      "image": "https://cdn.mos.cms.futurecdn.net/AwCJuoabfnxWHi9ywJhMmD-2000-80.jpg",
+      "category": "耳機",
+      "articleType": "評測"
+    },
+    {
+      "source": "Tom's Guide",
+      "title": "I’ve been testing the Grado SR325: They’re not the most comfortable, but I could still listen for hours",
+      "url": "https://www.tomsguide.com/audio/over-ear-headphones/grado-sr325-review",
+      "publishedAt": "2026-08-31T08:00:00.000Z",
+      "author": "",
+      "description": "Comfortably balanced (almost)",
+      "image": "https://cdn.mos.cms.futurecdn.net/kwrv4fHU6YQbH8M9axsVqN-1920-80.jpg",
+      "category": "耳機",
+      "articleType": "評測"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "XXXXX",
+      "url": "https://www.whathifi.com/tv-home-cinema/projectors/hisense-pt1",
+      "publishedAt": "2026-08-31T06:00:00.000Z",
+      "author": "",
+      "description": "The PT1 makes Hisense’s popular UST projector proposition even cheaper, but there is a performance cost to pay.",
+      "image": "https://cdn.mos.cms.futurecdn.net/5kYLs6f9VTLganXVjZWA3c-1920-80.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Bose’s disappointing Dolby Atmos soundbar, Naim drops a surprise, McIntosh’s latest streaming preamp and more",
+      "url": "https://www.whathifi.com/av/boses-disappointing-dolby-atmos-soundbar-naim-drops-a-surprise-mcintoshs-glowing-new-preamplifier-and-more",
+      "publishedAt": "2026-08-31T06:00:00.000Z",
+      "author": "Andy Madden",
+      "description": "Another interesting week of hi-fi and home cinema news and reviews",
+      "image": "https://cdn.mos.cms.futurecdn.net/539oj26QLnYsiC5wst7YqQ-1920-80.jpg",
+      "category": "Soundbar",
+      "articleType": "評測"
     },
     {
       "source": "Engadget",
@@ -35,17 +189,6 @@
       "image": "https://cdn.mos.cms.futurecdn.net/HG3zn7mSCCc7XyQbDc5Uf5-2560-80.jpg",
       "category": "喇叭",
       "articleType": "評測"
-    },
-    {
-      "source": "Engadget",
-      "title": "How to adjust the audio settings for your AirPods (and why you should) - Engadget",
-      "url": "https://www.engadget.com/2242791/how-to-adjust-audio-settings-on-airpods/",
-      "publishedAt": "2026-08-30T18:30:00.000Z",
-      "author": "Mariella Moon",
-      "description": "Settings like hearing assistance, headphone accommodations, noise cancelling and adaptive listening can all be adjusted to your preferences. Here's how.",
-      "image": "https://www.engadget.com/img/gallery/how-to-adjust-the-audio-settings-for-your-airpods-and-why-you-should/l-intro-1787150345.jpg",
-      "category": "耳機",
-      "articleType": "其他"
     },
     {
       "source": "TechRadar",
@@ -71,7 +214,7 @@
     },
     {
       "source": "What Hi-Fi?",
-      "title": "How to watch US Open 2026 online from anywhere: free live streams for every match, Day 1 (Sunday)",
+      "title": "How to watch US Open 2026 online from anywhere: free live streams for every match, Day 2 (Monday)",
       "url": "https://www.whathifi.com/streaming-entertainment/how-to-watch/how-to-watch-us-open-2026-online-from-anywhere-free-live-streams-for-every-match",
       "publishedAt": "2026-08-30T08:00:00.000Z",
       "author": "Adam Marshall",
@@ -112,17 +255,6 @@
       "image": "https://cdn.mos.cms.futurecdn.net/Ja8UpNkxcFEwRof4pgek6g-1920-80.jpg",
       "category": "耳機",
       "articleType": "評測"
-    },
-    {
-      "source": "The Verge",
-      "title": "Sony Music Publishing and Warner Chappell are suing Anthropic",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
-      "publishedAt": "2026-08-29T18:19:53.000Z",
-      "author": "Terrence O'Brien",
-      "description": "“One of the largest and most blatant ongoing thefts of intellectual property in history.”",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "category": "其他音訊",
-      "articleType": "其他"
     },
     {
       "source": "BGR",
@@ -188,17 +320,6 @@
       "description": "How do you spot a song that’s been generated with AI?",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268714_finding_and_shaming_AI_grifters_CVirginia.jpg?quality=90&strip=all&crop=0%2C11.150136769481%2C85.33125%2C67.014037093516&w=1200",
       "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "Tom's Guide",
-      "title": "How to watch 'WHAM! 10 Days in China' online for *FREE* — stream the music documentary from anywhere",
-      "url": "https://www.tomsguide.com/entertainment/streaming/how-to-watch-wham-10-days-in-china",
-      "publishedAt": "2026-08-29T11:00:00.000Z",
-      "author": "Jakob Barnes",
-      "description": "Go back to 1985 and follow the pop icons on their landmark tour",
-      "image": "https://cdn.mos.cms.futurecdn.net/gmD3wZtwb9g5wBP25nXCXL-1920-80.jpg",
-      "category": "串流播放器",
       "articleType": "其他"
     },
     {
@@ -452,17 +573,6 @@
       "description": "The electronic music artist will perform in Canada for the first time on August 29, headlining the Soulrise Music Festival in West Vancouver.",
       "image": "https://www.soundguys.com/wp-content/uploads/2026/08/ANYMA-AEDEN-SOULRISE-FSTVL-_05_1920-x-1080.jpg",
       "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "Engadget",
-      "title": "How to adjust the custom EQ settings for your AirPods in iOS 27 - Engadget",
-      "url": "https://www.engadget.com/2245470/how-to-adjust-custom-eq-settings-airpods-ios-27/",
-      "publishedAt": "2026-08-27T18:30:00.000Z",
-      "author": "Adnan Ahmed",
-      "description": "Everything you need to know about Apple's latest audio tool.",
-      "image": "https://www.engadget.com/img/gallery/how-to-adjust-the-custom-eq-settings-for-your-airpods-in-ios-27/l-intro-1787831181.jpg",
-      "category": "耳機",
       "articleType": "其他"
     },
     {
@@ -1501,7 +1611,7 @@
     },
     {
       "source": "What Hi-Fi?",
-      "title": "How to watch Vuelta a España 2026 online from anywhere: free live streams for every stage, Stage 9, Pogačar out after crash",
+      "title": "How to watch Vuelta a España 2026 online from anywhere: free live streams for every stage, Stage 10, Pogačar out after crash",
       "url": "https://www.whathifi.com/streaming-entertainment/how-to-watch/vuelta-a-espana-2026-free",
       "publishedAt": "2026-08-21T09:00:00.000Z",
       "author": "Adam Marshall",
@@ -3723,17 +3833,6 @@
     },
     {
       "source": "TechRadar",
-      "title": "Wait, Xiaomi makes speakers? I tried the new JBL Grip rival and the fancy, futuristic design totally won me over — although for sound, I found it a little wanting",
-      "url": "https://www.techradar.com/audio/wireless-bluetooth-speakers/xiaomi-sound-play-review",
-      "publishedAt": "2026-08-09T10:00:00.000Z",
-      "author": "",
-      "description": "I tried Xiaomi’s cheap Bluetooth speaker with an infinity mirror, flashy LED lights, and top-tier waterproofing — here’s how I’d rate it.",
-      "image": "https://cdn.mos.cms.futurecdn.net/qBw3Nkqqe3JkBXypqcZ4EE-1920-80.jpg",
-      "category": "喇叭",
-      "articleType": "評測"
-    },
-    {
-      "source": "TechRadar",
       "title": "I tested Dynaudio's awe-inspiring Dolby Atmos soundbar with mechanized wooden fins and 24 drivers — and spoke to an exec about building a soundbars for giant TVs and how to hide elite home theater tech in 'beautiful objects'",
       "url": "https://www.techradar.com/televisions/soundbars/dynaudio-opus-one-preview",
       "publishedAt": "2026-08-09T01:00:00.000Z",
@@ -4907,105 +5006,6 @@
       "description": "My colleagues blind-ranked 5 portable speakers from best to worst on sound alone — and the results may surprise you.",
       "image": "https://cdn.mos.cms.futurecdn.net/Hqbk9uLDaZD5QEjw7XsD36-1920-80.jpg",
       "category": "喇叭",
-      "articleType": "其他"
-    },
-    {
-      "source": "BGR",
-      "title": "5 Disadvantages Of Using YouTube Music You Should Know About - BGR",
-      "url": "https://www.bgr.com/2224359/disadvantages-youtube-music-you-should-know/",
-      "publishedAt": "2026-08-01T18:17:00.000Z",
-      "author": "Nichols deCourville",
-      "description": "YouTube Music offers plenty of content, but some missing features and persistent frustrations may leave listeners wanting more.",
-      "image": "https://www.bgr.com/img/gallery/5-disadvantages-of-using-youtube-music-you-should-know-about/l-intro-1785177550.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "BGR",
-      "title": "Wired Headphones Are Back, But Don't Make These 9 Mistakes When You Buy - BGR",
-      "url": "https://www.bgr.com/2225584/wired-headphones-common-mistakes-buyers-guide/",
-      "publishedAt": "2026-08-01T18:02:00.000Z",
-      "author": "Sydney Louw Butler",
-      "description": "Wired headphones are making a return to peoples' ears in a big way, and if you're thinking of getting in on the trend, keep these things in mind.",
-      "image": "https://www.bgr.com/img/gallery/wired-headphones-are-back-but-dont-make-these-9-mistakes-when-you-buy/l-intro-1785271221.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "BGR",
-      "title": "What's The Difference Between Active And Passive Subwoofers? - BGR",
-      "url": "https://www.bgr.com/2224275/active-vs-passive-subwoofers-whats-the-difference/",
-      "publishedAt": "2026-08-01T17:47:00.000Z",
-      "author": "Michael Bizzaco",
-      "description": "An active subwoofer contains a built-in amp, while a passive subwoofer does not. Choosing between the two comes down to a balance of budget and sound control.",
-      "image": "https://www.bgr.com/img/gallery/whats-the-difference-between-active-and-passive-subwoofers/l-intro-1784848350.jpg",
-      "category": "喇叭",
-      "articleType": "其他"
-    },
-    {
-      "source": "BGR",
-      "title": "3 Of The Worst Places To Put A Subwoofer In Your Home - BGR",
-      "url": "https://www.bgr.com/2224421/worst-places-to-put-subwoofer-at-home/",
-      "publishedAt": "2026-08-01T17:17:00.000Z",
-      "author": "Nick Woodard",
-      "description": "Subwoofers serve an important purpose in the home entertainment setup, and the wrong location can drastically affect the audio quality while you're watching.",
-      "image": "https://www.bgr.com/img/gallery/3-of-the-worst-places-to-put-a-subwoofer-in-your-home/l-intro-1785175889.jpg",
-      "category": "喇叭",
-      "articleType": "其他"
-    },
-    {
-      "source": "BGR",
-      "title": "What Kind Of Cable Should Your Subwoofer Be Using? - BGR",
-      "url": "https://www.bgr.com/2227427/what-cable-should-subwoofer-be-using/",
-      "publishedAt": "2026-08-01T11:17:00.000Z",
-      "author": "Joe Oliveto",
-      "description": "RCA or XLR? Deciphering subwoofer cables doesn't have to be confusing. Here’s a simple guide to choosing the best connection for crisp, punchy bass.",
-      "image": "https://www.bgr.com/img/gallery/what-kind-of-cable-should-your-subwoofer-be-using/l-intro-1785441953.jpg",
-      "category": "喇叭",
-      "articleType": "其他"
-    },
-    {
-      "source": "TechRadar",
-      "title": "Teenage Sex and Death at Camp Miasma isn't just the best horror movie of the year — it's the best film of 2026 full stop",
-      "url": "https://www.techradar.com/streaming/entertainment/teenage-sex-and-death-at-camp-miasma-mubi-review",
-      "publishedAt": "2026-08-01T09:00:00.000Z",
-      "author": "",
-      "description": "Thanks to director Jane Schoenbrun at her very best, Teenage Sex and Death at Camp Miasma has changed me for the better... and that begins with Gillian Anderson.",
-      "image": "https://cdn.mos.cms.futurecdn.net/Bs9dxVSi7qW8tKMw8E4h9J-1920-80.jpg",
-      "category": "串流播放器",
-      "articleType": "評測"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "I loved The Odyssey in the cinemas – but I can’t wait to watch it at home so I can control the volume",
-      "url": "https://www.whathifi.com/tv-home-cinema/i-loved-the-odyssey-in-the-cinemas-but-i-cant-wait-to-watch-it-at-home-so-i-can-control-the-volume",
-      "publishedAt": "2026-08-01T07:00:00.000Z",
-      "author": "Robyn Quick",
-      "description": "Pass the remote, Nolan",
-      "image": "https://cdn.mos.cms.futurecdn.net/N5G8bcRHAv3NFmsFvwa2EN-1920-80.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "Tom's Guide",
-      "title": "I tested the most expensive ANC headphones you can buy — here’s what $2,200 gets you",
-      "url": "https://www.tomsguide.com/audio/headphones/bang-and-olufsen-beoplay-h100-review",
-      "publishedAt": "2026-08-01T06:00:00.000Z",
-      "author": "",
-      "description": "ANC headphones for millionaires",
-      "image": "https://cdn.mos.cms.futurecdn.net/JB4cAZEw4LXHiUm38cPKse-1920-80.jpg",
-      "category": "耳機",
-      "articleType": "評測"
-    },
-    {
-      "source": "TechRadar",
-      "title": "As a gigging musician, this awesome home Dolby Atmos recording studio makes me jealous in the best way — here's the gear involved, including how AirPods Max and a Sonos home theater setup are involved",
-      "url": "https://www.techradar.com/audio/what-does-a-backyard-dolby-atmos-home-music-studio-look-like",
-      "publishedAt": "2026-08-01T01:00:00.000Z",
-      "author": "Carrie Marshall",
-      "description": "The shed of my dreams is very very spatial — and it was all done as a DIY project",
-      "image": "https://cdn.mos.cms.futurecdn.net/y2ipzZY3poS9eX8fUKrTRK-2048-80.png",
-      "category": "耳機",
       "articleType": "其他"
     }
   ]
