@@ -1,8 +1,19 @@
 {
-  "generatedAt": "2026-09-01T23:01:17.373Z",
+  "generatedAt": "2026-09-01T23:29:25.984Z",
   "days": 30,
-  "count": 475,
+  "count": 476,
   "articles": [
+    {
+      "source": "What Hi-Fi?",
+      "title": "Turntable brand Lenco’s new kettlebell-shaped Bluetooth speaker fires out sound in every direction",
+      "url": "https://www.whathifi.com/speakers/wireless-speakers/turntable-brand-lencos-new-kettlebell-shaped-bluetooth-speaker-fires-out-sound-in-every-direction",
+      "publishedAt": "2026-09-01T23:01:00.000Z",
+      "author": "Joe Svetlik",
+      "description": "And it plays music other than swing",
+      "image": "https://cdn.mos.cms.futurecdn.net/LFt7vgDSxmWqhVuuunEVfk-1746-80.jpg",
+      "category": "喇叭",
+      "articleType": "其他"
+    },
     {
       "source": "Engadget",
       "title": "Meta's new AI transcription model can distinguish between multiple speakers and languages in real-time - Engadget",
@@ -225,17 +236,6 @@
     },
     {
       "source": "What Hi-Fi?",
-      "title": "Sonos' new Beam soundbar is finally here with a big Dolby Atmos upgrade – but there’s still something missing",
-      "url": "https://www.whathifi.com/tv-home-cinema/soundbars/sonos-new-beam-soundbar-is-finally-here-with-a-big-dolby-atmos-upgrade-but-theres-still-something-missing",
-      "publishedAt": "2026-09-01T14:40:00.000Z",
-      "author": "Robyn Quick",
-      "description": "Have our home cinema prayers been answered?",
-      "image": "https://cdn.mos.cms.futurecdn.net/k8Vpd8RJRsjpbDaCkQ8Qrb-1490-80.jpg",
-      "category": "Soundbar",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
       "title": "Sonos Ace Ultra feature all-new drivers, updated ANC, and a \"direct connection\" to the current Sonos ecosystem",
       "url": "https://www.whathifi.com/headphones/wireless-headphones/sonos-ace-ultra-feature-all-new-drivers-updated-anc-and-a-direct-connection-to-the-current-sonos-ecosystem",
       "publishedAt": "2026-09-01T14:40:00.000Z",
@@ -243,6 +243,17 @@
       "description": "The Ace Ultra wireless headphones will cost £399 / $449",
       "image": "https://cdn.mos.cms.futurecdn.net/hHiZiQqUTYHhVHL9G3i76c-1490-80.jpg",
       "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Sonos' new Beam soundbar is finally here with a big Dolby Atmos upgrade – but there’s still something missing",
+      "url": "https://www.whathifi.com/tv-home-cinema/soundbars/sonos-new-beam-soundbar-is-finally-here-with-a-big-dolby-atmos-upgrade-but-theres-still-something-missing",
+      "publishedAt": "2026-09-01T14:40:00.000Z",
+      "author": "Robyn Quick",
+      "description": "Have our home cinema prayers been answered?",
+      "image": "https://cdn.mos.cms.futurecdn.net/k8Vpd8RJRsjpbDaCkQ8Qrb-1490-80.jpg",
+      "category": "Soundbar",
       "articleType": "其他"
     },
     {
@@ -500,17 +511,6 @@
     },
     {
       "source": "What Hi-Fi?",
-      "title": "Bose’s disappointing Dolby Atmos soundbar, Naim drops a surprise, McIntosh’s latest streaming preamp and more",
-      "url": "https://www.whathifi.com/av/boses-disappointing-dolby-atmos-soundbar-naim-drops-a-surprise-mcintoshs-glowing-new-preamplifier-and-more",
-      "publishedAt": "2026-08-31T06:00:00.000Z",
-      "author": "Andy Madden",
-      "description": "Another interesting week of hi-fi and home cinema news and reviews",
-      "image": "https://cdn.mos.cms.futurecdn.net/539oj26QLnYsiC5wst7YqQ-1920-80.jpg",
-      "category": "Soundbar",
-      "articleType": "評測"
-    },
-    {
-      "source": "What Hi-Fi?",
       "title": "XXXXX",
       "url": "https://www.whathifi.com/tv-home-cinema/projectors/hisense-pt1",
       "publishedAt": "2026-08-31T06:00:00.000Z",
@@ -519,6 +519,17 @@
       "image": "https://cdn.mos.cms.futurecdn.net/5kYLs6f9VTLganXVjZWA3c-1920-80.jpg",
       "category": "其他音訊",
       "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Bose’s disappointing Dolby Atmos soundbar, Naim drops a surprise, McIntosh’s latest streaming preamp and more",
+      "url": "https://www.whathifi.com/av/boses-disappointing-dolby-atmos-soundbar-naim-drops-a-surprise-mcintoshs-glowing-new-preamplifier-and-more",
+      "publishedAt": "2026-08-31T06:00:00.000Z",
+      "author": "Andy Madden",
+      "description": "Another interesting week of hi-fi and home cinema news and reviews",
+      "image": "https://cdn.mos.cms.futurecdn.net/539oj26QLnYsiC5wst7YqQ-1920-80.jpg",
+      "category": "Soundbar",
+      "articleType": "評測"
     },
     {
       "source": "TechRadar",
