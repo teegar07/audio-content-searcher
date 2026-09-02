@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-02T23:01:32.399Z",
+  "generatedAt": "2026-09-02T23:38:35.381Z",
   "days": 30,
-  "count": 475,
+  "count": 473,
   "articles": [
     {
       "source": "TechRadar",
@@ -3931,17 +3931,6 @@
       "articleType": "其他"
     },
     {
-      "source": "SoundGuys",
-      "title": "The Sennheiser ACCENTUM Clip might be worth crossing the border for",
-      "url": "https://www.soundguys.com/sennheiser-accentum-clip-review-161016/",
-      "publishedAt": "2026-08-11T19:53:24.000Z",
-      "author": "Christian Thomas",
-      "description": "Do these open earbuds sound good enough to cross the border for? Find out in our Sennheiser ACCENTUM Clip review.",
-      "image": "https://www.soundguys.com/wp-content/uploads/2026/08/sennheiser-accentum-clip-hero.jpg",
-      "category": "耳機",
-      "articleType": "評測"
-    },
-    {
       "source": "TechRadar",
       "title": "Our 26 favorite back-to-school deals this week — including cheap laptops, headphones, appliances, and other student essentials",
       "url": "https://www.techradar.com/seasonal-sales/the-best-back-to-school-sales-2026-techradars-recommendations-for-laptops-headphones-essentials-and-more",
@@ -5214,17 +5203,6 @@
       "author": "Sead Fadilpasic",
       "description": "Wondering how to make Anker Soundcore earbuds sound better? With a few adjustments, you can get the best possible sound quality from your Soundcore buds.",
       "image": "https://www.bgr.com/img/gallery/how-to-get-the-best-sound-from-your-anker-soundcore-earbuds/l-intro-1785356439.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "BGR",
-      "title": "Wired Vs. Wireless Headphones: Which Ones Last Longer - BGR",
-      "url": "https://www.bgr.com/2222192/wired-vs-wireless-headphones-which-last-longer/",
-      "publishedAt": "2026-08-03T23:17:00.000Z",
-      "author": "Sead Fadilpasic",
-      "description": "Wired headphones often last longer than wireless, usually due to batteries. A built-in battery goes bad over time, while wires last longer.",
-      "image": "https://www.bgr.com/img/gallery/wired-vs-wireless-headphones-which-ones-last-longer/l-intro-1784839403.jpg",
       "category": "耳機",
       "articleType": "其他"
     }
