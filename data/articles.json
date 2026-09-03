@@ -1,8 +1,19 @@
 {
-  "generatedAt": "2026-09-03T23:27:49.939Z",
+  "generatedAt": "2026-09-03T23:54:44.468Z",
   "days": 30,
-  "count": 479,
+  "count": 480,
   "articles": [
+    {
+      "source": "Engadget",
+      "title": "Audacity's new look is finally here, along with its largest feature update in years - Engadget",
+      "url": "https://www.engadget.com/2250830/audacity-4-new-look-is-finally-here-along-with-its-largest-feature-update-in-years/",
+      "publishedAt": "2026-09-03T23:50:08.000Z",
+      "author": "Max Miller",
+      "description": "The popular free audio editor gets a colorful dark mode and granular editing tools.",
+      "image": "https://www.engadget.com/img/gallery/audacitys-new-look-is-finally-here-along-with-its-largest-feature-update-in-years/l-intro-1788479172.jpg",
+      "category": "DAC／擴大機",
+      "articleType": "其他"
+    },
     {
       "source": "Engadget",
       "title": "What Is The Best Waterproof Rating For Bluetooth Speakers? - Engadget",
