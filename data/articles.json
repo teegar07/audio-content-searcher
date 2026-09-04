@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T23:01:13.017Z",
+  "generatedAt": "2026-09-04T23:31:29.265Z",
   "days": 30,
   "count": 491,
   "articles": [
@@ -1017,17 +1017,6 @@
     },
     {
       "source": "What Hi-Fi?",
-      "title": "Sonos Ace Ultra feature all-new drivers, updated ANC, and a \"direct connection\" to the current Sonos ecosystem",
-      "url": "https://www.whathifi.com/headphones/wireless-headphones/sonos-ace-ultra-feature-all-new-drivers-updated-anc-and-a-direct-connection-to-the-current-sonos-ecosystem",
-      "publishedAt": "2026-09-01T14:40:00.000Z",
-      "author": "Kashfia Kabir",
-      "description": "The Ace Ultra wireless headphones will cost £399 / $449",
-      "image": "https://cdn.mos.cms.futurecdn.net/hHiZiQqUTYHhVHL9G3i76c-1490-80.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
       "title": "Sonos' new Beam soundbar is finally here with a big Dolby Atmos upgrade – but there’s still something missing",
       "url": "https://www.whathifi.com/tv-home-cinema/soundbars/sonos-new-beam-soundbar-is-finally-here-with-a-big-dolby-atmos-upgrade-but-theres-still-something-missing",
       "publishedAt": "2026-09-01T14:40:00.000Z",
@@ -1035,6 +1024,17 @@
       "description": "Have our home cinema prayers been answered?",
       "image": "https://cdn.mos.cms.futurecdn.net/k8Vpd8RJRsjpbDaCkQ8Qrb-1490-80.jpg",
       "category": "Soundbar",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Sonos Ace Ultra feature all-new drivers, updated ANC, and a \"direct connection\" to the current Sonos ecosystem",
+      "url": "https://www.whathifi.com/headphones/wireless-headphones/sonos-ace-ultra-feature-all-new-drivers-updated-anc-and-a-direct-connection-to-the-current-sonos-ecosystem",
+      "publishedAt": "2026-09-01T14:40:00.000Z",
+      "author": "Kashfia Kabir",
+      "description": "The Ace Ultra wireless headphones will cost £399 / $449",
+      "image": "https://cdn.mos.cms.futurecdn.net/hHiZiQqUTYHhVHL9G3i76c-1490-80.jpg",
+      "category": "耳機",
       "articleType": "其他"
     },
     {
