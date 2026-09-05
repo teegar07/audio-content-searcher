@@ -1,8 +1,19 @@
 {
-  "generatedAt": "2026-09-05T23:32:09.458Z",
+  "generatedAt": "2026-09-05T23:58:25.045Z",
   "days": 30,
-  "count": 481,
+  "count": 482,
   "articles": [
+    {
+      "source": "BGR",
+      "title": "YouTube Music Needs This One Key Tidal Feature - BGR",
+      "url": "https://www.bgr.com/2247533/why-youtube-music-needs-ai-tag/",
+      "publishedAt": "2026-09-05T23:47:00.000Z",
+      "author": "Nala Ortiz",
+      "description": "Tidal has rolled out an AI-tagging feature that can also filter out AI-generated music. YouTube Music has been comparatively slow to adapt.",
+      "image": "https://www.bgr.com/img/gallery/youtube-music-needs-this-one-key-tidal-feature/l-intro-1788188159.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
     {
       "source": "BGR",
       "title": "Bose Vs. Sonos: Which Brand Offers A Better Home Audio Experience? - BGR",
@@ -1193,17 +1204,6 @@
     },
     {
       "source": "What Hi-Fi?",
-      "title": "Sonos' new Beam soundbar is finally here with a big Dolby Atmos upgrade – but there’s still something missing",
-      "url": "https://www.whathifi.com/tv-home-cinema/soundbars/sonos-new-beam-soundbar-is-finally-here-with-a-big-dolby-atmos-upgrade-but-theres-still-something-missing",
-      "publishedAt": "2026-09-01T14:40:00.000Z",
-      "author": "Robyn Quick",
-      "description": "Have our home cinema prayers been answered?",
-      "image": "https://cdn.mos.cms.futurecdn.net/k8Vpd8RJRsjpbDaCkQ8Qrb-1490-80.jpg",
-      "category": "Soundbar",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
       "title": "Sonos Ace Ultra feature all-new drivers, updated ANC, and a \"direct connection\" to the current Sonos ecosystem",
       "url": "https://www.whathifi.com/headphones/wireless-headphones/sonos-ace-ultra-feature-all-new-drivers-updated-anc-and-a-direct-connection-to-the-current-sonos-ecosystem",
       "publishedAt": "2026-09-01T14:40:00.000Z",
@@ -1211,6 +1211,17 @@
       "description": "The Ace Ultra wireless headphones will cost £399 / $449",
       "image": "https://cdn.mos.cms.futurecdn.net/hHiZiQqUTYHhVHL9G3i76c-1490-80.jpg",
       "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Sonos' new Beam soundbar is finally here with a big Dolby Atmos upgrade – but there’s still something missing",
+      "url": "https://www.whathifi.com/tv-home-cinema/soundbars/sonos-new-beam-soundbar-is-finally-here-with-a-big-dolby-atmos-upgrade-but-theres-still-something-missing",
+      "publishedAt": "2026-09-01T14:40:00.000Z",
+      "author": "Robyn Quick",
+      "description": "Have our home cinema prayers been answered?",
+      "image": "https://cdn.mos.cms.futurecdn.net/k8Vpd8RJRsjpbDaCkQ8Qrb-1490-80.jpg",
+      "category": "Soundbar",
       "articleType": "其他"
     },
     {
