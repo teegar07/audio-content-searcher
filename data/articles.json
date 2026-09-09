@@ -1,8 +1,19 @@
 {
-  "generatedAt": "2026-09-09T22:59:50.162Z",
+  "generatedAt": "2026-09-09T23:30:47.990Z",
   "days": 30,
-  "count": 508,
+  "count": 510,
   "articles": [
+    {
+      "source": "The Verge",
+      "title": "No AirPods with cameras yet, thankfully",
+      "url": "https://www.theverge.com/tech/993064/no-airpods-with-cameras-apple-event",
+      "publishedAt": "2026-09-09T23:00:04.000Z",
+      "author": "John Higgins",
+      "description": "Keep your cameras out of my ears.",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257943_Airpods_Pro3_AKrales_0108.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "category": "耳機",
+      "articleType": "其他"
+    },
     {
       "source": "The Verge",
       "title": "Suno releases its first AI music model made with record industry help",
@@ -5314,6 +5325,17 @@
       "description": "Save 33% on the Beats Pill at Amazon and grab this 4.7-star Bluetooth speaker with a 24-hour battery at a great price.",
       "image": "https://www.soundguys.com/wp-content/uploads/2024/07/Beats-Pill-on-a-table-next-to-plants.jpg",
       "category": "喇叭",
+      "articleType": "其他"
+    },
+    {
+      "source": "Tom's Guide",
+      "title": "National Vinyl Record Day: The 12 essential albums in my collection I listen to all the time",
+      "url": "https://www.tomsguide.com/audio/national-vinyl-record-day-the-12-essential-albums-in-my-collection-i-listen-to-all-the-time",
+      "publishedAt": "2026-08-12T17:00:00.000Z",
+      "author": "Will Salmon",
+      "description": "Build a killer record collection with these 12 essential albums",
+      "image": "https://cdn.mos.cms.futurecdn.net/rYf2wkjigccuQmg76sobmS-1920-80.jpg",
+      "category": "黑膠／唱盤",
       "articleType": "其他"
     },
     {
