@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-09T23:30:47.990Z",
+  "generatedAt": "2026-09-09T23:52:32.133Z",
   "days": 30,
-  "count": 510,
+  "count": 509,
   "articles": [
     {
       "source": "The Verge",
@@ -5600,17 +5600,6 @@
       "description": "Apple's AirPods Max use a mesh headband that's bound to wear out eventually. Instead of spending a fortune on a repair, I used a 3D printer.",
       "image": "https://www.soundguys.com/wp-content/uploads/2026/08/AirPods-Max-Headband-Fix-2-scaled.jpg",
       "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "BGR",
-      "title": "4 Bose Speakers With Top Scores From Consumer Reports - BGR",
-      "url": "https://www.bgr.com/2229743/bose-speakers-consumer-reports-top-scores/",
-      "publishedAt": "2026-08-10T23:47:00.000Z",
-      "author": "Michael Bizzaco",
-      "description": "If you're looking for a Bluetooth speaker, Bose is one brand that's worth considering. Consumer Reports recommends models like the SoundLink Max and Plus.",
-      "image": "https://www.bgr.com/img/gallery/4-bose-speakers-with-top-scores-from-consumer-reports/l-intro-1785839188.jpg",
-      "category": "喇叭",
       "articleType": "其他"
     }
   ]
