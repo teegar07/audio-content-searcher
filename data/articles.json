@@ -1,8 +1,129 @@
 {
-  "generatedAt": "2026-09-12T23:53:45.458Z",
+  "generatedAt": "2026-09-13T23:00:05.166Z",
   "days": 30,
-  "count": 513,
+  "count": 502,
   "articles": [
+    {
+      "source": "BGR",
+      "title": "These Are The Most Affordable Earbuds To Support Apple Music Lossless Streaming - BGR",
+      "url": "https://www.bgr.com/2254390/most-affordable-earbuds-for-apple-music-lossless/",
+      "publishedAt": "2026-09-13T21:47:00.000Z",
+      "author": "Jules Wang",
+      "description": "Apple's cheapest option is its USB-C EarPods at $19, but you can also use your own if you have them or plug in a 3.5mm pair into a USB-C-to-3.5mm adapter.",
+      "image": "https://www.bgr.com/img/gallery/these-are-the-most-affordable-earbuds-to-support-apple-music-lossless-streaming/l-intro-1788990273.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "TechRadar",
+      "title": "I was ready to give these cheap Soundpeats open earbuds a perfect review — but one recurring issue became their downfall",
+      "url": "https://www.techradar.com/audio/earbuds-airpods/i-was-ready-to-call-these-the-best-open-earbuds-ever-and-theyre-incredibly-cheap-but-one-recurring-issue-ruined-it-all",
+      "publishedAt": "2026-09-13T20:00:00.000Z",
+      "author": "",
+      "description": "The SoundPeats Pop Clip 2 sounded and fit amazingly, but connection problems let them down.",
+      "image": "https://cdn.mos.cms.futurecdn.net/HnJHLFNfNj5CxsnuTyUcd6-2500-80.jpg",
+      "category": "耳機",
+      "articleType": "評測"
+    },
+    {
+      "source": "BGR",
+      "title": "These Are The Only Wireless Headphones With A Perfect iFixit Repairability Score - BGR",
+      "url": "https://www.bgr.com/2252245/wireless-headphones-perfect-ifixit-repairability-score/",
+      "publishedAt": "2026-09-13T17:32:00.000Z",
+      "author": "Jonathan Sayers",
+      "description": "Out of all the wireless headphones iFixit has reviewed in the last six years, only one has a perfect repairability score: the Fairphone Fairbuds XL.",
+      "image": "https://www.bgr.com/img/gallery/these-are-the-only-wireless-headphones-with-a-perfect-ifixit-repairability-score/l-intro-1788804337.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "TechRadar",
+      "title": "The new AirPods 5 are available to preorder at Walmart — and you can save on older models starting at just $19",
+      "url": "https://www.techradar.com/audio/earbuds-airpods/the-new-airpods-5-are-available-to-preorder-at-walmart-and-you-can-save-on-older-models-starting-at-just-usd19",
+      "publishedAt": "2026-09-13T16:47:41.000Z",
+      "author": "Mackenzie Frazier",
+      "description": "Save on Apple's best-selling AirPods 4 and AirPods Pro 3",
+      "image": "https://cdn.mos.cms.futurecdn.net/kkNvoq3tbWLikBVBUrymGH-2560-80.jpg",
+      "category": "耳機",
+      "articleType": "新聞"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "US Open Final LIVE - watch Zverev vs Shelton for free in final tennis Grand Slam of 2026, latest news",
+      "url": "https://www.whathifi.com/streaming-entertainment/live/us-open-final-live",
+      "publishedAt": "2026-09-13T16:14:07.000Z",
+      "author": "Dan Struthers",
+      "description": "Men's title concludes at Flushing Meadows today",
+      "image": "https://cdn.mos.cms.futurecdn.net/UknC5enJaKFh666sdYkFDE-2005-80.png",
+      "category": "串流播放器",
+      "articleType": "新聞"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "How to watch US Open Men's Final 2026 online from anywhere: FREE live streams of Ben Shelton vs Alexander Zverev",
+      "url": "https://www.whathifi.com/streaming-entertainment/how-to-watch/us-open-2026-free-mens-final",
+      "publishedAt": "2026-09-13T13:00:00.000Z",
+      "author": "Krishi Chowdhary",
+      "description": "Can Shelton become the first American man in 23 years to win a Grand Slam?",
+      "image": "https://cdn.mos.cms.futurecdn.net/JL5swUXnWN9FU4eaBduqYb-2123-80.jpg",
+      "category": "串流播放器",
+      "articleType": "其他"
+    },
+    {
+      "source": "The Verge",
+      "title": "Apple’s new phones are here",
+      "url": "https://www.theverge.com/tech/994218/apple-iphone-18-pro-airpods-5-meta-muse-ai-sony-headphones",
+      "publishedAt": "2026-09-13T12:00:00.000Z",
+      "author": "Jay Peters",
+      "description": "In this week’s Installer: iPhones, AirPods, Meta’s AI agent, and more.",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/installer-1.jpg?quality=90&strip=all&crop=0%2C3.428851907255%2C100%2C93.14229618549&w=1200",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "Tom's Guide",
+      "title": "I used this Android tablet for three weeks — and its giant speaker has spoiled me",
+      "url": "https://www.tomsguide.com/computing/tablets/lenovo-tab-plus-gen-2-review",
+      "publishedAt": "2026-09-13T12:00:00.000Z",
+      "author": "",
+      "description": "The Lenovo Tab Plus Gen 2 is basically a giant speaker with a tablet attached — and it’s awesome",
+      "image": "https://cdn.mos.cms.futurecdn.net/h8Rsjf4PfGip98fuWVXp5M-2000-80.jpg",
+      "category": "喇叭",
+      "articleType": "評測"
+    },
+    {
+      "source": "BGR",
+      "title": "What Does The Infinity Symbol Mean On Apple Music? - BGR",
+      "url": "https://www.bgr.com/2253414/apple-music-infinity-symbol-meaning/",
+      "publishedAt": "2026-09-13T10:32:00.000Z",
+      "author": "Suzanne Bonnett",
+      "description": "Apple Music sometimes shows an infinity symbol when you load up a playlist. It might be useful, or you may prefer to turn it off.",
+      "image": "https://www.bgr.com/img/gallery/what-does-the-infinity-symbol-mean-on-apple-music/l-intro-1788906728.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "BGR",
+      "title": "Apple AirPods 4 Vs. AirPods 5: How Do They Compare? - BGR",
+      "url": "https://www.bgr.com/2256815/apple-airpods-4-vs-5-comparison/",
+      "publishedAt": "2026-09-13T09:17:00.000Z",
+      "author": "Connor Jewiss",
+      "description": "Apple's AirPods 5 are on the way soon, but how do they compare to the previous generation AirPods 4? We take an in-depth look at what sets them apart.",
+      "image": "https://www.bgr.com/img/gallery/apple-airpods-4-vs-airpods-5-how-do-they-compare/l-intro-1789277901.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "Tom's Guide",
+      "title": "I've reviewed 30+ earbuds but I still use 3-year-old AirPods Pro 2 — and I have zero plans to upgrade",
+      "url": "https://www.tomsguide.com/audio/airpods/ive-reviewed-30-earbuds-but-i-still-use-3-year-old-airpods-pro-2-and-i-have-zero-plans-to-upgrade",
+      "publishedAt": "2026-09-13T05:30:00.000Z",
+      "author": "Erin Bashford",
+      "description": "I've reviewed over thirty earbuds, but I still use my 3-year-old AirPods Pro 2, and I have no interest in upgrading. Here's why.",
+      "image": "https://cdn.mos.cms.futurecdn.net/RAWLSkMYf2rATLyf9TesRm-2000-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
     {
       "source": "TechRadar",
       "title": "Musixmatch on why lyrics not algorithms turn streamers into super-fans",
@@ -12,17 +133,6 @@
       "description": "Exclusive: I spoke to Marco Paglia, Chief Product Officer at Musixmatch, about how lyrics are changing the game for musicians and their listeners.",
       "image": "https://cdn.mos.cms.futurecdn.net/qafjr7aU3HQXEj2mTytryj-1920-80.png",
       "category": "串流播放器",
-      "articleType": "其他"
-    },
-    {
-      "source": "The Verge",
-      "title": "Sylvan Esso think you should splurge on good-quality yogurt",
-      "url": "https://www.theverge.com/entertainment/994340/sylvan-esso-ow-infinity-interview-music",
-      "publishedAt": "2026-09-12T16:35:00.000Z",
-      "author": "Terrence O'Brien",
-      "description": "Sylvan Esso’s new organic-sounding record Ow ∞ is out now.",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Sylvan_Esso_-_Ow__-_Photo_By_Tonje_Thilesen.jpg?quality=90&strip=all&crop=0%2C10.956690481872%2C100%2C78.086619036256&w=1200",
-      "category": "其他音訊",
       "articleType": "其他"
     },
     {
@@ -489,7 +599,7 @@
     },
     {
       "source": "What Hi-Fi?",
-      "title": "How to watch Spanish Grand Prix 2026: live stream F1 race from anywhere, Norris claims pole",
+      "title": "How to watch Spanish Grand Prix 2026: live stream F1 race from anywhere, Lights Out!",
       "url": "https://www.whathifi.com/streaming-entertainment/how-to-watch/spanish-grand-prix-2026-live-stream",
       "publishedAt": "2026-09-11T03:30:00.000Z",
       "author": "Andy Murray",
@@ -529,28 +639,6 @@
       "description": "Nothing's rumored Headphone (1) Pro could feature a three-driver setup, adaptive ANC, 60 hours of battery life, and a $399 price tag.",
       "image": "https://www.soundguys.com/wp-content/uploads/2025/06/nothing-headphone-1-lifestyle-wearing_1.jpg",
       "category": "耳機",
-      "articleType": "新聞"
-    },
-    {
-      "source": "Engadget",
-      "title": "Universal Music Group is collaborating with ElevenLabs on a new AI-powered creation platform - Engadget",
-      "url": "https://www.engadget.com/2255044/universal-music-group-is-collaborating-with-elevenlabs-on-a-new-ai-powered-creation-platform/",
-      "publishedAt": "2026-09-10T17:01:52.000Z",
-      "author": "Matt Tate",
-      "description": "The unnamed software will be built around licensed music from UMG artists who want to participate.",
-      "image": "https://www.engadget.com/img/gallery/universal-music-group-is-collaborating-with-elevenlabs-on-a-new-ai-powered-creation-platform/l-intro-1789059229.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "Engadget",
-      "title": "Yoto just announced two new audio devices for kids - Engadget",
-      "url": "https://www.engadget.com/2254860/yoto-just-announced-two-new-audio-devices-for-kids/",
-      "publishedAt": "2026-09-10T15:47:08.000Z",
-      "author": "Lawrence Bonk",
-      "description": "Some upgrades make these more capable and easier to use for small hands.",
-      "image": "https://www.engadget.com/img/gallery/yoto-just-announced-two-new-audio-devices-for-kids/l-intro-1789055145.jpg",
-      "category": "其他音訊",
       "articleType": "新聞"
     },
     {
@@ -1706,17 +1794,6 @@
       "description": "There are deals across the categories as we enter September",
       "image": "https://cdn.mos.cms.futurecdn.net/UCNkag2tUCaxdK9s5iiYPk-1920-80.jpg",
       "category": "喇叭",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "Our experts pick the best Labor Day deals on five-star OLED TVs and headphones",
-      "url": "https://www.whathifi.com/tv-home-cinema/televisions/our-tech-experts-picks-of-the-best-labor-day-deals-on-award-winning-bluetooth-speakers-five-star-oled-tvs-and-half-price-wireless-headphones",
-      "publishedAt": "2026-09-04T15:39:03.000Z",
-      "author": "Daniel Furn",
-      "description": "There are some surprisingly big savings this Labor Day",
-      "image": "https://cdn.mos.cms.futurecdn.net/mZL9Jx5znWEo5DopxoWTtL-1920-80.jpg",
-      "category": "耳機",
       "articleType": "其他"
     },
     {
@@ -2898,12 +2975,12 @@
     },
     {
       "source": "What Hi-Fi?",
-      "title": "How to watch US Open 2026 online from anywhere: free live streams for every match, Day 14 (Saturday) Women's final",
+      "title": "How to watch US Open 2026 online from anywhere: free live streams for every match, Day 15 (Sunday) Men's final",
       "url": "https://www.whathifi.com/streaming-entertainment/how-to-watch/how-to-watch-us-open-2026-online-from-anywhere-free-live-streams-for-every-match",
       "publishedAt": "2026-08-30T08:00:00.000Z",
       "author": "Adam Marshall",
-      "description": "There'll be a new men's champion at Flushing Meadows while Aryna Sabalenka shoots for a third straight US Open on the women's side",
-      "image": "https://cdn.mos.cms.futurecdn.net/jSgA43gPQA3meuXjSvXSoh-1920-80.jpg",
+      "description": "There'll be a new men's champion at Flushing Meadows after Elena Rybakina won her first US Open on the women's side",
+      "image": "https://cdn.mos.cms.futurecdn.net/9EFAyDB8Ym8zVVy8rmNmwe-1920-80.jpg",
       "category": "串流播放器",
       "articleType": "其他"
     },
@@ -5445,204 +5522,6 @@
       "author": "Frances Daniels",
       "description": "I'm testing the Auria Glow, a lamp designed to reduce cortisol and support melatonin production. Here's what happened to my sleep when I used it for the dark showering trend...",
       "image": "https://cdn.mos.cms.futurecdn.net/8CUbVnX4ZYozBazMptBSeM-1920-80.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "The Verge",
-      "title": "Samsung has new Galaxy headphones in the works",
-      "url": "https://www.theverge.com/gadgets/980547/samsung-galaxy-h1-over-ear-headphones",
-      "publishedAt": "2026-08-14T19:18:45.000Z",
-      "author": "Stevie Bonifield",
-      "description": "The “Galaxy H1” could be Samsung’s first over-ear headphones since 2015.",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268384_Samsung_Galaxy_Buds_4_Pro_AKrales_0309.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "SoundGuys",
-      "title": "Amazon cuts Philips open-back stereo headphones to $89.99 for home listening",
-      "url": "https://www.soundguys.com/philips-open-back-stereo-headphones-161463/",
-      "publishedAt": "2026-08-14T16:21:17.000Z",
-      "author": "Matt Horne",
-      "description": "Amazon cuts Philips wired open-back headphones by $40, bringing airy home listening and gaming sound to $89.99.",
-      "image": "https://www.soundguys.com/wp-content/uploads/2026/08/Philips-Open-Back-Stereo-Headphones-Press-Image.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "Our experts pick the 3 best 4K Blu-ray players right now (and some great reference discs)",
-      "url": "https://www.whathifi.com/tv-home-cinema/blu-ray-players/long-live-physical-media-our-home-cinema-experts-pick-out-the-best-4k-blu-ray-players-and-some-of-our-favourite-discs-to-play-on-them",
-      "publishedAt": "2026-08-14T16:14:09.000Z",
-      "author": "Daniel Furn",
-      "description": "Don't want your movies to disappear one day? You'll never have that problem with Blu-ray",
-      "image": "https://cdn.mos.cms.futurecdn.net/VuaAB5oJMGJWEo4qcAZsTi-1920-80.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "SoundGuys",
-      "title": "This Pixel Buds 2a deal cuts Google’s ANC earbuds to $99",
-      "url": "https://www.soundguys.com/pixel-buds-2a-deal-161457/",
-      "publishedAt": "2026-08-14T15:34:38.000Z",
-      "author": "Matt Horne",
-      "description": "The Google Pixel Buds 2a are back to their best price ever, with ANC, Multipoint, Fast Pair, and hands-free Gemini support.",
-      "image": "https://www.soundguys.com/wp-content/uploads/2025/10/google-pixel-buds-2a-hero.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "Our deal experts have found the best discounts on dissected Dolby Atmos soundbars, RGB Mini LED TVs and five-star Bluetooth speakers",
-      "url": "https://www.whathifi.com/av/our-deal-experts-have-found-the-best-discounts-on-dissected-dolby-atmos-soundbars-rgb-mini-led-tvs-and-five-star-bluetooth-speakers",
-      "publishedAt": "2026-08-14T15:31:29.000Z",
-      "author": "Daniel Furn",
-      "description": "Record high temperatures and record low prices",
-      "image": "https://cdn.mos.cms.futurecdn.net/HbSCjRBq9HekrKzuWNtkM4-1920-80.jpg",
-      "category": "Soundbar",
-      "articleType": "其他"
-    },
-    {
-      "source": "TechRadar",
-      "title": "‘Terrain, weather, a society that inhabits it, and its own rhythms and narratives’: this bizarre speaker has an eyepiece in the top to reveal the ‘tiny world inside’",
-      "url": "https://www.techradar.com/audio/speakers/what-if-sims-and-a-smart-speaker-had-a-baby-meet-the-bijou-speaker-with-a-tiny-world-inside-just-dont-expect-it-to-play-your-spotify-playlists",
-      "publishedAt": "2026-08-14T15:00:00.000Z",
-      "author": "Becky Scarrott",
-      "description": "Part Sims-style society, part AI-generated muzak?",
-      "image": "https://cdn.mos.cms.futurecdn.net/RCWiqY4uVsczzfa9FAHrnb-2490-80.png",
-      "category": "喇叭",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "Dolby Vision 2 HDR can work on existing 4K Blu-ray players – but there's a catch",
-      "url": "https://www.whathifi.com/tv-home-cinema/blu-ray-players/dolby-vision-2-hdr-can-work-on-existing-4k-blu-ray-players-but-theres-a-catch",
-      "publishedAt": "2026-08-14T14:52:07.000Z",
-      "author": "Joe Svetlik",
-      "description": "Not all manufacturers are playing ball",
-      "image": "https://cdn.mos.cms.futurecdn.net/AfbC2LBbGdGoXxjdRyvbL7-2560-80.png",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "\"A sound full of texture and subtlety\" – this clever, technically accomplished DAC is a fresh contender",
-      "url": "https://www.whathifi.com/hi-fi/dacs/topping-audio-d900",
-      "publishedAt": "2026-08-14T13:12:50.000Z",
-      "author": "",
-      "description": "Topping Audio’s D900 brings cutting-edge conversion technology and an unusually fluid sonic presentation to the premium DAC market.",
-      "image": "https://cdn.mos.cms.futurecdn.net/SYhukfP6nem2bwKUsCorkb-1920-80.jpg",
-      "category": "DAC／擴大機",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "The end of an era: the Marantz CD6000 series is one of modern hi-fi’s greatest hits – we look back through the evolution of this budget CD player range over the past two decades",
-      "url": "https://www.whathifi.com/hi-fi/cd-players/the-end-of-an-era-the-marantz-cd6000-series-is-one-of-modern-hi-fis-greatest-hits-we-look-back-through-the-evolution-of-this-budget-cd-player-range-over-the-past-two-decades",
-      "publishedAt": "2026-08-14T13:10:40.000Z",
-      "author": "Kashfia Kabir",
-      "description": "The newly launched, just-reviewed CD 70 marks a new chapter for Marantz CD players",
-      "image": "https://cdn.mos.cms.futurecdn.net/N6bhjsZqY36ZJnG5jGtuLM-1920-80.jpg",
-      "category": "其他音訊",
-      "articleType": "新聞"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "I made a turntable-inspired wordsearch - how fast can you solve it?",
-      "url": "https://www.whathifi.com/hi-fi/turntables/quiz-how-fast-can-you-solve-our-turntable-challenge-test-your-wordsearch-skills-now",
-      "publishedAt": "2026-08-14T12:57:47.000Z",
-      "author": "Andy Madden",
-      "description": "How fast can you find them?",
-      "image": "https://cdn.mos.cms.futurecdn.net/NKWSrFmh9DrdbWAjzuZTsF-1920-80.jpg",
-      "category": "黑膠／唱盤",
-      "articleType": "其他"
-    },
-    {
-      "source": "The Verge",
-      "title": "CMF has managed to make cheap but good clip earbuds",
-      "url": "https://www.theverge.com/tech/979928/cmf-clip-pro-review",
-      "publishedAt": "2026-08-14T12:00:00.000Z",
-      "author": "John Higgins",
-      "description": "They’re great if you don’t want to jam something into your ear.",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268665_Nothing_CMF_Clip_Pro_earbuds_AKrales_0144.jpg?quality=90&strip=all&crop=0%2C6.6231544521024%2C100%2C78.534031413613&w=1200",
-      "category": "耳機",
-      "articleType": "評測"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "Could this affordable, feature-packed Bluetooth turntable rival the five-star Sony PS-LX3BT?",
-      "url": "https://www.whathifi.com/hi-fi/turntables/could-this-affordable-feature-packed-bluetooth-turntable-rival-the-five-star-sony-ps-lx3bt",
-      "publishedAt": "2026-08-14T11:46:10.000Z",
-      "author": "Ioan Hazell",
-      "description": "The second generation Obi3 features built-in speed sensors and a heavier base",
-      "image": "https://cdn.mos.cms.futurecdn.net/B7VEJVk3oA2r7SrkWNUKC6-2000-80.jpg",
-      "category": "黑膠／唱盤",
-      "articleType": "其他"
-    },
-    {
-      "source": "BGR",
-      "title": "Users Agree That YouTube Music Does One Thing Better Than Other Streaming Services - BGR",
-      "url": "https://www.bgr.com/2232568/users-agree-youtube-music-superior-algorithm/",
-      "publishedAt": "2026-08-14T11:17:00.000Z",
-      "author": "Vic Hood",
-      "description": "From unreleased tracks to rare live sets, users agree that YouTube Music's algorithm finds better new music suggestions than Spotify or Apple Music.",
-      "image": "https://www.bgr.com/img/gallery/users-agree-that-youtube-music-does-one-thing-better-than-other-streaming-services/l-intro-1786121198.jpg",
-      "category": "串流播放器",
-      "articleType": "新聞"
-    },
-    {
-      "source": "TechRadar",
-      "title": "One of my favorite off-the-wall audio outfits just launched a new cheap turntable and I’m going to have to take it for a spin",
-      "url": "https://www.techradar.com/audio/turntables/kantos-new-budget-friendly-turntable-has-a-few-smart-features-to-make-it-easy-for-novices-to-use-and-its-lovely-and-compact-too",
-      "publishedAt": "2026-08-14T10:41:04.000Z",
-      "author": "Tom Bedford",
-      "description": "The Kanto Audio Obi3 Gen 2 has a few neat features for entry-level turntable owners, including a smart speed sensor.",
-      "image": "https://cdn.mos.cms.futurecdn.net/pxVjJRUjcV42MyYBCcSVB4-1984-80.jpg",
-      "category": "黑膠／唱盤",
-      "articleType": "新聞"
-    },
-    {
-      "source": "SoundGuys",
-      "title": "Samsung could take on Apple's AirPods Max with its own over-ear 'Galaxy' headphones",
-      "url": "https://www.soundguys.com/samsung-over-ear-headphones-leak-161442/",
-      "publishedAt": "2026-08-14T09:43:33.000Z",
-      "author": "Tushar Mehta",
-      "description": "Samsung may finally be working on a new pair over-ear headphones, after years of limiting itself to developing only earbuds.",
-      "image": "https://www.soundguys.com/wp-content/uploads/2026/02/samsung-galaxy-buds-4-pro-hero.jpg",
-      "category": "耳機",
-      "articleType": "新聞"
-    },
-    {
-      "source": "SoundGuys",
-      "title": "Survey shows listeners overwhelmingly want replaceable batteries in headphones",
-      "url": "https://www.soundguys.com/survey-shows-listeners-want-replaceable-batteries-in-headphones-161046/",
-      "publishedAt": "2026-08-14T08:30:51.000Z",
-      "author": "Adam Birney",
-      "description": "Our poll shows listeners overwhelmingly want replaceable batteries as a standard feature of headphones, not just a bonus.",
-      "image": "https://www.soundguys.com/wp-content/uploads/2026/04/SteelSeries-Arctis-Nova-Pro-Omni-batteries.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "Tom's Guide",
-      "title": "Never lose a podcast highlight again thanks to this Spotify feature",
-      "url": "https://www.tomsguide.com/audio/never-lose-a-podcast-highlight-again-thanks-to-this-spotify-feature",
-      "publishedAt": "2026-08-14T05:30:00.000Z",
-      "author": "David Crookes",
-      "description": "Quickly save, edit, and share podcast clips in Spotify to build a personalized library of your favorite highlights.",
-      "image": "https://cdn.mos.cms.futurecdn.net/L4JXRRDrGg6AjcFQZcLv3V-2000-80.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "Tom's Guide",
-      "title": "I walked 5,000 steps with the Fitbit Air vs Garmin Cirqa — Round 2: We have a new champ",
-      "url": "https://www.tomsguide.com/wellness/fitness-trackers/i-walked-5-000-steps-with-the-fitbit-air-vs-garmin-cirqa-round-2-we-have-a-new-champ",
-      "publishedAt": "2026-08-14T04:30:00.000Z",
-      "author": "Dan Bracaglia",
-      "description": "Fitbit vs Garmin: Round 2",
-      "image": "https://cdn.mos.cms.futurecdn.net/AZiNzMo6iqnpTRsefYcEna-2560-80.jpg",
       "category": "其他音訊",
       "articleType": "其他"
     }
