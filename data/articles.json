@@ -1,8 +1,184 @@
 {
-  "generatedAt": "2026-09-13T23:54:15.195Z",
+  "generatedAt": "2026-09-14T23:01:30.545Z",
   "days": 30,
-  "count": 502,
+  "count": 511,
   "articles": [
+    {
+      "source": "TechRadar",
+      "title": "Been waiting for Samsung's much-anticipated open earbuds? They seem to have leaked (again), with a new name and loads of new features",
+      "url": "https://www.techradar.com/audio/earbuds-airpods/samsungs-much-anticipated-open-earbuds-appear-to-leak-again-this-time-with-a-new-name-and-long-list-of-features",
+      "publishedAt": "2026-09-14T21:44:02.000Z",
+      "author": "Tom Bedford",
+      "description": "The Galaxy Buds On could launch soon",
+      "image": "https://cdn.mos.cms.futurecdn.net/Nb6pBzw2zaxiGWTw2tcnpJ-2560-80.jpg",
+      "category": "耳機",
+      "articleType": "新聞"
+    },
+    {
+      "source": "The Verge",
+      "title": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
+      "url": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit",
+      "publishedAt": "2026-09-14T20:03:37.000Z",
+      "author": "Jay Peters",
+      "description": "Trump publicly called Huang, again.",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292612804.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "category": "喇叭",
+      "articleType": "新聞"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "Tribit StormBox Micro 3 falls to $49.99, making this compact speaker easier on the wallet",
+      "url": "https://www.soundguys.com/tribit-stormbox-micro-3-bluetooth-speaker-163125/",
+      "publishedAt": "2026-09-14T17:09:04.000Z",
+      "author": "Matt Horne",
+      "description": "Save 23% on the new Tribit StormBox Micro 3, a tiny Bluetooth speaker with 24-hour battery life and IP68 protection.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/09/Tribit-StormBox-Micro-3-Press-Image.jpg",
+      "category": "喇叭",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "I spoke to the team that brought a blood-sucking classic back from the dead",
+      "url": "https://www.whathifi.com/tv-home-cinema/there-will-always-be-a-place-for-4k-blu-ray-i-spoke-to-the-team-that-brought-a-blood-sucking-classic-back-from-the-dead",
+      "publishedAt": "2026-09-14T15:51:16.000Z",
+      "author": "Robyn Quick",
+      "description": "Physical media reigns supreme with this Hammer Horror release",
+      "image": "https://cdn.mos.cms.futurecdn.net/CynNpeuxHkJFqPwU6jt9UW-2560-80.jpg",
+      "category": "其他音訊",
+      "articleType": "新聞"
+    },
+    {
+      "source": "BGR",
+      "title": "The Best AirPods Setting To Change If You Hate Background Noise - BGR",
+      "url": "https://www.bgr.com/2254806/best-airpod-setting-change-if-you-hate-background-noise/",
+      "publishedAt": "2026-09-14T15:47:00.000Z",
+      "author": "Marinel Sigue",
+      "description": "Block distracting sounds with a simple AirPods setting. Here’s how to enable noise cancellation on iPhone, Mac, Apple Watch, and even one earbud.",
+      "image": "https://www.bgr.com/img/gallery/the-best-airpods-setting-to-change-if-you-hate-background-noise/l-intro-1789053153.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Our audio experts pick the 10 best acoustic tracks to test your hi-fi system",
+      "url": "https://www.whathifi.com/hi-fi/best-acoustic-tracks-to-test-your-hi-fi-system",
+      "publishedAt": "2026-09-14T15:22:05.000Z",
+      "author": "Andy Madden",
+      "description": "These stripped-back tunes will trip up many a set-up",
+      "image": "https://cdn.mos.cms.futurecdn.net/kuawagjUFKzXJ9UXSkK78a-2560-80.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "Amazon slashes Beats Studio Pro to $169.99 — a huge 51% off RRP",
+      "url": "https://www.soundguys.com/beats-studio-pro-deal-amazon-163101/",
+      "publishedAt": "2026-09-14T15:20:10.000Z",
+      "author": "Matt Horne",
+      "description": "Save $180 on the Beats Studio Pro at Amazon and get Bluetooth, USB-C audio, a 3.5mm jack, and 4.5-star backing.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2023/07/beats-studio-pro-reverse-e1690900885278.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Acer Vero HL6810ATV",
+      "url": "https://www.whathifi.com/tv-home-cinema/projectors/acer-vero-hl6810atv",
+      "publishedAt": "2026-09-14T14:53:29.000Z",
+      "author": "",
+      "description": "I’ve tested Acer’s new coffee-table projector, and it’s fun to use and ideal for late-night viewing",
+      "image": "https://cdn.mos.cms.futurecdn.net/QzQRsPF7rsxu7CuMhoT6Uk-1920-80.jpg",
+      "category": "其他音訊",
+      "articleType": "評測"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "This music player sat unused in my brother’s garage for over a decade – and switched on first time",
+      "url": "https://www.whathifi.com/hi-fi/portable-music-players/this-music-player-sat-unused-in-my-brothers-garage-for-over-a-decade-and-switched-on-first-time",
+      "publishedAt": "2026-09-14T14:46:08.000Z",
+      "author": "Joe Svetlik",
+      "description": "They don't make 'em like this any more. Or do they?",
+      "image": "https://cdn.mos.cms.futurecdn.net/pHFs5s524piN3MUsViexNV-2560-80.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Get JBL’s stellar five-star flagship AVR for better than half price with our exclusive code",
+      "url": "https://www.whathifi.com/tv-home-cinema/av-receivers/get-jbls-stellar-five-star-flagship-avr-for-better-than-half-price-with-our-exclusive-code",
+      "publishedAt": "2026-09-14T12:52:29.000Z",
+      "author": "Daniel Furn",
+      "description": "A whopping £3801 off, just for What Hi-Fi? readers",
+      "image": "https://cdn.mos.cms.futurecdn.net/BECh56jRcZv88CvLG6iMxE-1921-80.jpg",
+      "category": "DAC／擴大機",
+      "articleType": "其他"
+    },
+    {
+      "source": "TechRadar",
+      "title": "'And they wonder why people don't want to move from Windows 10': Microsoft admits the latest Windows 11 update breaks audio on some PCs",
+      "url": "https://www.techradar.com/computing/windows/the-latest-windows-11-update-breaks-audio-on-some-pcs-and-reportedly-kills-file-history-feature",
+      "publishedAt": "2026-09-14T11:13:05.000Z",
+      "author": "Darren Allan",
+      "description": "The sound of silence: Microsoft admits that the September update is killing audio on some PCs",
+      "image": "https://cdn.mos.cms.futurecdn.net/BNheaVg8e7uEWCkwVhpCPj-1920-80.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "IKEA’s latest Bluetooth speaker is boxy, budget, and built for the indoors",
+      "url": "https://www.whathifi.com/speakers/wireless-speakers/ikeas-latest-bluetooth-speaker-is-boxy-budget-and-built-for-the-indoors",
+      "publishedAt": "2026-09-14T11:08:59.000Z",
+      "author": "Harry McKerrell",
+      "description": "The Badkruka literally means “bath-coward”, apparently",
+      "image": "https://cdn.mos.cms.futurecdn.net/rFpSPRMUMDhYeW997Ts9uM-900-80.jpg",
+      "category": "喇叭",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Sony TA-AN1000 vs Denon AVR-X2900H: which mid-range AV amplifier comes out on top?",
+      "url": "https://www.whathifi.com/tv-home-cinema/av-receivers/sony-ta-an1000-vs-denon-avr-x2900h-which-mid-range-av-amplifier-comes-out-on-top",
+      "publishedAt": "2026-09-14T10:37:47.000Z",
+      "author": "Lewis Empson",
+      "description": "Two titans of home cinema audio go head to head",
+      "image": "https://cdn.mos.cms.futurecdn.net/TPEd5CNRNnsLNk8KFRirCh-1920-80.jpg",
+      "category": "DAC／擴大機",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "New iPhones, wireless open-back headphones, a five-star spin on a classic turntable and more",
+      "url": "https://www.whathifi.com/av/new-iphones-wireless-open-back-headphones-a-five-star-spin-on-a-classic-turntable-and-more",
+      "publishedAt": "2026-09-14T07:00:00.000Z",
+      "author": "Alastair Stevenson",
+      "description": "It was quite a week for hi-fi and home cinema fans",
+      "image": "https://cdn.mos.cms.futurecdn.net/kDMG6BSJmp4AGkHgZcp9ER-1920-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "BGR",
+      "title": "Here's How To Transfer Your Playlists To Apple Music From Other Platforms - BGR",
+      "url": "https://www.bgr.com/2254476/how-to-transfer-playlists-to-apple-music-from-other-platforms/",
+      "publishedAt": "2026-09-14T03:17:00.000Z",
+      "author": "Jules Wang",
+      "description": "Recently made the switch from Spotify or another music streamer to Apple Music? Here's how to make sure all your personal playlists make the journey with you.",
+      "image": "https://www.bgr.com/img/gallery/heres-how-to-transfer-your-playlists-to-apple-music-from-other-platforms/l-intro-1789014351.jpg",
+      "category": "串流播放器",
+      "articleType": "其他"
+    },
+    {
+      "source": "BGR",
+      "title": "Bluetooth Vs. Bluetooth LE: What's The Difference? - BGR",
+      "url": "https://www.bgr.com/2254369/bluetooth-vs-le-differences-explained/",
+      "publishedAt": "2026-09-13T23:47:00.000Z",
+      "author": "Faith Leroux",
+      "description": "You may have noticed some of your devices connect using Bluetooth LE, but what does it do differently than standard Bluetooth connectivity?",
+      "image": "https://www.bgr.com/img/gallery/bluetooth-vs-bluetooth-le-whats-the-difference/l-intro-1788989375.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
     {
       "source": "BGR",
       "title": "These Are The Most Affordable Earbuds To Support Apple Music Lossless Streaming - BGR",
@@ -239,7 +415,7 @@
       "title": "ICYMI: the 7 biggest tech stories of the week, from Apple's iPhone Duo debut to Sonos' best compact speaker yet",
       "url": "https://www.techradar.com/tech/icymi-the-7-biggest-tech-stories-of-the-week-from-apples-iphone-duo-debut-to-sonos-best-compact-speaker-yet",
       "publishedAt": "2026-09-12T08:00:00.000Z",
-      "author": "Hamish Hector, Dashiell Wood, Mark Wilson, Matt Bolton, Axel Metz",
+      "author": "Hamish Hector, Axel Metz, Mark Wilson, Matt Bolton, Dashiell Wood",
       "description": "Your firmware update for September 12, 2026",
       "image": "https://cdn.mos.cms.futurecdn.net/9uDKjnAHacbb3zzxJ4frjB-2000-80.png",
       "category": "喇叭",
@@ -321,17 +497,6 @@
       "image": "https://cdn.mos.cms.futurecdn.net/deAyZrULULimsM6V86sCYS-1600-80.jpg",
       "category": "喇叭",
       "articleType": "其他"
-    },
-    {
-      "source": "The Verge",
-      "title": "Where to preorder the Apple AirPods 5",
-      "url": "https://www.theverge.com/gadgets/993637/apple-airpods-5-anc-wireless-charging-preorder-buy",
-      "publishedAt": "2026-09-11T15:31:00.000Z",
-      "author": "Brad Bourque",
-      "description": "The Apple AirPods 5 will hit shelves on September 18th, but you can line up your purchase ahead of time.",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_2026_event_handson_ADiBenedetto_0046.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "category": "耳機",
-      "articleType": "新聞"
     },
     {
       "source": "What Hi-Fi?",
@@ -417,7 +582,7 @@
       "publishedAt": "2026-09-11T13:00:00.000Z",
       "author": "Billy Steele",
       "description": "Ultra-level features and a few design tweaks highlight the updates on the second-gen QuietComfort Headphones.",
-      "image": "https://www.engadget.com/img/gallery/bose-quietcomfort-headphones-2nd-gen-review-upgraded-in-all-the-right-places/l-intro-1788899173.jpg",
+      "image": "https://www.engadget.com/img/gallery/bose-quietcomfort-headphones-2nd-gen-review/l-intro-1789395073.jpg",
       "category": "耳機",
       "articleType": "評測"
     },
@@ -582,7 +747,7 @@
       "publishedAt": "2026-09-11T06:00:00.000Z",
       "author": "Joe Svetlik",
       "description": "Does the addition of up-firing drivers justify the new model's higher price?",
-      "image": "https://cdn.mos.cms.futurecdn.net/D2GXULMgxwM82dxt7wBeHi-1920-80.jpg",
+      "image": "https://cdn.mos.cms.futurecdn.net/Rvg8tEeNHiyb9WVh5rSgV8-1920-80.jpg",
       "category": "Soundbar",
       "articleType": "新聞"
     },
@@ -5458,72 +5623,6 @@
       "image": "https://cdn.mos.cms.futurecdn.net/rTajgTfq4UAb6gJgsMQmZk-1920-80.jpg",
       "category": "Soundbar",
       "articleType": "評測"
-    },
-    {
-      "source": "TechRadar",
-      "title": "‘We see Fitness as a long-term investment and another way to make Spotify more valuable’: The mind behind Spotify’s new Fitness ecosystem on how to make the most of the platform’s new workout tools, and why it was a ‘natural extension’ for the streaming giant",
-      "url": "https://www.techradar.com/audio/spotify/fitness-is-a-natural-extension-of-how-people-already-use-spotify-today-thats-what-the-platforms-senior-director-of-product-austin-lamon-believes-and-hes-not-done-investing-in-the-fitness-hubs-development-just-yet",
-      "publishedAt": "2026-08-15T14:00:00.000Z",
-      "author": "Rowan Davies",
-      "description": "Spotify's Senior Director of Product tells us all about the platform's 'natural extension' into the fitness world.",
-      "image": "https://cdn.mos.cms.futurecdn.net/RZnih2oTMqdHeGvqAS97XT-1920-80.jpg",
-      "category": "串流播放器",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "How to watch cricket online from anywhere — August 2026",
-      "url": "https://www.whathifi.com/streaming-entertainment/how-to-watch/cricket-online-from-anywhere",
-      "publishedAt": "2026-08-15T10:00:00.000Z",
-      "author": "Adam Marshall",
-      "description": "Tests, domestic and franchise cricket can all be streamed globally — and sometimes for free",
-      "image": "https://cdn.mos.cms.futurecdn.net/XMXBvX2wnMZrMqZntne7fB-1883-80.png",
-      "category": "串流播放器",
-      "articleType": "其他"
-    },
-    {
-      "source": "SoundGuys",
-      "title": "I didn't expect ANC earbuds to save my solo beach trip",
-      "url": "https://www.soundguys.com/i-didnt-expect-anc-earbuds-to-save-my-solo-beach-trip-161381/",
-      "publishedAt": "2026-08-15T09:00:43.000Z",
-      "author": "Dave Carr",
-      "description": "I didn't expect ANC earbuds to save my beach trip, but they helped me shut out the distractions and enjoy my music outside.",
-      "image": "https://www.soundguys.com/wp-content/uploads/2026/08/Beach-ANC-Feature-1-scaled.jpeg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "TechRadar",
-      "title": "Fosi's striking CD player gets high marks for its sturdy build and solid sound in testing, but it does have a fatal flaw",
-      "url": "https://www.techradar.com/audio/earbuds-airpods/fosi-audio-merak-review",
-      "publishedAt": "2026-08-15T09:00:00.000Z",
-      "author": "",
-      "description": "If your system needs an affordable compact disc solution (or if you want to hear your CDs in private), the Fosi Audio Merak might just be the answer…",
-      "image": "https://cdn.mos.cms.futurecdn.net/7q4aAFzCFToxep8zuYyrrA-2560-80.jpg",
-      "category": "耳機",
-      "articleType": "評測"
-    },
-    {
-      "source": "Tom's Guide",
-      "title": "I ditched my $300 Bose earbuds this much cheaper open pair — and it’s the best choice I could have made",
-      "url": "https://www.tomsguide.com/audio/earbuds/i-ditched-my-usd300-bose-earbuds-for-a-usd180-pair-and-its-the-best-choice-i-could-have-made",
-      "publishedAt": "2026-08-15T08:45:00.000Z",
-      "author": "Ashley Thieme",
-      "description": "Everyone needs open-earbuds, but you don’t have to spend big bucks",
-      "image": "https://cdn.mos.cms.futurecdn.net/HedS42fRmsmCGB8DQY2JK4-2000-80.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "Tom's Guide",
-      "title": "I used the viral dark showering lamp that 'lowers cortisol' for better sleep — here's what happened",
-      "url": "https://www.tomsguide.com/wellness/sleep-tech/i-used-the-viral-dark-showering-lamp-that-lowers-cortisol-for-better-sleep-heres-what-happened",
-      "publishedAt": "2026-08-15T05:45:00.000Z",
-      "author": "Frances Daniels",
-      "description": "I'm testing the Auria Glow, a lamp designed to reduce cortisol and support melatonin production. Here's what happened to my sleep when I used it for the dark showering trend...",
-      "image": "https://cdn.mos.cms.futurecdn.net/8CUbVnX4ZYozBazMptBSeM-1920-80.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
     }
   ]
 }
