@@ -1,8 +1,19 @@
 {
-  "generatedAt": "2026-09-14T23:29:22.049Z",
+  "generatedAt": "2026-09-14T23:54:52.707Z",
   "days": 30,
-  "count": 513,
+  "count": 514,
   "articles": [
+    {
+      "source": "BGR",
+      "title": "The 3 Most Common Problems With TCL Soundbars (And How To Fix Them) - BGR",
+      "url": "https://www.bgr.com/2255552/how-to-fix-tcl-soundbars-most-common-problems/",
+      "publishedAt": "2026-09-14T23:47:00.000Z",
+      "author": "Nick Woodard",
+      "description": "TCL soundbars are similarly in affordable tiers like its TV counterparts, but they fall prey to many similar faults that other sound systems suffer from.",
+      "image": "https://www.bgr.com/img/gallery/the-3-most-common-problems-with-tcl-soundbars-and-how-to-fix-them/l-intro-1788967924.jpg",
+      "category": "Soundbar",
+      "articleType": "其他"
+    },
     {
       "source": "TechRadar",
       "title": "These cheap Skullcandy earbuds have a worrying Bluetooth flaw that could let anyone connect to your device",
