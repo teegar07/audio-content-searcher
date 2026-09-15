@@ -1,8 +1,19 @@
 {
-  "generatedAt": "2026-09-15T23:32:00.745Z",
+  "generatedAt": "2026-09-15T23:53:04.664Z",
   "days": 30,
-  "count": 524,
+  "count": 525,
   "articles": [
+    {
+      "source": "Engadget",
+      "title": "How to get Spotify's best audio quality - Engadget",
+      "url": "https://www.engadget.com/2257125/how-to-get-spotify-best-audio-quality/",
+      "publishedAt": "2026-09-15T23:30:00.000Z",
+      "author": "Ben Stegner",
+      "description": "Spotify makes it easy to press play and enjoy music as you go about your day. But tweaking audio quality settings and EQ settings can make a big difference.",
+      "image": "https://www.engadget.com/img/gallery/how-to-get-spotifys-best-audio-quality/l-intro-1789378286.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
     {
       "source": "BGR",
       "title": "When Should AirPods Owners Replace Their Ear Tips? - BGR",
