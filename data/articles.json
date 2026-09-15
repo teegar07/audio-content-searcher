@@ -1,8 +1,261 @@
 {
-  "generatedAt": "2026-09-14T23:54:52.707Z",
+  "generatedAt": "2026-09-15T23:00:51.055Z",
   "days": 30,
-  "count": 514,
+  "count": 524,
   "articles": [
+    {
+      "source": "BGR",
+      "title": "When Should AirPods Owners Replace Their Ear Tips? - BGR",
+      "url": "https://www.bgr.com/2256422/when-should-airpod-owners-replace-ear-tips/",
+      "publishedAt": "2026-09-15T22:47:00.000Z",
+      "author": "Sead Fadilpasic",
+      "description": "From performance issues to health concerns, the silicone tips of your Apple AirPods have a definite shelf life, which depends on how often you use the wearable.",
+      "image": "https://www.bgr.com/img/gallery/when-should-airpods-owners-replace-their-ear-tips/l-intro-1789155901.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "Engadget",
+      "title": "Wired vs wireless speakers: What are the pros and cons? - Engadget",
+      "url": "https://www.engadget.com/2256380/wired-vs-wireless-speakers-pros-cons/",
+      "publishedAt": "2026-09-15T22:00:00.000Z",
+      "author": "Novak Božović",
+      "description": "Wired and wireless speakers each have their own advantages, with neither one being perfect for all scenarios.",
+      "image": "https://www.engadget.com/img/gallery/wired-vs-wireless-speakers-what-are-the-pros-and-cons/l-intro-1789154432.jpg",
+      "category": "喇叭",
+      "articleType": "其他"
+    },
+    {
+      "source": "Engadget",
+      "title": "How to improve the audio quality on your iPhone - Engadget",
+      "url": "https://www.engadget.com/2256208/how-to-improve-audio-quality-iphone/",
+      "publishedAt": "2026-09-15T20:00:00.000Z",
+      "author": "Jack Peachey",
+      "description": "Your iPhone can sound better thanks to streaming app settings, EQs, speaker apps and much more.",
+      "image": "https://www.engadget.com/img/gallery/how-to-improve-the-audio-quality-on-your-iphone/l-intro-1789148882.jpg",
+      "category": "喇叭",
+      "articleType": "其他"
+    },
+    {
+      "source": "TechRadar",
+      "title": "The AirPods 5 are already on sale before launch — Amazon just surprised us with a first-time discount",
+      "url": "https://www.techradar.com/audio/earbuds-airpods/the-airpods-5-are-available-for-preorder-at-a-surprisingly-affordable-price-and-amazon-just-surprised-us-with-a-first-time-discount",
+      "publishedAt": "2026-09-15T17:14:45.000Z",
+      "author": "Mackenzie Frazier",
+      "description": "Get Apple's newest AirPods with ANC for just $124.99",
+      "image": "https://cdn.mos.cms.futurecdn.net/wsWWeRWwQ7KvHXcMeoDaVE-1920-80.jpg",
+      "category": "耳機",
+      "articleType": "新聞"
+    },
+    {
+      "source": "BGR",
+      "title": "Why Do Some Users Wear Their AirPods Upside Down? - BGR",
+      "url": "https://www.bgr.com/2255756/why-users-wear-airpods-upside-down/",
+      "publishedAt": "2026-09-15T16:47:00.000Z",
+      "author": "Chifundo Kasiya",
+      "description": "Some AirPods users wear their earbuds upside down for a more comfortable fit and better seal, but the unusual trick comes with a few drawbacks.",
+      "image": "https://www.bgr.com/img/gallery/why-do-some-users-wear-their-airpods-upside-down/l-intro-1789129480.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "There's been a big problem with some Sony TVs – but a fix might finally be here",
+      "url": "https://www.whathifi.com/tv-home-cinema/televisions/theres-been-a-big-problem-with-some-sony-tvs-but-a-fix-might-finally-be-here",
+      "publishedAt": "2026-09-15T16:22:16.000Z",
+      "author": "Tom Parsons",
+      "description": "New software is finally out, and early user reports suggest it fixes the long-running eARC issues",
+      "image": "https://cdn.mos.cms.futurecdn.net/xxKz9jWAqk7eVNvpZJ3QAT-1920-80.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "The EarFun Air Pro 4 Plus falls to $74.98 with ANC, LDAC, and 54-hour battery life",
+      "url": "https://www.soundguys.com/earfun-air-pro-4-plus-deal-163168/",
+      "publishedAt": "2026-09-15T15:25:40.000Z",
+      "author": "Matt Horne",
+      "description": "Get 25% off the EarFun Air Pro 4 Plus and score premium features like ANC, Hi-Res Audio, multipoint, and long battery life.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2025/10/DSC04081-scaled.jpg",
+      "category": "DAC／擴大機",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Avengers: Endgame Encore is coming to the big screen, but is it worth another trip to the cinema?",
+      "url": "https://www.whathifi.com/streaming-entertainment/avengers-endgame-encore-is-coming-to-the-big-screen-but-is-it-worth-another-trip-to-the-cinema",
+      "publishedAt": "2026-09-15T15:20:48.000Z",
+      "author": "Robyn Quick",
+      "description": "We dig into the differences",
+      "image": "https://cdn.mos.cms.futurecdn.net/AWvEGrztACtUyVx4sRAeBd-743-80.jpg",
+      "category": "串流播放器",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Now you can stop your kid’s taste in music affecting your Spotify recommendations",
+      "url": "https://www.whathifi.com/streaming-entertainment/music-streaming/now-you-can-stop-your-kids-taste-in-music-affecting-your-spotify-recommendations",
+      "publishedAt": "2026-09-15T13:47:08.000Z",
+      "author": "Joe Svetlik",
+      "description": "Including in the annual Wrapped round-up",
+      "image": "https://cdn.mos.cms.futurecdn.net/JtK9vFSkQxBn2SarkDY7kE-1576-80.jpg",
+      "category": "串流播放器",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "There’s a new lowest price on LG’s punchy, five-star flagship OLED – and you get a free soundbar to boot",
+      "url": "https://www.whathifi.com/tv-home-cinema/televisions/theres-a-new-lowest-price-on-lgs-punchy-five-star-flagship-oled-and-you-get-a-free-soundbar-to-boot",
+      "publishedAt": "2026-09-15T13:14:10.000Z",
+      "author": "Daniel Furn",
+      "description": "Primary RGB Tandem OLED and a Dolby Atmos soundbar, all in one deal",
+      "image": "https://cdn.mos.cms.futurecdn.net/yCaB84KPpbzvbAnuGpfxhn-1920-80.jpg",
+      "category": "Soundbar",
+      "articleType": "其他"
+    },
+    {
+      "source": "The Verge",
+      "title": "The AirPods 5 are Apple’s best open-ear earbuds yet",
+      "url": "https://www.theverge.com/tech/995273/airpods-5-wireless-charging-case-review",
+      "publishedAt": "2026-09-15T13:00:00.000Z",
+      "author": "John Higgins",
+      "description": "The $20 extra for the $149 version is totally worth it.",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268737_AirPods_5_AKrales_0125.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "category": "耳機",
+      "articleType": "評測"
+    },
+    {
+      "source": "Engadget",
+      "title": "Spotify can now exclude your kids' music taste from recommendations - Engadget",
+      "url": "https://www.engadget.com/2257982/spotify-can-now-exclude-your-kids-music-taste-from-recommendations/",
+      "publishedAt": "2026-09-15T13:00:00.000Z",
+      "author": "Jackson Chen",
+      "description": "Will this mark the end of Disney songs popping up in your Daily Mix?",
+      "image": "https://www.engadget.com/img/gallery/spotify-can-now-exclude-your-kids-music-taste-from-recommendations/l-intro-1789409070.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "TechRadar",
+      "title": "Parents, your Spotify account is about to be yours again — this new feature finally lets you exclude your kids’ music from your recommendations and Wrapped",
+      "url": "https://www.techradar.com/audio/spotify/spotify-is-finally-giving-you-a-button-to-block-kids-music-from-your-recommendations-and-wrapped-now-youtube-needs-to-follow-suit",
+      "publishedAt": "2026-09-15T13:00:00.000Z",
+      "author": "Rowan Davies",
+      "description": "Spotify is giving parents more control, now you can easily exclude your kids favorite music from your taste profile.",
+      "image": "https://cdn.mos.cms.futurecdn.net/ns2wDvHXVHPAmPC7CBKegD-2000-80.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "Tom's Guide",
+      "title": "Big sound on a small budget: 6 Tozo earbud and speaker deals from $20",
+      "url": "https://www.tomsguide.com/audio/headphones/big-sound-on-a-small-budget-6-tozo-earbud-and-speaker-deals-from-usd20",
+      "publishedAt": "2026-09-15T13:00:00.000Z",
+      "author": "Will Salmon",
+      "description": "Great quality audio doesn't have to cost the Earth",
+      "image": "https://cdn.mos.cms.futurecdn.net/UcpJpo9m6EZ2oy94osJ2DA-1920-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Ruark’s super-cute radio gets even cuter thanks to a swanky new finish to celebrate the brand’s 40th birthday",
+      "url": "https://www.whathifi.com/hi-fi/radio/ruarks-super-cute-radio-gets-even-cuter-thanks-to-a-swanky-new-finish-to-celebrate-the-brands-40th-birthday",
+      "publishedAt": "2026-09-15T12:35:11.000Z",
+      "author": "Harry McKerrell",
+      "description": "The R1S is now available in a special Terracotta finish",
+      "image": "https://cdn.mos.cms.futurecdn.net/pnYMe5ffns3Q4M38U9LCrX-1500-80.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Following a damning report, LG releases a 2000-word statement to deny its smart TVs spy on users",
+      "url": "https://www.whathifi.com/tv-home-cinema/televisions/following-a-damning-report-lg-releases-a-2000-word-statement-to-deny-its-smart-tvs-spy-on-users",
+      "publishedAt": "2026-09-15T11:43:02.000Z",
+      "author": "Joe Svetlik",
+      "description": "But the creators of the original report have hit back",
+      "image": "https://cdn.mos.cms.futurecdn.net/HXM6KHpN2BiDvVY3VDHLVf-1920-80.jpg",
+      "category": "其他音訊",
+      "articleType": "新聞"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "These new super cheap wireless earbuds want to dethrone the Award-winning Sony WF-C510",
+      "url": "https://www.whathifi.com/headphones/wireless-earbuds/these-new-super-cheap-wireless-earbuds-want-to-dethrone-the-award-winning-sony-wf-c510",
+      "publishedAt": "2026-09-15T10:53:08.000Z",
+      "author": "Harry McKerrell",
+      "description": "Tribit's FlyBuds 5 also feature noise cancelling",
+      "image": "https://cdn.mos.cms.futurecdn.net/8LMnWLHVy2LcGi48HkMwaf-937-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "TechRadar",
+      "title": "iFi squeezed a whole hi-res DAC/amp into a tiny earbuds cable, with 32-bit audio support from an ESS Sabre DAC — just add your own IEMs, or get a cut-price bundle that includes iFi's",
+      "url": "https://www.techradar.com/audio/dacs/ifis-newest-hi-res-headphone-dac-and-amp-squeezes-into-a-tiny-usb-c-earbuds-cable-you-just-add-your-own-audiophile-iems",
+      "publishedAt": "2026-09-15T09:44:31.000Z",
+      "author": "Tom Bedford",
+      "description": "The iFi Go cable manages to fit a DAC/headphone amp into one small cable, which you can use on your phone or laptop.",
+      "image": "https://cdn.mos.cms.futurecdn.net/x25Ud6DFm6s5V3mQ7vsmaN-2400-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "The next Amazon Prime Day sale is less than a month away",
+      "url": "https://www.whathifi.com/seasonal-sales/the-next-amazon-prime-day-is-less-than-a-month-away",
+      "publishedAt": "2026-09-15T09:01:00.000Z",
+      "author": "Joe Svetlik",
+      "description": "A date for your diary",
+      "image": "https://cdn.mos.cms.futurecdn.net/iDf5ZjyTMj54FYVzLrrpv7-1970-80.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "I couldn't find the perfect smart amplifier, so I built it myself",
+      "url": "https://www.soundguys.com/diy-smart-amplifier-162730/",
+      "publishedAt": "2026-09-15T09:00:20.000Z",
+      "author": "Robert Triggs",
+      "description": "Commercial smart amps cost over $1,000 and lock you into an ecosystem, so I built my own with a Raspberry Pi, a tube, and a CNC machine.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/09/DIY-MoOde-amplifier-1.jpg",
+      "category": "DAC／擴大機",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Traditional in-ears weighing your workouts down? Shokz's lightest-ever hooked buds might have the answer",
+      "url": "https://www.whathifi.com/headphones/wireless-earbuds/traditional-in-ears-weighing-your-workouts-down-shokzs-lightest-ever-hooked-buds-might-have-the-answer",
+      "publishedAt": "2026-09-15T08:23:54.000Z",
+      "author": "Harry McKerrell",
+      "description": "The OpenFit Air 2 blend a secure design with \"powerful open-ear audio\"",
+      "image": "https://cdn.mos.cms.futurecdn.net/hEvGR8TW9ZSjFFfX6tsAMF-2560-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "The Moondrop Chu III is a great first IEM, but it's not the upgrade I expected",
+      "url": "https://www.soundguys.com/moondrop-chu-iii-review-163044/",
+      "publishedAt": "2026-09-15T08:00:21.000Z",
+      "author": "Jhaycee Calvez",
+      "description": "Moondrop Chu III review: we tested the budget IEM for music, FPS gaming, and against the Chu II to see if it's worth buying.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/09/Moondrop-Chu-III-close-up-scaled.jpg",
+      "category": "耳機",
+      "articleType": "評測"
+    },
+    {
+      "source": "TechRadar",
+      "title": "I tried the new free 'bit-perfect' Hi-Res Audio player on the Mac App Store — it's a great idea for an open-source tool if you have an elite DAC, but I hit some rough edges",
+      "url": "https://www.techradar.com/audio/dacs/this-new-free-bit-perfect-hi-res-audio-player-for-mac-was-apparently-a-nightmare-to-make-but-could-become-the-lossless-player-of-your-dreams",
+      "publishedAt": "2026-09-15T00:00:00.000Z",
+      "author": "Carrie Marshall",
+      "description": "YM Pro is a Mac music player that bypasses the system mixer and communicates directly with your DAC",
+      "image": "https://cdn.mos.cms.futurecdn.net/uLbazrHsUiBeNkANSwecd4-1080-80.jpg",
+      "category": "DAC／擴大機",
+      "articleType": "其他"
+    },
     {
       "source": "BGR",
       "title": "The 3 Most Common Problems With TCL Soundbars (And How To Fix Them) - BGR",
@@ -23,17 +276,6 @@
       "description": "Apple can push a firmware fix to earbuds already in your pocket - but Skullcandy cannot reach yours at all for now",
       "image": "https://cdn.mos.cms.futurecdn.net/G3oxprCVAwUWdyxSFfSoQL-1619-80.jpeg",
       "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "Engadget",
-      "title": "How much data does Apple Music use for lossless audio quality? - Engadget",
-      "url": "https://www.engadget.com/2254918/how-much-data-apple-music-uses-lossless-audio-quality/",
-      "publishedAt": "2026-09-14T23:00:00.000Z",
-      "author": "Novak Božović",
-      "description": "Apple Music Lossless helps you enjoy music the way it was meant to sound, but you'll need to be careful about data usage on mobile networks.",
-      "image": "https://www.engadget.com/img/gallery/how-much-data-does-apple-music-use-for-lossless-audio-quality/l-intro-1789056400.jpg",
-      "category": "其他音訊",
       "articleType": "其他"
     },
     {
@@ -277,28 +519,6 @@
       "image": "https://cdn.mos.cms.futurecdn.net/JL5swUXnWN9FU4eaBduqYb-2123-80.jpg",
       "category": "串流播放器",
       "articleType": "其他"
-    },
-    {
-      "source": "The Verge",
-      "title": "Apple’s new phones are here",
-      "url": "https://www.theverge.com/tech/994218/apple-iphone-18-pro-airpods-5-meta-muse-ai-sony-headphones",
-      "publishedAt": "2026-09-13T12:00:00.000Z",
-      "author": "Jay Peters",
-      "description": "In this week’s Installer: iPhones, AirPods, Meta’s AI agent, and more.",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/installer-1.jpg?quality=90&strip=all&crop=0%2C3.428851907255%2C100%2C93.14229618549&w=1200",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "Tom's Guide",
-      "title": "I used this Android tablet for three weeks — and its giant speaker has spoiled me",
-      "url": "https://www.tomsguide.com/computing/tablets/lenovo-tab-plus-gen-2-review",
-      "publishedAt": "2026-09-13T12:00:00.000Z",
-      "author": "",
-      "description": "The Lenovo Tab Plus Gen 2 is basically a giant speaker with a tablet attached — and it’s awesome",
-      "image": "https://cdn.mos.cms.futurecdn.net/h8Rsjf4PfGip98fuWVXp5M-2000-80.jpg",
-      "category": "喇叭",
-      "articleType": "評測"
     },
     {
       "source": "BGR",
@@ -665,23 +885,23 @@
     },
     {
       "source": "What Hi-Fi?",
-      "title": "How to watch World Athletics Ultimate Championship 2026: live stream for FREE from anywhere, full timetable",
-      "url": "https://www.whathifi.com/streaming-entertainment/how-to-watch/world-athletics-ultimate-championship-2026-free",
-      "publishedAt": "2026-09-11T11:00:00.000Z",
-      "author": "James Roberts",
-      "description": "All the broadcast details as athletics' biggest stars compete in Budapest for a $10m total purse",
-      "image": "https://cdn.mos.cms.futurecdn.net/T5dUcZpidLQem6i4bUCRrb-2560-80.jpg",
-      "category": "串流播放器",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
       "title": "How to watch US Open 2026 online from anywhere: FREE live streams for men's semi-finals",
       "url": "https://www.whathifi.com/streaming-entertainment/how-to-watch/us-open-2026-free-mens-semi-finals",
       "publishedAt": "2026-09-11T11:00:00.000Z",
       "author": "Greg Lea",
       "description": "Only four men are still standing at Flushing Meadows, with Zverev vs Khachanov and Shelton vs Tiafoe facing off for a place in the final",
       "image": "https://cdn.mos.cms.futurecdn.net/zdYEND3To9Jm8xDEDR9ZYg-1024-80.jpg",
+      "category": "串流播放器",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "How to watch World Athletics Ultimate Championship 2026: live stream for FREE from anywhere, full timetable",
+      "url": "https://www.whathifi.com/streaming-entertainment/how-to-watch/world-athletics-ultimate-championship-2026-free",
+      "publishedAt": "2026-09-11T11:00:00.000Z",
+      "author": "James Roberts",
+      "description": "All the broadcast details as athletics' biggest stars compete in Budapest for a $10m total purse",
+      "image": "https://cdn.mos.cms.futurecdn.net/T5dUcZpidLQem6i4bUCRrb-2560-80.jpg",
       "category": "串流播放器",
       "articleType": "其他"
     },
@@ -1479,17 +1699,6 @@
     },
     {
       "source": "What Hi-Fi?",
-      "title": "Sony's finally upgraded its five-star wireless headphones range",
-      "url": "https://www.whathifi.com/headphones/wireless-headphones/sonys-finally-upgraded-its-five-star-wireless-headphones-range-and-its-promising-a-major-sonic-boost-on-both-sets",
-      "publishedAt": "2026-09-07T16:00:00.000Z",
-      "author": "Harry McKerrell",
-      "description": "Sequels to the WH-CH720N and WH-CH520 are here at last",
-      "image": "https://cdn.mos.cms.futurecdn.net/ndEKUbMenFdBTPH9EPSRUA-2560-80.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
       "title": "Back with a bang! Sony has resurrected a classic pair of wireless headphones by launching the WH-1000XM4C",
       "url": "https://www.whathifi.com/headphones/wireless-headphones/sony-has-resurrected-a-classic-pair-of-wireless-headphones-by-launching-the-wh-1000xm4c",
       "publishedAt": "2026-09-07T16:00:00.000Z",
@@ -1498,6 +1707,17 @@
       "image": "https://cdn.mos.cms.futurecdn.net/boEvDb5r3NnWyj353neACh-2560-80.jpg",
       "category": "耳機",
       "articleType": "新聞"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Sony's finally upgraded its five-star wireless headphones range",
+      "url": "https://www.whathifi.com/headphones/wireless-headphones/sonys-finally-upgraded-its-five-star-wireless-headphones-range-and-its-promising-a-major-sonic-boost-on-both-sets",
+      "publishedAt": "2026-09-07T16:00:00.000Z",
+      "author": "Harry McKerrell",
+      "description": "Sequels to the WH-CH720N and WH-CH520 are here at last",
+      "image": "https://cdn.mos.cms.futurecdn.net/ndEKUbMenFdBTPH9EPSRUA-2560-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
     },
     {
       "source": "TechRadar",
@@ -5546,116 +5766,6 @@
       "image": "https://cdn.mos.cms.futurecdn.net/i3rKcvqnkg4yrnB9BH54he-1920-80.jpg",
       "category": "DAC／擴大機",
       "articleType": "新聞"
-    },
-    {
-      "source": "BGR",
-      "title": "Why Are Bose Headphones So Expensive? - BGR",
-      "url": "https://www.bgr.com/2234370/why-bose-headphones-are-so-expensive/",
-      "publishedAt": "2026-08-16T20:47:00.000Z",
-      "author": "Michael Bizzaco",
-      "description": "Bose headphones command premium prices for more than the logo. Here's what you're actually paying for, from ANC and comfort to audio features.",
-      "image": "https://www.bgr.com/img/gallery/why-are-bose-headphones-so-expensive/l-intro-1786448194.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "TechRadar",
-      "title": "Audio Advice Live: 4 of the most talented and sonically insightful tower speakers I heard at the elite hi-fi show",
-      "url": "https://www.techradar.com/audio/speakers/4-of-the-most-detailed-and-sonically-stellar-elite-hi-fi-speakers-i-heard-audio-at-audio-advice-live",
-      "publishedAt": "2026-08-16T19:00:00.000Z",
-      "author": "James Holland",
-      "description": "Enter a new aural frontier with these game-changing speakers",
-      "image": "https://cdn.mos.cms.futurecdn.net/dsdhQ9xe76sC55VRKYc3HX-2560-80.jpg",
-      "category": "喇叭",
-      "articleType": "其他"
-    },
-    {
-      "source": "Tom's Guide",
-      "title": "Just watched 'Camp Rock 3'? Stream these 3 Disney Channel classics next on Disney+ and Hulu",
-      "url": "https://www.tomsguide.com/entertainment/disney-plus/just-watched-camp-rock-3-stream-these-3-disney-channel-classics-next-on-disney-and-hulu",
-      "publishedAt": "2026-08-16T16:21:35.000Z",
-      "author": "Alyse Stanley",
-      "description": "Let's watch a Disney Channel movie",
-      "image": "https://cdn.mos.cms.futurecdn.net/TWNnYpDyPDUGYs2H5Rwqeg-2000-80.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "BGR",
-      "title": "9 Of The Best Bluetooth Keyboards For Your Tablet - BGR",
-      "url": "https://www.bgr.com/2235214/best-bluetooth-keyboards-for-your-tablet/",
-      "publishedAt": "2026-08-16T14:02:00.000Z",
-      "author": "Ritwik Mitra",
-      "description": "From foldable models to keyboards with built-in trackpads, these are the best tablet kayboards for typing, working, and staying productive on the go.",
-      "image": "https://www.bgr.com/img/gallery/9-of-the-best-bluetooth-keyboards-for-your-tablet/l-intro-1786528142.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "TechRadar",
-      "title": "These cheap open earbuds are so good for the money, they had me wondering why you’d spend more on expensive rivals from Shokz and Bose",
-      "url": "https://www.techradar.com/audio/wireless-headphones/ive-been-testing-these-cheap-open-earbuds-for-weeks-and-they-have-me-wondering-why-youd-spend-more-on-expensive-rivals-from-shokz-and-bose",
-      "publishedAt": "2026-08-16T11:00:00.000Z",
-      "author": "",
-      "description": "The Baseus Bowie MC2 are cheap, cheerful, and work just fine",
-      "image": "https://cdn.mos.cms.futurecdn.net/8e77SvJJ7bpNmaz9WU3TAE-2560-80.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "How to watch The Hundred Finals Day 2026: Live stream online from anywhere for FREE",
-      "url": "https://www.whathifi.com/streaming-entertainment/watch-the-hundred-final-2026-free",
-      "publishedAt": "2026-08-16T10:15:00.000Z",
-      "author": "Krishi Chowdhary",
-      "description": "Can Trent Rockets become the first team to win both the men's and women's titles in the same year?",
-      "image": "https://cdn.mos.cms.futurecdn.net/YdLTEKtpnRYxwwJoweaXXf-2560-80.jpg",
-      "category": "串流播放器",
-      "articleType": "其他"
-    },
-    {
-      "source": "BGR",
-      "title": "Who Owns Ultimate Ears Speakers? - BGR",
-      "url": "https://www.bgr.com/2226911/who-owns-ultimate-ears-speakers-explained/",
-      "publishedAt": "2026-08-16T09:47:00.000Z",
-      "author": "Suzanne Bonnett",
-      "description": "Founded in 1995 by an audio engineer for Van Halen, Ultimate Ears is now owned by Logitech, the Swiss tech giant that owns many other top technology brands.",
-      "image": "https://www.bgr.com/img/gallery/who-owns-ultimate-ears-speakers/l-intro-1785417335.jpg",
-      "category": "喇叭",
-      "articleType": "其他"
-    },
-    {
-      "source": "SoundGuys",
-      "title": "The JBL Xtreme 4 does one thing the newer Xtreme 5 can’t",
-      "url": "https://www.soundguys.com/the-jbl-xtreme-4-does-one-thing-the-newer-xtreme-5-cant-161470/",
-      "publishedAt": "2026-08-16T09:00:28.000Z",
-      "author": "Dave Carr",
-      "description": "The JBL Xtreme 4 has one unique feature the newer Xtreme 5 lacks, and it could matter if you already own older JBL speakers.",
-      "image": "https://www.soundguys.com/wp-content/uploads/2026/04/JBL-Xtreme-5-10-scaled.jpeg",
-      "category": "喇叭",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "How to watch Community Shield 2026 online from anywhere: FREE live streams for Arsenal vs Man City",
-      "url": "https://www.whathifi.com/streaming-entertainment/how-to-watch/community-shield-2026-live-streams",
-      "publishedAt": "2026-08-16T06:00:00.000Z",
-      "author": "James Roberts",
-      "description": "All the broadcast details for the curtain-raiser to the English football season",
-      "image": "https://cdn.mos.cms.futurecdn.net/cAFVYaK8heQqRGaCGzqWWM-2099-80.jpg",
-      "category": "串流播放器",
-      "articleType": "其他"
-    },
-    {
-      "source": "TechRadar",
-      "title": "Want surround sound without breaking the bank? I tested an ultra-cheap Dolby Atmos soundbar system that could be ideal — though you'll need to know about a few compromises",
-      "url": "https://www.techradar.com/televisions/soundbars/ultimea-poseidon-d60-review",
-      "publishedAt": "2026-08-16T00:00:00.000Z",
-      "author": "",
-      "description": "Unleash surround sound without breaking the bank.",
-      "image": "https://cdn.mos.cms.futurecdn.net/rTajgTfq4UAb6gJgsMQmZk-1920-80.jpg",
-      "category": "Soundbar",
-      "articleType": "評測"
     }
   ]
 }
