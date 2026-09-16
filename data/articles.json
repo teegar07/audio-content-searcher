@@ -1,8 +1,184 @@
 {
-  "generatedAt": "2026-09-15T23:53:04.664Z",
+  "generatedAt": "2026-09-16T22:58:47.669Z",
   "days": 30,
-  "count": 525,
+  "count": 524,
   "articles": [
+    {
+      "source": "TechRadar",
+      "title": "Quote of the day by pioneer Douglas Engelbart: 'The digital revolution is even more significant than the invention of writing or printing' — an audacious claim about interactive computing",
+      "url": "https://www.techradar.com/pro/quote-of-the-day-by-pioneer-douglas-engelbart-the-digital-revolution-is-even-more-significant-than-the-invention-of-writing-or-printing-an-audacious-claim-about-interactive-computing",
+      "publishedAt": "2026-09-16T22:00:00.000Z",
+      "author": "Keumars Afifi-Sabet",
+      "description": "The inventor of the computer mouse long believed we were on the cusp of the greatest phase of humanity",
+      "image": "https://cdn.mos.cms.futurecdn.net/xcgVWCudC73jqhTAemtzjF-829-80.jpg",
+      "category": "DAC／擴大機",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "DJ Shadow’s landmark debut album turns 30 this week",
+      "url": "https://www.whathifi.com/streaming-entertainment/music-streaming/dj-shadows-landmark-debut-album-turns-30-this-week-heres-what-makes-endtroducing-a-unique-test-for-your-hi-fi",
+      "publishedAt": "2026-09-16T17:10:54.000Z",
+      "author": "Tom Wiggins",
+      "description": "Even after three decades there’s still nothing else that sounds quite like it",
+      "image": "https://cdn.mos.cms.futurecdn.net/2yUyFc7d46tvELn5iwcQRK-2560-80.jpg",
+      "category": "串流播放器",
+      "articleType": "新聞"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "It’s got plenty of visual appeal, but does Marshall’s bold Bluetooth speaker live up to its rock’n’roll heritage?",
+      "url": "https://www.whathifi.com/speakers/wireless-speakers/marshall-kilburn-iii",
+      "publishedAt": "2026-09-16T14:45:26.000Z",
+      "author": "",
+      "description": "Marshall’s premium Bluetooth speaker boasts a massive battery life and a tactile, retro design that’s sure to appeal – but can its bold, energetic sound compete with the best?",
+      "image": "https://cdn.mos.cms.futurecdn.net/yQ2Lk9TxqMM9p7AMLFgP37-1920-80.jpg",
+      "category": "喇叭",
+      "articleType": "其他"
+    },
+    {
+      "source": "TechRadar",
+      "title": "'Handles productivity like a champ': Dell's XPS 13 OLED is $220 off",
+      "url": "https://www.techradar.com/pro/handles-productivity-work-like-a-champ-dell-xps-13-oled-laptop-gets-a-usd220-price-drop-for-amazon-business-accounts",
+      "publishedAt": "2026-09-16T14:41:35.000Z",
+      "author": "Steve Clark",
+      "description": "The Dell XPS 13 is a glorious business laptop. Scoring 4.5 stars in our review, performance is top-tier, design is stunning, and it smashed our benchmark tests.",
+      "image": "https://cdn.mos.cms.futurecdn.net/ZndpzPCie6XXGxTKmhLCe7-1920-80.png",
+      "category": "其他音訊",
+      "articleType": "評測"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "“We have to have an edge, otherwise we’re not going to survive” – this huge home-appliance brand is adding TVs to its portfolio, and a major British hi-fi brand is on board",
+      "url": "https://www.whathifi.com/tv-home-cinema/televisions/we-have-to-have-an-edge-otherwise-were-not-going-to-survive-this-huge-home-appliance-brand-is-adding-tvs-to-its-portfolio-and-a-major-british-hi-fi-brand-is-on-board",
+      "publishedAt": "2026-09-16T14:30:09.000Z",
+      "author": "Lewis Empson",
+      "description": "It’s also looking towards the Korean brands for inspiration",
+      "image": "https://cdn.mos.cms.futurecdn.net/Q8Po7YaHDwcnd6R6zNHfcd-2560-80.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "The Sony WH-CH530 look great – but their excellent five-star predecessors are half the price",
+      "url": "https://www.whathifi.com/headphones/wireless-headphones/the-sony-wh-ch530-look-great-but-their-excellent-five-star-predecessors-are-half-the-price",
+      "publishedAt": "2026-09-16T12:40:34.000Z",
+      "author": "Daniel Furn",
+      "description": "50 hours of battery life for £25",
+      "image": "https://cdn.mos.cms.futurecdn.net/ymd5NzCzM7smLmwY7ThHsB-2560-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "iFi has squeezed a DAC and headphone amplifier into its latest USB-C in-ear monitor cable",
+      "url": "https://www.whathifi.com/hi-fi/dacs/ifi-has-squeezed-a-dac-and-headphone-amplifier-into-its-latest-usb-c-in-ear-monitor-cable",
+      "publishedAt": "2026-09-16T12:24:10.000Z",
+      "author": "Ioan Hazell",
+      "description": "Though she be but little, she is fierce",
+      "image": "https://cdn.mos.cms.futurecdn.net/Yc7mqbxBg2bZJF3dPhgtWe-1980-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "TechRadar",
+      "title": "Apple was slowly winning this hater over in 2026, but its AirPods 5 volume control surcharge is absurd — it’s like the Mac Pro wheels all over again",
+      "url": "https://www.techradar.com/audio/earbuds-airpods/i-can-buy-cheap-amazon-earbuds-with-volume-controls-for-less-than-the-upcharge-apple-puts-on-the-airpods-5-to-add-them-how-is-it-getting-away-with-this",
+      "publishedAt": "2026-09-16T10:12:46.000Z",
+      "author": "Hamish Hector",
+      "description": "It’s the $700 Mac Pro wheels all over again",
+      "image": "https://cdn.mos.cms.futurecdn.net/8mCK7x9BaxJ66wEpn688K4-980-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "I just ran the What Hi-Fi? Awards 2026 big UST projector shootout – and I have two words of warning",
+      "url": "https://www.whathifi.com/tv-home-cinema/projectors/i-just-ran-the-what-hi-fi-awards-2026-big-ust-projector-shootout-and-i-have-two-words-of-warning",
+      "publishedAt": "2026-09-16T09:51:30.000Z",
+      "author": "Alastair Stevenson",
+      "description": "Progress has been made, but old ghosts haunt the category",
+      "image": "https://cdn.mos.cms.futurecdn.net/FGA7mexsmjqhpmZ8LwfwPn-2560-80.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "This hi-res streaming service for jazz and classical music is now available on WiiM products",
+      "url": "https://www.whathifi.com/streaming-entertainment/this-hi-res-streaming-service-dedicated-to-jazz-and-classical-music-is-now-available-on-wiim-products",
+      "publishedAt": "2026-09-16T09:45:48.000Z",
+      "author": "Ioan Hazell",
+      "description": "New users of Presto Music can also get a three-month free-trial via the WiiM Home app",
+      "image": "https://cdn.mos.cms.futurecdn.net/P8g2AFGAB9gSnjFndrgdJ7-2560-80.jpg",
+      "category": "串流播放器",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "How to watch Max vs 100 online from anywhere: Free live streams of Verstappen’s epic karting challenge",
+      "url": "https://www.whathifi.com/streaming-entertainment/how-to-watch-max-vs-100-free",
+      "publishedAt": "2026-09-16T09:00:00.000Z",
+      "author": "Krishi Chowdhary",
+      "description": "The four-time F1 champion goes wheel-to-wheel with 100 drivers in the world's biggest go-kart race",
+      "image": "https://cdn.mos.cms.futurecdn.net/PQ7xriE5M8pxcdBvxUfgLb-2560-80.jpg",
+      "category": "串流播放器",
+      "articleType": "其他"
+    },
+    {
+      "source": "Tom's Guide",
+      "title": "Tom's Guide Awards 2026: Our favorite headphones, earbuds, speakers and more",
+      "url": "https://www.tomsguide.com/audio/toms-guide-awards-2026",
+      "publishedAt": "2026-09-16T08:00:00.000Z",
+      "author": "Tom's Guide Staff",
+      "description": "All the best audio gear to bring your music and movies to life",
+      "image": "https://cdn.mos.cms.futurecdn.net/whkD8Gh5uHn8bPNnG2rM2M-2000-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "Yamaha's new soundbar offers big bass in a tiny package",
+      "url": "https://www.soundguys.com/yamaha-b200a-soundbar-launched-163271/",
+      "publishedAt": "2026-09-16T07:45:31.000Z",
+      "author": "Akshay Gangwar",
+      "description": "Yamaha has launched the B200A, its smallest Dolby Atmos sound bar, which packs in a built-in subwoofer and Bass Extension mode.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/09/yamaha-b200a-compact-soundbar-1.jpg",
+      "category": "Soundbar",
+      "articleType": "新聞"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Where to watch Slow Horses season 6 online – stream return of Gary Oldman spy thriller",
+      "url": "https://www.whathifi.com/streaming-entertainment/how-to-watch/where-to-watch-slow-horses-season-6",
+      "publishedAt": "2026-09-16T07:00:00.000Z",
+      "author": "What Hi-Fi?",
+      "description": "The losers, misfits and boozers of Slough House are back",
+      "image": "https://cdn.mos.cms.futurecdn.net/v3EUsQjgWQGt2hj2qzpHTU-1920-80.jpg",
+      "category": "串流播放器",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Sennheiser’s Award-winning Ambeo Soundbar Max gets a whopping discount to match its name – AU$2,650 off",
+      "url": "https://www.whathifi.com/tv-home-cinema/soundbars/sennheisers-award-winning-ambeo-soundbar-max-gets-a-whopping-discount-to-match-its-name-au-usd2-650-off",
+      "publishedAt": "2026-09-16T01:48:17.000Z",
+      "author": "Max Langridge",
+      "description": "Big, powerful and an effective Atmos soundbar, what’s not to like?",
+      "image": "https://cdn.mos.cms.futurecdn.net/PEAZmuH6BmcTvDc6fRjPd7-1600-80.jpg",
+      "category": "Soundbar",
+      "articleType": "其他"
+    },
+    {
+      "source": "BGR",
+      "title": "What Exactly Is Bluetooth Tethering And When Should You Use It? - BGR",
+      "url": "https://www.bgr.com/2256295/what-is-bluetooth-tethering-when-to-use/",
+      "publishedAt": "2026-09-15T23:47:00.000Z",
+      "author": "Suzanne Bonnett",
+      "description": "Bluetooth tethering allows you to connect a device to the internet by piggybacking on your mobile phone. It's great in a pinch but suffers in terms of speed.",
+      "image": "https://www.bgr.com/img/gallery/what-exactly-is-bluetooth-tethering-and-when-should-you-use-it/l-intro-1789123667.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
     {
       "source": "Engadget",
       "title": "How to get Spotify's best audio quality - Engadget",
@@ -23,28 +199,6 @@
       "description": "From performance issues to health concerns, the silicone tips of your Apple AirPods have a definite shelf life, which depends on how often you use the wearable.",
       "image": "https://www.bgr.com/img/gallery/when-should-airpods-owners-replace-their-ear-tips/l-intro-1789155901.jpg",
       "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "Engadget",
-      "title": "Wired vs wireless speakers: What are the pros and cons? - Engadget",
-      "url": "https://www.engadget.com/2256380/wired-vs-wireless-speakers-pros-cons/",
-      "publishedAt": "2026-09-15T22:00:00.000Z",
-      "author": "Novak Božović",
-      "description": "Wired and wireless speakers each have their own advantages, with neither one being perfect for all scenarios.",
-      "image": "https://www.engadget.com/img/gallery/wired-vs-wireless-speakers-what-are-the-pros-and-cons/l-intro-1789154432.jpg",
-      "category": "喇叭",
-      "articleType": "其他"
-    },
-    {
-      "source": "Engadget",
-      "title": "How to improve the audio quality on your iPhone - Engadget",
-      "url": "https://www.engadget.com/2256208/how-to-improve-audio-quality-iphone/",
-      "publishedAt": "2026-09-15T20:00:00.000Z",
-      "author": "Jack Peachey",
-      "description": "Your iPhone can sound better thanks to streaming app settings, EQs, speaker apps and much more.",
-      "image": "https://www.engadget.com/img/gallery/how-to-improve-the-audio-quality-on-your-iphone/l-intro-1789148882.jpg",
-      "category": "喇叭",
       "articleType": "其他"
     },
     {
@@ -896,23 +1050,23 @@
     },
     {
       "source": "What Hi-Fi?",
-      "title": "How to watch World Athletics Ultimate Championship 2026: live stream for FREE from anywhere, full timetable",
-      "url": "https://www.whathifi.com/streaming-entertainment/how-to-watch/world-athletics-ultimate-championship-2026-free",
-      "publishedAt": "2026-09-11T11:00:00.000Z",
-      "author": "James Roberts",
-      "description": "All the broadcast details as athletics' biggest stars compete in Budapest for a $10m total purse",
-      "image": "https://cdn.mos.cms.futurecdn.net/T5dUcZpidLQem6i4bUCRrb-2560-80.jpg",
-      "category": "串流播放器",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
       "title": "How to watch US Open 2026 online from anywhere: FREE live streams for men's semi-finals",
       "url": "https://www.whathifi.com/streaming-entertainment/how-to-watch/us-open-2026-free-mens-semi-finals",
       "publishedAt": "2026-09-11T11:00:00.000Z",
       "author": "Greg Lea",
       "description": "Only four men are still standing at Flushing Meadows, with Zverev vs Khachanov and Shelton vs Tiafoe facing off for a place in the final",
       "image": "https://cdn.mos.cms.futurecdn.net/zdYEND3To9Jm8xDEDR9ZYg-1024-80.jpg",
+      "category": "串流播放器",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "How to watch World Athletics Ultimate Championship 2026: live stream for FREE from anywhere, full timetable",
+      "url": "https://www.whathifi.com/streaming-entertainment/how-to-watch/world-athletics-ultimate-championship-2026-free",
+      "publishedAt": "2026-09-11T11:00:00.000Z",
+      "author": "James Roberts",
+      "description": "All the broadcast details as athletics' biggest stars compete in Budapest for a $10m total purse",
+      "image": "https://cdn.mos.cms.futurecdn.net/T5dUcZpidLQem6i4bUCRrb-2560-80.jpg",
       "category": "串流播放器",
       "articleType": "其他"
     },
@@ -5612,171 +5766,6 @@
       "image": "https://www.bgr.com/img/gallery/what-direction-should-your-subwoofer-face/l-intro-1786543765.jpg",
       "category": "喇叭",
       "articleType": "其他"
-    },
-    {
-      "source": "BGR",
-      "title": "How To Transfer Your Playlists From Other Streaming Services To YouTube Music - BGR",
-      "url": "https://www.bgr.com/2235549/how-to-transfer-playlist-youtube-music-guide/",
-      "publishedAt": "2026-08-17T22:17:00.000Z",
-      "author": "Briley Kenney",
-      "description": "If you're looking to switch your current music service to YouTube Music, you can rest assured knowing you can transfer your playlists easily.",
-      "image": "https://www.bgr.com/img/gallery/how-to-transfer-your-playlists-from-other-streaming-services-to-youtube-music/l-intro-1786552284.jpg",
-      "category": "串流播放器",
-      "articleType": "其他"
-    },
-    {
-      "source": "BGR",
-      "title": "10 Budget Earbuds With Deep Discounts In August 2026 - BGR",
-      "url": "https://www.bgr.com/2237989/budget-earbuds-deep-discount-august/",
-      "publishedAt": "2026-08-17T20:02:00.000Z",
-      "author": "Aaron Mamiit",
-      "description": "Here's 10 budget earbuds with deep discounts in August 2026, including some made by JLab, Anker's Soundcore, Nothing's CMF, Skullcandy, and EarFun.",
-      "image": "https://www.bgr.com/img/gallery/10-budget-earbuds-with-deep-discounts-in-august-2026/l-intro-1786968461.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "How do the smallest standmounters in Dali’s entry-level Sonik range perform? We find out",
-      "url": "https://www.whathifi.com/speakers/hi-fi-speakers/dali-sonik-1",
-      "publishedAt": "2026-08-17T16:31:01.000Z",
-      "author": "",
-      "description": "The smallest speakers in Dali’s entry level range, the Sonik 1, punch well above their weight.",
-      "image": "https://cdn.mos.cms.futurecdn.net/sKQkMaPNjKUeZHD5FCK7WY-1920-80.jpg",
-      "category": "喇叭",
-      "articleType": "其他"
-    },
-    {
-      "source": "TechRadar",
-      "title": "From a moving Pixar Lamp to a mini animatronic from the Tiki Room, Disney Store just dropped limited-edition D23 exclusives",
-      "url": "https://www.techradar.com/seasonal-sales/from-a-moving-pixar-lamp-to-a-mini-animatronic-from-the-tiki-room-disney-store-just-dropped-limited-edition-d23-exclusives",
-      "publishedAt": "2026-08-17T16:07:08.000Z",
-      "author": "Jacob Krol",
-      "description": "The best drops are up for grabs",
-      "image": "https://cdn.mos.cms.futurecdn.net/VwQBoi4iv5KTRRJuXrvRwN-1920-80.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "TechRadar",
-      "title": "I've found the 31 best tech deals in the Best Buy 60th Anniversary sale — celebrate with big savings on laptops, TVs, Apple, appliances, headphones, and more",
-      "url": "https://www.techradar.com/seasonal-sales/31-top-deals-from-the-best-buy-60th-anniversary-sale-ive-found-the-biggest-savings-on-laptops-tvs-apple-appliances-headphones-and-more",
-      "publishedAt": "2026-08-17T15:53:04.000Z",
-      "author": "James Pickard",
-      "description": "Best Buy is celebrating its 60th anniversary with a massive week-long tech sale, so I've looked through it and picked out the 31 best deals on laptops, TVs, Apple, appliances, headphones, and more.",
-      "image": "https://cdn.mos.cms.futurecdn.net/95toAqCZxigvcBmsa5zNPS-2560-80.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "SoundGuys",
-      "title": "This 4.6-star Ultimate Ears Miniroll speaker is back to its $49.99 low",
-      "url": "https://www.soundguys.com/ultimate-ears-miniroll-speaker-deal-161541/",
-      "publishedAt": "2026-08-17T15:39:18.000Z",
-      "author": "Matt Horne",
-      "description": "Need a tiny outdoor speaker? The 4.6-star Ultimate Ears Miniroll drops to $49.99 with 38% off and IP67 water resistance.",
-      "image": "https://www.soundguys.com/wp-content/uploads/2024/09/UE-Miniroll_10-scaled.jpeg",
-      "category": "喇叭",
-      "articleType": "其他"
-    },
-    {
-      "source": "SoundGuys",
-      "title": "SHOKZ OpenDots 2 deal cuts $30 off the new clip-on open-ear earbuds",
-      "url": "https://www.soundguys.com/shokz-opendots-2-deal-161538/",
-      "publishedAt": "2026-08-17T14:46:07.000Z",
-      "author": "Matt Horne",
-      "description": "The SHOKZ OpenDots 2 hit a record-low $169.95 on Amazon, marking the first 15% price drop on these premium open-ear earbuds.",
-      "image": "https://www.soundguys.com/wp-content/uploads/2026/06/wearing-shokz-opendots-2-scaled-e1780530831648.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "BGR",
-      "title": "YouTube Music Might Have The Best Family Plan - Here's Why - BGR",
-      "url": "https://www.bgr.com/2237511/why-youtube-music-have-best-family-plan/",
-      "publishedAt": "2026-08-17T14:17:00.000Z",
-      "author": "Jonathan Sayers",
-      "description": "YouTube Music offers ad-free listening, offline downloads, and the option to upload an existing music library to the platform for only $5 more than Spotify.",
-      "image": "https://www.bgr.com/img/gallery/youtube-music-might-have-the-best-family-plan-heres-why/l-intro-1786734151.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "The vinyl albums that are worse than their streaming versions",
-      "url": "https://www.whathifi.com/hi-fi/vinyl/beware-these-vinyl-albums-are-actually-worse-than-their-streaming-versions",
-      "publishedAt": "2026-08-17T14:01:21.000Z",
-      "author": "Joe Svetlik",
-      "description": "We love physical media but it's not always the best version",
-      "image": "https://cdn.mos.cms.futurecdn.net/ueRwruTULHfTbnxTQCQhHT-2560-80.jpg",
-      "category": "黑膠／唱盤",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "I did not expect this Award-winning 4K projector to drop by £4500",
-      "url": "https://www.whathifi.com/tv-home-cinema/projectors/i-did-not-expect-this-award-winning-4k-projector-to-drop-by-gbp4500",
-      "publishedAt": "2026-08-17T12:55:55.000Z",
-      "author": "Daniel Furn",
-      "description": "Nearly 30 per cent off this five-star home cinema projector",
-      "image": "https://cdn.mos.cms.futurecdn.net/RdGd2j9K55JYqUsTCgEAs7-1920-80.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "Sony and Bose beware! Reports suggest Samsung is working on a pair of wireless over-ear headphones",
-      "url": "https://www.whathifi.com/headphones/wireless-headphones/is-samsung-about-to-take-on-sony-bose-and-apple-with-its-first-over-ear-headphones-in-11-years",
-      "publishedAt": "2026-08-17T12:15:06.000Z",
-      "author": "Harry McKerrell",
-      "description": "Recent reports would suggest so...",
-      "image": "https://cdn.mos.cms.futurecdn.net/GAvZ7jEAFLbwtvZqoWenkB-1920-80.webp",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "BGR",
-      "title": "5 Hidden YouTube Music Features You Should Be Using - BGR",
-      "url": "https://www.bgr.com/2234660/hidden-youtube-music-features/",
-      "publishedAt": "2026-08-17T10:47:00.000Z",
-      "author": "Marinel Sigue",
-      "description": "YouTube Music is hiding some creative ways to find and share music, from emoji search to humming songs or even sharing images of lyrics.",
-      "image": "https://www.bgr.com/img/gallery/5-hidden-youtube-music-features-you-should-be-using/l-intro-1786464961.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "TechRadar",
-      "title": "Spotify Car Thing is back! A firmware whizz just released a free update to put your Thing back on the road",
-      "url": "https://www.techradar.com/audio/four-years-after-its-untimely-demise-spotify-car-thing-is-back-for-free-and-with-absolutely-no-help-from-the-streaming-giant-itself",
-      "publishedAt": "2026-08-17T10:15:08.000Z",
-      "author": "Tom Bedford",
-      "description": "A developer community online has home-brewed software which lets you repurpose your old Car Thing (if you still have the thing).",
-      "image": "https://cdn.mos.cms.futurecdn.net/U4kKJiuR4cLoeEoYecZQPK-2560-80.jpg",
-      "category": "串流播放器",
-      "articleType": "新聞"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "Monitor Audio updates its Silver range to “set a new benchmark for high-fidelity performance”",
-      "url": "https://www.whathifi.com/speakers/hi-fi-speakers/monitor-audio-updates-its-popular-silver-range-of-speakers-to-set-a-new-benchmark-for-high-fidelity-performance-at-its-price",
-      "publishedAt": "2026-08-17T08:00:00.000Z",
-      "author": "Ioan Hazell",
-      "description": "The Silver Series 8G consists of seven models for hi-fi and home cinema systems",
-      "image": "https://cdn.mos.cms.futurecdn.net/6EVSG2ZG2SrxTpB8DbdQK6-2560-80.jpg",
-      "category": "喇叭",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "Goldmund’s most advanced amp yet, something new from Sonos, 21st Century boombox reviewed and more",
-      "url": "https://www.whathifi.com/av/goldmunds-most-advanced-amp-yet-something-new-from-sonos-21st-century-boombox-reviewed-and-more",
-      "publishedAt": "2026-08-17T07:00:00.000Z",
-      "author": "Alastair Stevenson",
-      "description": "All the biggest hi-fi and home cinema news, explained by our experts",
-      "image": "https://cdn.mos.cms.futurecdn.net/i3rKcvqnkg4yrnB9BH54he-1920-80.jpg",
-      "category": "DAC／擴大機",
-      "articleType": "新聞"
     }
   ]
 }
