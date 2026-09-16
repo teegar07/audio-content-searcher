@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-16T23:30:37.806Z",
+  "generatedAt": "2026-09-16T23:52:54.797Z",
   "days": 30,
-  "count": 523,
+  "count": 522,
   "articles": [
     {
       "source": "TechRadar",
@@ -176,17 +176,6 @@
       "author": "Suzanne Bonnett",
       "description": "Bluetooth tethering allows you to connect a device to the internet by piggybacking on your mobile phone. It's great in a pinch but suffers in terms of speed.",
       "image": "https://www.bgr.com/img/gallery/what-exactly-is-bluetooth-tethering-and-when-should-you-use-it/l-intro-1789123667.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "Engadget",
-      "title": "How to get Spotify's best audio quality - Engadget",
-      "url": "https://www.engadget.com/2257125/how-to-get-spotify-best-audio-quality/",
-      "publishedAt": "2026-09-15T23:30:00.000Z",
-      "author": "Ben Stegner",
-      "description": "Spotify makes it easy to press play and enjoy music as you go about your day. But tweaking audio quality settings and EQ settings can make a big difference.",
-      "image": "https://www.engadget.com/img/gallery/how-to-get-spotifys-best-audio-quality/l-intro-1789378286.jpg",
       "category": "其他音訊",
       "articleType": "其他"
     },
@@ -1039,23 +1028,23 @@
     },
     {
       "source": "What Hi-Fi?",
-      "title": "How to watch US Open 2026 online from anywhere: FREE live streams for men's semi-finals",
-      "url": "https://www.whathifi.com/streaming-entertainment/how-to-watch/us-open-2026-free-mens-semi-finals",
-      "publishedAt": "2026-09-11T11:00:00.000Z",
-      "author": "Greg Lea",
-      "description": "Only four men are still standing at Flushing Meadows, with Zverev vs Khachanov and Shelton vs Tiafoe facing off for a place in the final",
-      "image": "https://cdn.mos.cms.futurecdn.net/zdYEND3To9Jm8xDEDR9ZYg-1024-80.jpg",
-      "category": "串流播放器",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
       "title": "How to watch World Athletics Ultimate Championship 2026: live stream for FREE from anywhere, full timetable",
       "url": "https://www.whathifi.com/streaming-entertainment/how-to-watch/world-athletics-ultimate-championship-2026-free",
       "publishedAt": "2026-09-11T11:00:00.000Z",
       "author": "James Roberts",
       "description": "All the broadcast details as athletics' biggest stars compete in Budapest for a $10m total purse",
       "image": "https://cdn.mos.cms.futurecdn.net/T5dUcZpidLQem6i4bUCRrb-2560-80.jpg",
+      "category": "串流播放器",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "How to watch US Open 2026 online from anywhere: FREE live streams for men's semi-finals",
+      "url": "https://www.whathifi.com/streaming-entertainment/how-to-watch/us-open-2026-free-mens-semi-finals",
+      "publishedAt": "2026-09-11T11:00:00.000Z",
+      "author": "Greg Lea",
+      "description": "Only four men are still standing at Flushing Meadows, with Zverev vs Khachanov and Shelton vs Tiafoe facing off for a place in the final",
+      "image": "https://cdn.mos.cms.futurecdn.net/zdYEND3To9Jm8xDEDR9ZYg-1024-80.jpg",
       "category": "串流播放器",
       "articleType": "其他"
     },
