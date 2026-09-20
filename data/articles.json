@@ -1,8 +1,19 @@
 {
-  "generatedAt": "2026-09-20T01:16:55.010Z",
+  "generatedAt": "2026-09-20T01:43:07.365Z",
   "days": 30,
   "count": 494,
   "articles": [
+    {
+      "source": "BGR",
+      "title": "How To Improve Xbox Series X's Audio Quality - BGR",
+      "url": "https://www.bgr.com/2258282/improve-xbox-series-x-audio-quality/",
+      "publishedAt": "2026-09-20T01:17:00.000Z",
+      "author": "Aaron Greenbaum",
+      "description": "Whether you're playing online with friends or watching the latest movie releases, this is how to get the best audio out of your Xbox Series X.",
+      "image": "https://www.bgr.com/img/gallery/how-to-improve-xbox-series-xs-audio-quality/l-intro-1789418003.jpg",
+      "category": "其他音訊",
+      "articleType": "新聞"
+    },
     {
       "source": "Engadget",
       "title": "How to record audio on your iPhone - Engadget",
@@ -5425,17 +5436,6 @@
       "image": "https://cdn.mos.cms.futurecdn.net/XqhzBSR8ayJWLTT5bT2SSd-2000-80.jpg",
       "category": "喇叭",
       "articleType": "其他"
-    },
-    {
-      "source": "TechRadar",
-      "title": "Sennheiser continues its year of flagship launches with the Momentum True Wireless 5, packing Dolby Atmos, Bluetooth 6.0 and replaceable batteries",
-      "url": "https://www.techradar.com/audio/earbuds-airpods/sennheiser-gives-its-flagship-true-wireless-earbuds-a-full-revamp-complete-with-bluetooth-6-and-replaceable-batteries",
-      "publishedAt": "2026-08-21T01:16:43.000Z",
-      "author": "Max Langridge",
-      "description": "Clearly aiming for the wireless earbud supremacy, Sennheiser has rebuilt its flagship buds from the ground up.",
-      "image": "https://cdn.mos.cms.futurecdn.net/a6hH4xeci4tapmcWhbrWEd-1920-80.jpg",
-      "category": "耳機",
-      "articleType": "新聞"
     }
   ]
 }
