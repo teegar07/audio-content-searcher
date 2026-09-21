@@ -1,8 +1,140 @@
 {
-  "generatedAt": "2026-09-20T01:43:07.365Z",
+  "generatedAt": "2026-09-21T00:38:05.779Z",
   "days": 30,
-  "count": 494,
+  "count": 485,
   "articles": [
+    {
+      "source": "TechRadar",
+      "title": "How to listen to Christian Craighead's One Man In for free — get the former SAS soldier's audiobook now",
+      "url": "https://www.techradar.com/how-to-watch/tv-shows/how-to-listen-to-christian-craigheads-one-man-in-for-free-get-the-former-sas-soldiers-audiobook",
+      "publishedAt": "2026-09-20T23:24:15.000Z",
+      "author": "Tom Bailey",
+      "description": "Christian Craighead's explosive firsthand account of the 2019 Nairobi terror attack",
+      "image": "https://cdn.mos.cms.futurecdn.net/wkP7mBuyGDzMr4z4YBmMQj-1910-80.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "TechRadar",
+      "title": "Quote of the day by Figure AI founder and CEO Brett Adcock: 'We're building a new species here' — an audacious vision to replace manual labor with humanoid AI",
+      "url": "https://www.techradar.com/pro/quote-of-the-day-by-figure-ai-founder-and-ceo-brett-adcock-were-building-a-new-species-here-an-audacious-vision-to-replace-manual-labor-with-humanoid-ai",
+      "publishedAt": "2026-09-20T22:00:00.000Z",
+      "author": "Keumars Afifi-Sabet",
+      "description": "Physical AI is coming in the form of humanoid robots, but are we ready?",
+      "image": "https://cdn.mos.cms.futurecdn.net/NNzrzUBR5QxNFHioGTWcoM-1024-80.jpg",
+      "category": "DAC／擴大機",
+      "articleType": "其他"
+    },
+    {
+      "source": "The Verge",
+      "title": "No Dogs in Space is back to feed your need for obsessive music history",
+      "url": "https://www.theverge.com/report/997948/no-dogs-in-space-is-back-punk-2-0-music-history-podcast",
+      "publishedAt": "2026-09-20T20:51:57.000Z",
+      "author": "Terrence O'Brien",
+      "description": "Obsessive music history podcast No Dogs in Space is getting ‘back to basics’ with Punk 2.0",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/810731213_18454823458185562_8102974567602315903_n.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C52.459901936342&w=1200",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "BGR",
+      "title": "Are Bookshelf Speakers Better Than Soundbars? - BGR",
+      "url": "https://www.bgr.com/2259360/are-bookshelf-speakers-better-soundbars/",
+      "publishedAt": "2026-09-20T16:32:00.000Z",
+      "author": "Michael Bizzaco",
+      "description": "Deciding between bookshelf speakers and a soundbar? You'll want to pick a side early, because the two systems don't play nice together.",
+      "image": "https://www.bgr.com/img/gallery/are-bookshelf-speakers-better-than-soundbars/l-intro-1789495371.jpg",
+      "category": "Soundbar",
+      "articleType": "其他"
+    },
+    {
+      "source": "Engadget",
+      "title": "How to set up your Sonos speakers using the app - Engadget",
+      "url": "https://www.engadget.com/2259348/how-to-set-up-sonos-speakers-using-app/",
+      "publishedAt": "2026-09-20T15:30:00.000Z",
+      "author": "Dave Meikleham",
+      "description": "If you have a Sonos speaker you need to set up or you're unsure how to add a new speaker to an existing system, we'll guide you through it.",
+      "image": "https://www.engadget.com/img/gallery/how-to-set-up-your-sonos-speakers-using-the-app/l-intro-1789153054.jpg",
+      "category": "喇叭",
+      "articleType": "新聞"
+    },
+    {
+      "source": "BGR",
+      "title": "How Does Bitrate Affect Audio Quality? - BGR",
+      "url": "https://www.bgr.com/2259142/how-does-bitrate-affect-audio-quality/",
+      "publishedAt": "2026-09-20T13:47:00.000Z",
+      "author": "Jules Wang",
+      "description": "Higher bitrate audio generally means clearer sound, where you can hear all the frequencies better. That said, lossy formats like MP3 and AAC are also decent.",
+      "image": "https://www.bgr.com/img/gallery/how-does-bitrate-affect-audio-quality/l-intro-1789487170.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "Engadget",
+      "title": "Winamp will be reborn in 2027 to take on streaming - Engadget",
+      "url": "https://www.engadget.com/2259236/winamp-coming-back-2027-deezer-partnership-streaming-music/",
+      "publishedAt": "2026-09-20T13:30:00.000Z",
+      "author": "Luke James",
+      "description": "It's coming back with a monthly subscription.",
+      "image": "https://www.engadget.com/img/gallery/winamp-will-be-reborn-in-2027-to-take-on-streaming/l-intro-1789154575.jpg",
+      "category": "串流播放器",
+      "articleType": "其他"
+    },
+    {
+      "source": "The Verge",
+      "title": "All roads lead to cable",
+      "url": "https://www.theverge.com/column/997843/streamers-cable-fast-channels",
+      "publishedAt": "2026-09-20T12:00:00.000Z",
+      "author": "Charles Pulliam-Moore",
+      "description": "In their fight to win the war for our attention, streamers are re-creating cable from first principles.",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2193473385.jpg?quality=90&strip=all&crop=0%2C10.736030373072%2C100%2C78.527939253857&w=1200",
+      "category": "串流播放器",
+      "articleType": "其他"
+    },
+    {
+      "source": "Tom's Guide",
+      "title": "I tested the AirPods 5 vs the AirPods 4 ANC — should you upgrade?",
+      "url": "https://www.tomsguide.com/audio/airpods/airpods-5-vs-airpods-4-anc",
+      "publishedAt": "2026-09-20T10:00:00.000Z",
+      "author": "Erin Bashford",
+      "description": "What are the differences between the AirPods 4 ANC and the brand-new AirPods 5? Are the AirPods 5 worth the upgrade?",
+      "image": "https://cdn.mos.cms.futurecdn.net/xEvxo562uQbA8mimzdKRnH-2000-80.jpg",
+      "category": "耳機",
+      "articleType": "評測"
+    },
+    {
+      "source": "BGR",
+      "title": "Which Bose Headphones Have The Best Battery Life? - BGR",
+      "url": "https://www.bgr.com/2258773/which-bose-headphones-have-best-battery-life/",
+      "publishedAt": "2026-09-20T09:47:00.000Z",
+      "author": "Marinel Sigue",
+      "description": "Bose's QuietComfort lineup offers different battery life, charging speeds, and features. Here's how the three current headphone models compare.",
+      "image": "https://www.bgr.com/img/gallery/which-bose-headphones-have-the-best-battery-life/l-intro-1789468042.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "How to watch Road World Championships 2026: live stream for FREE",
+      "url": "https://www.whathifi.com/streaming-entertainment/how-to-watch/uci-road-world-championships-2026-live-stream",
+      "publishedAt": "2026-09-20T05:00:00.000Z",
+      "author": "Aatif Sulleyman",
+      "description": "How to watch Road World Championships 2026 live streams. Free coverage and preview, with Remco Evenepoel and Lotte Kopecky amongst the favourites.",
+      "image": "https://cdn.mos.cms.futurecdn.net/eNxi5XZXL5PgRcQT2oSMUP-1920-80.jpg",
+      "category": "串流播放器",
+      "articleType": "其他"
+    },
+    {
+      "source": "Tom's Guide",
+      "title": "I swapped my AirPods Pro 3 for the AirPods 5 on a 22-mile run: Here are 3 things I liked, and 2 things I missed",
+      "url": "https://www.tomsguide.com/audio/airpods/i-swapped-my-airpods-pro-3-for-the-airpods-5-on-a-22-mile-run-here-are-3-things-i-liked-and-2-things-i-missed",
+      "publishedAt": "2026-09-20T04:15:00.000Z",
+      "author": "Jane McGuire",
+      "description": "The AirPods 5 are $100 cheaper, but can they keep up?",
+      "image": "https://cdn.mos.cms.futurecdn.net/vZiMLjLv53NSrF3PSX5oAK-2560-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
     {
       "source": "BGR",
       "title": "How To Improve Xbox Series X's Audio Quality - BGR",
@@ -13,17 +145,6 @@
       "image": "https://www.bgr.com/img/gallery/how-to-improve-xbox-series-xs-audio-quality/l-intro-1789418003.jpg",
       "category": "其他音訊",
       "articleType": "新聞"
-    },
-    {
-      "source": "Engadget",
-      "title": "How to record audio on your iPhone - Engadget",
-      "url": "https://www.engadget.com/2259179/how-to-record-audio-iphone/",
-      "publishedAt": "2026-09-20T00:00:00.000Z",
-      "author": "Filipe Espósito",
-      "description": "Recording audio on your iPhone is a great option for classes, meetings, brainstorming sessions and much more. It's easy with a built-in app.",
-      "image": "https://www.engadget.com/img/gallery/how-to-record-audio-on-your-iphone/l-intro-1789489633.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
     },
     {
       "source": "BGR",
@@ -55,17 +176,6 @@
       "author": "Asad Kashif",
       "description": "Some phones are starting to ship with Bluetooth 6.0, but the vast majority of devices still use 5.3 or 5.4. Here are the main differences between the versions.",
       "image": "https://www.bgr.com/img/gallery/bluetooth-5-3-vs-5-4-whats-the-difference/l-intro-1789394388.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "The Verge",
-      "title": "Anamanaguchi has ‘too goddamn many’ browser tabs open right now",
-      "url": "https://www.theverge.com/entertainment/996855/anamanaguchi-anyway-yeah-i-guess-interview-music",
-      "publishedAt": "2026-09-19T15:00:00.000Z",
-      "author": "Antonio G. Di Benedetto",
-      "description": "The terminally online chiptune band answers our questionnaire.",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Anamanaguchi-2026-Credit-Joshua-Tarn-hires.jpg?quality=90&strip=all&crop=0%2C10.723395278369%2C100%2C78.553209443262&w=1200",
       "category": "其他音訊",
       "articleType": "其他"
     },
@@ -429,17 +539,6 @@
       "author": "Daniel Furn",
       "description": "No price hikes when your music is safely on your shelf",
       "image": "https://cdn.mos.cms.futurecdn.net/TzQpcEUXSdmoZuMdxdAaV-1920-80.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "The Verge",
-      "title": "Camp Snap’s 110D gives slim retro film cameras a digital upgrade",
-      "url": "https://www.theverge.com/tech/996453/camp-snap-110d-digital-camera-retro-horizontal-kodak-100-film",
-      "publishedAt": "2026-09-17T15:00:00.000Z",
-      "author": "Andrew Liszewski",
-      "description": "Everything old is new again.",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/campsnap2.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
       "category": "其他音訊",
       "articleType": "其他"
     },
@@ -5237,204 +5336,6 @@
       "description": "Sennheiser headphones are known for great sound, but owners report some recurring issues. Here are three common problems and how to troubleshoot them.",
       "image": "https://www.bgr.com/img/gallery/3-common-problems-with-sennheiser-headphones/l-intro-1786972996.jpg",
       "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "TechRadar",
-      "title": "‘Good, but that took way too long’: Apple Music’s latest move will force artists to label their AI music, but some people think it’s long overdue",
-      "url": "https://www.techradar.com/audio/apple-music/better-move-would-be-to-ban-it-apple-music-steps-up-plan-for-ai-generated-song-labels-but-some-users-think-it-doesnt-go-far-enough",
-      "publishedAt": "2026-08-21T22:00:00.000Z",
-      "author": "Alex Blake",
-      "description": "Apple Music will require artists to label their AI-generated music so users know what they’re getting.",
-      "image": "https://cdn.mos.cms.futurecdn.net/mHR88ToNSF9ZfWouuiPsLW-1920-80.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "TechRadar",
-      "title": "'Rather than offering a plethora of unnecessary features and gimmicks, both headsets focus on the essentials' — Audio specialist beyerdynamic announces two new wireless headsets, the MMX 100 and MMX 130",
-      "url": "https://www.techradar.com/gaming/were-offering-gamers-not-just-two-more-headsets-but-two-different-ways-to-experience-their-games-audio-specialist-beyerdynamic-announces-two-new-affordable-wireless-headsets-the-mmx-100-and-mmx-130",
-      "publishedAt": "2026-08-21T20:15:07.000Z",
-      "author": "Demi Williams",
-      "description": "German audio specialist beyerdynamic has announced two new wireless headsets, the closed-back MMX 100 wireless and the open-back MMX 130 wireless.",
-      "image": "https://cdn.mos.cms.futurecdn.net/vueyxHtUcWFWACcFGVUiwd-1920-80.jpg",
-      "category": "其他音訊",
-      "articleType": "新聞"
-    },
-    {
-      "source": "BGR",
-      "title": "SteelSeries Arctis Nova Pro Omni Review: Perfect Headphones For A Multi-System Gamer - BGR",
-      "url": "https://www.bgr.com/2241750/steelseries-arctis-nova-pro-omni-review/",
-      "publishedAt": "2026-08-21T19:45:00.000Z",
-      "author": "James Bruce",
-      "description": "At first glance, SteelSeries' Arctis Nova Pro Omni headphones don't appear to justify their high price, but the features and audio quality pick up the slack.",
-      "image": "https://www.bgr.com/img/gallery/arctis-nova-pro-omni-review-perfect-headphones-for-a-multi-system-gamer/l-intro-1787333077.jpg",
-      "category": "耳機",
-      "articleType": "評測"
-    },
-    {
-      "source": "SoundGuys",
-      "title": "Need cheap everyday earbuds? Skullcandy Smokin’ Buds are just $19.99 right now",
-      "url": "https://www.soundguys.com/skullcandy-smokin-buds-deal-161871/",
-      "publishedAt": "2026-08-21T16:13:20.000Z",
-      "author": "Matt Horne",
-      "description": "Skullcandy Smokin’ Buds drop to $19.99 at Amazon in every colorway, a 29% discount and matching the all-time low price.",
-      "image": "https://www.soundguys.com/wp-content/uploads/2026/08/Skullcandy-Smokin-Buds-Press-Image.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "TechRadar",
-      "title": "‘Stellar sound quality, a quirky charging case, and an ultra-comfortable fit’: the JBL Live Beam 4 are an excellent pair of wireless earbuds — but they’re not quite perfect",
-      "url": "https://www.techradar.com/audio/earbuds-airpods/jbl-live-beam-4-review",
-      "publishedAt": "2026-08-21T16:00:00.000Z",
-      "author": "",
-      "description": "These JBL earbuds have a touchscreen-fitted charging case, and they might just be my favorite model of 2026 — here’s why.",
-      "image": "https://cdn.mos.cms.futurecdn.net/nrgWPNtkmDArYHENz4SA2d-1920-80.jpg",
-      "category": "耳機",
-      "articleType": "評測"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "Esoteric’s new T-01 turntable is “dedicated to reproducing the original master sound”",
-      "url": "https://www.whathifi.com/hi-fi/turntables/esoterics-new-t-01-turntable-is-dedicated-to-reproducing-the-original-master-sound-with-breathtaking-realism-musical-energy-and-emotional-depth",
-      "publishedAt": "2026-08-21T15:25:15.000Z",
-      "author": "Ioan Hazell",
-      "description": "The sound might not be the only feature to take your breath away",
-      "image": "https://cdn.mos.cms.futurecdn.net/rpmyfZpuJvTiTiAnZa9TTd-1920-80.jpg",
-      "category": "黑膠／唱盤",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "Our experts have found the best deals on five-star Bluetooth speakers, Award-winning open-back headphones and high-end 4K projectors",
-      "url": "https://www.whathifi.com/av/our-experts-have-found-the-best-deals-on-five-star-bluetooth-speakers-award-winning-open-back-headphones-and-high-end-4k-projectors",
-      "publishedAt": "2026-08-21T15:10:25.000Z",
-      "author": "Daniel Furn",
-      "description": "Perfect entertainment for a rainy day",
-      "image": "https://cdn.mos.cms.futurecdn.net/VdtS2Xx7wu4vueAnmAnbG8-1920-80.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "TechRadar",
-      "title": "Beats 360 over-ear headphones revealed in fresh leak — and there could be a disappointing missing feature",
-      "url": "https://www.techradar.com/audio/beats-leak-reveals-the-name-of-its-next-headphones-plus-most-of-its-specs-but-there-could-be-one-disappointing-omission",
-      "publishedAt": "2026-08-21T14:25:13.000Z",
-      "author": "Tom Bedford",
-      "description": "Some early listing pages have told us the name, feature set and design quicks of Beats' upcoming over-ear headphones.",
-      "image": "https://cdn.mos.cms.futurecdn.net/YtgPuvWXaGD3JrXdH7DtUZ-1920-80.jpg",
-      "category": "耳機",
-      "articleType": "新聞"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "Calling all vinyl junkies! We’ve built a cheeky turntable crossword quiz to test your knowledge",
-      "url": "https://www.whathifi.com/hi-fi/turntables/quiz-take-on-our-turntable-themed-crossword-for-a-spin-and-see-how-quickly-you-can-solve-the-clues",
-      "publishedAt": "2026-08-21T14:20:01.000Z",
-      "author": "Andy Madden",
-      "description": "Can you guess the words from the clues?",
-      "image": "https://cdn.mos.cms.futurecdn.net/tQUYtf2VQKxdCVvjX3DGZW-1920-80.jpg",
-      "category": "黑膠／唱盤",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "Backrooms isn’t my cup of tea, but one of the film’s features has stuck with me",
-      "url": "https://www.whathifi.com/streaming-entertainment/backrooms-isnt-my-cup-of-tea-but-one-of-the-films-features-has-stuck-with-me",
-      "publishedAt": "2026-08-21T13:35:23.000Z",
-      "author": "Ioan Hazell",
-      "description": "There’s no escaping this soundtrack",
-      "image": "https://cdn.mos.cms.futurecdn.net/KvPvZBdwwVRHzUZBAXXMnB-1338-80.jpg",
-      "category": "串流播放器",
-      "articleType": "其他"
-    },
-    {
-      "source": "TechRadar",
-      "title": "Best Buy's Anniversary sale is like a Labor Day preview — 60% off Apple, TVs, appliances, and laptops",
-      "url": "https://www.techradar.com/seasonal-sales/best-buys-massive-anniversary-sale-is-like-a-labor-day-preview-60-percent-off-tvs-airpods-laptops-appliances-and-more",
-      "publishedAt": "2026-08-21T12:52:33.000Z",
-      "author": "Mackenzie Frazier",
-      "description": "No need to wait for Labor Day — shop record-low prices right now",
-      "image": "https://cdn.mos.cms.futurecdn.net/Q7xKhUaDKm6h6EqonKPm6e-2000-80.png",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "Sonos is having a sale, but there's only one real deal I'd recommend",
-      "url": "https://www.whathifi.com/speakers/wireless-speakers/sonos-is-having-a-sale-but-theres-only-one-real-deal-id-recommend",
-      "publishedAt": "2026-08-21T12:31:29.000Z",
-      "author": "Daniel Furn",
-      "description": "Sonos in its sale era",
-      "image": "https://cdn.mos.cms.futurecdn.net/3sr3SePNtJJEEP3KWU22i9-2560-80.jpg",
-      "category": "喇叭",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "This stop-motion movie just turned 10 – and it reminded me to use animation to test home cinema systems more",
-      "url": "https://www.whathifi.com/tv-home-cinema/this-stop-motion-movie-just-turned-10-and-it-reminded-me-to-use-animation-to-test-home-cinema-systems-more",
-      "publishedAt": "2026-08-21T11:56:26.000Z",
-      "author": "Robyn Quick",
-      "description": "Happy birthday, Kubo!",
-      "image": "https://cdn.mos.cms.futurecdn.net/pQe6DKB2mC2mVyJXoyuDzS-992-80.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "Is Samsung’s super-sized tablet better than an iPad Pro for movies on the move?",
-      "url": "https://www.whathifi.com/smartphones-tablets/tablets/samsung-galaxy-tab-s11-ultra",
-      "publishedAt": "2026-08-21T11:54:46.000Z",
-      "author": "",
-      "description": "This super-sized Android tablet is one of the most cinematic ways to enjoy movies on the move",
-      "image": "https://cdn.mos.cms.futurecdn.net/uDQJtnifmb4Qk8sBCPyzfQ-1920-80.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "SoundGuys",
-      "title": "These $60 headphones offer Bluetooth 6 and and dual-jack wired playback",
-      "url": "https://www.soundguys.com/oneodio-fusion-a70-gen-2-launch-161858/",
-      "publishedAt": "2026-08-21T09:01:16.000Z",
-      "author": "Tushar Mehta",
-      "description": "These budget Bluetooth 6.0 headphones offer a playback feature missing from more premium headphones, for a fraction of their price.",
-      "image": "https://www.soundguys.com/wp-content/uploads/2026/08/Oneodio-A70-Gen-2.jpg",
-      "category": "耳機",
-      "articleType": "新聞"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "How to watch Vuelta a España 2026 online from anywhere: free live streams for every stage, Stage 21, Enric Mas on course for Grand Tour victory",
-      "url": "https://www.whathifi.com/streaming-entertainment/how-to-watch/vuelta-a-espana-2026-free",
-      "publishedAt": "2026-08-21T09:00:00.000Z",
-      "author": "Adam Marshall",
-      "description": "Who will step up to fill Pogi Star's shoes?",
-      "image": "https://cdn.mos.cms.futurecdn.net/7WBhBU2B3dVZFtXmVXoupK-1920-80.jpg",
-      "category": "串流播放器",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "What makes great sound? We asked the audio experts at Sennheiser and iconic club Fabric how they get hi-fi results in different environments",
-      "url": "https://www.whathifi.com/headphones/what-makes-great-sound-we-asked-the-audio-experts-at-sennheiser-and-iconic-club-fabric-how-they-get-hi-fi-results-in-different-environments",
-      "publishedAt": "2026-08-21T08:43:21.000Z",
-      "author": "Joe Svetlik",
-      "description": "The two brands have more in common than you might think...",
-      "image": "https://cdn.mos.cms.futurecdn.net/mbsy4xTYGXsomFhBtYcdMV-1683-80.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "Tom's Guide",
-      "title": "The gargantuan speaker on this Android tablet isn’t a gimmick — I can’t believe how good it sounds",
-      "url": "https://www.tomsguide.com/computing/android-tablets/the-gargantuan-speaker-on-this-android-tablet-isnt-a-gimmick-i-cant-believe-how-good-it-sounds",
-      "publishedAt": "2026-08-21T06:30:00.000Z",
-      "author": "Tony Polanco",
-      "description": "The Lenovo Tab Plus Gen 2 delivers exceptional sound for a tablet",
-      "image": "https://cdn.mos.cms.futurecdn.net/XqhzBSR8ayJWLTT5bT2SSd-2000-80.jpg",
-      "category": "喇叭",
       "articleType": "其他"
     }
   ]
