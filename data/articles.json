@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-22T01:42:47.576Z",
+  "generatedAt": "2026-09-22T02:00:39.190Z",
   "days": 30,
-  "count": 487,
+  "count": 469,
   "articles": [
     {
       "source": "BGR",
@@ -232,6 +232,17 @@
       "description": "Higher bitrate audio generally means clearer sound, where you can hear all the frequencies better. That said, lossy formats like MP3 and AAC are also decent.",
       "image": "https://www.bgr.com/img/gallery/how-does-bitrate-affect-audio-quality/l-intro-1789487170.jpg",
       "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "The Verge",
+      "title": "All roads lead to cable",
+      "url": "https://www.theverge.com/column/997843/streamers-cable-fast-channels",
+      "publishedAt": "2026-09-20T12:00:00.000Z",
+      "author": "Charles Pulliam-Moore",
+      "description": "In their fight to win the war for our attention, streamers are re-creating cable from first principles.",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2193473385.jpg?quality=90&strip=all&crop=0%2C10.736030373072%2C100%2C78.527939253857&w=1200",
+      "category": "串流播放器",
       "articleType": "其他"
     },
     {
@@ -3568,6 +3579,17 @@
       "articleType": "其他"
     },
     {
+      "source": "Tom's Guide",
+      "title": "Shokz promo codes in Sep 2026 | $110 OFF",
+      "url": "https://www.tomsguide.com/audio/headphones/shokz-coupons",
+      "publishedAt": "2026-09-03T08:16:58.000Z",
+      "author": "Nathan Walters",
+      "description": "Use one of our 6 Shokz promo codes to save money on open-ear headphones and bone conduction headphones for running, workouts and general use",
+      "image": "https://cdn.mos.cms.futurecdn.net/hF6g2TUm6ANe4pFn3iyA47-2000-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
       "source": "SoundGuys",
       "title": "Big sound, small price tag: Belkin unveils its new earbuds and headphones",
       "url": "https://www.soundguys.com/belkin-soundform-isolate-dot-play-162357/",
@@ -4151,17 +4173,6 @@
       "articleType": "評測"
     },
     {
-      "source": "TechRadar",
-      "title": "I didn’t think iFi could improve on the Gryphon portable DAC/amp — then I tested the new iDSD GR 2",
-      "url": "https://www.techradar.com/audio/dacs/ifi-idsd-gr-2-review",
-      "publishedAt": "2026-08-31T21:00:00.000Z",
-      "author": "",
-      "description": "I tested iFi’s new iDSD GR 2 portable DAC/amp, and it's a phenomenal sequel, with more power, more intuitiveness, and more features.",
-      "image": "https://cdn.mos.cms.futurecdn.net/Zg3TNh8GCaHYnkCcrztqfB-1920-80.jpg",
-      "category": "DAC／擴大機",
-      "articleType": "評測"
-    },
-    {
       "source": "Tom's Guide",
       "title": "Sam's Club deal knocks $240 off the budget Yamaha True X Bar 40A Soundbar",
       "url": "https://www.tomsguide.com/audio/soundbars/sams-club-deal-knocks-usd240-off-the-budget-yamaha-true-x-bar-40a-soundbar",
@@ -4170,17 +4181,6 @@
       "description": "A solid option for budget shoppers",
       "image": "https://cdn.mos.cms.futurecdn.net/ncLZL53vffmBBXtkNjmfm9-2000-80.jpg",
       "category": "Soundbar",
-      "articleType": "其他"
-    },
-    {
-      "source": "TechRadar",
-      "title": "I love the look (and unusual driver layout) of these retro-inspired wood-on-wood British stereo speakers",
-      "url": "https://www.techradar.com/audio/speakers/i-didnt-know-british-speaker-maker-castle-but-its-new-70s-inspired-stereo-speakers-look-really-cool-and-im-intrigued-by-the-unusual-driver-layout-on-one-model",
-      "publishedAt": "2026-08-31T16:58:58.000Z",
-      "author": "Tom Bedford",
-      "description": "Hi-fi company British Castle has four new loudspeakers, all inspired by English fortifications.",
-      "image": "https://cdn.mos.cms.futurecdn.net/XpjbvHkgn6UM5hFcyC9Rjc-2560-80.jpg",
-      "category": "喇叭",
       "articleType": "其他"
     },
     {
@@ -4272,28 +4272,6 @@
       "articleType": "其他"
     },
     {
-      "source": "TechRadar",
-      "title": "KEF's LS Luxe active wireless stereo speakers aren't quite perfect, but they get far closer than most rivals",
-      "url": "https://www.techradar.com/audio/speakers/kefs-ls-luxe-review",
-      "publishedAt": "2026-08-30T19:00:00.000Z",
-      "author": "",
-      "description": "In which KEF moves its established wireless stereo speaker system excellence further upmarket…",
-      "image": "https://cdn.mos.cms.futurecdn.net/HG3zn7mSCCc7XyQbDc5Uf5-2560-80.jpg",
-      "category": "喇叭",
-      "articleType": "評測"
-    },
-    {
-      "source": "TechRadar",
-      "title": "Are cheap open earbuds really worth buying? I tested 3 options from Anker Soundcore, Belkin and Tozo for daily wear and exercise — one of them really impressed me",
-      "url": "https://www.techradar.com/audio/earbuds-airpods/i-tested-3-of-the-best-selling-cheap-open-earbuds-on-amazon-from-belkin-anker-and-tozo-and-theres-a-clear-winner-for-me",
-      "publishedAt": "2026-08-30T12:00:00.000Z",
-      "author": "Becca Caddy",
-      "description": "Open earbuds are tricky to get right, so are Amazon's super bargain buds really worth your time?",
-      "image": "https://cdn.mos.cms.futurecdn.net/fpWCwMY7qXkjUvskiAEz7U-2560-80.jpg",
-      "category": "耳機",
-      "articleType": "評測"
-    },
-    {
       "source": "Tom's Guide",
       "title": "The Beyerdynamic DT 30 IE are some of the most comfortable in-ear monitors I’ve tested — but they aren’t for everyone",
       "url": "https://www.tomsguide.com/audio/earbuds/beyerdynamic-dt-30-ie-iems-review",
@@ -4347,17 +4325,6 @@
       "image": "https://www.bgr.com/img/gallery/5-apple-music-features-you-wont-find-on-youtube-music/l-intro-1787679584.jpg",
       "category": "其他音訊",
       "articleType": "其他"
-    },
-    {
-      "source": "TechRadar",
-      "title": "‘Impeccably detailed, textured audio for the price’: Noble Audio’s new IEMs are ideal for audiophiles who don’t want to spend a fortune — this is why I’d recommend them",
-      "url": "https://www.techradar.com/audio/earbuds-airpods/noble-audio-vanguard-review",
-      "publishedAt": "2026-08-29T17:00:00.000Z",
-      "author": "",
-      "description": "The Noble Audio Vanguard supply detailed, balanced sound at a relatively modest price-point.",
-      "image": "https://cdn.mos.cms.futurecdn.net/EyxQm7Q6VfEA9rKpbBnTxV-1920-80.jpg",
-      "category": "耳機",
-      "articleType": "評測"
     },
     {
       "source": "BGR",
@@ -4435,17 +4402,6 @@
       "image": "https://cdn.mos.cms.futurecdn.net/NaMzNekhTVBsYtbsSfJh6E-1920-80.jpg",
       "category": "Soundbar",
       "articleType": "評測"
-    },
-    {
-      "source": "TechRadar",
-      "title": "Embracing the vinyl revival? Here are the most interesting new turntables we've seen this year, from the classy to the tacky",
-      "url": "https://www.techradar.com/audio/turntables/7-of-the-coolest-turntables-of-2026-including-a-superbly-tacky-anniversary-edition-and-an-ode-to-rammstein",
-      "publishedAt": "2026-08-28T19:00:00.000Z",
-      "author": "Ruth Hamilton",
-      "description": "Including an ode to some German metal gods, and a 'detailed, rhythmically adept' player two decades in the making.",
-      "image": "https://cdn.mos.cms.futurecdn.net/Xs6iiuRNtr9WHHwqCM2dMG-1920-80.jpg",
-      "category": "黑膠／唱盤",
-      "articleType": "其他"
     },
     {
       "source": "SoundGuys",
@@ -4558,17 +4514,6 @@
       "articleType": "新聞"
     },
     {
-      "source": "TechRadar",
-      "title": "'A lot of the time, for emotional scenes, we would be playing the Requiem soundtrack' — Asobo Studio used A Plague Tale: Requiem's music during Resonance: A Plague Tale Legacy mocap to help actors get into the 'sadder' and 'darker' scenes",
-      "url": "https://www.techradar.com/gaming/asobo-studio-used-the-soundtrack-from-a-plague-tale-requiem-during-resonance-a-plague-tale-legacy-mocap-to-help-the-cast-get-into-the-sadder-moments-the-darker-moments",
-      "publishedAt": "2026-08-27T21:11:43.000Z",
-      "author": "Demi Williams, Rob Dwiar",
-      "description": "Asobo Studio used A Plague Tale: Requiem's music while motion-capturing Resonance: A Plague Tale Legacy, so the cast could get in the mood for darker scenes.",
-      "image": "https://cdn.mos.cms.futurecdn.net/6mZnEp48vfbpKbexSm6qkk-1280-80.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
       "source": "SoundGuys",
       "title": "ANYMA is performing in Canada for the first time at Soulrise Music Festival this weekend",
       "url": "https://www.soundguys.com/soulrise-music-festival-162110/",
@@ -4668,28 +4613,6 @@
       "articleType": "其他"
     },
     {
-      "source": "TechRadar",
-      "title": "Dbrand, known for its controversial PS5 and Steam Machine covers, has made a mini Pelican-style super-tough case for AirPods — we all know someone who probably needs that kind of protection for their earbuds",
-      "url": "https://www.techradar.com/audio/earbuds-airpods/ever-wished-your-airpods-could-have-their-own-tiny-rugged-pelican-case-well-dbrand-known-for-controversy-over-its-ps5-covers-and-unlicensed-steam-machine-companion-cube-has-made-one",
-      "publishedAt": "2026-08-27T13:35:07.000Z",
-      "author": "Rowan Davies",
-      "description": "Users didn't like Dbrand's Tank Case for phones, but that didn't stop it from making one for the AirPods Pro 3.",
-      "image": "https://cdn.mos.cms.futurecdn.net/qfKzgZbTpnxgPYkZVUpYiA-2048-80.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "TechRadar",
-      "title": "‘The user stays in control’ Plaud’s new AI earbuds can record your working day — but its most ambitious agent features are coming later",
-      "url": "https://www.techradar.com/ai-platforms-assistants/exclusive-the-point-isnt-that-it-never-misunderstands-its-that-the-user-stays-in-control-plaud-tells-us-why-its-new-ai-earbuds-want-to-do-more-than-record-your-meetings",
-      "publishedAt": "2026-08-27T13:00:00.000Z",
-      "author": "Graham Barlow",
-      "description": "Plaud's new AI earbuds recording your conversations, but that's only the beginning.",
-      "image": "https://cdn.mos.cms.futurecdn.net/HU2GEPnZ8Nh2tPKet2iVFi-1024-80.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
       "source": "What Hi-Fi?",
       "title": "\"It's really a breakthrough in how we think about physical and digital media\" – Xbox's latest announcement is a lifeline for physical media and a direct response to Sony's huge Blu-ray disc fumble",
       "url": "https://www.whathifi.com/tv-home-cinema/gaming/its-really-a-breakthrough-in-how-we-think-about-physical-and-digital-media-xboxs-latest-announcement-is-a-lifeline-for-physical-media-and-a-direct-response-to-sonys-huge-blu-ray-disc-fumble",
@@ -4698,17 +4621,6 @@
       "description": "Disc to digital, coming to an Xbox near you",
       "image": "https://cdn.mos.cms.futurecdn.net/GotQzKF7ULmCjFRKLPjyei-1920-80.png",
       "category": "其他音訊",
-      "articleType": "新聞"
-    },
-    {
-      "source": "TechRadar",
-      "title": "Yamaha returns to the world of compact streaming hi-fi, with a new small all-in-one amp that's crammed with hi-res connections — plus a streamer to add to your own amp with all the same perks, from Bluetooth to Wi-Fi to HDMI",
-      "url": "https://www.techradar.com/audio/multi-room/yamahas-new-compact-hi-fi-streamers-have-all-the-wired-and-wireless-hi-res-connections-you-could-want-for-a-smart-small-stereo-system-and-one-doubles-as-an-amp-too",
-      "publishedAt": "2026-08-27T10:58:21.000Z",
-      "author": "Tom Bedford",
-      "description": "Yamaha has unveiled two new music devices, set to sell in November: a compact streamer and a streaming amp.",
-      "image": "https://cdn.mos.cms.futurecdn.net/XNqYtBF63L5wedgSxMeRkg-2560-80.jpg",
-      "category": "DAC／擴大機",
       "articleType": "新聞"
     },
     {
@@ -4765,17 +4677,6 @@
       "image": "https://cdn.mos.cms.futurecdn.net/azzo8ZJqpe34zk9Mhs5yUm-2560-80.jpg",
       "category": "DAC／擴大機",
       "articleType": "其他"
-    },
-    {
-      "source": "TechRadar",
-      "title": "Two great budget audiophile brands just launched hi-res versions of the iPod nano and iPod shuffle respectively — and it's perfect timing, because iPod nostalgia is so strong, there are whole ad campaigns for refurb versions",
-      "url": "https://www.techradar.com/audio/portable-media-players/ipod-nostalgia-is-at-an-all-time-high-so-meet-two-new-cheap-adorable-tiny-hi-res-music-players-that-invoke-the-best-of-the-music-player-era-bring-your-own-white-wired-earbuds",
-      "publishedAt": "2026-08-26T22:00:00.000Z",
-      "author": "Tom Bedford",
-      "description": "A stylish music player renaissance is upon us",
-      "image": "https://cdn.mos.cms.futurecdn.net/3E7DPhrojcvTXN4DDgZfJj-2000-80.jpg",
-      "category": "耳機",
-      "articleType": "新聞"
     },
     {
       "source": "SoundGuys",
@@ -4844,17 +4745,6 @@
       "articleType": "其他"
     },
     {
-      "source": "What Hi-Fi?",
-      "title": "McIntosh’s new high-performance preamplifier combines classic looks with streaming smarts and a premium price tag",
-      "url": "https://www.whathifi.com/hi-fi/stereo-amplifiers/mcintoshs-new-high-performance-preamplifier-combines-classic-looks-with-streaming-smarts-and-a-premium-price-tag",
-      "publishedAt": "2026-08-26T15:16:20.000Z",
-      "author": "Andy Madden",
-      "description": "Yours for $12,500",
-      "image": "https://cdn.mos.cms.futurecdn.net/pgYHixVJFa6VVGtLzawXvk-2560-80.jpg",
-      "category": "DAC／擴大機",
-      "articleType": "其他"
-    },
-    {
       "source": "SoundGuys",
       "title": "Nothing Headphone (a) crashes to $109 at Amazon in a one-day 45% discount",
       "url": "https://www.soundguys.com/nothing-headphone-a-amazon-deal-162049/",
@@ -4886,17 +4776,6 @@
       "image": "https://cdn.mos.cms.futurecdn.net/MXyxUD2rVprTuEm9ZJ94dQ-1920-80.jpg",
       "category": "其他音訊",
       "articleType": "評測"
-    },
-    {
-      "source": "TechRadar",
-      "title": "Fitbit founders launch screenless wearable that’s like a Whoop for caregivers — the Luffu Link packs in GPS, LTE and a built-in speaker to help you keep track of your loved ones",
-      "url": "https://www.techradar.com/health-fitness/fitness-trackers/a-whoop-band-for-tracking-vulnerable-relatives-fitbit-founders-launch-new-screenless-wearable-with-gps-heart-monitoring-sleep-tracking-and-more-and-even-a-speaker-so-you-can-check-in",
-      "publishedAt": "2026-08-26T11:58:20.000Z",
-      "author": "Rowan Davies",
-      "description": "Fitbit founders are launching the screenless Luffu Link, a new fitness tracker that has built-in GPS, LTE, and voice logging.",
-      "image": "https://cdn.mos.cms.futurecdn.net/X3y3jJpzTxxCnCJQCxCzLD-1920-80.jpg",
-      "category": "喇叭",
-      "articleType": "新聞"
     },
     {
       "source": "What Hi-Fi?",
@@ -4954,17 +4833,6 @@
       "articleType": "新聞"
     },
     {
-      "source": "TechRadar",
-      "title": "'There are a lot more things you can hear' — Metro 2039 executive producer says 4A Games' newest game engine allowed the team to rebuild and 'reimagine' the game's audio system",
-      "url": "https://www.techradar.com/gaming/the-entire-audio-system-has-been-rebuilt-metro-2039-executive-producer-says-sound-has-been-reimagined-in-a-way-to-really-support-thick-dense-atmosphere",
-      "publishedAt": "2026-08-26T07:05:00.000Z",
-      "author": "Demi Williams, Rob Dwiar",
-      "description": "4A Games has confirmed that Metro 2039's audio system has been rebuilt to offer deeper immersion.",
-      "image": "https://cdn.mos.cms.futurecdn.net/ddGSHPhtQ3QEMGcP4JxdWb-2560-80.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
       "source": "BGR",
       "title": "5 Over-Ear Headphones Brands That Have Better Audio Quality Than Bose - BGR",
       "url": "https://www.bgr.com/2237261/over-ear-headphone-brands-with-better-audio-quality-than-bose/",
@@ -5018,28 +4886,6 @@
       "image": "https://www.soundguys.com/wp-content/uploads/2026/08/Soundcore-Anker-P42i-Wireless-Earbuds-Press-Image.jpg",
       "category": "耳機",
       "articleType": "新聞"
-    },
-    {
-      "source": "TechRadar",
-      "title": "I regret to inform budget audiophiles that there's a new affordable tube amp from an actually good hi-fi company — sorry to my current setup, but this is too hard to resist",
-      "url": "https://www.techradar.com/audio/hi-fi/an-analog-tube-stereo-amp-for-under-usd800-gbp800-from-an-actually-good-audiophile-brand-oh-christmas-has-come-early",
-      "publishedAt": "2026-08-25T16:22:09.000Z",
-      "author": "Carrie Marshall",
-      "description": "Fiio's EA13 is a tube amplifier that's surprisingly affordable",
-      "image": "https://cdn.mos.cms.futurecdn.net/qBLAduJCy3Q5fHULTvXHTZ-2048-80.png",
-      "category": "DAC／擴大機",
-      "articleType": "其他"
-    },
-    {
-      "source": "TechRadar",
-      "title": "Physical games are on the way out – but I think the music industry has the blueprint for a better future",
-      "url": "https://www.techradar.com/gaming/gaming-industry/i-spoke-to-gaming-and-music-experts-to-ask-whether-physical-games-could-have-a-comeback",
-      "publishedAt": "2026-08-25T16:00:00.000Z",
-      "author": "Jamie Richards",
-      "description": "Physical gaming media could be on the way out, but the music industry has the blueprint for how to bring it back.",
-      "image": "https://cdn.mos.cms.futurecdn.net/FTncFxhASVkwef59smUcX4-2560-80.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
     },
     {
       "source": "What Hi-Fi?",
@@ -5108,17 +4954,6 @@
       "articleType": "其他"
     },
     {
-      "source": "TechRadar",
-      "title": "New Apple AirPods are surprisingly coming soon, says reliable analyst — here are the 5 upgrades I want to see from AirPods 5 to keep them competitive with today's great budget earbuds",
-      "url": "https://www.techradar.com/audio/earbuds-airpods/two-new-airpods-5-models-will-launch-alongside-the-iphone-18-says-reliable-analyst-heres-what-id-like-to-see-apple-change-to-make-them-better-value-than-airpods-4",
-      "publishedAt": "2026-08-25T11:03:48.000Z",
-      "author": "Tom Bedford",
-      "description": "A new report suggests that two Apple AirPods 5 model are coming, and both are expected alongside the new iPhones in September.",
-      "image": "https://cdn.mos.cms.futurecdn.net/AUygxygHNL2yDSUJ2pCTiG-1920-80.jpg",
-      "category": "耳機",
-      "articleType": "新聞"
-    },
-    {
       "source": "Tom's Guide",
       "title": "I tried this MagSafe game controller and it puts other Bluetooth gamepads to shame — plus it’s $20 off right now",
       "url": "https://www.tomsguide.com/phones/iphones/i-tried-this-magsafe-game-controller-and-it-puts-other-bluetooth-gamepads-to-shame-plus-its-usd20-off-right-now",
@@ -5149,17 +4984,6 @@
       "description": "The new Bose QuietComfort Headphones cost $359. But the Skullcandy Crusher 1080 ANC packs the same official Bose tech for $80 less.",
       "image": "https://www.soundguys.com/wp-content/uploads/2026/08/Bose-vs-Skullcandy-Crusher.jpg",
       "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "TechRadar",
-      "title": "The 'world's first audiophile soundbar' is getting an awesome Atmos update",
-      "url": "https://www.techradar.com/televisions/soundbars/the-worlds-first-audiophile-soundbar-is-getting-expanded-with-wireless-dolby-atmos-surround-support-as-if-this-bonkers-speaker-wasnt-immersive-enough",
-      "publishedAt": "2026-08-25T02:00:00.000Z",
-      "author": "Carrie Marshall",
-      "description": "Canvas has expanded its Canvas L soundbar with Dolby Surround and Atmos support via a new control box",
-      "image": "https://cdn.mos.cms.futurecdn.net/TtUukdqFv2MjnGRQhNMJLS-2048-80.png",
-      "category": "Soundbar",
       "articleType": "其他"
     },
     {
@@ -5251,17 +5075,6 @@
       "articleType": "新聞"
     },
     {
-      "source": "TechRadar",
-      "title": "‘Some people are afraid of learning new things’: Dr Dre forgets about musicians as he compares AI music to synths, while admitting ‘I’m embracing it’",
-      "url": "https://www.techradar.com/ai-platforms-assistants/im-embracing-it-dr-dre-defends-ai-music-and-compares-it-to-synths-despite-most-streaming-services-ousting-slop-from-their-libraries",
-      "publishedAt": "2026-08-24T13:52:54.000Z",
-      "author": "Tom Bedford",
-      "description": "Dr. Dre has admitted he uses AI in his music producing, despite most music streaming services trying to ban the stuff.",
-      "image": "https://cdn.mos.cms.futurecdn.net/UVNxuGjYyv6pUpS9AdXSnS-2000-80.jpg",
-      "category": "串流播放器",
-      "articleType": "其他"
-    },
-    {
       "source": "What Hi-Fi?",
       "title": "iFi claims its versatile and premium iDSD GR 2 DAC is a “legend perfected” – but can it deliver perfect audio?",
       "url": "https://www.whathifi.com/hi-fi/dacs/ifi-idsd-gr-2",
@@ -5335,17 +5148,6 @@
       "author": "Christian Wait",
       "description": "These five car speaker upgrades can transform your audio system with richer sound, clearer vocals, deeper bass and superb overall audio quality.",
       "image": "https://www.bgr.com/img/gallery/5-car-speaker-upgrades-with-superb-audio-quality/l-intro-1787082785.jpg",
-      "category": "喇叭",
-      "articleType": "其他"
-    },
-    {
-      "source": "TechRadar",
-      "title": "Goldenear's T44 hybrid tower speakers feature both powered and passive drivers — and somehow, it sounds superb",
-      "url": "https://www.techradar.com/audio/speakers/why-goldenears-hybrid-t44-tower-speakers-somehow-boast-the-best-of-powered-and-passive-worlds",
-      "publishedAt": "2026-08-23T15:00:00.000Z",
-      "author": "James Holland",
-      "description": "Giving new definition to hybrid speakers",
-      "image": "https://cdn.mos.cms.futurecdn.net/4h84nzbP5AGhXgkGEHxpFX-2560-80.jpg",
       "category": "喇叭",
       "articleType": "其他"
     },
