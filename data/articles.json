@@ -1,8 +1,184 @@
 {
-  "generatedAt": "2026-09-21T01:44:27.564Z",
+  "generatedAt": "2026-09-22T01:19:31.069Z",
   "days": 30,
-  "count": 485,
+  "count": 488,
   "articles": [
+    {
+      "source": "BGR",
+      "title": "What Is Apple Music Select? - BGR",
+      "url": "https://www.bgr.com/2261033/apple-music-select-explained/",
+      "publishedAt": "2026-09-22T00:17:00.000Z",
+      "author": "Christine Persaud",
+      "description": "Apple Music Select gives some iCloud+ subscribers a limited, ad-free version of Apple Music with regional stations and discounted upgrade options.",
+      "image": "https://www.bgr.com/img/gallery/what-is-apple-music-select/l-intro-1789648216.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "TechRadar",
+      "title": "Researchers can make headphones leak audio through a wall, but the 30-meter claim has a few caveats",
+      "url": "https://www.techradar.com/pro/security/researchers-can-make-headphones-leak-audio-through-a-wall-but-the-30-meter-claim-has-a-few-caveats",
+      "publishedAt": "2026-09-21T23:20:00.000Z",
+      "author": "Rahim Amir",
+      "description": "Encryption can't stop InjectEave because the audio leaks after it's been decoded, but it does have its limitations.",
+      "image": "https://cdn.mos.cms.futurecdn.net/9ui8vuAvNqX2Bubaxvks8J-1920-80.jpg",
+      "category": "耳機",
+      "articleType": "新聞"
+    },
+    {
+      "source": "BGR",
+      "title": "Why Do Some Hotel Mirrors Have Bluetooth? - BGR",
+      "url": "https://www.bgr.com/2260988/why-some-hotel-mirrors-have-bluetooth/",
+      "publishedAt": "2026-09-21T21:47:00.000Z",
+      "author": "Trevor Mogg",
+      "description": "Some hotel mirrors now have a Bluetooth connection, which allows you to use them as speakers for your mobile devices. More smart mirror upgrades are on the way.",
+      "image": "https://www.bgr.com/img/gallery/why-do-some-hotel-mirrors-have-bluetooth/l-intro-1789644410.jpg",
+      "category": "喇叭",
+      "articleType": "其他"
+    },
+    {
+      "source": "BGR",
+      "title": "Lamp, LED, Or Laser: Which Type Of Home Projector Should You Buy? - BGR",
+      "url": "https://www.bgr.com/2260976/lamp-vs-led-vs-laser-projector/",
+      "publishedAt": "2026-09-21T19:17:00.000Z",
+      "author": "Trevor Mogg",
+      "description": "Home projectors come in three basic types: lamp, LED, and laser. All have pros and cons, but LED models often strike a happy medium between cost and benefits.",
+      "image": "https://www.bgr.com/img/gallery/lamp-led-or-laser-which-type-of-home-projector-should-you-buy/l-intro-1789599731.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "BGR",
+      "title": "Can You Get Headphones That Are Both Wired And Wireless? - BGR",
+      "url": "https://www.bgr.com/2260798/wired-and-wireless-headphones-explained/",
+      "publishedAt": "2026-09-21T17:32:00.000Z",
+      "author": "Briley Kenney",
+      "description": "When shopping for headphones, there are hybrid headphones that offer both wired and wireless connection options, and they are as versatile as they seem.",
+      "image": "https://www.bgr.com/img/gallery/can-you-get-headphones-that-are-both-wired-and-wireless/l-intro-1789593565.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Home Cinema Without Boundaries: How Hisense Is Making Laser Entertainment More Powerful and Portable",
+      "url": "https://www.whathifi.com/tv-home-cinema/home-cinema-without-boundaries-how-hisense-is-making-laser-entertainment-more-powerful-and-portable",
+      "publishedAt": "2026-09-21T15:56:37.000Z",
+      "author": "What Hi-Fi?",
+      "description": "From Home Cinema to Cinema Anywhere",
+      "image": "https://cdn.mos.cms.futurecdn.net/Ek22P8k4qG2SEfb67M4TMN-2560-80.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "TechRadar",
+      "title": "This Spotify listener used Prompted Playlists in a '3D chess move' to preview their Wrapped — I tried it, it works, but I don’t think you should do it",
+      "url": "https://www.techradar.com/audio/spotify/someone-used-this-spotify-tool-to-cheat-and-preview-their-wrapped-2026-summary-and-i-tried-it-out-and-it-works-but-theres-no-way-id-do-it-again",
+      "publishedAt": "2026-09-21T15:30:34.000Z",
+      "author": "Rowan Davies",
+      "description": "With Spotify's Prompted Playlists you can get a sneak preview of what your Wrapped could look like.",
+      "image": "https://cdn.mos.cms.futurecdn.net/kewvuHNGVjkSMysXr4KEZ-2000-80.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "BGR",
+      "title": "New Affordable Ikea Speaker Offers An Optical Port And More In A Bigger Package - BGR",
+      "url": "https://www.bgr.com/2260521/ikea-affordable-bluetooth-speaker-optical-port/",
+      "publishedAt": "2026-09-21T14:32:00.000Z",
+      "author": "Briley Kenney",
+      "description": "Ikea is now offering a budget-friendly Bluetooth speaker that also includes an Optical port, making it perfect for your home setup.",
+      "image": "https://www.bgr.com/img/gallery/new-affordable-ikea-speaker-offers-an-optical-port-and-more-in-a-bigger-package/l-intro-1789582255.jpg",
+      "category": "喇叭",
+      "articleType": "其他"
+    },
+    {
+      "source": "BGR",
+      "title": "Are Bluetooth Toothbrushes Actually Worth The Price Tag? - BGR",
+      "url": "https://www.bgr.com/2260603/are-bluetooth-toothbrushes-worth-it-explained/",
+      "publishedAt": "2026-09-21T12:47:00.000Z",
+      "author": "Sead Fadilpasic",
+      "description": "Toothbrushes have become increasingly complicated over the years, but is an expensive Bluetooth toothbrush really better than a standard one?",
+      "image": "https://www.bgr.com/img/gallery/are-bluetooth-toothbrushes-actually-worth-the-price-tag/l-intro-1789585051.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "BGR",
+      "title": "What Does Adaptive Mode Mean On AirPods? - BGR",
+      "url": "https://www.bgr.com/2260314/adaptive-mode-airpods-meaning/",
+      "publishedAt": "2026-09-21T12:17:00.000Z",
+      "author": "Yoni Heisler",
+      "description": "Apple's names for AirPods features don't always explain what they do. Here's what Adaptive Audio means and how you might use it.",
+      "image": "https://www.bgr.com/img/gallery/what-does-adaptive-mode-mean-on-airpods/l-intro-1789574845.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "This classic 1969 album by The Velvet Underground is getting a “vinylphyle” upgrade",
+      "url": "https://www.whathifi.com/hi-fi/vinyl/this-classic-1969-album-by-the-velvet-underground-is-getting-a-vinylphyle-upgrade",
+      "publishedAt": "2026-09-21T12:09:10.000Z",
+      "author": "Ioan Hazell",
+      "description": "The new release features Lou Reed’s original “closet mix”",
+      "image": "https://cdn.mos.cms.futurecdn.net/sRSJrcLWHamJn88LdzWWjk-2236-80.jpg",
+      "category": "黑膠／唱盤",
+      "articleType": "新聞"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Get a Dolby Atmos soundbar absolutely free with this discounted five-star LG OLED",
+      "url": "https://www.whathifi.com/tv-home-cinema/televisions/get-a-dolby-atmos-soundbar-absolutely-free-with-this-discounted-five-star-lg-oled",
+      "publishedAt": "2026-09-21T11:57:42.000Z",
+      "author": "Daniel Furn",
+      "description": "A brand new 2026 OLED and a Dolby Atmos soundbar all for well under £2000",
+      "image": "https://cdn.mos.cms.futurecdn.net/5QAY7KNRrwGwX7ogzqWupV-1920-80.jpg",
+      "category": "Soundbar",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "FiiO's new $499 planar headphones pair a wooden shell with a diamond-coated diaphragm",
+      "url": "https://www.soundguys.com/fiio-planar-headphones-diamond-coated-diaphragm-163460/",
+      "publishedAt": "2026-09-21T11:49:10.000Z",
+      "author": "Tushar Mehta",
+      "description": "FiiO's new planar magnetic headphones combine a wooden outer design with a diamond-coated diaphragm for supreme audio.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/09/Fiio-ft15-headphones-2_.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "TechRadar",
+      "title": "Apple Music just fixed one of its most irksome issues, while Spotify added a new (but different) one",
+      "url": "https://www.techradar.com/audio/streams-and-roundabouts-apple-music-just-fixed-one-long-running-issue-while-spotify-added-a-different-one",
+      "publishedAt": "2026-09-21T10:03:46.000Z",
+      "author": "Tom Bedford",
+      "description": "Apple Music has changed how songs appear or disappear in playlists, while Spotify has barred free-tier listeners from streaming new music for a set period",
+      "image": "https://cdn.mos.cms.futurecdn.net/nA5LPY9TEvqqVB3xZkSJC-1600-80.jpg",
+      "category": "串流播放器",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "A five-star integrated amplifier tested, confirmed fix for Sony OLED TVs and dinky treat for vinyl fans – all the latest news explained by our experts",
+      "url": "https://www.whathifi.com/av/a-five-star-integrated-amplifier-tested-confirmed-fix-for-sony-oled-tvs-and-dinky-treat-for-vinyl-fans-all-the-latest-news-explained-by-our-experts",
+      "publishedAt": "2026-09-21T07:00:00.000Z",
+      "author": "Alastair Stevenson",
+      "description": "It was quite a busy week in the world of hi-fi and home cinema…",
+      "image": "https://cdn.mos.cms.futurecdn.net/t9qwYAbg2apw7zsgPxtqnF-1920-80.jpg",
+      "category": "黑膠／唱盤",
+      "articleType": "評測"
+    },
+    {
+      "source": "BGR",
+      "title": "What Is A DAC And Does It Really Improve Audio Quality? - BGR",
+      "url": "https://www.bgr.com/2260203/what-is-dac-does-it-improve-audio-quality/",
+      "publishedAt": "2026-09-21T02:17:00.000Z",
+      "author": "Vic Hood",
+      "description": "Maybe you've heard that an external DAC can improve audio quality, but what is it and does it really do this? It can, but you may not need an upgrade.",
+      "image": "https://www.bgr.com/img/gallery/what-is-a-dac-and-does-it-really-improve-audio-quality/l-intro-1789570103.jpg",
+      "category": "DAC／擴大機",
+      "articleType": "其他"
+    },
     {
       "source": "TechRadar",
       "title": "How to listen to Christian Craighead's One Man In for free — get the former SAS soldier's audiobook now",
@@ -23,17 +199,6 @@
       "description": "Physical AI is coming in the form of humanoid robots, but are we ready?",
       "image": "https://cdn.mos.cms.futurecdn.net/NNzrzUBR5QxNFHioGTWcoM-1024-80.jpg",
       "category": "DAC／擴大機",
-      "articleType": "其他"
-    },
-    {
-      "source": "The Verge",
-      "title": "No Dogs in Space is back to feed your need for obsessive music history",
-      "url": "https://www.theverge.com/report/997948/no-dogs-in-space-is-back-punk-2-0-music-history-podcast",
-      "publishedAt": "2026-09-20T20:51:57.000Z",
-      "author": "Terrence O'Brien",
-      "description": "Obsessive music history podcast No Dogs in Space is getting ‘back to basics’ with Punk 2.0",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/810731213_18454823458185562_8102974567602315903_n.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C52.459901936342&w=1200",
-      "category": "其他音訊",
       "articleType": "其他"
     },
     {
@@ -67,28 +232,6 @@
       "description": "Higher bitrate audio generally means clearer sound, where you can hear all the frequencies better. That said, lossy formats like MP3 and AAC are also decent.",
       "image": "https://www.bgr.com/img/gallery/how-does-bitrate-affect-audio-quality/l-intro-1789487170.jpg",
       "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "Engadget",
-      "title": "Winamp will be reborn in 2027 to take on streaming - Engadget",
-      "url": "https://www.engadget.com/2259236/winamp-coming-back-2027-deezer-partnership-streaming-music/",
-      "publishedAt": "2026-09-20T13:30:00.000Z",
-      "author": "Luke James",
-      "description": "It's coming back with a monthly subscription.",
-      "image": "https://www.engadget.com/img/gallery/winamp-will-be-reborn-in-2027-to-take-on-streaming/l-intro-1789154575.jpg",
-      "category": "串流播放器",
-      "articleType": "其他"
-    },
-    {
-      "source": "The Verge",
-      "title": "All roads lead to cable",
-      "url": "https://www.theverge.com/column/997843/streamers-cable-fast-channels",
-      "publishedAt": "2026-09-20T12:00:00.000Z",
-      "author": "Charles Pulliam-Moore",
-      "description": "In their fight to win the war for our attention, streamers are re-creating cable from first principles.",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2193473385.jpg?quality=90&strip=all&crop=0%2C10.736030373072%2C100%2C78.527939253857&w=1200",
-      "category": "串流播放器",
       "articleType": "其他"
     },
     {
@@ -191,28 +334,6 @@
       "articleType": "其他"
     },
     {
-      "source": "Engadget",
-      "title": "This Game Boy inspired hi-res music player raised over $500,000 on Kickstarter - Engadget",
-      "url": "https://www.engadget.com/2257820/game-boy-inspired-music-player-raises-500000-kickstarter/",
-      "publishedAt": "2026-09-19T14:30:00.000Z",
-      "author": "Deven McClure",
-      "description": "The AP30 Music Boy is just the latest example of \"dumb\" tech's resurgence.",
-      "image": "https://www.engadget.com/img/gallery/this-game-boy-inspired-hi-res-music-player-raised-over-500000-on-kickstarter/l-intro-1788985357.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "Engadget",
-      "title": "The pros and cons of using noise cancelling headphones - Engadget",
-      "url": "https://www.engadget.com/2257815/noise-cancelling-headphones-pros-and-cons/",
-      "publishedAt": "2026-09-19T12:30:00.000Z",
-      "author": "Filipe Espósito",
-      "description": "ANC lets you focus on the music in your headphones, but it also has some drawbacks to be aware of.",
-      "image": "https://www.engadget.com/img/gallery/the-pros-and-cons-of-using-noise-cancelling-headphones/l-intro-1788878377.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
       "source": "BGR",
       "title": "Parents Have Been Waiting Years For This New Spotify Setting - BGR",
       "url": "https://www.bgr.com/2262206/spotify-wrapped-recommendation-setting-parents-exclude-kids-music/",
@@ -266,17 +387,6 @@
       "image": "https://www.bgr.com/img/gallery/boses-return-to-wireless-open-earbuds-comes-with-a-few-major-upgrades/l-intro-1789736818.jpg",
       "category": "耳機",
       "articleType": "其他"
-    },
-    {
-      "source": "Engadget",
-      "title": "Sony Music and UMG say Suno's new models still violates their copyright - Engadget",
-      "url": "https://www.engadget.com/2262978/sony-music-and-umg-say-sunos-new-models-still-violates-their-copyright/",
-      "publishedAt": "2026-09-18T21:06:27.000Z",
-      "author": "Ian Carlos Campbell",
-      "description": "In a new lawsuit, the labels argue Suno found a roundabout way to train its v6 models on unlicensed music.",
-      "image": "https://www.engadget.com/img/gallery/sony-music-and-umg-say-sunos-new-models-still-violates-their-copyright/l-intro-1789765357.jpg",
-      "category": "其他音訊",
-      "articleType": "新聞"
     },
     {
       "source": "Tom's Guide",
@@ -5258,83 +5368,6 @@
       "author": "Marinel Sigue",
       "description": "If your Apple Airpods have some of these common issues, these are ways to troubleshoot.",
       "image": "https://www.bgr.com/img/gallery/5-common-problems-owners-have-with-apple-airpods/l-intro-1787025616.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "TechRadar",
-      "title": "Think CD players died in the 2000s? These 9 wonderfully weird new models prove otherwise",
-      "url": "https://www.techradar.com/audio/9-of-the-coolest-new-cd-players-of-2026-from-a-b-and-o-masterpiece-that-costs-more-than-a-house-deposit-to-the-turducken-of-hi-fi",
-      "publishedAt": "2026-08-23T01:00:00.000Z",
-      "author": "Ruth Hamilton",
-      "description": "Dust off your CD collection and get ready to party like it's 2002",
-      "image": "https://cdn.mos.cms.futurecdn.net/8z75k6QnA5WeRPiVTPeVw8-1920-80.jpg",
-      "category": "其他音訊",
-      "articleType": "新聞"
-    },
-    {
-      "source": "TechRadar",
-      "title": "Hearing what Trinnov's elite AV processor can do with 3D room correction made me rethink my own home theater system in a big way",
-      "url": "https://www.techradar.com/audio/hi-fi/how-trinnovs-altitude-ci-av-processor-showed-me-the-importance-of-flagship-3d-room-correction-in-elite-home-cinema-setups",
-      "publishedAt": "2026-08-22T19:00:00.000Z",
-      "author": "James Holland",
-      "description": "All this, and it did it in a lobby",
-      "image": "https://cdn.mos.cms.futurecdn.net/PgJYWvbqnKYs8NfvBBkBCb-2560-80.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "TechRadar",
-      "title": "Here's what the rumored Apple AirPods with cameras might bring with them — while privacy concerns continue",
-      "url": "https://www.techradar.com/audio/earbuds-airpods/this-is-going-to-get-airpods-banned-weve-got-more-leaked-details-of-the-camera-equipped-airpods-that-are-on-the-way",
-      "publishedAt": "2026-08-22T14:30:00.000Z",
-      "author": "David Nield",
-      "description": "We've got a bit more unofficial information on the camera quality and the capabilities of these upcoming AirPods.",
-      "image": "https://cdn.mos.cms.futurecdn.net/FgZ8XFjMxDyihEqroE6Yjd-1920-80.jpg",
-      "category": "耳機",
-      "articleType": "新聞"
-    },
-    {
-      "source": "SoundGuys",
-      "title": "I tested the Bose QuietComfort Headphones (2nd Gen) and they’re a legit upgrade",
-      "url": "https://www.soundguys.com/i-tested-the-bose-quietcomfort-headphones-2nd-gen-and-theyre-a-legit-upgrade-161251/",
-      "publishedAt": "2026-08-22T09:00:34.000Z",
-      "author": "Dave Carr",
-      "description": "Our Bose QuietComfort Headphones (2nd Gen) review covers the improved ANC, USB-C audio, comfort, and whether these headphones are worth $359.",
-      "image": "https://www.soundguys.com/wp-content/uploads/2026/08/Bose-QC-Headphones-2nd-Gen-12-scaled.jpeg",
-      "category": "耳機",
-      "articleType": "評測"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "For football, Dolby Atmos is a bigger deal than 4K and HDR – and Sky could make it even better",
-      "url": "https://www.whathifi.com/tv-home-cinema/surround-sound-systems/adventures-in-av-for-football-dolby-atmos-is-a-bigger-game-changer-than-4k-and-hdr-combined-and-sky-could-make-it-even-better",
-      "publishedAt": "2026-08-22T06:00:00.000Z",
-      "author": "Tom Parsons",
-      "description": "4K makes football look better, but Dolby Atmos makes it feel like you're there",
-      "image": "https://cdn.mos.cms.futurecdn.net/WRviwLxhEoQFGxe3A6Gzse-1920-80.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "Tom's Guide",
-      "title": "I walked 4,000 steps with the Pixel Watch 5 vs Samsung Galaxy Watch 9 — and we have a new Android champ",
-      "url": "https://www.tomsguide.com/wellness/fitness-trackers/i-walked-4-000-steps-with-the-pixel-watch-5-vs-samsung-galaxy-watch-9-and-we-have-a-new-android-champ",
-      "publishedAt": "2026-08-22T05:30:00.000Z",
-      "author": "Dan Bracaglia",
-      "description": "Galaxy Watch vs Pixel Watch: fitness tracking comparison",
-      "image": "https://cdn.mos.cms.futurecdn.net/cHa3NJgTZQ6WEMqK2PhBiU-2560-80.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "BGR",
-      "title": "3 Common Problems With Sennheiser Headphones - BGR",
-      "url": "https://www.bgr.com/2238262/common-problems-sennheiser-headphones/",
-      "publishedAt": "2026-08-22T03:17:00.000Z",
-      "author": "Lauren LaMore",
-      "description": "Sennheiser headphones are known for great sound, but owners report some recurring issues. Here are three common problems and how to troubleshoot them.",
-      "image": "https://www.bgr.com/img/gallery/3-common-problems-with-sennheiser-headphones/l-intro-1786972996.jpg",
       "category": "耳機",
       "articleType": "其他"
     }
