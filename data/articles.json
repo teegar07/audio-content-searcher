@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-23T01:04:11.699Z",
+  "generatedAt": "2026-09-23T01:36:12.280Z",
   "days": 30,
-  "count": 522,
+  "count": 521,
   "articles": [
     {
       "source": "BGR",
@@ -5731,17 +5731,6 @@
       "author": "Briley Kenney",
       "description": "Android Auto can be incredibly convenient during a long commute, and even more convenient if you can connect your phone via Bluetooth.",
       "image": "https://www.bgr.com/img/gallery/how-to-connect-android-auto-via-bluetooth/l-intro-1787146505.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "BGR",
-      "title": "4 Disadvantages Of Using Bluetooth For Everything - BGR",
-      "url": "https://www.bgr.com/2239780/disadvantages-using-bluetooth-for-everything/",
-      "publishedAt": "2026-08-24T01:17:00.000Z",
-      "author": "Suzanne Bonnett",
-      "description": "Bluetooth has often been touted as the future of wireless connectivity, but is it really that great? Turns out, it is plagued by battery and pairing issues.",
-      "image": "https://www.bgr.com/img/gallery/4-disadvantages-of-using-bluetooth-for-everything/l-intro-1787133366.jpg",
       "category": "其他音訊",
       "articleType": "其他"
     }
