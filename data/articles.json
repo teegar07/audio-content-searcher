@@ -1,8 +1,19 @@
 {
-  "generatedAt": "2026-09-23T01:36:12.280Z",
+  "generatedAt": "2026-09-23T01:51:38.268Z",
   "days": 30,
-  "count": 521,
+  "count": 522,
   "articles": [
+    {
+      "source": "BGR",
+      "title": "Bluetooth Range: How Far Does It Really Reach? - BGR",
+      "url": "https://www.bgr.com/2262420/bluetooth-range-how-far-does-it-reach/",
+      "publishedAt": "2026-09-23T01:32:00.000Z",
+      "author": "Briley Kenney",
+      "description": "Bluetooth is great for connecting devices over short distances, but many factors affect its range. Those include Bluetooth specs, as well as the surroundings.",
+      "image": "https://www.bgr.com/img/gallery/bluetooth-range-how-far-does-it-really-reach/l-intro-1789665483.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
     {
       "source": "BGR",
       "title": "Why Do Speakers Have Multiple Drivers, But Most Headphones Don't? - BGR",
