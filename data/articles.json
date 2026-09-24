@@ -1,8 +1,272 @@
 {
-  "generatedAt": "2026-09-23T01:51:38.268Z",
+  "generatedAt": "2026-09-24T00:59:33.071Z",
   "days": 30,
-  "count": 522,
+  "count": 525,
   "articles": [
+    {
+      "source": "TechRadar",
+      "title": "Perv glasses no more? The Ray-Ban Meta Audio glasses have Dolby Atmos, and no cameras at all",
+      "url": "https://www.techradar.com/computing/virtual-reality-augmented-reality/the-ray-ban-meta-audio-glasses-remove-the-cameras-for-better-battery-life-and-dolby-atmos",
+      "publishedAt": "2026-09-24T00:00:00.000Z",
+      "author": "Hamish Hector",
+      "description": "The new best Meta smart glasses?",
+      "image": "https://cdn.mos.cms.futurecdn.net/yUgsNTQrQ9fiUbv78H8EBL-2560-80.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "Tom's Guide",
+      "title": "Ray-Ban Meta Audio hands-on — an attempt to allay privacy concerns",
+      "url": "https://www.tomsguide.com/computing/smart-glasses/ray-ban-meta-audio-hands-on-an-attempt-to-allay-privacy-concerns",
+      "publishedAt": "2026-09-23T23:34:08.000Z",
+      "author": "Scott Younker",
+      "description": "Lighter, better looking but expensive",
+      "image": "https://cdn.mos.cms.futurecdn.net/wzs85cTXf3YJbck3vPLCTf-2300-80.jpg",
+      "category": "其他音訊",
+      "articleType": "評測"
+    },
+    {
+      "source": "BGR",
+      "title": "'The Best-Sounding Headphones We've Ever Built': Beats President Talks Beats 360, Customization, And Apple - BGR",
+      "url": "https://www.bgr.com/2267163/beats-president-interview-360-customization-apple/",
+      "publishedAt": "2026-09-23T22:33:04.000Z",
+      "author": "José Adorno",
+      "description": "Beats Electronics president Oliver Schusser took some time to talk with us about the new Beats 360 headphones, the relationship with Apple, and more.",
+      "image": "https://www.bgr.com/img/gallery/the-best-sounding-headphones-weve-ever-built-beats-president-talks-beats-360-customization-and-apple/l-intro-1790202567.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "Qualcomm's new chip wants your earbuds to think for themselves",
+      "url": "https://www.soundguys.com/snapdragon-sound-elite-gen-2-announcement-163487/",
+      "publishedAt": "2026-09-23T19:30:03.000Z",
+      "author": "Adam Birney",
+      "description": "Qualcomm's Snapdragon Sound Elite Gen 2 packs more AI power into earbuds, headphones, and audio glasses, with less battery drain.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/09/assets_2026_09_1789670323_Snapdragon-Sound-Elite-Gen-2-Hero-Image-Embargo-Sep-23-930am-HT-1230pm-PT-scaled.jpg",
+      "category": "耳機",
+      "articleType": "新聞"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Wireless headphones are about to get even more advanced with Qualcomm’s latest Snapdragon Sound tech",
+      "url": "https://www.whathifi.com/headphones/wireless-headphones/wireless-headphones-are-about-to-get-even-more-advanced-with-qualcomms-latest-snapdragon-sound-tech",
+      "publishedAt": "2026-09-23T19:30:00.000Z",
+      "author": "Joe Svetlik",
+      "description": "Expect better ANC and greater power efficiency",
+      "image": "https://cdn.mos.cms.futurecdn.net/F46VD7u9bDsABgKV3dxDYN-1280-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "Tom's Guide",
+      "title": "Snapdragon Sound Elite Gen 2 welcomes a new world of agentic AI headphones — but is that something you actually want?",
+      "url": "https://www.tomsguide.com/audio/headphones/snapdragon-sound-elite-gen-2-welcomes-a-new-world-of-agentic-ai-headphones-but-is-that-something-you-actually-want",
+      "publishedAt": "2026-09-23T19:30:00.000Z",
+      "author": "Jason England",
+      "description": "Headphones aren't just for listening anymore",
+      "image": "https://cdn.mos.cms.futurecdn.net/TnVU5yZBSAPuuQYJLPrkSh-2560-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "TechRadar",
+      "title": "The new Beats 360 are 'some of the most comfortable, best-sounding headphones' — get an extra pair of earcups for only $9.99",
+      "url": "https://www.techradar.com/seasonal-sales/the-new-beats-360-are-some-of-the-most-comfortable-best-sounding-headphones-and-you-can-save-a-whopping-80-percent-on-an-extra-pair-of-earcups",
+      "publishedAt": "2026-09-23T19:11:41.000Z",
+      "author": "Mackenzie Frazier",
+      "description": "Save a whopping 80% on the Beats 360 Cushion Kit",
+      "image": "https://cdn.mos.cms.futurecdn.net/gijaHszeiRnopzPvE7d7RC-2000-80.png",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "The 50th Anniversary issue of What Hi-Fi? is out now, and it's a beauty!",
+      "url": "https://www.whathifi.com/hi-fi/new-issue-of-what-hi-fi-out-now-its-a-bumper-50th-anniversary-special",
+      "publishedAt": "2026-09-23T17:11:14.000Z",
+      "author": "Chris Burke",
+      "description": "A look back over 50 years at the heart of the hi-fi industry, and a look forward",
+      "image": "https://cdn.mos.cms.futurecdn.net/NepXTPgpr5faaEisuK2s56-1488-80.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "TechRadar",
+      "title": "I liked the Sonos Ace, but I love the Ace Ultra — these are the 5 upgrades that won me over after weeks of testing",
+      "url": "https://www.techradar.com/audio/wireless-headphones/sonos-ace-ultra-vs-sonos-ace",
+      "publishedAt": "2026-09-23T17:00:00.000Z",
+      "author": "Harry Padoan",
+      "description": "The Sonos Ace Ultra may look a lot like the original model, but it’s what’s inside that counts — and there are several substantial upgrades that I’ve come to appreciate.",
+      "image": "https://cdn.mos.cms.futurecdn.net/tiMQ4QfG88yCTQkqdL5G7B-1920-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "Amazon cuts CMF Buds Neo by 15% in first price drop on the ANC buds",
+      "url": "https://www.soundguys.com/cmf-buds-neo-deal-163670/",
+      "publishedAt": "2026-09-23T15:27:26.000Z",
+      "author": "Matt Horne",
+      "description": "New CMF Buds Neo drop to $21.24 at Amazon, with ANC, Bluetooth 6.0, and up to 52 hours of total battery life.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/08/CMF-Buds-Neo-in-a-persons-ears.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "The Sonos Beam Ultra is great, but where are all the good new cheap Dolby Atmos soundbars hiding?",
+      "url": "https://www.whathifi.com/tv-home-cinema/soundbars/the-sonos-beam-ultra-is-great-but-where-are-all-the-good-new-cheap-dolby-atmos-soundbars-hiding",
+      "publishedAt": "2026-09-23T15:01:42.000Z",
+      "author": "Alastair Stevenson",
+      "description": "Considering the cost-of-living crisis, the lack of affordable options for home cinema fans is a growing problem",
+      "image": "https://cdn.mos.cms.futurecdn.net/eKWboMKGziKTrG5zxf5JKA-2560-80.jpg",
+      "category": "Soundbar",
+      "articleType": "其他"
+    },
+    {
+      "source": "BGR",
+      "title": "8 Sam's Club Soundbars Worth Buying - BGR",
+      "url": "https://www.bgr.com/2264689/sams-club-soundbars-worth-buying/",
+      "publishedAt": "2026-09-23T14:02:00.000Z",
+      "author": "Asad Khan",
+      "description": "Sam's Club offers a wide range of soundbars, many of which are worth buying depending on your needs. Some top choices include models from Samsung and Yamaha.",
+      "image": "https://www.bgr.com/img/gallery/8-sams-club-soundbars-worth-buying/l-intro-1790022466.jpg",
+      "category": "Soundbar",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "Edifier takes another swing at the Marshall Emberton with better audio and a much lower price",
+      "url": "https://www.soundguys.com/edifier-m230-ii-retro-bluetooth-speaker-163659/",
+      "publishedAt": "2026-09-23T13:28:36.000Z",
+      "author": "Tushar Mehta",
+      "description": "Edifier's upgraded retro speaker squares up to the Marshall Emberton with more output and a far lower price.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/09/Edifier-M230-II-drivers-wooden.jpg",
+      "category": "喇叭",
+      "articleType": "其他"
+    },
+    {
+      "source": "TechRadar",
+      "title": "Beats 360 are one of the most comfortable, best-sounding headphones I've ever worn and made Supergirl more watchable than it should be",
+      "url": "https://www.techradar.com/audio/wireless-headphones/beats-360-are-one-of-the-most-comfortable-best-sounding-headphones-ive-ever-worn-and-made-supergirl-more-watchable-than-it-should-be",
+      "publishedAt": "2026-09-23T13:00:00.000Z",
+      "author": "Lance Ulanoff",
+      "description": "I've been test-driving Beats 360, and I love the fit, the sound, and how it made one movie more enjoyable than it might've been otherwise.",
+      "image": "https://cdn.mos.cms.futurecdn.net/QYmmsgicHbd9WuKeW6eVVH-1920-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "TechRadar",
+      "title": "Spotify’s Taste Profile must’ve been a victory, because it’s finally coming to the US in beta — here are 3 tips that could give your feed the spring cleaning it needs",
+      "url": "https://www.techradar.com/audio/spotify/spotify-is-bringing-its-algorithm-amending-taste-profile-tool-to-listeners-in-the-us-and-it-could-be-your-one-way-ticket-to-wiping-your-most-hated-genres-from-your-feed",
+      "publishedAt": "2026-09-23T13:00:00.000Z",
+      "author": "Rowan Davies",
+      "description": "Listeners in the US can now feed what they want to hear directly to the new Taste Profile tab.",
+      "image": "https://cdn.mos.cms.futurecdn.net/n9V4AXdU7YKsDUcVjZNHMM-2000-80.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "FiiO’s new CD player wants to do it all – with a DAC, pre-amplifier and more",
+      "url": "https://www.whathifi.com/hi-fi/cd-players/fiios-new-cd-player-wants-to-do-it-all-with-a-dac-pre-amplifier-and-more",
+      "publishedAt": "2026-09-23T12:03:04.000Z",
+      "author": "Ioan Hazell",
+      "description": "The DP11 seems to be a jack of all trades",
+      "image": "https://cdn.mos.cms.futurecdn.net/aoNMovbUcDQearEX99k6Dg-1080-80.jpg",
+      "category": "DAC／擴大機",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "REL’s flagship stackable subwoofers offer upgraded technology – but their eye-watering price may be a drawback",
+      "url": "https://www.whathifi.com/speakers/subwoofers/rels-flagship-stackable-subwoofers-offer-upgraded-technology-but-their-eye-watering-price-may-be-a-drawback",
+      "publishedAt": "2026-09-23T11:42:31.000Z",
+      "author": "Robyn Quick",
+      "description": "Over ten grand for a single subwoofer?",
+      "image": "https://cdn.mos.cms.futurecdn.net/dL7j9iFYzwXue3fDTuTuDg-2560-80.jpg",
+      "category": "喇叭",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Tired of charging your speaker every weekend? This half-price, Award-winning JBL with a 24-hour battery will outlast even your longest party",
+      "url": "https://www.whathifi.com/speakers/wireless-speakers/tired-of-charging-your-speaker-every-weekend-this-half-price-award-winning-jbl-with-a-24-hour-battery-will-outlast-even-your-longest-party",
+      "publishedAt": "2026-09-23T11:39:04.000Z",
+      "author": "Daniel Furn",
+      "description": "I've found the perfect speaker for Autumn weekend gatherings",
+      "image": "https://cdn.mos.cms.futurecdn.net/8j78DkgpCDMKzg45v2Mz2j-1920-80.jpg",
+      "category": "喇叭",
+      "articleType": "其他"
+    },
+    {
+      "source": "BGR",
+      "title": "The 4 Most Overpriced Headphones You Can Buy, According To User Reviews - BGR",
+      "url": "https://www.bgr.com/2262271/most-overpriced-headphones-user-reviews/",
+      "publishedAt": "2026-09-23T10:17:00.000Z",
+      "author": "Jorge Luis",
+      "description": "Headphones quickly get very expensive depending on which ones you buy, but users agree that these popular brands are all overpriced.",
+      "image": "https://www.bgr.com/img/gallery/the-4-most-overpriced-headphones-you-can-buy-according-to-user-reviews/l-intro-1789742566.jpg",
+      "category": "耳機",
+      "articleType": "評測"
+    },
+    {
+      "source": "Tom's Guide",
+      "title": "Meta Connect 2026 LIVE: Mark Zuckerberg announces new VR glasses, Muse Charm, Ray-Ban Meta gen 3, audio-only smart glasses",
+      "url": "https://www.tomsguide.com/news/live/meta-connect-2026-live",
+      "publishedAt": "2026-09-23T09:15:13.000Z",
+      "author": "Dave LeClair, Jeff Parsons, Mike Prospero",
+      "description": "Privacy, Project Luna, Phoenix, Muse AI, and much more",
+      "image": "https://cdn.mos.cms.futurecdn.net/rFdscHc3giA2Xmc6kLKBX-2560-80.jpg",
+      "category": "其他音訊",
+      "articleType": "新聞"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Are good hi-fi and home cinema sound the same thing?",
+      "url": "https://www.whathifi.com/tv-home-cinema/are-good-hi-fi-and-home-cinema-sound-the-same-thing",
+      "publishedAt": "2026-09-23T08:25:12.000Z",
+      "author": "Alastair Stevenson",
+      "description": "We’re curious to hear your opinion…",
+      "image": "https://cdn.mos.cms.futurecdn.net/sLvQXmmwvSATrkiw2Rv9Hk-2560-80.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "BGR",
+      "title": "What Does 'Crossfade' Mean On Apple Music? - BGR",
+      "url": "https://www.bgr.com/2262450/what-crossfade-means-apple-music/",
+      "publishedAt": "2026-09-23T03:47:00.000Z",
+      "author": "Michael Bizzaco",
+      "description": "Crossfade fades out at the end of a song and in to the next track in your queue. It's available for both the iOS and Android versions of the Apple Music app",
+      "image": "https://www.bgr.com/img/gallery/what-does-crossfade-mean-on-apple-music/l-intro-1789748428.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "BGR",
+      "title": "What That Blinking Light On Your Bose Speaker Actually Means - BGR",
+      "url": "https://www.bgr.com/2257550/what-blinking-light-bose-speaker-means/",
+      "publishedAt": "2026-09-23T03:32:00.000Z",
+      "author": "Marinel Sigue",
+      "description": "Bose speakers use different blinking lights to signal charging, pairing, updates, errors, and more. Here’s how to understand what your speaker is telling you.",
+      "image": "https://www.bgr.com/img/gallery/what-that-blinking-light-on-your-bose-speaker-actually-means/l-intro-1789383651.jpg",
+      "category": "喇叭",
+      "articleType": "其他"
+    },
+    {
+      "source": "BGR",
+      "title": "Should You Charge Your AirPods Wirelessly Or With A USB Cable? - BGR",
+      "url": "https://www.bgr.com/2262121/should-you-charge-airpods-wirelessly-or-with-usb-cable/",
+      "publishedAt": "2026-09-23T01:47:00.000Z",
+      "author": "Suzanne Bonnett",
+      "description": "Your AirPods support wireless charging via their charging case, but is there any benefit to using wireless charger or should you stick with a USB cable?",
+      "image": "https://www.bgr.com/img/gallery/should-you-charge-your-airpods-wirelessly-or-with-a-usb-cable/l-intro-1789736963.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
     {
       "source": "BGR",
       "title": "Bluetooth Range: How Far Does It Really Reach? - BGR",
@@ -159,39 +423,6 @@
     },
     {
       "source": "Engadget",
-      "title": "Beats 360 vs AirPods Max 2: How do Apple's flagship headphones compare? - Engadget",
-      "url": "https://www.engadget.com/2263860/beats-360-vs-airpods-max-2-comparison/",
-      "publishedAt": "2026-09-22T14:00:00.000Z",
-      "author": "Filipe Espósito",
-      "description": "We compare the new Beats 360 with the AirPods Max 2. Find out how they stack up in design, comfort and features to see which pair is right for you.",
-      "image": "https://www.engadget.com/img/gallery/beats-360-vs-airpods-max-2-comparison/l-intro-1790086513.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "Engadget",
-      "title": "Beats 360 vs Sony WH-1000XM6: How these high-end wireless headphones compare - Engadget",
-      "url": "https://www.engadget.com/2263867/beats-360-vs-sony-wh-1000xm6-comparison/",
-      "publishedAt": "2026-09-22T14:00:00.000Z",
-      "author": "Filipe Espósito",
-      "description": "See how the Beats 360 stacks up with the popular Sony WH-1000XM6 in design, comfort and features in our hands-on comparison.",
-      "image": "https://www.engadget.com/img/gallery/beats-360-vs-sony-wh-1000xm6-comparison/l-intro-1790086551.jpg",
-      "category": "耳機",
-      "articleType": "評測"
-    },
-    {
-      "source": "Engadget",
-      "title": "How Beats designed the Beats 360 headphones - Engadget",
-      "url": "https://www.engadget.com/2265155/beats-360-headphones-interivew-oliver-schusser/",
-      "publishedAt": "2026-09-22T14:00:00.000Z",
-      "author": "Filipe Espósito",
-      "description": "Beats VP Oliver Schusser discusses the company's new headphones and what to expect in the future.",
-      "image": "https://www.engadget.com/img/gallery/beats-360-headphones-interivew-oliver-schusser/l-intro-1790086784.jpg",
-      "category": "耳機",
-      "articleType": "新聞"
-    },
-    {
-      "source": "Engadget",
       "title": "Beats 360 review: Customizable headphones capable of double duty - Engadget",
       "url": "https://www.engadget.com/2265152/beats-360-headphones-review/",
       "publishedAt": "2026-09-22T14:00:00.000Z",
@@ -290,17 +521,6 @@
       "articleType": "評測"
     },
     {
-      "source": "The Verge",
-      "title": "These discreet hearing aid glasses now have better voice boosting and battery life",
-      "url": "https://www.theverge.com/tech/998243/essilorluxottica-nuance-audio-plus-otc-hearing-aid-glasses",
-      "publishedAt": "2026-09-22T13:00:00.000Z",
-      "author": "Andrew Liszewski",
-      "description": "A subtle alternative for those not wanting to wear hearing aids.",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/nuance1.jpg?quality=90&strip=all&crop=0,10.713987188352,100,78.572025623295",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
       "source": "Engadget",
       "title": "Sonos Ace Ultra review: Giving the people what they want - Engadget",
       "url": "https://www.engadget.com/2264528/sonos-ace-ultra-headphones-review/",
@@ -313,17 +533,6 @@
     },
     {
       "source": "What Hi-Fi?",
-      "title": "I tested Sonos’s new Dolby Atmos soundbar – and I was not disappointed",
-      "url": "https://www.whathifi.com/tv-home-cinema/soundbars/sonos-beam-ultra-soundbar",
-      "publishedAt": "2026-09-22T13:00:00.000Z",
-      "author": "",
-      "description": "Sonos has added up-firing drivers to the Beam – is it the ultimate compact Dolby Atmos soundbar?",
-      "image": "https://cdn.mos.cms.futurecdn.net/Lkn98NEJJXC4yXNXdQLhzP-1920-80.jpg",
-      "category": "Soundbar",
-      "articleType": "評測"
-    },
-    {
-      "source": "What Hi-Fi?",
       "title": "The Sonos Beam Ultra is finally here – these are three things we liked and two we would change",
       "url": "https://www.whathifi.com/tv-home-cinema/soundbars/the-sonos-beam-ultra-is-finally-here-these-are-three-things-we-liked-and-two-we-would-change",
       "publishedAt": "2026-09-22T13:00:00.000Z",
@@ -332,6 +541,17 @@
       "image": "https://cdn.mos.cms.futurecdn.net/2pg7Fc282S4zMMTR3VcsEP-1920-80.jpg",
       "category": "Soundbar",
       "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "I tested Sonos’s new Dolby Atmos soundbar – and I was not disappointed",
+      "url": "https://www.whathifi.com/tv-home-cinema/soundbars/sonos-beam-ultra-soundbar",
+      "publishedAt": "2026-09-22T13:00:00.000Z",
+      "author": "",
+      "description": "Sonos has added up-firing drivers to the Beam – is it the ultimate compact Dolby Atmos soundbar?",
+      "image": "https://cdn.mos.cms.futurecdn.net/Lkn98NEJJXC4yXNXdQLhzP-1920-80.jpg",
+      "category": "Soundbar",
+      "articleType": "評測"
     },
     {
       "source": "What Hi-Fi?",
@@ -400,17 +620,6 @@
       "articleType": "其他"
     },
     {
-      "source": "Engadget",
-      "title": "Apple opens a dedicated concert venue with spatial audio and multi-cam video recording - Engadget",
-      "url": "https://www.engadget.com/2265008/apple-music-hall-live-event-recording/",
-      "publishedAt": "2026-09-22T10:14:37.000Z",
-      "author": "Steve Dent",
-      "description": "Apple Music Hall in London seems tailor-made for Apple Music Live concerts.",
-      "image": "https://www.engadget.com/img/gallery/apple-music-hall-live-event-recording/l-intro-1790077934.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
       "source": "Tom's Guide",
       "title": "The EarFun Wave Pro X improve on their predecessors in nearly every aspect — but they still fall short of the competition",
       "url": "https://www.tomsguide.com/audio/over-ear-headphones/earfun-wave-pro-x-review",
@@ -429,17 +638,6 @@
       "author": "Tom Bedford",
       "description": "The Apple Music Hall is a 600-seater venue in London which is set to offer Apple Music listeners a procession of live streams and Spatial Audio recordings.",
       "image": "https://cdn.mos.cms.futurecdn.net/SraUU8kAUXAcMzUysuGd6e-1960-80.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "The Verge",
-      "title": "Apple’s first live music venue is opening beneath its UK headquarters",
-      "url": "https://www.theverge.com/tech/998581/apple-music-hall-london-venue-battersea",
-      "publishedAt": "2026-09-22T08:35:54.000Z",
-      "author": "Jess Weatherbed",
-      "description": "Say hello to Apple Music Hall",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Apple-Music-Hall-exterior.jpg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
       "category": "其他音訊",
       "articleType": "其他"
     },
@@ -978,7 +1176,7 @@
       "publishedAt": "2026-09-18T10:59:48.000Z",
       "author": "Alastair Stevenson",
       "description": "Have your say on which products deserve a hallowed What Hi-Fi? Award!",
-      "image": "https://cdn.mos.cms.futurecdn.net/ZTS67Yjb5gMEzpuWQJ3Z7H-1920-80.jpg",
+      "image": "https://cdn.mos.cms.futurecdn.net/3kBw9Dz44KGapmu9KPQ9xK-1920-80.jpg",
       "category": "其他音訊",
       "articleType": "其他"
     },
@@ -1409,17 +1607,6 @@
       "description": "The losers, misfits and boozers of Slough House are back",
       "image": "https://cdn.mos.cms.futurecdn.net/v3EUsQjgWQGt2hj2qzpHTU-1920-80.jpg",
       "category": "串流播放器",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "Sennheiser’s Award-winning Ambeo Soundbar Max gets a whopping discount to match its name – AU$2,650 off",
-      "url": "https://www.whathifi.com/tv-home-cinema/soundbars/sennheisers-award-winning-ambeo-soundbar-max-gets-a-whopping-discount-to-match-its-name-au-usd2-650-off",
-      "publishedAt": "2026-09-16T01:48:17.000Z",
-      "author": "Max Langridge",
-      "description": "Big, powerful and an effective Atmos soundbar, what’s not to like?",
-      "image": "https://cdn.mos.cms.futurecdn.net/PEAZmuH6BmcTvDc6fRjPd7-1600-80.jpg",
-      "category": "Soundbar",
       "articleType": "其他"
     },
     {
@@ -3744,17 +3931,6 @@
       "articleType": "其他"
     },
     {
-      "source": "TechRadar",
-      "title": "I get to try all the latest headphones as a reviewer — but I'd still recommend the six-year-old Sony WH-1000XM4 for just AU$299",
-      "url": "https://www.techradar.com/audio/wireless-headphones/i-get-to-try-all-the-latest-headphones-as-a-reviewer-but-id-still-recommend-the-six-year-old-sony-wh-1000xm4-for-just-aud299",
-      "publishedAt": "2026-09-04T00:24:55.000Z",
-      "author": "Max Langridge",
-      "description": "An oldie but a goldie",
-      "image": "https://cdn.mos.cms.futurecdn.net/tNPZNRcvWXrJ9HGeAZ3Son-1442-80.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
       "source": "BGR",
       "title": "This $33 Amazon Best-Selling Turntable Is A 'Great Buy' For Retro Audio Fans - BGR",
       "url": "https://www.bgr.com/2250730/amazon-best-selling-turntable-deal-cotsoco/",
@@ -5600,149 +5776,6 @@
       "description": "Sony is not the only name worth considering in the headphone market. These underrated audio brands offer great sound, useful features, and compelling prices.",
       "image": "https://www.bgr.com/img/gallery/5-underrated-audio-brands-that-can-compete-with-sonys-headphones/l-intro-1787219143.jpg",
       "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "Tom's Guide",
-      "title": "Dr. Dre says AI only threatens people who struggle to create — here's how he uses it",
-      "url": "https://www.tomsguide.com/ai/i-think-the-only-people-that-see-it-as-a-threat-are-the-people-who-have-trouble-creating-dr-dre-weighs-in-on-how-hes-using-ai-to-make-music",
-      "publishedAt": "2026-08-24T16:32:30.000Z",
-      "author": "Elton Jones",
-      "description": "During an interview with The New York Times, Dr. Dre made it known that he uses AI to create music—here’s more on his and other music makers’ stance on the rising tech.",
-      "image": "https://cdn.mos.cms.futurecdn.net/99y858Myfzt7hj5t7uv52Q-2440-80.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "SoundGuys",
-      "title": "This AirFly Pro deal drops the Bluetooth Wireless Audio Transmitter to just $40",
-      "url": "https://www.soundguys.com/airfly-pro-deal-161950/",
-      "publishedAt": "2026-08-24T16:12:45.000Z",
-      "author": "Matt Horne",
-      "description": "Get 27% off the Twelve South AirFly Pro, a Bluetooth adapter for flights, gym gear, and sharing audio with two headphones.",
-      "image": "https://www.soundguys.com/wp-content/uploads/2026/01/Twelve-South-AirFly-Pro-plugged-into-flight-entertainment-system.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "BGR",
-      "title": "The 5 Best YouTube Music Alternatives You Can Find - BGR",
-      "url": "https://www.bgr.com/2240101/best-youtube-music-alternatives-according-users/",
-      "publishedAt": "2026-08-24T15:47:00.000Z",
-      "author": "Eduardo Ariedo",
-      "description": "YouTube Music is one of the most convenient features of YouTube Premium, but if you're looking for options, these five stand out as the best.",
-      "image": "https://www.bgr.com/img/gallery/the-5-best-youtube-music-alternatives-you-can-find/l-intro-1787157380.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "SoundGuys",
-      "title": "Shokz's new OpenFit Air 2 open-ear earbuds might finally solve fit fatigue",
-      "url": "https://www.soundguys.com/shokz-openfit-air-2-launch-161931/",
-      "publishedAt": "2026-08-24T15:30:13.000Z",
-      "author": "Aamir Siddiqui",
-      "description": "Shokz has announced the ultra-light OpenFit Air 2 open-ear earbuds with Bluetooth 6.1, improved bass, pressure controls, and more.",
-      "image": "https://www.soundguys.com/wp-content/uploads/2026/08/Shokz-OpenFit-Air-2_4.jpg",
-      "category": "耳機",
-      "articleType": "新聞"
-    },
-    {
-      "source": "SoundGuys",
-      "title": "The highly rated Sonos Era 300 gets a $100 discount at Amazon",
-      "url": "https://www.soundguys.com/sonos-era-300-deal-161941/",
-      "publishedAt": "2026-08-24T15:27:04.000Z",
-      "author": "Matt Horne",
-      "description": "Save $100 on the Sonos Era 300 at Amazon and get a premium speaker with six drivers, spatial audio, and Sonos room tuning.",
-      "image": "https://www.soundguys.com/wp-content/uploads/2023/03/Sonos-Era-300-Featured-Image-1-scaled-e1679075477655.jpg",
-      "category": "喇叭",
-      "articleType": "其他"
-    },
-    {
-      "source": "BGR",
-      "title": "5 AirPods Features You Need To Manually Enable - BGR",
-      "url": "https://www.bgr.com/2240046/airpods-features-to-manually-enable/",
-      "publishedAt": "2026-08-24T15:17:00.000Z",
-      "author": "Marinel Sigue",
-      "description": "AirPods support advanced features that you need to manually enable. Those include options to access Siri, enable head gestures, and control a camera remotely.",
-      "image": "https://www.bgr.com/img/gallery/5-airpods-features-you-need-to-manually-enable/l-intro-1787071028.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "Pining for The Odyssey on 4K Blu-ray? We have some very good (and slightly bad) news",
-      "url": "https://www.whathifi.com/streaming-entertainment/pining-for-the-odyssey-on-4k-blu-ray-we-have-some-very-good-and-slightly-bad-news-for-you",
-      "publishedAt": "2026-08-24T14:03:31.000Z",
-      "author": "Robyn Quick",
-      "description": "A refreshing take on Nolan's epic release",
-      "image": "https://cdn.mos.cms.futurecdn.net/Ak4Fnv62ydwz2ZDW6PNrKj-1189-80.jpg",
-      "category": "串流播放器",
-      "articleType": "新聞"
-    },
-    {
-      "source": "TechRadar",
-      "title": "‘Some people are afraid of learning new things’: Dr Dre forgets about musicians as he compares AI music to synths, while admitting ‘I’m embracing it’",
-      "url": "https://www.techradar.com/ai-platforms-assistants/im-embracing-it-dr-dre-defends-ai-music-and-compares-it-to-synths-despite-most-streaming-services-ousting-slop-from-their-libraries",
-      "publishedAt": "2026-08-24T13:52:54.000Z",
-      "author": "Tom Bedford",
-      "description": "Dr. Dre has admitted he uses AI in his music producing, despite most music streaming services trying to ban the stuff.",
-      "image": "https://cdn.mos.cms.futurecdn.net/UVNxuGjYyv6pUpS9AdXSnS-2000-80.jpg",
-      "category": "串流播放器",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "iFi claims its versatile and premium iDSD GR 2 DAC is a “legend perfected” – but can it deliver perfect audio?",
-      "url": "https://www.whathifi.com/hi-fi/dacs/ifi-idsd-gr-2",
-      "publishedAt": "2026-08-24T13:19:23.000Z",
-      "author": "",
-      "description": "The portable and premium iDSD GR 2 DAC promises to give your music listening a boost at home or on the go, boasting plenty of connections.",
-      "image": "https://cdn.mos.cms.futurecdn.net/8ir3gZseaTQdYgac7wxUYo-1920-80.jpg",
-      "category": "DAC／擴大機",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "FiiO unveils its latest retro-inspired portable cassette player – but there's a catch",
-      "url": "https://www.whathifi.com/hi-fi/portable-music-players/fiio-unveils-its-latest-retro-inspired-portable-cassette-player-but-theres-a-catch",
-      "publishedAt": "2026-08-24T10:25:30.000Z",
-      "author": "Harry McKerrell",
-      "description": "FiiO has a change of plans",
-      "image": "https://cdn.mos.cms.futurecdn.net/nMKXVCKGUDawo4gK7oKLQk-1057-80.jpg",
-      "category": "其他音訊",
-      "articleType": "新聞"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "All evidence suggests new Beats headphones are on the way – and an official launch could be imminent",
-      "url": "https://www.whathifi.com/headphones/wireless-headphones/all-evidence-suggests-new-beats-headphones-are-on-the-way-and-an-official-launch-could-be-imminent",
-      "publishedAt": "2026-08-24T08:39:43.000Z",
-      "author": "Harry McKerrell",
-      "description": "The Beats 360 have leaked...again",
-      "image": "https://cdn.mos.cms.futurecdn.net/fkEeS9MGgjqJwRJZEaoBiD-1020-80.jpg",
-      "category": "耳機",
-      "articleType": "新聞"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "Bogus vinyl, “talented and adaptable speakers”, a special-edition Technics turntable and more",
-      "url": "https://www.whathifi.com/av/bogus-vinyl-talented-and-adaptable-speakers-a-special-edition-technics-turntable-and-more",
-      "publishedAt": "2026-08-24T07:00:00.000Z",
-      "author": "Alastair Stevenson",
-      "description": "All the top hi-fi and home cinema stories explained by our experts",
-      "image": "https://cdn.mos.cms.futurecdn.net/5F6JcE5LCXjWtH9LFWMrGJ-1920-80.jpg",
-      "category": "喇叭",
-      "articleType": "其他"
-    },
-    {
-      "source": "BGR",
-      "title": "How To Connect Android Auto Via Bluetooth - BGR",
-      "url": "https://www.bgr.com/2239898/how-to-connect-android-auto-via-bluetooth/",
-      "publishedAt": "2026-08-24T03:17:00.000Z",
-      "author": "Briley Kenney",
-      "description": "Android Auto can be incredibly convenient during a long commute, and even more convenient if you can connect your phone via Bluetooth.",
-      "image": "https://www.bgr.com/img/gallery/how-to-connect-android-auto-via-bluetooth/l-intro-1787146505.jpg",
-      "category": "其他音訊",
       "articleType": "其他"
     }
   ]
