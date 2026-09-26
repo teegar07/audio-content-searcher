@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T01:00:46.021Z",
+  "generatedAt": "2026-09-26T01:41:35.562Z",
   "days": 30,
   "count": 519,
   "articles": [
@@ -544,17 +544,6 @@
     },
     {
       "source": "TechRadar",
-      "title": "Beats 360 are one of the most comfortable, best-sounding headphones I've ever worn and made Supergirl more watchable than it should be",
-      "url": "https://www.techradar.com/audio/wireless-headphones/beats-360-are-one-of-the-most-comfortable-best-sounding-headphones-ive-ever-worn-and-made-supergirl-more-watchable-than-it-should-be",
-      "publishedAt": "2026-09-23T13:00:00.000Z",
-      "author": "Lance Ulanoff",
-      "description": "I've been test-driving Beats 360, and I love the fit, the sound, and how it made one movie more enjoyable than it might've been otherwise.",
-      "image": "https://cdn.mos.cms.futurecdn.net/QYmmsgicHbd9WuKeW6eVVH-1920-80.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "TechRadar",
       "title": "Spotify’s Taste Profile must’ve been a victory, because it’s finally coming to the US in beta — here are 3 tips that could give your feed the spring cleaning it needs",
       "url": "https://www.techradar.com/audio/spotify/spotify-is-bringing-its-algorithm-amending-taste-profile-tool-to-listeners-in-the-us-and-it-could-be-your-one-way-ticket-to-wiping-your-most-hated-genres-from-your-feed",
       "publishedAt": "2026-09-23T13:00:00.000Z",
@@ -562,6 +551,17 @@
       "description": "Listeners in the US can now feed what they want to hear directly to the new Taste Profile tab.",
       "image": "https://cdn.mos.cms.futurecdn.net/n9V4AXdU7YKsDUcVjZNHMM-2000-80.jpg",
       "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "TechRadar",
+      "title": "Beats 360 are one of the most comfortable, best-sounding headphones I've ever worn and made Supergirl more watchable than it should be",
+      "url": "https://www.techradar.com/audio/wireless-headphones/beats-360-are-one-of-the-most-comfortable-best-sounding-headphones-ive-ever-worn-and-made-supergirl-more-watchable-than-it-should-be",
+      "publishedAt": "2026-09-23T13:00:00.000Z",
+      "author": "Lance Ulanoff",
+      "description": "I've been test-driving Beats 360, and I love the fit, the sound, and how it made one movie more enjoyable than it might've been otherwise.",
+      "image": "https://cdn.mos.cms.futurecdn.net/QYmmsgicHbd9WuKeW6eVVH-1920-80.jpg",
+      "category": "耳機",
       "articleType": "其他"
     },
     {
