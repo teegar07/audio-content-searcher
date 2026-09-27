@@ -1,8 +1,118 @@
 {
-  "generatedAt": "2026-09-26T02:04:16.941Z",
+  "generatedAt": "2026-09-27T01:01:22.701Z",
   "days": 30,
-  "count": 519,
+  "count": 510,
   "articles": [
+    {
+      "source": "BGR",
+      "title": "Why Do Wireless Headphones Have ANC, But Wired Ones Don't? - BGR",
+      "url": "https://www.bgr.com/2264212/why-earbuds-have-but-wired-headphones-dont/",
+      "publishedAt": "2026-09-26T23:17:00.000Z",
+      "author": "Sead Fadilpasic",
+      "description": "Even if you haven't utilized Active Noise Cancellation with wireless headphones, you've definitely heard of it, but why isn't it offered with wired headphones?",
+      "image": "https://www.bgr.com/img/gallery/why-do-wireless-headphones-have-anc-but-wired-ones-dont/l-intro-1789920940.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "BGR",
+      "title": "Which Apple Music Plan Gives You The Most For Your Money? - BGR",
+      "url": "https://www.bgr.com/2265237/which-apple-music-plan-best-for-your-money/",
+      "publishedAt": "2026-09-26T22:47:00.000Z",
+      "author": "Trevor Mogg",
+      "description": "Of the four subscription plans available from Apple Music, the Family and Student plans stand out for their excellent value when it comes to streaming music.",
+      "image": "https://www.bgr.com/img/gallery/which-apple-music-plan-gives-you-the-most-for-your-money/l-intro-1790086865.jpg",
+      "category": "串流播放器",
+      "articleType": "其他"
+    },
+    {
+      "source": "Engadget",
+      "title": "How high is too high for speakers in your home sound system? - Engadget",
+      "url": "https://www.engadget.com/2266518/how-high-too-high-speakers-home-sound-system/",
+      "publishedAt": "2026-09-26T22:30:00.000Z",
+      "author": "Thomas Godwin",
+      "description": "Too much height makes dialogue and fine details sound less direct.",
+      "image": "https://www.engadget.com/img/gallery/how-high-is-too-high-for-speakers-in-your-home-sound-system/l-intro-1789920049.jpg",
+      "category": "喇叭",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "After nearly half a decade, the small, next-gen OLED TVs I've been waiting for are finally here",
+      "url": "https://www.whathifi.com/tv-home-cinema/televisions/after-nearly-half-a-decade-the-small-next-gen-oled-tvs-ive-been-waiting-for-are-finally-here",
+      "publishedAt": "2026-09-26T16:46:24.000Z",
+      "author": "Lewis Empson",
+      "description": "But will I actually buy one this year?",
+      "image": "https://cdn.mos.cms.futurecdn.net/YoFsPW9oS9UxyQBVB5yEMS-2560-80.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "TechRadar",
+      "title": "I never considered buying ear-tip free AirPods-esuqe earbuds, but the spacious sound and solid ANC on JBL's new smartcase-toting buds made me reconsider — although their open style won't suit everyone",
+      "url": "https://www.techradar.com/audio/earbuds-airpods/jbl-live-flex-4-review",
+      "publishedAt": "2026-09-26T16:00:00.000Z",
+      "author": "",
+      "description": "I tested the JBL Live Flex 4 and found them to be an excellent pair of open-fit buds, with impressive sound quality, genuinely decent ANC, and even a smart charging case.",
+      "image": "https://cdn.mos.cms.futurecdn.net/PJxFBDa5uVbRhrViwNe8nh-1920-80.jpg",
+      "category": "耳機",
+      "articleType": "評測"
+    },
+    {
+      "source": "Engadget",
+      "title": "Get better audio quality from your vinyl by upgrading this part - Engadget",
+      "url": "https://www.engadget.com/2265869/vinyl-better-audio-quality-best-upgrade/",
+      "publishedAt": "2026-09-26T15:00:00.000Z",
+      "author": "Alec Hively",
+      "description": "Swapping out your turntable's stylus is an easy upgrade.",
+      "image": "https://www.engadget.com/img/gallery/get-better-audio-quality-from-your-vinyl-by-upgrading-this-part/l-intro-1790106336.jpg",
+      "category": "黑膠／唱盤",
+      "articleType": "其他"
+    },
+    {
+      "source": "BGR",
+      "title": "4 Reasons To Skip Buying The AirPods 5 - BGR",
+      "url": "https://www.bgr.com/2269474/airpods-5-reasons-to-skip-buying-them/",
+      "publishedAt": "2026-09-26T12:17:00.000Z",
+      "author": "Joshua Hawkins",
+      "description": "If your older AirPods have been frustrating you, a new pair of AirPods 5 might not fix the things that made you want to replace them.",
+      "image": "https://www.bgr.com/img/gallery/4-reasons-to-skip-buying-the-airpods-5/l-intro-1790369130.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "Tom's Guide",
+      "title": "I just tested Sony's ULT Tower 5 — and it's the best party speaker of the year",
+      "url": "https://www.tomsguide.com/audio/bluetooth-speakers/sony-ult-tower-5-review",
+      "publishedAt": "2026-09-26T11:30:00.000Z",
+      "author": "",
+      "description": "The Sony ULT Tower 5 is a supremely powerful portable party speaker, boasting meaty bass, refined treble, an array of ports, and tasteful LED lighting.",
+      "image": "https://cdn.mos.cms.futurecdn.net/ZUY7HahddEjLd4LkJkqApZ-1919-80.jpg",
+      "category": "喇叭",
+      "articleType": "評測"
+    },
+    {
+      "source": "TechRadar",
+      "title": "I've found the 18 best tech deals in the Best Buy weekend flash sale — get up to 50% off TVs, laptops, appliances, headphones, and more",
+      "url": "https://www.techradar.com/seasonal-sales/best-buy-launches-a-surprise-weekend-flash-sale-with-up-to-50-percent-off-ive-found-the-18-best-deals-on-tvs-laptops-appliances-headphones-and-more",
+      "publishedAt": "2026-09-26T10:38:07.000Z",
+      "author": "James Pickard",
+      "description": "A surprise weekend flash sale has just kicked off at Best Buy, so I've picked out the 18 best tech deals on TVs, laptops, appliances, headphones, and more.",
+      "image": "https://cdn.mos.cms.futurecdn.net/CHiTqKq2TUjW4rHTofjcP6-2560-80.jpg",
+      "category": "耳機",
+      "articleType": "新聞"
+    },
+    {
+      "source": "BGR",
+      "title": "Why I'm Excited For Qualcomm's Newest Snapdragon Audio Chip - BGR",
+      "url": "https://www.bgr.com/2267905/qualcomm-audio-chip-new-functionality/",
+      "publishedAt": "2026-09-26T03:17:00.000Z",
+      "author": "Connor Jewiss",
+      "description": "Qualcomm's new audio chip could change how you watch movies with earbuds, and we saw a demo that made the idea surprisingly appealing.",
+      "image": "https://www.bgr.com/img/gallery/why-im-excited-for-qualcomms-newest-snapdragon-audio-chip/l-intro-1790269345.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
     {
       "source": "BGR",
       "title": "AirPods 5 Review: The Best Noise Cancellation In Affordable Earbuds - BGR",
@@ -23,17 +133,6 @@
       "description": "The HomePod mini 2 has been spotted hiding in Apple's code, revealing the smart speaker's design and colors.",
       "image": "https://www.soundguys.com/wp-content/uploads/2026/09/HomePod-minis-2-colors.jpg",
       "category": "喇叭",
-      "articleType": "其他"
-    },
-    {
-      "source": "The Verge",
-      "title": "Sony and UMG are suing Suno again",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music",
-      "publishedAt": "2026-09-25T15:51:56.000Z",
-      "author": "Terrence O'Brien",
-      "description": "Sony and UMG’s latest lawsuit against Suno accuses the company of ‘model laundering’",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STKB368_SUNO_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "category": "其他音訊",
       "articleType": "其他"
     },
     {
@@ -390,12 +489,12 @@
     },
     {
       "source": "What Hi-Fi?",
-      "title": "How to watch Azerbaijan Grand Prix 2026: live stream F1 race from anywhere",
+      "title": "How to watch Azerbaijan Grand Prix 2026: live stream F1 race from anywhere – Lights Out!",
       "url": "https://www.whathifi.com/streaming-entertainment/how-to-watch/azerbaijan-grand-prix-2026-f1",
       "publishedAt": "2026-09-24T05:00:00.000Z",
       "author": "Aatif Sulleyman",
-      "description": "The schedule has been shifted forwards by 24 hours, with the race set for Saturday",
-      "image": "https://cdn.mos.cms.futurecdn.net/QtdE4AvW8yJ5WduqVEe7XF-1920-80.jpg",
+      "description": "George Russell is on pole for the only Saturday race of the season",
+      "image": "https://cdn.mos.cms.futurecdn.net/JHH9sbqHgcaC7pwnTrVyZK-1920-80.jpg",
       "category": "串流播放器",
       "articleType": "其他"
     },
@@ -1263,8 +1362,8 @@
       "url": "https://www.whathifi.com/streaming-entertainment/how-to-watch/uci-road-world-championships-2026-live-stream",
       "publishedAt": "2026-09-20T05:00:00.000Z",
       "author": "Aatif Sulleyman",
-      "description": "How to watch Road World Championships 2026 live streams. Free coverage and preview, with Remco Evenepoel and Lotte Kopecky amongst the favourites.",
-      "image": "https://cdn.mos.cms.futurecdn.net/eNxi5XZXL5PgRcQT2oSMUP-1920-80.jpg",
+      "description": "How to watch Road World Championships 2026 live streams. Free coverage and preview, with Remco Evenepoel and Lotte Kopecky among the road race favourites.",
+      "image": "https://cdn.mos.cms.futurecdn.net/HDnKgxYNSzKUZzXFbd74vH-1920-80.jpg",
       "category": "串流播放器",
       "articleType": "其他"
     },
@@ -5513,204 +5612,6 @@
       "image": "https://cdn.mos.cms.futurecdn.net/P4yi5L7v7RYixaDci8SBY9-2560-80.jpg",
       "category": "喇叭",
       "articleType": "新聞"
-    },
-    {
-      "source": "TechRadar",
-      "title": "'A lot of the time, for emotional scenes, we would be playing the Requiem soundtrack' — Asobo Studio used A Plague Tale: Requiem's music during Resonance: A Plague Tale Legacy mocap to help actors get into the 'sadder' and 'darker' scenes",
-      "url": "https://www.techradar.com/gaming/asobo-studio-used-the-soundtrack-from-a-plague-tale-requiem-during-resonance-a-plague-tale-legacy-mocap-to-help-the-cast-get-into-the-sadder-moments-the-darker-moments",
-      "publishedAt": "2026-08-27T21:11:43.000Z",
-      "author": "Demi Williams, Rob Dwiar",
-      "description": "Asobo Studio used A Plague Tale: Requiem's music while motion-capturing Resonance: A Plague Tale Legacy, so the cast could get in the mood for darker scenes.",
-      "image": "https://cdn.mos.cms.futurecdn.net/6mZnEp48vfbpKbexSm6qkk-1280-80.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "SoundGuys",
-      "title": "ANYMA is performing in Canada for the first time at Soulrise Music Festival this weekend",
-      "url": "https://www.soundguys.com/soulrise-music-festival-162110/",
-      "publishedAt": "2026-08-27T20:15:36.000Z",
-      "author": "Chase Bernath",
-      "description": "The electronic music artist will perform in Canada for the first time on August 29, headlining the Soulrise Music Festival in West Vancouver.",
-      "image": "https://www.soundguys.com/wp-content/uploads/2026/08/ANYMA-AEDEN-SOULRISE-FSTVL-_05_1920-x-1080.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "BGR",
-      "title": "Nothing Ear (3a) Review: Raising The Bar For Budget Earbuds - BGR",
-      "url": "https://www.bgr.com/2245743/nothing-ear-3a-review/",
-      "publishedAt": "2026-08-27T18:20:41.000Z",
-      "author": "Christian de Looper",
-      "description": "If you're looking to spend $100 or less on a pair of earbuds that will last you a while, the new Nothing Ear (3a) buds are going to be hard to beat.",
-      "image": "https://www.bgr.com/img/gallery/nothing-ear-3a-review-raising-the-bar-for-budget-earbuds/l-intro-1787854732.jpg",
-      "category": "耳機",
-      "articleType": "評測"
-    },
-    {
-      "source": "SoundGuys",
-      "title": "Amazon slashes Sony WH-CH520 price to $38 for a solid budget headphone buy",
-      "url": "https://www.soundguys.com/sony-wh-ch520-headphones-deal-162096/",
-      "publishedAt": "2026-08-27T16:43:23.000Z",
-      "author": "Matt Horne",
-      "description": "Save 46% off the Sony WH-CH520 at Amazon and get lightweight on-ear headphones with 40-hour battery life and multipoint pairing.",
-      "image": "https://www.soundguys.com/wp-content/uploads/2023/09/Sony-WH-CH520-Featured-Image-1-scaled.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "SoundGuys",
-      "title": "This JBL Tune Buds deal cuts the price to $59.95 for wireless ANC earbuds",
-      "url": "https://www.soundguys.com/jbl-tune-buds-deal-162092/",
-      "publishedAt": "2026-08-27T15:36:46.000Z",
-      "author": "Matt Horne",
-      "description": "Save $40 on the JBL Tune Buds and get noise cancelling, Pure Bass sound, and up to 48 hours of total battery life.",
-      "image": "https://www.soundguys.com/wp-content/uploads/2024/04/JBL-Tune-Buds-hero.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "Do DACs need Bluetooth? Here's why this popular feature is overrated if you care about sound quality",
-      "url": "https://www.whathifi.com/hi-fi/dacs/do-dacs-need-bluetooth-heres-why-this-popular-feature-is-overrated-if-you-care-about-sound-quality",
-      "publishedAt": "2026-08-27T15:02:20.000Z",
-      "author": "Harry McKerrell",
-      "description": "Essential feature, or box-ticking exercise?",
-      "image": "https://cdn.mos.cms.futurecdn.net/sM3caPtL8cf3zqqaMJS3Bo-1920-80.jpg",
-      "category": "DAC／擴大機",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "9 monster milestones that helped shape home cinema: VHS, DVD, Dolby Atmos and more",
-      "url": "https://www.whathifi.com/tv-home-cinema/from-m-a-s-h-to-billy-lynn-the-films-that-changed-home-cinema",
-      "publishedAt": "2026-08-27T14:57:36.000Z",
-      "author": "Daniel Furn",
-      "description": "As physical media has a bit of a moment, we look at notable firsts in home cinema's many formats",
-      "image": "https://cdn.mos.cms.futurecdn.net/zTD5kX6aRd6cwMQXFn75vW-2560-80.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "Is this new Hisense the ultimate coffee table projector? We tested it over several days to find out",
-      "url": "https://www.whathifi.com/tv-home-cinema/projectors/hisense-c2-ultra",
-      "publishedAt": "2026-08-27T14:53:16.000Z",
-      "author": "",
-      "description": "Another strong Hisense entry in the affordable lifestyle, coffee-table projector world",
-      "image": "https://cdn.mos.cms.futurecdn.net/aMssSDfYdf4MQHBpVdYsF9-1920-80.jpg",
-      "category": "其他音訊",
-      "articleType": "評測"
-    },
-    {
-      "source": "SoundGuys",
-      "title": "Sony's upcoming over-ear headphones leak online, and they may not pinch your wallet",
-      "url": "https://www.soundguys.com/sony-wh-ch730n-wh-ch530-leak-162085/",
-      "publishedAt": "2026-08-27T14:00:18.000Z",
-      "author": "Aamir Siddiqui",
-      "description": "Leaked listings reveal Sony's WH-CH730N with ANC and the ultra-budget WH-CH530, both expected to launch in October.",
-      "image": "https://www.soundguys.com/wp-content/uploads/2023/09/Sony-WH-CH720N-Featured-Image-3-scaled.jpg",
-      "category": "耳機",
-      "articleType": "新聞"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "Sony’s exceptionally detailed and refined-sounding anniversary headphones just got their first price drop – and I’m sold",
-      "url": "https://www.whathifi.com/headphones/wireless-headphones/sonys-exceptionally-detailed-and-refined-sounding-anniversary-headphones-just-got-their-first-price-drop-and-im-sold",
-      "publishedAt": "2026-08-27T13:52:51.000Z",
-      "author": "Daniel Furn",
-      "description": "Add these special Sony cans to your Collexion",
-      "image": "https://cdn.mos.cms.futurecdn.net/DpXxPfR8Kko3rqdj4GtxsZ-1920-80.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "TechRadar",
-      "title": "Dbrand, known for its controversial PS5 and Steam Machine covers, has made a mini Pelican-style super-tough case for AirPods — we all know someone who probably needs that kind of protection for their earbuds",
-      "url": "https://www.techradar.com/audio/earbuds-airpods/ever-wished-your-airpods-could-have-their-own-tiny-rugged-pelican-case-well-dbrand-known-for-controversy-over-its-ps5-covers-and-unlicensed-steam-machine-companion-cube-has-made-one",
-      "publishedAt": "2026-08-27T13:35:07.000Z",
-      "author": "Rowan Davies",
-      "description": "Users didn't like Dbrand's Tank Case for phones, but that didn't stop it from making one for the AirPods Pro 3.",
-      "image": "https://cdn.mos.cms.futurecdn.net/qfKzgZbTpnxgPYkZVUpYiA-2048-80.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "TechRadar",
-      "title": "‘The user stays in control’ Plaud’s new AI earbuds can record your working day — but its most ambitious agent features are coming later",
-      "url": "https://www.techradar.com/ai-platforms-assistants/exclusive-the-point-isnt-that-it-never-misunderstands-its-that-the-user-stays-in-control-plaud-tells-us-why-its-new-ai-earbuds-want-to-do-more-than-record-your-meetings",
-      "publishedAt": "2026-08-27T13:00:00.000Z",
-      "author": "Graham Barlow",
-      "description": "Plaud's new AI earbuds recording your conversations, but that's only the beginning.",
-      "image": "https://cdn.mos.cms.futurecdn.net/HU2GEPnZ8Nh2tPKet2iVFi-1024-80.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "\"It's really a breakthrough in how we think about physical and digital media\" – Xbox's latest announcement is a lifeline for physical media and a direct response to Sony's huge Blu-ray disc fumble",
-      "url": "https://www.whathifi.com/tv-home-cinema/gaming/its-really-a-breakthrough-in-how-we-think-about-physical-and-digital-media-xboxs-latest-announcement-is-a-lifeline-for-physical-media-and-a-direct-response-to-sonys-huge-blu-ray-disc-fumble",
-      "publishedAt": "2026-08-27T12:30:47.000Z",
-      "author": "Lewis Empson",
-      "description": "Disc to digital, coming to an Xbox near you",
-      "image": "https://cdn.mos.cms.futurecdn.net/GotQzKF7ULmCjFRKLPjyei-1920-80.png",
-      "category": "其他音訊",
-      "articleType": "新聞"
-    },
-    {
-      "source": "TechRadar",
-      "title": "Yamaha returns to the world of compact streaming hi-fi, with a new small all-in-one amp that's crammed with hi-res connections — plus a streamer to add to your own amp with all the same perks, from Bluetooth to Wi-Fi to HDMI",
-      "url": "https://www.techradar.com/audio/multi-room/yamahas-new-compact-hi-fi-streamers-have-all-the-wired-and-wireless-hi-res-connections-you-could-want-for-a-smart-small-stereo-system-and-one-doubles-as-an-amp-too",
-      "publishedAt": "2026-08-27T10:58:21.000Z",
-      "author": "Tom Bedford",
-      "description": "Yamaha has unveiled two new music devices, set to sell in November: a compact streamer and a streaming amp.",
-      "image": "https://cdn.mos.cms.futurecdn.net/XNqYtBF63L5wedgSxMeRkg-2560-80.jpg",
-      "category": "DAC／擴大機",
-      "articleType": "新聞"
-    },
-    {
-      "source": "SoundGuys",
-      "title": "Bose ditched the headphone jack without ditching the headphone jack",
-      "url": "https://www.soundguys.com/bose-quietcomfort-headphones-usb-audio-161954/",
-      "publishedAt": "2026-08-27T09:00:46.000Z",
-      "author": "Dave Carr",
-      "description": "The Bose QuietComfort Headphones include a USB-C to 3.5mm cable, and every USB-C audio pair should do the same.",
-      "image": "https://www.soundguys.com/wp-content/uploads/2026/08/Bose-QC-Headphones-2nd-Gen-1-2-scaled.jpeg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "Apple’s September event has a date, which means the first foldable iPhone looks imminent – but what else is expected?",
-      "url": "https://www.whathifi.com/smartphones-tablets/smartphones/apples-september-event-has-a-date-which-means-the-first-foldable-iphone-looks-imminent-but-what-else-is-expected",
-      "publishedAt": "2026-08-27T08:36:20.000Z",
-      "author": "Tom Parsons",
-      "description": "AirPods 5? HomePods? Could we finally get a new Apple TV 4K?",
-      "image": "https://cdn.mos.cms.futurecdn.net/m3FJRUcWkjPYkSeK99wVH9-1672-80.png",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "Tom's Guide",
-      "title": "Before you buy your next pair of speakers, make sure you know this one essential difference",
-      "url": "https://www.tomsguide.com/audio/speakers/before-you-buy-your-next-pair-of-speakers-make-sure-you-know-this-one-essential-difference",
-      "publishedAt": "2026-08-27T08:15:00.000Z",
-      "author": "Nick Pino",
-      "description": "Passive vs active speakers: What are the pros and cons of each, and which set should you buy?",
-      "image": "https://cdn.mos.cms.futurecdn.net/XTvp4PbNASrTXakCzLx76h-2000-80.jpg",
-      "category": "喇叭",
-      "articleType": "其他"
-    },
-    {
-      "source": "BGR",
-      "title": "This One Setting Could Be Ruining Your YouTube Music Playlists - BGR",
-      "url": "https://www.bgr.com/2238236/youtube-music-playlist-settings-disable-autoplay/",
-      "publishedAt": "2026-08-27T03:17:00.000Z",
-      "author": "Suzanne Bonnett",
-      "description": "YouTube Music has an Autoplay feature that can interrupt personal playlists. It can also be a huge benefit. See how to use it to its best effect",
-      "image": "https://www.bgr.com/img/gallery/this-one-setting-could-be-ruining-your-youtube-music-playlists/l-intro-1786742844.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
     }
   ]
 }
