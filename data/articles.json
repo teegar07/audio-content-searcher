@@ -1,8 +1,151 @@
 {
-  "generatedAt": "2026-09-27T01:51:34.222Z",
+  "generatedAt": "2026-09-28T01:19:30.137Z",
   "days": 30,
-  "count": 511,
+  "count": 507,
   "articles": [
+    {
+      "source": "BGR",
+      "title": "The 5 Biggest Problems Users Have With Bluetooth On Windows 11 - BGR",
+      "url": "https://www.bgr.com/2266021/bluetooth-common-problems-windows-11/",
+      "publishedAt": "2026-09-28T00:47:00.000Z",
+      "author": "Asad Kashif",
+      "description": "Microsoft can't get Bluetooth right, whether it's random disconnects, disappearing toggles, poor audio quality, or bad device management.",
+      "image": "https://www.bgr.com/img/gallery/the-5-biggest-problems-users-have-with-bluetooth-on-windows-11/l-intro-1790117254.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "Engadget",
+      "title": "When are surround sound systems actually worth it over soundbars? - Engadget",
+      "url": "https://www.engadget.com/2267833/surround-sound-system-worth-it-vs-soundbar/",
+      "publishedAt": "2026-09-27T23:30:00.000Z",
+      "author": "Max Miller",
+      "description": "A soundbar is a solid upgrade to your TV's speakers, but it can't match what a proper surround setup provides. The right call depends on your needs.",
+      "image": "https://www.engadget.com/img/gallery/when-are-surround-sound-systems-actually-worth-it-over-soundbars/l-intro-1790267078.jpg",
+      "category": "Soundbar",
+      "articleType": "其他"
+    },
+    {
+      "source": "BGR",
+      "title": "Audio Vs. File Compression: What To Avoid For Better Audio Quality - BGR",
+      "url": "https://www.bgr.com/2265961/audio-vs-file-compression-differences-quality-impact/",
+      "publishedAt": "2026-09-27T22:47:00.000Z",
+      "author": "Jules Wang",
+      "description": "Compression is a key editing tool that helps artists sculpt sound. If used incorrectly, the end result can be worse than when you started.",
+      "image": "https://www.bgr.com/img/gallery/audio-vs-file-compression-what-to-avoid-for-better-audio-quality/l-intro-1790111096.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "BGR",
+      "title": "4 Non-Negotiable Features To Look For In Bluetooth Headphones In 2026 - BGR",
+      "url": "https://www.bgr.com/2265775/bluetooth-headphones-non-negotiable-features/",
+      "publishedAt": "2026-09-27T20:47:00.000Z",
+      "author": "Michael Bizzaco",
+      "description": "Good sound isn't the only thing to look for in Bluetooth headphones. These features help make a pair of cans or buds worth using in 2026.",
+      "image": "https://www.bgr.com/img/gallery/4-non-negotiable-features-to-look-for-in-bluetooth-headphones-in-2026/l-intro-1790103330.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "The Verge",
+      "title": "Engram is a sampler that turns broken AI hallucinations into music",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
+      "publishedAt": "2026-09-27T20:46:36.000Z",
+      "author": "Terrence O'Brien",
+      "description": "Thoughtful Things says Engram is a ‘field recorder for latent space’ and circuit-bending tiny AI models.",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-27-at-4.42.53-PM.png?quality=90&strip=all&crop=3.0945578231293%2C0%2C93.810884353741%2C100&w=1200",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "BGR",
+      "title": "You're Wasting The Potential Of PlayStation 5 Headphones Without Trying This Feature - BGR",
+      "url": "https://www.bgr.com/2265758/playstation-5-3d-audio-profile-headphones/",
+      "publishedAt": "2026-09-27T18:17:00.000Z",
+      "author": "Chifundo Kasiya",
+      "description": "Stop using default audio settings. Learn how to calibrate PS5 Personalized 3D Audio and tweak EQ presets to unlock elite positional sound.",
+      "image": "https://www.bgr.com/img/gallery/youre-wasting-the-potential-of-playstation-5-headphones-without-trying-this-feature/l-intro-1790102771.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "TechRadar",
+      "title": "Spotify has made some monumental changes to the platform this year — here are 5 of the biggest upgrades you need to know about, including this Wikipedia-style song credits tool",
+      "url": "https://www.techradar.com/audio/spotify/ive-been-keeping-up-with-every-spotify-update-this-year-and-these-are-my-5-favorite-upgrades-from-songdna-to-its-reserved-concert-ticket-scheme",
+      "publishedAt": "2026-09-27T17:00:00.000Z",
+      "author": "Rowan Davies",
+      "description": "From Taste Profile to Reserved, these are the biggest changes Spotify has made over the past few months.",
+      "image": "https://cdn.mos.cms.futurecdn.net/yDZU4AQ9ew3QyzJJDVGysM-2000-80.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "BGR",
+      "title": "Who Owns Noble Audio, The Premium Headphone Brand? - BGR",
+      "url": "https://www.bgr.com/2264155/who-owns-noble-audio-headphones/",
+      "publishedAt": "2026-09-27T14:32:00.000Z",
+      "author": "Sead Fadilpasic",
+      "description": "Noble Audio is a brand well-known for making high-end and extremely expensive headphones, but who actually owns the company behind the products?",
+      "image": "https://www.bgr.com/img/gallery/who-owns-noble-audio-the-premium-headphone-brand/l-intro-1789853060.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "BGR",
+      "title": "The First Speaker Bose Ever Made Was An Odd-Shaped Failure - BGR",
+      "url": "https://www.bgr.com/2265315/first-speaker-bose-made-odd-shaped-failure/",
+      "publishedAt": "2026-09-27T13:47:00.000Z",
+      "author": "Anthoni Oisin",
+      "description": "Before Bose became a modern audio juggernaut, it released the 2201 speakers with an odd shape that would end up as an utter commercial failure.",
+      "image": "https://www.bgr.com/img/gallery/the-first-speaker-bose-ever-made-was-an-odd-shaped-failure/l-intro-1790089366.jpg",
+      "category": "喇叭",
+      "articleType": "新聞"
+    },
+    {
+      "source": "BGR",
+      "title": "How Much Is Apple Music In 2026? - BGR",
+      "url": "https://www.bgr.com/2265143/how-much-is-apple-music-2026/",
+      "publishedAt": "2026-09-27T12:47:00.000Z",
+      "author": "Gaurav Shukla",
+      "description": "The individual plan of Apple Music will set you back $12 a month, while the family plan, that can be split amongst five more family members, will cost you $20.",
+      "image": "https://www.bgr.com/img/gallery/how-much-is-apple-music-in-2026/l-intro-1790082293.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "The Verge",
+      "title": "Googlebooks might be the real deal",
+      "url": "https://www.theverge.com/tech/1000424/googlebooks-meta-ray-ban-audio-control-resonant-microsoft-surface-mouse",
+      "publishedAt": "2026-09-27T12:00:00.000Z",
+      "author": "Jay Peters",
+      "description": "In this week’s Installer: Googlebooks, new Meta glasses, Remedy’s Control sequel, and more.",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/installer_2eede2.jpg?quality=90&strip=all&crop=0%2C3.4168590960013%2C100%2C93.166281807997&w=1200",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "Tom's Guide",
+      "title": "Could these $39 earbuds be budget heroes? I tested them to find out",
+      "url": "https://www.tomsguide.com/audio/earbuds/tribit-flybuds-c3-review",
+      "publishedAt": "2026-09-27T05:30:00.000Z",
+      "author": "",
+      "description": "The Tribit FlyBuds C3 are affordable earbuds with a sleek design, but there are a few trade-offs.",
+      "image": "https://cdn.mos.cms.futurecdn.net/6QPKjbVTdntvNcrFBy9jAj-1920-80.jpg",
+      "category": "耳機",
+      "articleType": "評測"
+    },
+    {
+      "source": "BGR",
+      "title": "Who Owns Deezer, The Apple Music Streaming Alternative? - BGR",
+      "url": "https://www.bgr.com/2264789/who-owns-deezer-apple-music-streaming-alternative/",
+      "publishedAt": "2026-09-27T03:47:00.000Z",
+      "author": "Trevor Mogg",
+      "description": "Deezer is a smaller but popular Apple Music alternative that has undergone several changes over the years. It is now publicly traded and owned by shareholders.",
+      "image": "https://www.bgr.com/img/gallery/who-owns-deezer-the-apple-music-streaming-alternative/l-intro-1790029960.jpg",
+      "category": "串流播放器",
+      "articleType": "其他"
+    },
     {
       "source": "TechRadar",
       "title": "Sennheiser Momentum True Wireless 5 review: truly the new flagship earbuds to beat — and with user-replaceable batteries, they're in it for keeps too",
@@ -37,17 +180,6 @@
       "articleType": "其他"
     },
     {
-      "source": "Engadget",
-      "title": "How high is too high for speakers in your home sound system? - Engadget",
-      "url": "https://www.engadget.com/2266518/how-high-too-high-speakers-home-sound-system/",
-      "publishedAt": "2026-09-26T22:30:00.000Z",
-      "author": "Thomas Godwin",
-      "description": "Too much height makes dialogue and fine details sound less direct.",
-      "image": "https://www.engadget.com/img/gallery/how-high-is-too-high-for-speakers-in-your-home-sound-system/l-intro-1789920049.jpg",
-      "category": "喇叭",
-      "articleType": "其他"
-    },
-    {
       "source": "What Hi-Fi?",
       "title": "After nearly half a decade, the small, next-gen OLED TVs I've been waiting for are finally here",
       "url": "https://www.whathifi.com/tv-home-cinema/televisions/after-nearly-half-a-decade-the-small-next-gen-oled-tvs-ive-been-waiting-for-are-finally-here",
@@ -68,17 +200,6 @@
       "image": "https://cdn.mos.cms.futurecdn.net/PJxFBDa5uVbRhrViwNe8nh-1920-80.jpg",
       "category": "耳機",
       "articleType": "評測"
-    },
-    {
-      "source": "Engadget",
-      "title": "Get better audio quality from your vinyl by upgrading this part - Engadget",
-      "url": "https://www.engadget.com/2265869/vinyl-better-audio-quality-best-upgrade/",
-      "publishedAt": "2026-09-26T15:00:00.000Z",
-      "author": "Alec Hively",
-      "description": "Swapping out your turntable's stylus is an easy upgrade.",
-      "image": "https://www.engadget.com/img/gallery/get-better-audio-quality-from-your-vinyl-by-upgrading-this-part/l-intro-1790106336.jpg",
-      "category": "黑膠／唱盤",
-      "articleType": "其他"
     },
     {
       "source": "BGR",
@@ -312,17 +433,6 @@
       "articleType": "新聞"
     },
     {
-      "source": "The Verge",
-      "title": "Qualcomm’s new ‘Elite’ sound chip might finally deliver the Wi-Fi earbud dream",
-      "url": "https://www.theverge.com/tech/1000443/qualcomms-new-elite-sound-chip-might-finally-deliver-the-wi-fi-earbud-dream",
-      "publishedAt": "2026-09-24T23:42:39.000Z",
-      "author": "Sean Hollister",
-      "description": "Also, they can power earbuds with cameras.",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/vlcsnap-2026-09-24-16h29m15s548.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
       "source": "Tom's Guide",
       "title": "17 best Apple deals to shop before October Prime Day — AirPods, iPads, MacBooks and more from $14",
       "url": "https://www.tomsguide.com/sales-events/17-best-apple-deals-to-shop-before-october-prime-day-airpods-ipads-macbooks-and-more-from-usd14",
@@ -331,17 +441,6 @@
       "description": "New Apple tech is available for purchase on Amazon — but you can also save a ton by grabbing older models. Check out the best deals ahead of Prime Day.",
       "image": "https://cdn.mos.cms.futurecdn.net/8dfbzMF7vX9srFWT5s3Ddf-2000-80.jpg",
       "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "Engadget",
-      "title": "Google Photos' new Redact tool will make it easy to hide sensitive information - Engadget",
-      "url": "https://www.engadget.com/2267415/google-photos-update-redact-tool/",
-      "publishedAt": "2026-09-24T17:00:00.000Z",
-      "author": "Mariella Moon",
-      "description": "Google Photos’ new AI-powered features include the Redact tool, which can quickly blur parts of an image.",
-      "image": "https://www.engadget.com/img/gallery/google-photos-new-redact-tool-will-make-it-easy-to-hide-sensitive-information/l-intro-1790251201.jpg",
-      "category": "DAC／擴大機",
       "articleType": "其他"
     },
     {
@@ -431,17 +530,6 @@
       "image": "https://cdn.mos.cms.futurecdn.net/9xUmviZiJ2tFeVovnfvtNY-1920-80.jpg",
       "category": "耳機",
       "articleType": "其他"
-    },
-    {
-      "source": "Engadget",
-      "title": "Qualcomm's Snapdragon Sound Elite is a new AI chip for audio wearables - Engadget",
-      "url": "https://www.engadget.com/2267407/qualcomm-snapdragon-sound-elite-ai-for-audio-wearables/",
-      "publishedAt": "2026-09-24T11:23:00.000Z",
-      "author": "Mariella Moon",
-      "description": "Qualcomm has launched a new chip that will enable AI features on small audio devices.",
-      "image": "https://www.engadget.com/img/gallery/qualcomms-snapdragon-sound-elite-is-a-new-ai-chip-for-audio-wearables/l-intro-1790248873.jpg",
-      "category": "其他音訊",
-      "articleType": "新聞"
     },
     {
       "source": "What Hi-Fi?",
@@ -654,17 +742,6 @@
     },
     {
       "source": "TechRadar",
-      "title": "Beats 360 are one of the most comfortable, best-sounding headphones I've ever worn and made Supergirl more watchable than it should be",
-      "url": "https://www.techradar.com/audio/wireless-headphones/beats-360-are-one-of-the-most-comfortable-best-sounding-headphones-ive-ever-worn-and-made-supergirl-more-watchable-than-it-should-be",
-      "publishedAt": "2026-09-23T13:00:00.000Z",
-      "author": "Lance Ulanoff",
-      "description": "I've been test-driving Beats 360, and I love the fit, the sound, and how it made one movie more enjoyable than it might've been otherwise.",
-      "image": "https://cdn.mos.cms.futurecdn.net/QYmmsgicHbd9WuKeW6eVVH-1920-80.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "TechRadar",
       "title": "Spotify’s Taste Profile must’ve been a victory, because it’s finally coming to the US in beta — here are 3 tips that could give your feed the spring cleaning it needs",
       "url": "https://www.techradar.com/audio/spotify/spotify-is-bringing-its-algorithm-amending-taste-profile-tool-to-listeners-in-the-us-and-it-could-be-your-one-way-ticket-to-wiping-your-most-hated-genres-from-your-feed",
       "publishedAt": "2026-09-23T13:00:00.000Z",
@@ -672,6 +749,17 @@
       "description": "Listeners in the US can now feed what they want to hear directly to the new Taste Profile tab.",
       "image": "https://cdn.mos.cms.futurecdn.net/n9V4AXdU7YKsDUcVjZNHMM-2000-80.jpg",
       "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "TechRadar",
+      "title": "Beats 360 are one of the most comfortable, best-sounding headphones I've ever worn and made Supergirl more watchable than it should be",
+      "url": "https://www.techradar.com/audio/wireless-headphones/beats-360-are-one-of-the-most-comfortable-best-sounding-headphones-ive-ever-worn-and-made-supergirl-more-watchable-than-it-should-be",
+      "publishedAt": "2026-09-23T13:00:00.000Z",
+      "author": "Lance Ulanoff",
+      "description": "I've been test-driving Beats 360, and I love the fit, the sound, and how it made one movie more enjoyable than it might've been otherwise.",
+      "image": "https://cdn.mos.cms.futurecdn.net/QYmmsgicHbd9WuKeW6eVVH-1920-80.jpg",
+      "category": "耳機",
       "articleType": "其他"
     },
     {
@@ -3865,17 +3953,6 @@
       "articleType": "其他"
     },
     {
-      "source": "TechRadar",
-      "title": "My experience as an audio expert has led me to choose these five earbuds, from AU$70 to AU$349, that cater to all music styles",
-      "url": "https://www.techradar.com/audio/earbuds-airpods/my-experience-as-an-audio-expert-has-led-me-to-choose-these-five-earbuds-from-au-70-to-au-349-that-cater-to-all-music-styles",
-      "publishedAt": "2026-09-07T05:46:14.000Z",
-      "author": "Max Langridge",
-      "description": "From simple audio upgrades to pairs brimming with features, there's something here for everyone.",
-      "image": "https://cdn.mos.cms.futurecdn.net/SKPpk4d5vXEYdjweBF5Wgg-2560-80.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
       "source": "BGR",
       "title": "Can You Replace A Dying AirPod Battery? - BGR",
       "url": "https://www.bgr.com/2249696/can-airpods-battery-be-replaced/",
@@ -5502,127 +5579,6 @@
       "image": "https://cdn.mos.cms.futurecdn.net/NaMzNekhTVBsYtbsSfJh6E-1920-80.jpg",
       "category": "Soundbar",
       "articleType": "評測"
-    },
-    {
-      "source": "TechRadar",
-      "title": "Embracing the vinyl revival? Here are the most interesting new turntables we've seen this year, from the classy to the tacky",
-      "url": "https://www.techradar.com/audio/turntables/7-of-the-coolest-turntables-of-2026-including-a-superbly-tacky-anniversary-edition-and-an-ode-to-rammstein",
-      "publishedAt": "2026-08-28T19:00:00.000Z",
-      "author": "Ruth Hamilton",
-      "description": "Including an ode to some German metal gods, and a 'detailed, rhythmically adept' player two decades in the making.",
-      "image": "https://cdn.mos.cms.futurecdn.net/Xs6iiuRNtr9WHHwqCM2dMG-1920-80.jpg",
-      "category": "黑膠／唱盤",
-      "articleType": "其他"
-    },
-    {
-      "source": "SoundGuys",
-      "title": "Amazon drops the Sony BRAVIA Theater System 6 to its lowest price since Prime Day",
-      "url": "https://www.soundguys.com/sony-bravia-theater-system-6-deal-162138/",
-      "publishedAt": "2026-08-28T16:58:52.000Z",
-      "author": "Matt Horne",
-      "description": "Save 25% on the Sony BRAVIA Theater System 6 and get a 5.1 setup with subwoofer, rear speakers, and Dolby Atmos support.",
-      "image": "https://www.soundguys.com/wp-content/uploads/2026/08/Sony-BRAVIA-Theater-System-6-Press-Image.jpg",
-      "category": "喇叭",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "“Uniti Star Lite is not simply the original Uniti Star without a CD drive” – Naim says its new streaming amp sounds better, too",
-      "url": "https://www.whathifi.com/hi-fi/music-streamers/uniti-star-lite-is-not-simply-the-original-uniti-star-without-a-cd-drive-naim-says-its-new-streaming-amp-sounds-better-too",
-      "publishedAt": "2026-08-28T16:03:20.000Z",
-      "author": "Kashfia Kabir",
-      "description": "Naim has confirmed that the Star Lite will offer \"better audio performance\"",
-      "image": "https://cdn.mos.cms.futurecdn.net/4iBwqGcxxCUbd3hNDsELRV-2560-80.jpg",
-      "category": "DAC／擴大機",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "Our experts have found the best Bank Holiday deals on Sony's anniversary headphones, five-star cinematic tablets and vibrant RGB Mini LED TVs",
-      "url": "https://www.whathifi.com/av/our-experts-have-found-the-best-bank-holiday-deals-on-sonys-anniversary-headphones-five-star-cinematic-tablets-and-vibrant-rgb-mini-led-tvs",
-      "publishedAt": "2026-08-28T15:58:35.000Z",
-      "author": "Daniel Furn",
-      "description": "Immersive entertainment, both at home and on the go",
-      "image": "https://cdn.mos.cms.futurecdn.net/Ys37JsgwNpDuVeug5hvjyS-1920-80.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "SoundGuys",
-      "title": "Amazon slashes Bose QuietComfort Ultra Earbuds by $130, hitting a record-low price",
-      "url": "https://www.soundguys.com/bose-quietcomfort-ultra-earbuds-deal-162132/",
-      "publishedAt": "2026-08-28T15:35:16.000Z",
-      "author": "Matt Horne",
-      "description": "Bose QuietComfort Ultra Earbuds drop to $169 on Amazon, a new lowest price ever for Bose’s noise-canceling buds.",
-      "image": "https://www.soundguys.com/wp-content/uploads/2023/10/bose-quietcomfort-ultra-earphones-buds.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "Quiz! Can you name the first film in these home cinema formats?",
-      "url": "https://www.whathifi.com/tv-home-cinema/quiz-can-you-name-the-first-film-in-these-home-cinema-formats",
-      "publishedAt": "2026-08-28T15:12:06.000Z",
-      "author": "Daniel Furn",
-      "description": "So many formats, but they all started somewhere...",
-      "image": "https://cdn.mos.cms.futurecdn.net/7qUccNHgcTCT8kjbYfQwcg-2000-80.png",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "Apple's latest Pro iPhone promises more power, brightness and better cameras. But how good is it for movies and music?",
-      "url": "https://www.whathifi.com/smartphones-tablets/smartphones/apple-iphone-17-pro",
-      "publishedAt": "2026-08-28T15:05:45.000Z",
-      "author": "",
-      "description": "Is this the best iPhone ever for watching movies?",
-      "image": "https://cdn.mos.cms.futurecdn.net/VEH94G4D2xXx3feRtKjD3V-1920-80.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "New focus, no CD: Naim's premium streaming amplifier omits the one thing that made it stand out",
-      "url": "https://www.whathifi.com/streaming-entertainment/music-streaming/naims-uniti-star-lite-streaming-amplifier-launches-with-extensive-features-but-it-is-missing-one-key-ingredient",
-      "publishedAt": "2026-08-28T12:42:36.000Z",
-      "author": "Kashfia Kabir",
-      "description": "The Uniti Star Lite is near-identical to the original, but drops the built-in CD player due to supply issues",
-      "image": "https://cdn.mos.cms.futurecdn.net/dPMWrA6yqVNyS3CS7jZD4V-1799-80.jpg",
-      "category": "DAC／擴大機",
-      "articleType": "新聞"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "If Sonos Ace Ultra headphones are in the works, here are three things they need to get right",
-      "url": "https://www.whathifi.com/headphones/wireless-headphones/if-sonos-ace-ultra-headphones-are-in-the-works-here-are-three-things-they-need-to-get-right-to-rival-sony-and-bose",
-      "publishedAt": "2026-08-28T12:23:21.000Z",
-      "author": "Andy Madden",
-      "description": "We're hoping for a big improvement",
-      "image": "https://cdn.mos.cms.futurecdn.net/w8zLVPvQecYJacQCyvuNM7-1920-80.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "Tom's Guide",
-      "title": "I let my bedside lamp track my sleep for 3 weeks — and it's the next frontier of sleep tech",
-      "url": "https://www.tomsguide.com/wellness/sleep-tech/sleepal-ai-lamp-review",
-      "publishedAt": "2026-08-28T11:30:00.000Z",
-      "author": "",
-      "description": "The Sleepal AI Lamp is a sleep tracker, sunrise alarm clock, white noise machine and more. But is its data accurate?",
-      "image": "https://cdn.mos.cms.futurecdn.net/YoWuqAUufdcjmP5RzBVvLK-2521-80.jpg",
-      "category": "其他音訊",
-      "articleType": "評測"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "Castle launches four new speakers that offer \"a new level of performance\"",
-      "url": "https://www.whathifi.com/speakers/hi-fi-speakers/castle-launches-four-new-speakers-that-offer-a-new-level-of-performance-while-retaining-the-brands-natural-warmth-and-handcrafted-cabinets",
-      "publishedAt": "2026-08-28T11:24:56.000Z",
-      "author": "Ioan Hazell",
-      "description": "The Tintagel and Walmer series aim to provide “an accessible bedrock” alongside “elevated engineering for superior sonics”",
-      "image": "https://cdn.mos.cms.futurecdn.net/P4yi5L7v7RYixaDci8SBY9-2560-80.jpg",
-      "category": "喇叭",
-      "articleType": "新聞"
     }
   ]
 }
