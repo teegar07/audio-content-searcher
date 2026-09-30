@@ -1,6 +1,9 @@
 name: Update audio articles
 on:
   workflow_dispatch:
+  push:
+    branches:
+      - main
   schedule:
     # Run several times before 08:30 Asia/Taipei to provide retry opportunities if GitHub delays a scheduled run.
     - cron: '0 18 * * *'
@@ -16,6 +19,7 @@ concurrency:
   cancel-in-progress: false
 jobs:
   update:
+    if: github.event_name != 'push' || contains(github.event.head_commit.message, '[run-now]')
     runs-on: ubuntu-latest
     timeout-minutes: 25
     steps:
