@@ -1,8 +1,294 @@
 {
-  "generatedAt": "2026-09-29T02:48:53.823Z",
+  "generatedAt": "2026-09-30T00:56:09.182Z",
   "days": 30,
-  "count": 530,
+  "count": 546,
   "articles": [
+    {
+      "source": "Engadget",
+      "title": "How do translation earbuds actually work? - Engadget",
+      "url": "https://www.engadget.com/2271253/translation-earbuds-how-work-explained/",
+      "publishedAt": "2026-09-29T22:00:00.000Z",
+      "author": "Isaac Egbon",
+      "description": "Translation earbuds claim high accuracy, but in real-world use, you should lower your expectations. The technology is far from mature.",
+      "image": "https://www.engadget.com/img/gallery/how-do-translation-earbuds-actually-work/l-intro-1790623926.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "Tom's Guide",
+      "title": "Massive JBL sale at Best Buy: my top speaker deals from $59",
+      "url": "https://www.tomsguide.com/audio/bluetooth-speakers/massive-jbl-sale-at-best-buy-my-top-speaker-deals-from-usd59",
+      "publishedAt": "2026-09-29T19:35:28.000Z",
+      "author": "Louis Ramirez",
+      "description": "The perfect companion for your next party",
+      "image": "https://cdn.mos.cms.futurecdn.net/yscy3vkuSpR96zbjSuArNB-2000-80.jpg",
+      "category": "喇叭",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "Need affordable noise-canceling headphones? The Soundcore Q31i is down to $79.99",
+      "url": "https://www.soundguys.com/soundcore-q31i-headphones-deal-163912/",
+      "publishedAt": "2026-09-29T16:06:33.000Z",
+      "author": "Matt Horne",
+      "description": "Anker Soundcore Q31i headphones are down to $79.99, bringing ANC, LDAC, and long battery life to their best price since launch.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/09/Anker-Soundcore-Q31i-Press-Image.jpg",
+      "category": "耳機",
+      "articleType": "新聞"
+    },
+    {
+      "source": "BGR",
+      "title": "Apple Music Users Say This Is The Biggest Issue With The Service - BGR",
+      "url": "https://www.bgr.com/2268033/apple-music-user-say-this-is-biggest-issue-with-it/",
+      "publishedAt": "2026-09-29T15:47:00.000Z",
+      "author": "Asad Kashif",
+      "description": "Apple Music is a very popular music streaming service, but users say the lack of a smooth handoff between devices is a problem. Spotify does offer the feature.",
+      "image": "https://www.bgr.com/img/gallery/apple-music-users-say-this-is-the-biggest-issue-with-the-service/l-intro-1790246593.jpg",
+      "category": "串流播放器",
+      "articleType": "其他"
+    },
+    {
+      "source": "BGR",
+      "title": "What Auracast Is, And Why Your Next Headphones Should Support It - BGR",
+      "url": "https://www.bgr.com/2268201/what-is-auracast-headphones-explained/",
+      "publishedAt": "2026-09-29T15:32:00.000Z",
+      "author": "Michael Bizzaco",
+      "description": "Auracast allows compatible Bluetooth headphones to seamlessly connect to broadcasts in public places, among other benefits.",
+      "image": "https://www.bgr.com/img/gallery/what-auracast-is-and-why-your-next-headphones-should-support-it/l-intro-1790278103.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "Bose QuietComfort Ultra (2nd Gen) are getting a big upgrade for free",
+      "url": "https://www.soundguys.com/bose-quietcomfort-ultra-2nd-gen-auracast-support-163905/",
+      "publishedAt": "2026-09-29T14:50:32.000Z",
+      "author": "Shimul Sood",
+      "description": "Bose is giving the QuietComfort Ultra (2nd Gen) a useful upgrade with Auracast, Bluetooth LE Audio, and improved USB-C audio support.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2025/09/bose-quietcomfort-ultra-2nd-gen008.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "\"This is the headphone we set out to create from the very beginning\" – a closer look at the development of the new driver technology inside the premium Technics EAH-A1000 wireless headphones",
+      "url": "https://www.whathifi.com/headphones/wireless-headphones/this-is-the-headphone-we-set-out-to-create-from-the-very-beginning-a-closer-look-at-the-development-of-the-new-driver-technology-inside-the-premium-technics-eah-a1000-wireless-headphones",
+      "publishedAt": "2026-09-29T14:29:29.000Z",
+      "author": "Kashfia Kabir",
+      "description": "A deeper exploration into the \"no compromise\" pursuit of high-quality sound in Technics' flagship over-ear headphones",
+      "image": "https://cdn.mos.cms.futurecdn.net/8zL4RiJkh5GU2mdKxV6CCQ-2560-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Bose's flagship wireless headphones are getting an audio upgrade – but there's a catch",
+      "url": "https://www.whathifi.com/headphones/wireless-headphones/boses-flagship-wireless-headphones-are-getting-an-audio-upgrade-but-theres-a-catch",
+      "publishedAt": "2026-09-29T14:26:10.000Z",
+      "author": "Joe Svetlik",
+      "description": "Not everyone will get all the benefits",
+      "image": "https://cdn.mos.cms.futurecdn.net/ZVN2xE7nqhBTMFJnvXgwvh-1920-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "Engadget",
+      "title": "Technics brings magnetic fluid drivers to new EAH-A1000 headphones - Engadget",
+      "url": "https://www.engadget.com/2271430/technics-brings-magnetic-fluid-drivers-to-new-eah-a1000-headphones/",
+      "publishedAt": "2026-09-29T14:00:00.000Z",
+      "author": "Anna Washenko",
+      "description": "The tech should reduce audio distortion for these over-ear ANC cans.",
+      "image": "https://www.engadget.com/img/gallery/technics-brings-magnetic-fluid-drivers-to-new-eah-a1000-headphones/l-intro-1790631791.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Technics aims its flagship wireless headphones squarely at the class-leading Sony and Sennheiser rivals, but can these classy new cans live up to the challenge?",
+      "url": "https://www.whathifi.com/headphones/wireless-headphones/technics-eah-a1000",
+      "publishedAt": "2026-09-29T14:00:00.000Z",
+      "author": "",
+      "description": "Technics’ new flagship over-ear wireless headphones aim high with a classy design, impressively long battery life and newly developed driver technology in pursuit of high-quality sound to rival formidable class leaders.",
+      "image": "https://cdn.mos.cms.futurecdn.net/GuupRoKTuYuie5bv8KjQkd-1920-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Technics' new flagship wireless headphones feature acoustic tech from its speakers and Award-winning earbuds",
+      "url": "https://www.whathifi.com/headphones/wireless-headphones/technics-new-flagship-wireless-headphones-feature-acoustic-tech-from-its-speakers-and-award-winning-earbuds",
+      "publishedAt": "2026-09-29T14:00:00.000Z",
+      "author": "Joe Svetlik",
+      "description": "The EAH-A1000 promise low distortion and an expansive soundstage",
+      "image": "https://cdn.mos.cms.futurecdn.net/zQpkAZfdpK9JAKNGjW8RMF-2560-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "TechRadar",
+      "title": "'Super svelte, super comfy and gloriously expansive': Technics' new over-ear headphones are very good indeed — here's why the EAH-A1000 could become class-leaders",
+      "url": "https://www.techradar.com/audio/wireless-headphones/technics-excellent-eah-a800-headphones-just-got-a-new-gen-model-and-i-got-them-early-heres-my-initial-verdict-on-the-eah-a1000",
+      "publishedAt": "2026-09-29T14:00:00.000Z",
+      "author": "Becky Scarrott",
+      "description": "Technics is back with a follow-up to its EAH-A800 — and on first listen there's so much to love",
+      "image": "https://cdn.mos.cms.futurecdn.net/VBJR5xUMAYkFtgHEG8heSP-2560-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "This ultra-premium cabinet is an all-in-one storage solution “engineered to keep your projector at its best”",
+      "url": "https://www.whathifi.com/tv-home-cinema/projectors/this-ultra-premium-cabinet-is-an-all-in-one-storage-solution-engineered-to-keep-your-projector-at-its-best",
+      "publishedAt": "2026-09-29T13:57:23.000Z",
+      "author": "Robyn Quick",
+      "description": "But it will set you back a pretty penny",
+      "image": "https://cdn.mos.cms.futurecdn.net/s3YwPnCf5q72uQayRLKVjG-1920-80.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "The Verge",
+      "title": "Fairphone’s next repairable wireless earbuds will launch on October 14th",
+      "url": "https://www.theverge.com/tech/1001859/fairphone-fairbuds-2-wireless-earbuds-repairable-modular-price-release",
+      "publishedAt": "2026-09-29T13:11:18.000Z",
+      "author": "Andrew Liszewski",
+      "description": "The Fairbuds 2 will carry forward the original’s easy-to-repair design with modular replacement parts.",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/fairbuds.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "category": "耳機",
+      "articleType": "新聞"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "Marshall's new Bromley 150 party speaker offers 40 hours of playback and is actually 'portable'",
+      "url": "https://www.soundguys.com/marshall-bromley-150-speaker-launch-163890/",
+      "publishedAt": "2026-09-29T12:00:07.000Z",
+      "author": "Tushar Mehta",
+      "description": "The Marshall Bromley 150 is a more portable party speaker that keeps the brand's signature while making it far easier to carry.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/09/marshall-bromley-150.jpg",
+      "category": "喇叭",
+      "articleType": "新聞"
+    },
+    {
+      "source": "Engadget",
+      "title": "Marshall just revealed its smallest party speaker yet - Engadget",
+      "url": "https://www.engadget.com/2267699/marshall-just-revealed-its-smallest-party-speaker-yet/",
+      "publishedAt": "2026-09-29T12:00:00.000Z",
+      "author": "Lawrence Bonk",
+      "description": "I guess \"reasonably-sized gathering speaker\" doesn't have the same ring.",
+      "image": "https://www.engadget.com/img/gallery/marshall-just-revealed-its-smallest-party-speaker-yet/l-intro-1790263566.jpg",
+      "category": "喇叭",
+      "articleType": "新聞"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Marshall's premium Bluetooth speaker is built to get the party started",
+      "url": "https://www.whathifi.com/speakers/wireless-speakers/marshalls-premium-bluetooth-speaker-is-built-to-get-the-party-started-and-keep-it-going-long-into-the-night",
+      "publishedAt": "2026-09-29T12:00:00.000Z",
+      "author": "Harry McKerrell",
+      "description": "The Bromley 150 rounds out Marshall's party-ready lineup",
+      "image": "https://cdn.mos.cms.futurecdn.net/2cfRMdnSQ3uUNVrVa2XuaQ-1306-80.png",
+      "category": "喇叭",
+      "articleType": "其他"
+    },
+    {
+      "source": "BGR",
+      "title": "These New Bose $99 Noise-Cancelling Earbuds Could Compete With Apple EarPods - BGR",
+      "url": "https://www.bgr.com/2271678/bose-noise-canceling-wired-earbuds-99-usd/",
+      "publishedAt": "2026-09-29T10:47:00.000Z",
+      "author": "Joshua Hawkins",
+      "description": "These new wired earbuds from Bose let you enjoy your music with ANC without having to worry about battery anxiety, since they connect via USB-C.",
+      "image": "https://www.bgr.com/img/gallery/these-new-bose-99-noise-cancelling-earbuds-could-compete-with-apple-earpods/l-intro-1790677635.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "Engadget",
+      "title": "Nothing's flagship $399 Headphone 1 Pro actually have some professional features - Engadget",
+      "url": "https://www.engadget.com/2271675/nothing-headphone-1-pro/",
+      "publishedAt": "2026-09-29T10:29:41.000Z",
+      "author": "Mat Smith",
+      "description": "Nothing’s new ‘pro’ headphones feature a flat EQ, bucking the trend of custom equalizers.",
+      "image": "https://www.engadget.com/img/gallery/nothings-flagship-399-headphone-1-pro-has-a-switch-to-turn-off-its-equalizer/l-intro-1790677695.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "BGR",
+      "title": "Which Bose Headphones Are Actually Worth Buying In 2026? - BGR",
+      "url": "https://www.bgr.com/2267700/bose-which-headphones-actually-worth-buying-2026/",
+      "publishedAt": "2026-09-29T10:17:00.000Z",
+      "author": "Joshua Hawkins",
+      "description": "The QuietComfort Ultra 2nd Gen and QuietComfort 2nd Gen are both worth buying in 2026 for their long-lasting reliability, comfort, and sound quality.",
+      "image": "https://www.bgr.com/img/gallery/which-bose-headphones-are-actually-worth-buying-in-2026/l-intro-1790263385.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "PSB iQ2 speaker review: A seriously capable pair of all-in-one powered speakers",
+      "url": "https://www.soundguys.com/psb-iq2-speaker-review-a-seriously-capable-pair-of-all-in-one-powered-speakers-163325/",
+      "publishedAt": "2026-09-29T10:00:36.000Z",
+      "author": "Dave Carr",
+      "description": "The PSB iQ2 powered speakers offer BluOS streaming and connections for your TV, turntable, and computer in one stereo system.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/09/psb-iQ2-speakers-1-scaled.jpeg",
+      "category": "喇叭",
+      "articleType": "評測"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Nothing's flagship wireless cans are \"ludicrously over-engineered\" for its \"best sound ever\"",
+      "url": "https://www.whathifi.com/headphones/wireless-headphones/nothings-flagship-wireless-headphones-are-ludicrously-over-engineered-to-deliver-its-best-listening-experience-ever",
+      "publishedAt": "2026-09-29T09:43:39.000Z",
+      "author": "Harry McKerrell",
+      "description": "Nothing launches the Headphone (1) Pro",
+      "image": "https://cdn.mos.cms.futurecdn.net/EVCqzFzzfnnTFL5mHLXmum-2560-80.jpg",
+      "category": "耳機",
+      "articleType": "新聞"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "The Nothing Headphone (1) Pro has features I wish every headphone had",
+      "url": "https://www.soundguys.com/nothing-headphone-1-pro-review-163291/",
+      "publishedAt": "2026-09-29T09:00:34.000Z",
+      "author": "Christian Thomas",
+      "description": "Nothing just released a step up to the Headphone (1). We take a deep dive in our Nothing Headphone (1) Pro review.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/09/nothing-headphone-1-pro-hero.jpg",
+      "category": "耳機",
+      "articleType": "評測"
+    },
+    {
+      "source": "TechRadar",
+      "title": "Bose just launched cheap ANC earbuds with an unexpected audio perk (hint: it begins with W and rhymes with 'tires')",
+      "url": "https://www.techradar.com/audio/earbuds-airpods/boses-latest-anc-earbuds-come-with-something-you-probably-wouldnt-expect-it-begins-with-w-and-rhymes-with-tires",
+      "publishedAt": "2026-09-29T08:26:49.000Z",
+      "author": "Carrie Marshall",
+      "description": "Feel the wind beneath your wires",
+      "image": "https://cdn.mos.cms.futurecdn.net/e97ffVZedmQ4CorkdLr6Mb-2048-80.png",
+      "category": "耳機",
+      "articleType": "新聞"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "Lossless Bluetooth may finally reach your iPhone or Pixel, and Qualcomm is okay with that",
+      "url": "https://www.soundguys.com/qualcomm-snapdragon-sound-elite-gen-2-interview-163728/",
+      "publishedAt": "2026-09-29T08:00:05.000Z",
+      "author": "Adam Birney",
+      "description": "Qualcomm's Andrew Laister on lossless Bluetooth, Wi-Fi earbuds, and why the codec is no longer holding wireless audio back.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/09/1000053167-scaled.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "Tom's Guide",
+      "title": "Are the Beats 360 headphones actually good for running? I ran 10 miles in them to find out",
+      "url": "https://www.tomsguide.com/audio/over-ear-headphones/are-the-beats-360-headphones-actually-good-for-running-i-ran-10-miles-in-them-to-find-out",
+      "publishedAt": "2026-09-29T07:30:00.000Z",
+      "author": "Nick Harris-Fry",
+      "description": "Beats new over-ear headphones impressed me on my Sunday long run",
+      "image": "https://cdn.mos.cms.futurecdn.net/ERdDGMHykbYSyQf8TAA7jc-2560-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
     {
       "source": "TechRadar",
       "title": "Nothing's priciest headphones ever land — and our full review verdict is in",
@@ -158,17 +444,6 @@
       "articleType": "其他"
     },
     {
-      "source": "Engadget",
-      "title": "Bose's throwback to wired earbuds add much-needed ANC - Engadget",
-      "url": "https://www.engadget.com/2270779/boses-throwback-to-wired-earbuds-add-much-needed-anc/",
-      "publishedAt": "2026-09-28T15:39:12.000Z",
-      "author": "Jackson Chen",
-      "description": "Everything old is new again.",
-      "image": "https://www.engadget.com/img/gallery/boses-throwback-to-wired-earbuds-add-much-needed-anc/l-intro-1790609881.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
       "source": "What Hi-Fi?",
       "title": "Exploring the full Mini LED spectrum",
       "url": "https://www.whathifi.com/tv-home-cinema/televisions/exploring-the-full-mini-led-spectrum",
@@ -177,17 +452,6 @@
       "description": "TCL’s Screen Universe technology is out of this world…",
       "image": "https://cdn.mos.cms.futurecdn.net/CN8EFKU7F8XKGGqCEdXe5Q-2560-80.jpg",
       "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "Engadget",
-      "title": "Affordable alternatives to Apple's AirPods Pro - Engadget",
-      "url": "https://www.engadget.com/2269338/affordable-alternatives-to-apples-airpods-pro/",
-      "publishedAt": "2026-09-28T15:30:00.000Z",
-      "author": "Billy Steele",
-      "description": "You won’t find the exact same AirPods Pro features elsewhere, but you will find persuasive savings.",
-      "image": "https://www.engadget.com/img/gallery/affordable-alternatives-to-apples-airpods-pro/l-intro-1790364563.jpg",
-      "category": "耳機",
       "articleType": "其他"
     },
     {
@@ -298,17 +562,6 @@
       "description": "Poor quality bass can ruin a good set of headphones, but there may be steps you can take to correct the bass issue with your headphones.",
       "image": "https://www.bgr.com/img/gallery/5-reasons-why-your-headphones-bass-sounds-worse-than-it-actually-is/l-intro-1789754976.jpg",
       "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "Engadget",
-      "title": "The US government plans to use AI to help redact documents - Engadget",
-      "url": "https://www.engadget.com/2270348/the-us-government-plans-to-use-ai-to-help-redact-documents/",
-      "publishedAt": "2026-09-28T11:25:54.000Z",
-      "author": "Steve Dent",
-      "description": "AI use for FOIA requests might result in even more information being withheld.",
-      "image": "https://www.engadget.com/img/gallery/the-us-government-plans-to-use-ai-to-help-redact-documents/l-intro-1790594639.jpg",
-      "category": "DAC／擴大機",
       "articleType": "其他"
     },
     {
@@ -433,17 +686,6 @@
       "articleType": "其他"
     },
     {
-      "source": "The Verge",
-      "title": "Engram is a sampler that turns broken AI hallucinations into music",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
-      "publishedAt": "2026-09-27T20:46:36.000Z",
-      "author": "Terrence O'Brien",
-      "description": "Thoughtful Things says Engram is a ‘field recorder for latent space’ and circuit-bending tiny AI models.",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-27-at-4.42.53-PM.png?quality=90&strip=all&crop=3.0945578231293%2C0%2C93.810884353741%2C100&w=1200",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
       "source": "BGR",
       "title": "You're Wasting The Potential Of PlayStation 5 Headphones Without Trying This Feature - BGR",
       "url": "https://www.bgr.com/2265758/playstation-5-3d-audio-profile-headphones/",
@@ -495,17 +737,6 @@
       "author": "Gaurav Shukla",
       "description": "The individual plan of Apple Music will set you back $12 a month, while the family plan, that can be split amongst five more family members, will cost you $20.",
       "image": "https://www.bgr.com/img/gallery/how-much-is-apple-music-in-2026/l-intro-1790082293.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "The Verge",
-      "title": "Googlebooks might be the real deal",
-      "url": "https://www.theverge.com/tech/1000424/googlebooks-meta-ray-ban-audio-control-resonant-microsoft-surface-mouse",
-      "publishedAt": "2026-09-27T12:00:00.000Z",
-      "author": "Jay Peters",
-      "description": "In this week’s Installer: Googlebooks, new Meta glasses, Remedy’s Control sequel, and more.",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/installer_2eede2.jpg?quality=90&strip=all&crop=0%2C3.4168590960013%2C100%2C93.166281807997&w=1200",
       "category": "其他音訊",
       "articleType": "其他"
     },
@@ -571,7 +802,7 @@
       "publishedAt": "2026-09-26T16:46:24.000Z",
       "author": "Lewis Empson",
       "description": "But will I actually buy one this year?",
-      "image": "https://cdn.mos.cms.futurecdn.net/YoFsPW9oS9UxyQBVB5yEMS-2560-80.jpg",
+      "image": "https://cdn.mos.cms.futurecdn.net/sLuVBkoTB252mNx2JdBxYf-1920-80.jpg",
       "category": "其他音訊",
       "articleType": "其他"
     },
@@ -1127,17 +1358,6 @@
     },
     {
       "source": "TechRadar",
-      "title": "Spotify’s Taste Profile must’ve been a victory, because it’s finally coming to the US in beta — here are 3 tips that could give your feed the spring cleaning it needs",
-      "url": "https://www.techradar.com/audio/spotify/spotify-is-bringing-its-algorithm-amending-taste-profile-tool-to-listeners-in-the-us-and-it-could-be-your-one-way-ticket-to-wiping-your-most-hated-genres-from-your-feed",
-      "publishedAt": "2026-09-23T13:00:00.000Z",
-      "author": "Rowan Davies",
-      "description": "Listeners in the US can now feed what they want to hear directly to the new Taste Profile tab.",
-      "image": "https://cdn.mos.cms.futurecdn.net/n9V4AXdU7YKsDUcVjZNHMM-2000-80.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "TechRadar",
       "title": "Beats 360 are one of the most comfortable, best-sounding headphones I've ever worn and made Supergirl more watchable than it should be",
       "url": "https://www.techradar.com/audio/wireless-headphones/beats-360-are-one-of-the-most-comfortable-best-sounding-headphones-ive-ever-worn-and-made-supergirl-more-watchable-than-it-should-be",
       "publishedAt": "2026-09-23T13:00:00.000Z",
@@ -1145,6 +1365,17 @@
       "description": "I've been test-driving Beats 360, and I love the fit, the sound, and how it made one movie more enjoyable than it might've been otherwise.",
       "image": "https://cdn.mos.cms.futurecdn.net/QYmmsgicHbd9WuKeW6eVVH-1920-80.jpg",
       "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "TechRadar",
+      "title": "Spotify’s Taste Profile must’ve been a victory, because it’s finally coming to the US in beta — here are 3 tips that could give your feed the spring cleaning it needs",
+      "url": "https://www.techradar.com/audio/spotify/spotify-is-bringing-its-algorithm-amending-taste-profile-tool-to-listeners-in-the-us-and-it-could-be-your-one-way-ticket-to-wiping-your-most-hated-genres-from-your-feed",
+      "publishedAt": "2026-09-23T13:00:00.000Z",
+      "author": "Rowan Davies",
+      "description": "Listeners in the US can now feed what they want to hear directly to the new Taste Profile tab.",
+      "image": "https://cdn.mos.cms.futurecdn.net/n9V4AXdU7YKsDUcVjZNHMM-2000-80.jpg",
+      "category": "其他音訊",
       "articleType": "其他"
     },
     {
@@ -5776,61 +6007,6 @@
       "description": "The PT1 makes Hisense’s popular UST projector proposition even cheaper, but there is a performance cost to pay.",
       "image": "https://cdn.mos.cms.futurecdn.net/5kYLs6f9VTLganXVjZWA3c-1920-80.jpg",
       "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "TechRadar",
-      "title": "KEF's LS Luxe active wireless stereo speakers aren't quite perfect, but they get far closer than most rivals",
-      "url": "https://www.techradar.com/audio/speakers/kefs-ls-luxe-review",
-      "publishedAt": "2026-08-30T19:00:00.000Z",
-      "author": "",
-      "description": "In which KEF moves its established wireless stereo speaker system excellence further upmarket…",
-      "image": "https://cdn.mos.cms.futurecdn.net/HG3zn7mSCCc7XyQbDc5Uf5-2560-80.jpg",
-      "category": "喇叭",
-      "articleType": "評測"
-    },
-    {
-      "source": "TechRadar",
-      "title": "Are cheap open earbuds really worth buying? I tested 3 options from Anker Soundcore, Belkin and Tozo for daily wear and exercise — one of them really impressed me",
-      "url": "https://www.techradar.com/audio/earbuds-airpods/i-tested-3-of-the-best-selling-cheap-open-earbuds-on-amazon-from-belkin-anker-and-tozo-and-theres-a-clear-winner-for-me",
-      "publishedAt": "2026-08-30T12:00:00.000Z",
-      "author": "Becca Caddy",
-      "description": "Open earbuds are tricky to get right, so are Amazon's super bargain buds really worth your time?",
-      "image": "https://cdn.mos.cms.futurecdn.net/fpWCwMY7qXkjUvskiAEz7U-2560-80.jpg",
-      "category": "耳機",
-      "articleType": "評測"
-    },
-    {
-      "source": "Tom's Guide",
-      "title": "The Beyerdynamic DT 30 IE are some of the most comfortable in-ear monitors I’ve tested — but they aren’t for everyone",
-      "url": "https://www.tomsguide.com/audio/earbuds/beyerdynamic-dt-30-ie-iems-review",
-      "publishedAt": "2026-08-30T10:45:00.000Z",
-      "author": "",
-      "description": "The Beyerdynamic DT 30 IE are comfortable in-ear monitors that boast excellent bass and instrument separation. However, the treble and mids sound flat.",
-      "image": "https://cdn.mos.cms.futurecdn.net/JD4PGqyzUmvPCAYezSrjYj-2000-80.jpg",
-      "category": "耳機",
-      "articleType": "評測"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "How to watch US Open 2026 online from anywhere: free live streams for every match, Day 15 (Sunday) Men's final",
-      "url": "https://www.whathifi.com/streaming-entertainment/how-to-watch/how-to-watch-us-open-2026-online-from-anywhere-free-live-streams-for-every-match",
-      "publishedAt": "2026-08-30T08:00:00.000Z",
-      "author": "Adam Marshall",
-      "description": "There'll be a new men's champion at Flushing Meadows after Elena Rybakina won her first US Open on the women's side",
-      "image": "https://cdn.mos.cms.futurecdn.net/9EFAyDB8Ym8zVVy8rmNmwe-1920-80.jpg",
-      "category": "串流播放器",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "Where to watch The Traitors Ireland season 2 online – stream return of dastardly gameshow",
-      "url": "https://www.whathifi.com/streaming-entertainment/how-to-watch/where-to-watch-traitors-season-2",
-      "publishedAt": "2026-08-30T07:00:00.000Z",
-      "author": "What Hi-Fi?",
-      "description": "Siobhán McSweeney welcomes a fresh group of Traitors and Faithfuls",
-      "image": "https://cdn.mos.cms.futurecdn.net/6bTbwQdytX7wteegAJyJr6-1920-80.jpg",
-      "category": "串流播放器",
       "articleType": "其他"
     }
   ]
