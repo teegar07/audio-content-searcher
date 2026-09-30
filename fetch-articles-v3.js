@@ -62,6 +62,55 @@ const sources = [
     soundguys: true
   },
   {
+    name: 'BGR',
+    base: 'https://www.bgr.com/',
+    hosts: ['www.bgr.com'],
+    listingUrls: [
+      'https://www.bgr.com/audio/',
+      'https://www.bgr.com/category/audio/'
+    ],
+    feedUrls: [],
+    sitemapUrls: [],
+    future: true
+  },
+  {
+    name: 'Notebookcheck',
+    base: 'https://www.notebookcheck.net/',
+    hosts: ['www.notebookcheck.net'],
+    listingUrls: [
+      'https://www.notebookcheck.net/News.152.0.html',
+      'https://www.notebookcheck.net/Reviews.55.0.html',
+      'https://www.notebookcheck.net/Topics.92152.0.html?tag=102'
+    ],
+    feedUrls: [],
+    sitemapUrls: [],
+    future: true
+  },
+  {
+    name: 'The Verge',
+    base: 'https://www.theverge.com/',
+    hosts: ['www.theverge.com'],
+    listingUrls: [
+      'https://www.theverge.com/tech'
+    ],
+    feedUrls: [],
+    sitemapUrls: [],
+    future: true
+  },
+  {
+    name: 'Engadget',
+    base: 'https://www.engadget.com/',
+    hosts: ['www.engadget.com'],
+    listingUrls: [
+      'https://www.engadget.com/audio/',
+      'https://www.engadget.com/audio/headphones/',
+      'https://www.engadget.com/audio/speakers/'
+    ],
+    feedUrls: [],
+    sitemapUrls: [],
+    future: true
+  },
+  {
     name: "Tom's Guide",
     base: 'https://www.tomsguide.com/',
     hosts: ['www.tomsguide.com'],
