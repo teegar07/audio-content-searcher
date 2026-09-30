@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T21:52:38.110Z",
+  "generatedAt": "2026-09-30T22:45:39.336Z",
   "days": 30,
   "count": 546,
   "articles": [
@@ -1831,17 +1831,6 @@
     },
     {
       "source": "What Hi-Fi?",
-      "title": "The Sonos Beam Ultra is finally here – these are three things we liked and two we would change",
-      "url": "https://www.whathifi.com/tv-home-cinema/soundbars/the-sonos-beam-ultra-is-finally-here-these-are-three-things-we-liked-and-two-we-would-change",
-      "publishedAt": "2026-09-22T13:00:00.000Z",
-      "author": "Robyn Quick",
-      "description": "A sublime sonic treat",
-      "image": "https://cdn.mos.cms.futurecdn.net/2pg7Fc282S4zMMTR3VcsEP-1920-80.jpg",
-      "category": "Soundbar",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
       "title": "I tested Sonos’s new Dolby Atmos soundbar – and I was not disappointed",
       "url": "https://www.whathifi.com/tv-home-cinema/soundbars/sonos-beam-ultra-soundbar",
       "publishedAt": "2026-09-22T13:00:00.000Z",
@@ -1850,6 +1839,17 @@
       "image": "https://cdn.mos.cms.futurecdn.net/Lkn98NEJJXC4yXNXdQLhzP-1920-80.jpg",
       "category": "Soundbar",
       "articleType": "評測"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "The Sonos Beam Ultra is finally here – these are three things we liked and two we would change",
+      "url": "https://www.whathifi.com/tv-home-cinema/soundbars/the-sonos-beam-ultra-is-finally-here-these-are-three-things-we-liked-and-two-we-would-change",
+      "publishedAt": "2026-09-22T13:00:00.000Z",
+      "author": "Robyn Quick",
+      "description": "A sublime sonic treat",
+      "image": "https://cdn.mos.cms.futurecdn.net/2pg7Fc282S4zMMTR3VcsEP-1920-80.jpg",
+      "category": "Soundbar",
+      "articleType": "其他"
     },
     {
       "source": "What Hi-Fi?",
