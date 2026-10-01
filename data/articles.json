@@ -1,8 +1,19 @@
 {
-  "generatedAt": "2026-09-30T23:18:17.335Z",
+  "generatedAt": "2026-10-01T00:26:18.085Z",
   "days": 30,
-  "count": 546,
+  "count": 547,
   "articles": [
+    {
+      "source": "TechRadar",
+      "title": "I'm an audio reviewer and these are the best expert-approved headphone deals to shop in the Amazon Prime Big Deal Days sale",
+      "url": "https://www.techradar.com/audio/headphones/im-an-audio-reviewer-and-these-are-the-best-expert-approved-headphone-deals-to-shop-in-the-amazon-prime-big-deal-days-sale",
+      "publishedAt": "2026-10-01T00:00:00.000Z",
+      "author": "Max Langridge",
+      "description": "With regularly updated discounts on Sony, Bose, Apple and more, there's something for everyone",
+      "image": "https://cdn.mos.cms.futurecdn.net/iQbbBFzUUesN6Gbxta2Tve-1920-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
     {
       "source": "Tom's Guide",
       "title": "Best Buy has JBL speakers on sale from $39: here are my top picks",
