@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-01T23:01:44.524Z",
+  "generatedAt": "2026-10-01T23:34:22.762Z",
   "days": 30,
-  "count": 535,
+  "count": 534,
   "articles": [
     {
       "source": "Engadget",
@@ -5875,17 +5875,6 @@
       "description": "Using your AirPods with a PlayStation 5 console takes an extra step, and the resulting wireless connection may involve tradeoffs.",
       "image": "https://www.bgr.com/img/gallery/you-can-pair-your-airpods-to-a-playstation-5-but-theres-a-catch/l-intro-1787949693.jpg",
       "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "Turntable brand Lenco’s new kettlebell-shaped Bluetooth speaker fires out sound in every direction",
-      "url": "https://www.whathifi.com/speakers/wireless-speakers/turntable-brand-lencos-new-kettlebell-shaped-bluetooth-speaker-fires-out-sound-in-every-direction",
-      "publishedAt": "2026-09-01T23:01:00.000Z",
-      "author": "Joe Svetlik",
-      "description": "And it plays music other than swing",
-      "image": "https://cdn.mos.cms.futurecdn.net/LFt7vgDSxmWqhVuuunEVfk-1746-80.jpg",
-      "category": "喇叭",
       "articleType": "其他"
     }
   ]
