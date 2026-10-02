@@ -1,8 +1,206 @@
 {
-  "generatedAt": "2026-10-02T02:07:10.506Z",
+  "generatedAt": "2026-10-02T21:50:50.441Z",
   "days": 30,
-  "count": 535,
+  "count": 536,
   "articles": [
+    {
+      "source": "What Hi-Fi?",
+      "title": "The best deals on punchy subwoofers, five-star soundbar systems and rock-bottom Amazon smart speakers, handpicked by our experts",
+      "url": "https://www.whathifi.com/av/the-best-deals-on-punchy-subwoofers-five-star-soundbar-systems-and-rock-bottom-amazon-smart-speakers-handpicked-by-our-experts",
+      "publishedAt": "2026-10-02T17:29:16.000Z",
+      "author": "Daniel Furn",
+      "description": "The early Prime Day deals are out in force",
+      "image": "https://cdn.mos.cms.futurecdn.net/2VN9BNsqEUT25EjiPHXiWi-1920-80.jpg",
+      "category": "Soundbar",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "The Beatles' Rubber Soul gets a deluxe makeover with new Dolby Atmos mixes and unheard songs",
+      "url": "https://www.whathifi.com/hi-fi/vinyl/the-beatles-rubber-soul-gets-a-deluxe-makeover-with-new-dolby-atmos-mixes-and-unheard-songs",
+      "publishedAt": "2026-10-02T16:40:41.000Z",
+      "author": "Ioan Hazell",
+      "description": "This bumper collection should sate even the most fanatic Beatlemaniac",
+      "image": "https://cdn.mos.cms.futurecdn.net/LfhqxHu3wZDPpApG4fM6DK-1863-80.jpg",
+      "category": "黑膠／唱盤",
+      "articleType": "其他"
+    },
+    {
+      "source": "Engadget",
+      "title": "Affordable alternatives to Apple's AirPods Max - Engadget",
+      "url": "https://www.engadget.com/2275580/affordable-alternatives-to-apples-airpods-max/",
+      "publishedAt": "2026-10-02T15:30:00.000Z",
+      "author": "Billy Steele",
+      "description": "If you can live without deep iOS integration and the polished design of the AirPods Max, you could save hundreds.",
+      "image": "https://www.engadget.com/img/gallery/affordable-alternatives-to-apples-airpods-max/l-intro-1790946764.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Sky’s OS is getting a big facelift – and I got a sneak peek at what’s to come",
+      "url": "https://www.whathifi.com/streaming-entertainment/skys-os-is-getting-a-big-facelift-and-i-got-a-sneak-peek-at-whats-to-come",
+      "publishedAt": "2026-10-02T15:27:27.000Z",
+      "author": "Robyn Quick",
+      "description": "Redesigned navigation and a smarter voice assistant",
+      "image": "https://cdn.mos.cms.futurecdn.net/AcQpRdqbZFCJLposrMN5UQ-2560-80.jpg",
+      "category": "串流播放器",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "A trio of five-star turntables from Pro-Ject, Rega and Technics are put to the test in our listening rooms – but which one is the best at the price?",
+      "url": "https://www.whathifi.com/hi-fi/turntables/a-trio-of-five-star-turntables-from-pro-ject-rega-and-technics-are-put-to-the-test-in-our-listening-rooms-but-which-one-is-the-best-at-the-price",
+      "publishedAt": "2026-10-02T14:07:18.000Z",
+      "author": "Ketan Bharadia, Kashfia Kabir",
+      "description": "We pit three excellent, similarly-priced decks from top turntable brands against each other",
+      "image": "https://cdn.mos.cms.futurecdn.net/nsiDVCKKs2ssiQ4dfaXHH6-1920-80.jpg",
+      "category": "黑膠／唱盤",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "I just tested this Arc Ultra rival, and there’s one soundbar that stands victorious",
+      "url": "https://www.whathifi.com/tv-home-cinema/soundbars/samsung-hw-qs90h-soundbar",
+      "publishedAt": "2026-10-02T13:55:09.000Z",
+      "author": "",
+      "description": "Can Samsung’s QS90H take down the Award-winner?",
+      "image": "https://cdn.mos.cms.futurecdn.net/JtiPfH7Sy3uEZ8hy4VuwnY-1920-80.jpg",
+      "category": "Soundbar",
+      "articleType": "評測"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "Bose SoundLink Max speaker gets a $120 Amazon discount, now $279",
+      "url": "https://www.soundguys.com/bose-soundlink-max-speaker-deal-164011/",
+      "publishedAt": "2026-10-02T13:26:55.000Z",
+      "author": "Matt Horne",
+      "description": "This 30% off Bose SoundLink Max deal drops the premium Bluetooth speaker to a standout price for big sound and outdoor use.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2024/12/Bose-SoundLink-Max_12-scaled.jpeg",
+      "category": "喇叭",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Samsung launches two new tablets, with super-sized OLED displays and spatial audio support – but can they challenge the iPad Pro?",
+      "url": "https://www.whathifi.com/smartphones-tablets/tablets/samsung-launches-two-new-tablets-with-super-sized-oled-displays-and-spatial-audio-support-but-can-they-challenge-the-ipad-pro",
+      "publishedAt": "2026-10-02T13:22:09.000Z",
+      "author": "Lewis Empson",
+      "description": "Could these be the ultimate tablets for movies?",
+      "image": "https://cdn.mos.cms.futurecdn.net/7CSEqBLdrbstiNhMeYafW3-2560-80.jpg",
+      "category": "其他音訊",
+      "articleType": "新聞"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Hurry! One of our favourite projectors of the year is £930 off in an early Prime Day discount – but there's limited stock",
+      "url": "https://www.whathifi.com/tv-home-cinema/projectors/hurry-one-of-our-favourite-projectors-of-the-year-is-gbp930-off-in-an-early-prime-day-discount-but-theres-limited-stock",
+      "publishedAt": "2026-10-02T13:09:51.000Z",
+      "author": "Daniel Furn",
+      "description": "A top UST projector at a new low price",
+      "image": "https://cdn.mos.cms.futurecdn.net/FUK5XvgMXH6GedPz2vkLTF-1920-80.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "These 9 expert-approved Prime Day deals on hi-fi and home cinema are live right now",
+      "url": "https://www.whathifi.com/av/the-best-early-prime-big-deal-days-discounts-on-five-star-amazon-devices-4k-projectors-and-award-winning-earbuds",
+      "publishedAt": "2026-10-02T10:43:24.000Z",
+      "author": "Daniel Furn",
+      "description": "Big Deal Day or not, there are already plenty of discounts",
+      "image": "https://cdn.mos.cms.futurecdn.net/ra9PG2xDtUD5d6mSRs58ne-1920-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "The truth about fake vinyl records according to the people trying to stamp it out",
+      "url": "https://www.whathifi.com/hi-fi/vinyl/counterfeit-vinyl-is-a-massive-problem-for-us-all-for-this-very-simple-reason",
+      "publishedAt": "2026-10-02T10:25:50.000Z",
+      "author": "Joe Svetlik",
+      "description": "Following a record bust",
+      "image": "https://cdn.mos.cms.futurecdn.net/eAMySsEsTKuP58PoC9tbvk-2560-80.jpg",
+      "category": "黑膠／唱盤",
+      "articleType": "其他"
+    },
+    {
+      "source": "The Verge",
+      "title": "AI music maker Suno now generates spoken words",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
+      "publishedAt": "2026-10-02T09:42:19.000Z",
+      "author": "Jess Weatherbed",
+      "description": "Suno is coming for ElevenLabs’ gig.",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Suno-AI-voices.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Sound Advice: your hi-fi and home cinema questions answered, live",
+      "url": "https://www.whathifi.com/tv-home-cinema/sound-advice-your-hi-fi-and-home-cinema-questions-answered-live",
+      "publishedAt": "2026-10-02T09:12:42.000Z",
+      "author": "Tom Parsons, Kashfia Kabir, Ketan Bharadia",
+      "description": "Letters from the postbag, plus a live Q&A",
+      "image": "https://cdn.mos.cms.futurecdn.net/PoToA7opRJwpBtshJ8eRiQ-1920-80.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "Tom's Guide",
+      "title": "Amazon's slashed prices on tons of Bluetooth speakers, but these best-sellers are the ones actually worth buying",
+      "url": "https://www.tomsguide.com/audio/bluetooth-speakers/amazons-slashed-prices-on-tons-of-bluetooth-speakers-but-these-best-sellers-are-the-ones-actually-worth-buying",
+      "publishedAt": "2026-10-02T07:22:01.000Z",
+      "author": "Stephen Lambrechts",
+      "description": "Aussies can't enough of these speakers, discounted just in time for summer",
+      "image": "https://cdn.mos.cms.futurecdn.net/vDaeXDLug37WtNqRvaC2K3-1920-80.jpg",
+      "category": "喇叭",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "The five-star return of a portable hi-fi classic, Sonos strikes Dolby Atmos gold, fresh turntable treats from Technics and Pro-Ject, and more",
+      "url": "https://www.whathifi.com/av/the-five-star-return-of-portable-hi-fi-classic-sonos-strikes-dolby-atmos-gold-fresh-turntable-treats-from-technics-and-pro-ject-and-more",
+      "publishedAt": "2026-10-02T07:00:00.000Z",
+      "author": "Alastair Stevenson",
+      "description": "Eight products impressed our reviewers enough to earn five-star ratings last month – here’s what you need to know about them",
+      "image": "https://cdn.mos.cms.futurecdn.net/Wgbg6Avjw6w2skdDPDBnGo-1920-80.jpg",
+      "category": "黑膠／唱盤",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "I’ve spent a fortnight with the Sony WH-CH730N, and I can’t think of a better pair of noise-cancelling headphones at this affordable price",
+      "url": "https://www.whathifi.com/headphones/sony-wh-ch730n",
+      "publishedAt": "2026-10-02T07:00:00.000Z",
+      "author": "",
+      "description": "The best budget noise-cancelling headphones by far",
+      "image": "https://cdn.mos.cms.futurecdn.net/srezh9Pp52u6z2frMA99dC-1920-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "TechRadar",
+      "title": "I love an outdoor party in Australia as much as the next person — these 7 Prime Day Bluetooth speaker deals will make you the life of yours",
+      "url": "https://www.techradar.com/audio/wireless-bluetooth-speakers/i-love-an-outdoor-party-in-australia-as-much-as-the-next-person-these-7-prime-day-bluetooth-speaker-deals-will-make-you-the-life-of-yours",
+      "publishedAt": "2026-10-02T04:23:30.000Z",
+      "author": "Max Langridge",
+      "description": "Shop JBL, Bose, Tribit and more with these attractive discounts",
+      "image": "https://cdn.mos.cms.futurecdn.net/HFVszuiXW6VNQb6VoJCeEJ-2193-80.jpg",
+      "category": "喇叭",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Looking to build a vinyl collection? Amazon has discounted plenty for Prime Day",
+      "url": "https://www.whathifi.com/hi-fi/turntables/looking-to-build-a-vinyl-collection-amazon-has-discounted-plenty-for-prime-day",
+      "publishedAt": "2026-10-02T03:34:08.000Z",
+      "author": "Max Langridge",
+      "description": "It's time to start spinning around",
+      "image": "https://cdn.mos.cms.futurecdn.net/NUeKXdT35GYNXjsaMKoLFJ-2560-80.jpg",
+      "category": "黑膠／唱盤",
+      "articleType": "其他"
+    },
     {
       "source": "BGR",
       "title": "Apple Music Subscribers Reveal The Key Features They Want Next - BGR",
@@ -26,15 +224,15 @@
       "articleType": "其他"
     },
     {
-      "source": "Engadget",
-      "title": "Samsung launches its first clip-on earbuds in South Korea - Engadget",
-      "url": "https://www.engadget.com/2275187/samsung-launches-its-first-clip-on-earbuds-in-south-korea/",
-      "publishedAt": "2026-10-01T20:57:39.000Z",
-      "author": "Will Shanklin",
-      "description": "A global rollout will follow, although we don’t yet know the details.",
-      "image": "https://www.engadget.com/img/gallery/samsung-launches-its-first-clip-on-earbuds-in-south-korea/l-intro-1790888120.jpg",
-      "category": "耳機",
-      "articleType": "新聞"
+      "source": "TechRadar",
+      "title": "‘The audio equivalent of a highbrow hardback book on a coffee table’ — the Focal Mu-so Hekla wowed me with gorgeous industrial design and powerful immersive Dolby Atmos sound… just don’t call it ‘a soundbar’",
+      "url": "https://www.techradar.com/televisions/soundbars/one-of-the-most-successful-one-box-spatial-audio-solutions-around-the-immersive-dolby-atmos-sound-the-focal-mu-so-hekla-drenched-me-in-was-astounding-although-its-price-is-similarly-staggering",
+      "publishedAt": "2026-10-01T23:00:00.000Z",
+      "author": "",
+      "description": "Our review of the Focal Mu-so Hekla asks, among other things: when is a soundbar not a soundbar? And when is a Naim Mu-so speaker not a Naim Mu-so speaker?",
+      "image": "https://cdn.mos.cms.futurecdn.net/sqgPvAtJVLcLoDfzHKMFkU-2560-80.jpg",
+      "category": "Soundbar",
+      "articleType": "評測"
     },
     {
       "source": "What Hi-Fi?",
@@ -45,17 +243,6 @@
       "description": "How to watch Bahrain Grand Prix 2026 live streams around the world. Free coverage, schedule, preview, 4K Ultra HD options for the F1 race weekend in Malaysia.",
       "image": "https://cdn.mos.cms.futurecdn.net/NvdwYWfpcCg4jFbWdH2n5K-1920-80.jpg",
       "category": "串流播放器",
-      "articleType": "其他"
-    },
-    {
-      "source": "Engadget",
-      "title": "The Steam Autumn Sale has deals on Resident Evil Requiem and 007 First Light - Engadget",
-      "url": "https://www.engadget.com/2274933/the-steam-autumn-sale-has-deals-on-resident-evil-requiem-and-007-first-light/",
-      "publishedAt": "2026-10-01T18:37:56.000Z",
-      "author": "Anna Washenko",
-      "description": "Bye-bye, money.",
-      "image": "https://www.engadget.com/img/gallery/the-steam-autumn-sale-has-deals-on-resident-evil-requiem-and-007-first-light/l-intro-1790879663.jpg",
-      "category": "耳機",
       "articleType": "其他"
     },
     {
@@ -365,17 +552,6 @@
       "image": "https://cdn.mos.cms.futurecdn.net/FhkwdSdHD8nTBw8U5o3AiZ-1920-80.jpg",
       "category": "喇叭",
       "articleType": "評測"
-    },
-    {
-      "source": "Engadget",
-      "title": "Shure's MV6 Gen 2 microphone gives creators more control over their audio - Engadget",
-      "url": "https://www.engadget.com/2268112/shures-mv6-gen-2-microphone-gives-creators-more-control-over-their-audio/",
-      "publishedAt": "2026-09-30T13:00:00.000Z",
-      "author": "Ian Carlos Campbell",
-      "description": "The USB microphone comes in a new color, has updated audio controls and can even work with an iPhone or iPad.",
-      "image": "https://www.engadget.com/img/gallery/shures-mv6-gen-2-microphone-gives-creators-more-control-over-their-audio/l-intro-1790275354.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
     },
     {
       "source": "SoundGuys",
@@ -5722,171 +5898,6 @@
       "image": "https://cdn.mos.cms.futurecdn.net/ifBZ8HpKNR4G6D6YZ4aVCj-2000-80.jpg",
       "category": "喇叭",
       "articleType": "新聞"
-    },
-    {
-      "source": "TechRadar",
-      "title": "Sonos celebrates its new audio tech with up to 20% off speakers, headphones, and soundbars — here are the 4 best deals",
-      "url": "https://www.techradar.com/televisions/soundbars/skip-the-new-sonos-hardware-these-excellent-older-soundbars-and-headphones-are-now-up-to-20-percent-off",
-      "publishedAt": "2026-09-02T21:05:00.000Z",
-      "author": "James Pickard",
-      "description": "Sonos has cut the price of several of its best soundbars, headphones, and speakers by up to $100, so these are the 4 top deals I'd buy if you want to save money and skip the newly announced tech.",
-      "image": "https://cdn.mos.cms.futurecdn.net/fxG93wfvV8upiTJhLRq3Y5-1376-80.png",
-      "category": "耳機",
-      "articleType": "新聞"
-    },
-    {
-      "source": "Tom's Guide",
-      "title": "15 iconic electronic music albums that belong on your turntable",
-      "url": "https://www.tomsguide.com/audio/15-iconic-electronic-music-albums-that-belong-on-your-turntable",
-      "publishedAt": "2026-09-02T18:00:00.000Z",
-      "author": "Will Salmon",
-      "description": "Forward-thinking classics that are must-buys for your record collection",
-      "image": "https://cdn.mos.cms.futurecdn.net/AE75Ae8UG2hJWqMnQAKUsA-1920-80.jpg",
-      "category": "黑膠／唱盤",
-      "articleType": "其他"
-    },
-    {
-      "source": "TechRadar",
-      "title": "Sony's 5-star WH-1000XM5 wireless headphones are now 50% off in the Labor Day sales! Run!",
-      "url": "https://www.techradar.com/seasonal-sales/you-can-stop-searching-because-ive-found-the-best-headphones-in-the-labor-day-sales-sonys-5-star-cans-now-half-price",
-      "publishedAt": "2026-09-02T17:00:00.000Z",
-      "author": "Tom Bedford",
-      "description": "$200 off means they're half-price! This Sony WH-1000XM5 deal wins Labor Day, hands down",
-      "image": "https://cdn.mos.cms.futurecdn.net/fY7W2u2LtmsjdsAJgptT63-1920-80.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "SoundGuys",
-      "title": "Nothing Headphone (1) gets a big Amazon price cut to $219",
-      "url": "https://www.soundguys.com/nothing-headphone-1-deal-162343/",
-      "publishedAt": "2026-09-02T16:17:25.000Z",
-      "author": "Matt Horne",
-      "description": "Amazon cuts 27% off the Nothing Headphone (1), bringing these transparent ANC headphones much closer to Prime Day pricing.",
-      "image": "https://www.soundguys.com/wp-content/uploads/2025/06/Nothing-Headphone-1-exterior.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "TechRadar",
-      "title": "TCL's new Dolby Atmos soundbars are a stone-cold bargain — get 5.1-channel surround with wireless rear speakers for under $250",
-      "url": "https://www.techradar.com/televisions/soundbars/tcls-new-dolby-atmos-soundbars-are-a-stone-cold-bargain-get-5-1-channel-surround-with-wireless-rear-speakers-for-under-usd250",
-      "publishedAt": "2026-09-02T15:28:35.000Z",
-      "author": "Carrie Marshall",
-      "description": "TCL's latest S-Class soundbars promise premium sound for a very low price",
-      "image": "https://cdn.mos.cms.futurecdn.net/eaw2jvoekpyXWwAoFHDTEg-2048-80.png",
-      "category": "Soundbar",
-      "articleType": "其他"
-    },
-    {
-      "source": "Tom's Guide",
-      "title": "Bose just slashed prices on some of its best headphones and speakers — save up to 45% right now",
-      "url": "https://www.tomsguide.com/audio/boses-labor-day-deals-include-usd160-off-one-of-our-favorite-headphones-save-up-to-45-percent-now",
-      "publishedAt": "2026-09-02T15:15:40.000Z",
-      "author": "Olivia Halevy",
-      "description": "Amazon is knocking up to 45% off Bose speakers and headphones. Check out my favorite picks from the sale.",
-      "image": "https://cdn.mos.cms.futurecdn.net/ufg7vA4cVQQ5qaK6d7SrrJ-2000-80.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "SoundGuys",
-      "title": "Sony WH-1000XM5 headphones return to their Prime Day low at just $198",
-      "url": "https://www.soundguys.com/sony-wh-1000xm5-headphones-deal-amazon-162333/",
-      "publishedAt": "2026-09-02T15:09:05.000Z",
-      "author": "Matt Horne",
-      "description": "Amazon cuts 29% off the Sony WH-1000XM5, bringing these premium noise-canceling headphones back to their all-time low.",
-      "image": "https://www.soundguys.com/wp-content/uploads/2022/05/Sony-WH-1000XM5-flat-earcups-down-scaled.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "SoundGuys",
-      "title": "JBL's new speakers literally let your music follow you around the house",
-      "url": "https://www.soundguys.com/jbl-cove-speakers-launch-162325/",
-      "publishedAt": "2026-09-02T13:51:55.000Z",
-      "author": "Shimul Sood",
-      "description": "JBL's new Cove speakers aim to simplify multi-room audio with app-optional controls, automatic tuning, and smart features.",
-      "image": "https://www.soundguys.com/wp-content/uploads/2026/09/A-person-using-the-JBL-Cove-speaker.jpg",
-      "category": "喇叭",
-      "articleType": "新聞"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "Huawei’s new wireless earbuds promise music fans audio that “feels like a live performance”",
-      "url": "https://www.whathifi.com/headphones/wired-earbuds/huaweis-new-wireless-earbuds-promise-music-fans-audio-that-feels-like-a-live-performance",
-      "publishedAt": "2026-09-02T13:30:00.000Z",
-      "author": "Ioan Hazell",
-      "description": "The FreeBuds Neo promise “flagship level” ANC, “crystal clear calls” and much improved audio",
-      "image": "https://cdn.mos.cms.futurecdn.net/cSVV4qpne6oqiT6GzdJywb-2000-80.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "Onkyo's new trio of wireless speakers features Bluetooth, HDMI and a phono stage",
-      "url": "https://www.whathifi.com/speakers/wireless-speakers/onkyos-new-trio-of-wireless-speakers-features-bluetooth-hdmi-and-a-phono-stage-available-in-three-different-sizes",
-      "publishedAt": "2026-09-02T13:00:00.000Z",
-      "author": "Harry McKerrell",
-      "description": "The GX-AiO series shares the same features across three models",
-      "image": "https://cdn.mos.cms.futurecdn.net/mZQVgUPgUWNsg7LnFn2BL9-1439-80.jpg",
-      "category": "喇叭",
-      "articleType": "其他"
-    },
-    {
-      "source": "BGR",
-      "title": "4 Big Changes Coming To Bluetooth By 2027 - BGR",
-      "url": "https://www.bgr.com/2249328/big-changes-coming-bluetooth/",
-      "publishedAt": "2026-09-02T11:18:27.000Z",
-      "author": "José Adorno",
-      "description": "In an interview with Damon Barnes at Bluetooth SIG, we talked about four big changes coming to Bluetooth by 2027, including higher data throughput, and IP Link.",
-      "image": "https://www.bgr.com/img/gallery/big-changes-coming-bluetooth/l-intro-1788423717.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "Double drop! Rotel expands its premium Michi portfolio with a new stereo amplifier and preamplifier",
-      "url": "https://www.whathifi.com/hi-fi/stereo-amplifiers/double-drop-rotel-expands-its-premium-michi-portfolio-with-a-new-stereo-amplifier-and-preamplifier",
-      "publishedAt": "2026-09-02T10:11:57.000Z",
-      "author": "Harry McKerrell",
-      "description": "Rotel's impressive Michi series returns",
-      "image": "https://cdn.mos.cms.futurecdn.net/fSp3vmqj6hzi9fiwnsGiWh-1026-80.jpg",
-      "category": "DAC／擴大機",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "\"The problem is that 4K discs are the best format\" – What Hi-Fi? readers explain why we're not in a golden age of home cinema",
-      "url": "https://www.whathifi.com/tv-home-cinema/the-what-hi-fi-readers-have-spoken-and-the-age-of-streaming-is-not-a-golden-one-for-home-cinema-all-hail-the-blu-ray",
-      "publishedAt": "2026-09-02T09:10:50.000Z",
-      "author": "Alastair Stevenson",
-      "description": "Forget 4K, \"when you shuffled into town to hire or buy a video\" was the real golden age of home cinema",
-      "image": "https://cdn.mos.cms.futurecdn.net/qMDhszoQV75RZuWGie5xnG-1920-80.jpg",
-      "category": "串流播放器",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "These modestly-sized standmount speakers are frighteningly expensive, but can sound truly spellbinding with the right system",
-      "url": "https://www.whathifi.com/speakers/hi-fi-speakers/marten-parker-duo-diamond-edition",
-      "publishedAt": "2026-09-02T08:59:42.000Z",
-      "author": "",
-      "description": "The Marten Parker Duo Diamond Edition standmount speaker is an ambitious design that aims high and succeeds.",
-      "image": "https://cdn.mos.cms.futurecdn.net/adFWiExTPuiNGgNbZSBiyh-1920-80.jpg",
-      "category": "喇叭",
-      "articleType": "其他"
-    },
-    {
-      "source": "BGR",
-      "title": "These 4 Premium Movie Theater Formats Use Spatial Audio - BGR",
-      "url": "https://www.bgr.com/2246714/premium-movie-theaters-use-spatial-audio-quality/",
-      "publishedAt": "2026-09-02T03:17:00.000Z",
-      "author": "Briley Kenney",
-      "description": "Premium movie theaters use several spatial audio formats, each with its own approach to overhead effects and three-dimensional sound.",
-      "image": "https://www.bgr.com/img/gallery/these-4-premium-movie-theater-formats-use-spatial-audio/l-intro-1787947422.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
     }
   ]
 }
