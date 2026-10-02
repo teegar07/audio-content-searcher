@@ -1,8 +1,19 @@
 {
-  "generatedAt": "2026-10-02T00:36:26.106Z",
+  "generatedAt": "2026-10-02T01:27:08.328Z",
   "days": 30,
   "count": 535,
   "articles": [
+    {
+      "source": "BGR",
+      "title": "Apple Music Subscribers Reveal The Key Features They Want Next - BGR",
+      "url": "https://www.bgr.com/2270329/apple-music-subscribers-reveal-key-features-they-want-next/",
+      "publishedAt": "2026-10-02T01:17:00.000Z",
+      "author": "José Adorno",
+      "description": "Disappointed by the lack of proper new features, both I and a whole community of subscribers still think Apple Music has improvements to make.",
+      "image": "https://www.bgr.com/img/gallery/apple-music-subscribers-reveal-the-key-features-they-want-next/l-intro-1790589494.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
     {
       "source": "BGR",
       "title": "Why Do Some Earbuds Sound Better When You Twist Them? - BGR",
@@ -1710,17 +1721,6 @@
     },
     {
       "source": "TechRadar",
-      "title": "Spotify’s Taste Profile must’ve been a victory, because it’s finally coming to the US in beta — here are 3 tips that could give your feed the spring cleaning it needs",
-      "url": "https://www.techradar.com/audio/spotify/spotify-is-bringing-its-algorithm-amending-taste-profile-tool-to-listeners-in-the-us-and-it-could-be-your-one-way-ticket-to-wiping-your-most-hated-genres-from-your-feed",
-      "publishedAt": "2026-09-23T13:00:00.000Z",
-      "author": "Rowan Davies",
-      "description": "Listeners in the US can now feed what they want to hear directly to the new Taste Profile tab.",
-      "image": "https://cdn.mos.cms.futurecdn.net/n9V4AXdU7YKsDUcVjZNHMM-2000-80.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "TechRadar",
       "title": "Beats 360 are one of the most comfortable, best-sounding headphones I've ever worn and made Supergirl more watchable than it should be",
       "url": "https://www.techradar.com/audio/wireless-headphones/beats-360-are-one-of-the-most-comfortable-best-sounding-headphones-ive-ever-worn-and-made-supergirl-more-watchable-than-it-should-be",
       "publishedAt": "2026-09-23T13:00:00.000Z",
@@ -1728,6 +1728,17 @@
       "description": "I've been test-driving Beats 360, and I love the fit, the sound, and how it made one movie more enjoyable than it might've been otherwise.",
       "image": "https://cdn.mos.cms.futurecdn.net/QYmmsgicHbd9WuKeW6eVVH-1920-80.jpg",
       "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "TechRadar",
+      "title": "Spotify’s Taste Profile must’ve been a victory, because it’s finally coming to the US in beta — here are 3 tips that could give your feed the spring cleaning it needs",
+      "url": "https://www.techradar.com/audio/spotify/spotify-is-bringing-its-algorithm-amending-taste-profile-tool-to-listeners-in-the-us-and-it-could-be-your-one-way-ticket-to-wiping-your-most-hated-genres-from-your-feed",
+      "publishedAt": "2026-09-23T13:00:00.000Z",
+      "author": "Rowan Davies",
+      "description": "Listeners in the US can now feed what they want to hear directly to the new Taste Profile tab.",
+      "image": "https://cdn.mos.cms.futurecdn.net/n9V4AXdU7YKsDUcVjZNHMM-2000-80.jpg",
+      "category": "其他音訊",
       "articleType": "其他"
     },
     {
@@ -5630,7 +5641,7 @@
       "url": "https://www.tomsguide.com/audio/headphones/shokz-coupons",
       "publishedAt": "2026-09-03T08:16:58.000Z",
       "author": "Nathan Walters",
-      "description": "Use one of our 9 Shokz promo codes to save money on open-ear headphones and bone conduction headphones for running, workouts and general use",
+      "description": "Use one of our 8 Shokz promo codes to save money on open-ear headphones and bone conduction headphones for running, workouts and general use",
       "image": "https://cdn.mos.cms.futurecdn.net/hF6g2TUm6ANe4pFn3iyA47-2000-80.jpg",
       "category": "耳機",
       "articleType": "其他"
@@ -5875,17 +5886,6 @@
       "description": "Premium movie theaters use several spatial audio formats, each with its own approach to overhead effects and three-dimensional sound.",
       "image": "https://www.bgr.com/img/gallery/these-4-premium-movie-theater-formats-use-spatial-audio/l-intro-1787947422.jpg",
       "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "BGR",
-      "title": "You Can Pair Your AirPods To A PlayStation 5, But There's A Catch - BGR",
-      "url": "https://www.bgr.com/2246783/how-pair-airpods-playstation-5/",
-      "publishedAt": "2026-09-02T01:17:00.000Z",
-      "author": "Aaron Greenbaum",
-      "description": "Using your AirPods with a PlayStation 5 console takes an extra step, and the resulting wireless connection may involve tradeoffs.",
-      "image": "https://www.bgr.com/img/gallery/you-can-pair-your-airpods-to-a-playstation-5-but-theres-a-catch/l-intro-1787949693.jpg",
-      "category": "耳機",
       "articleType": "其他"
     }
   ]
