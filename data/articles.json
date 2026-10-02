@@ -1,8 +1,30 @@
 {
-  "generatedAt": "2026-10-02T21:50:50.441Z",
+  "generatedAt": "2026-10-02T22:43:27.099Z",
   "days": 30,
-  "count": 536,
+  "count": 538,
   "articles": [
+    {
+      "source": "TechRadar",
+      "title": "Meet Neurable One, the all-new EEG-enabled focus aid, rest aid, and recuperation aid headphones with 'brain data banking'",
+      "url": "https://www.techradar.com/audio/headphones/forget-your-phone-how-drained-is-your-brains-battery-meet-the-all-new-eeg-enabled-cognitive-health-headphones-all-set-to-give-you-an-accurate-reading",
+      "publishedAt": "2026-10-02T22:00:00.000Z",
+      "author": "Becky Scarrott",
+      "description": "Dr. Ramses Alcaide is the neuroscientist who knows your mind — through headphones",
+      "image": "https://cdn.mos.cms.futurecdn.net/Zr9L8E74cvD2jPWRe5ZfvC-2000-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "BGR",
+      "title": "What Does The Green Light On Your Alexa Speaker Mean? - BGR",
+      "url": "https://www.bgr.com/2268885/what-does-green-light-on-alexa-speaker-mean/",
+      "publishedAt": "2026-10-02T21:47:00.000Z",
+      "author": "Vic Hood",
+      "description": "The lights on your Alexa speaker tell you all sorts of information about the status of your device, and the green light has a very specific meaning.",
+      "image": "https://www.bgr.com/img/gallery/what-does-the-green-light-on-your-alexa-speaker-mean/l-intro-1790348517.jpg",
+      "category": "喇叭",
+      "articleType": "其他"
+    },
     {
       "source": "What Hi-Fi?",
       "title": "The best deals on punchy subwoofers, five-star soundbar systems and rock-bottom Amazon smart speakers, handpicked by our experts",
@@ -241,7 +263,7 @@
       "publishedAt": "2026-10-01T19:00:00.000Z",
       "author": "Aatif Sulleyman",
       "description": "How to watch Bahrain Grand Prix 2026 live streams around the world. Free coverage, schedule, preview, 4K Ultra HD options for the F1 race weekend in Malaysia.",
-      "image": "https://cdn.mos.cms.futurecdn.net/NvdwYWfpcCg4jFbWdH2n5K-1920-80.jpg",
+      "image": "https://cdn.mos.cms.futurecdn.net/iWw6h8SWdUeq2vVukKwyGo-1920-80.jpg",
       "category": "串流播放器",
       "articleType": "其他"
     },
