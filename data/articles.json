@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-03T22:32:42.233Z",
+  "generatedAt": "2026-10-03T23:37:20.141Z",
   "days": 30,
-  "count": 513,
+  "count": 511,
   "articles": [
     {
       "source": "What Hi-Fi?",
@@ -24,17 +24,6 @@
       "image": "https://cdn.mos.cms.futurecdn.net/sSuYUheukWm4xmXm8aVGPg-2560-80.jpg",
       "category": "耳機",
       "articleType": "評測"
-    },
-    {
-      "source": "Engadget",
-      "title": "How to adjust the audio quality in Apple Music - Engadget",
-      "url": "https://www.engadget.com/2273330/how-to-adjust-audio-quality-apple-music/",
-      "publishedAt": "2026-10-03T12:30:00.000Z",
-      "author": "Max Miller",
-      "description": "Apple Music offers both lossless streaming and EQ features, if you know where to look.",
-      "image": "https://www.engadget.com/img/gallery/how-to-adjust-the-audio-quality-in-apple-music/l-intro-1790781936.jpg",
-      "category": "串流播放器",
-      "articleType": "其他"
     },
     {
       "source": "SoundGuys",
@@ -342,17 +331,6 @@
       "description": "The iDSD GR 2 MT is a special spin on the established iDSD GR 2",
       "image": "https://cdn.mos.cms.futurecdn.net/u33yQszM4doGBbvcTRGmG8-853-80.jpg",
       "category": "DAC／擴大機",
-      "articleType": "其他"
-    },
-    {
-      "source": "Engadget",
-      "title": "Pandora claims 'we haven't made this decision lightly' after raising prices - Engadget",
-      "url": "https://www.engadget.com/2274733/pandora-stream-music-service-raise-prices/",
-      "publishedAt": "2026-10-01T17:15:00.000Z",
-      "author": "Alec Hively",
-      "description": "The SiriusXM service joins a long list of streamers that have increased rates this year.",
-      "image": "https://www.engadget.com/img/gallery/pandora-claims-we-havent-made-this-decision-lightly-after-raising-prices/l-intro-1790873607.jpg",
-      "category": "串流播放器",
       "articleType": "其他"
     },
     {
