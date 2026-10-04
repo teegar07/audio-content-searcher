@@ -1,8 +1,30 @@
 {
-  "generatedAt": "2026-10-04T20:52:45.396Z",
+  "generatedAt": "2026-10-04T22:06:35.679Z",
   "days": 30,
-  "count": 497,
+  "count": 500,
   "articles": [
+    {
+      "source": "BGR",
+      "title": "The Data, Storage, And Hardware Costs Of Lossless Music - BGR",
+      "url": "https://www.bgr.com/2272242/lossless-music-data-storage-hardware-costs/",
+      "publishedAt": "2026-10-04T21:47:00.000Z",
+      "author": "Briley Kenney",
+      "description": "Lossless music delivers great sound quality, but with higher data, storage, and hardware costs than standard audio. For audiophiles, the price may be worth it.",
+      "image": "https://www.bgr.com/img/gallery/the-data-storage-and-hardware-costs-of-lossless-music/l-intro-1790684129.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "BGR",
+      "title": "What Does The Blue Light On Your Alexa Speaker Mean? - BGR",
+      "url": "https://www.bgr.com/2272192/what-does-blue-light-on-alexa-speaker-mean/",
+      "publishedAt": "2026-10-04T21:17:00.000Z",
+      "author": "Vic Hood",
+      "description": "Alexa speakers have a few different blue light patterns, and you might not notice the differences unless you're paying close attention.",
+      "image": "https://www.bgr.com/img/gallery/what-does-the-blue-light-on-your-alexa-speaker-mean/l-intro-1790700436.jpg",
+      "category": "喇叭",
+      "articleType": "其他"
+    },
     {
       "source": "Tom's Guide",
       "title": "AirPods Pro 3 just plummeted to $179 — $70 off Apple's best earbuds",
@@ -222,6 +244,17 @@
       "image": "https://cdn.mos.cms.futurecdn.net/JtiPfH7Sy3uEZ8hy4VuwnY-1920-80.jpg",
       "category": "Soundbar",
       "articleType": "評測"
+    },
+    {
+      "source": "The Verge",
+      "title": "What’s in your cart for Bandcamp Friday?",
+      "url": "https://www.theverge.com/entertainment/1004009/whats-in-your-cart-for-bandcamp-friday",
+      "publishedAt": "2026-10-02T13:37:06.000Z",
+      "author": "Terrence O'Brien",
+      "description": "You know the deal: every dollar you spend today goes straight to the artist. I’ve got a handful of albums I’ve been eyeing for a while but haven’t picked up yet, like Sophie Birch’s latest. But my priority today is the new Gilla Band record, Pugnello, which absolutely rips. [Media: https://gillaband.bandcamp.com/album/pugnello]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/0047631843_0.jpeg?quality=90&strip=all&crop=0%2C5.9107192063929%2C100%2C88.178561587214&w=1200",
+      "category": "其他音訊",
+      "articleType": "其他"
     },
     {
       "source": "SoundGuys",
