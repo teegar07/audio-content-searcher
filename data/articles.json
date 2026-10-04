@@ -1,8 +1,19 @@
 {
-  "generatedAt": "2026-10-04T00:27:56.206Z",
+  "generatedAt": "2026-10-04T02:31:15.746Z",
   "days": 30,
-  "count": 511,
+  "count": 512,
   "articles": [
+    {
+      "source": "Engadget",
+      "title": "What are amplifiers for and how important are they to your sound system's quality? - Engadget",
+      "url": "https://www.engadget.com/2273783/amplifier-what-for-how-important-for-sound-system-quality/",
+      "publishedAt": "2026-10-04T00:30:00.000Z",
+      "author": "Roger Fingas",
+      "description": "Some sound systems require an external amplifier, and some do not. But how do you tell if you need an amp? Let's go through what amps do and when you need one.",
+      "image": "https://www.engadget.com/img/gallery/what-are-amplifiers-for-and-how-important-are-they-to-your-sound-systems-quality/l-intro-1790709805.jpg",
+      "category": "DAC／擴大機",
+      "articleType": "其他"
+    },
     {
       "source": "What Hi-Fi?",
       "title": "How to watch NRL Grand Final 2026: live stream Roosters vs Knights for free",
