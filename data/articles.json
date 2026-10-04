@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-04T22:06:35.679Z",
+  "generatedAt": "2026-10-04T22:38:10.553Z",
   "days": 30,
-  "count": 500,
+  "count": 499,
   "articles": [
     {
       "source": "BGR",
@@ -89,17 +89,6 @@
       "description": "In this week’s Installer: Amazon’s new Kindles, OpenAI’s Dots, the remastered Witcher 3, and more.",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/installer.jpg?quality=90&strip=all&crop=0%2C3.4327283018382%2C100%2C93.134543396324&w=1200",
       "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "Engadget",
-      "title": "What are amplifiers for and how important are they to your sound system's quality? - Engadget",
-      "url": "https://www.engadget.com/2273783/amplifier-what-for-how-important-for-sound-system-quality/",
-      "publishedAt": "2026-10-04T00:30:00.000Z",
-      "author": "Roger Fingas",
-      "description": "Some sound systems require an external amplifier, and some do not. But how do you tell if you need an amp? Let's go through what amps do and when you need one.",
-      "image": "https://www.engadget.com/img/gallery/what-are-amplifiers-for-and-how-important-are-they-to-your-sound-systems-quality/l-intro-1790709805.jpg",
-      "category": "DAC／擴大機",
       "articleType": "其他"
     },
     {
