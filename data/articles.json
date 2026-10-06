@@ -1,8 +1,19 @@
 {
-  "generatedAt": "2026-10-06T22:17:48.901Z",
+  "generatedAt": "2026-10-06T22:54:01.515Z",
   "days": 30,
   "count": 522,
   "articles": [
+    {
+      "source": "TechRadar",
+      "title": "'The weirder, the better' — Control Resonant composer says he records sounds on a 'daily basis' that he then turns 'into something I could use musically,' but there is no 'audio bible' for Remedy's games",
+      "url": "https://www.techradar.com/gaming/with-remedy-its-about-philosophy-and-the-emotional-layer-control-resonant-composer-says-to-create-remedys-atmospheric-music-he-records-sounds-on-a-daily-basis-that-hell-later-manipulate-into-harmonies-the-weirder-the-better",
+      "publishedAt": "2026-10-06T22:30:00.000Z",
+      "author": "Demi Williams, Rob Dwiar",
+      "description": "Control Resonant composer Petri Alanko has explained how he created the eclectic soundtrack for Remedy Entertainment's latest game.",
+      "image": "https://cdn.mos.cms.futurecdn.net/zTERM5fGiehpEtCUFhyS43-2560-80.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
     {
       "source": "TechRadar",
       "title": "Upgrading from a soundbar to home theater setup with real speakers was mind-blowing for me — and this Sony Dolby Atmos 5.1.2 system is a bargain right now if you want that experience at home",
@@ -198,17 +209,6 @@
       "author": "Anna Washenko",
       "description": "Test your knowledge on more than 2,000 artists.",
       "image": "https://www.engadget.com/img/gallery/spotify-expands-its-music-quiz-trivia-feature/l-intro-1791288926.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "Engadget",
-      "title": "How to fix distorted audio on your PS5 - Engadget",
-      "url": "https://www.engadget.com/2276615/how-to-fix-distorted-audio-ps5/",
-      "publishedAt": "2026-10-06T12:45:00.000Z",
-      "author": "Jack Whitcombe",
-      "description": "If you can't hear your PS5 or it sounds terrible, walk through some steps to nail down the issue and restore clear audio.",
-      "image": "https://www.engadget.com/img/gallery/how-to-fix-distorted-audio-ps5/l-intro-1791313046.jpg",
       "category": "其他音訊",
       "articleType": "其他"
     },
