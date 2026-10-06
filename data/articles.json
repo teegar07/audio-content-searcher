@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-06T02:10:23.697Z",
+  "generatedAt": "2026-10-06T02:48:53.456Z",
   "days": 30,
-  "count": 497,
+  "count": 496,
   "articles": [
     {
       "source": "TechRadar",
@@ -5456,17 +5456,6 @@
       "author": "Christine Persaud",
       "description": "Bone conduction headphones work fundamentally differently from conventional audio gear, which causes some problems with audio quality and noise reduction.",
       "image": "https://www.bgr.com/img/gallery/3-disadvantages-of-bone-conduction-headphones/l-intro-1787950298.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "BGR",
-      "title": "4 Wireless Earbuds That Have More Powerful Bass Than AirPods - BGR",
-      "url": "https://www.bgr.com/2249545/wireless-earbud-more-powerful-bass-airpods/",
-      "publishedAt": "2026-09-06T02:17:00.000Z",
-      "author": "Michael Bizzaco",
-      "description": "Some wireless earbuds have even more powerful bass than AirPods, one of the best at low-range sound. Among the alternatives are offerings from Bose and Anker.",
-      "image": "https://www.bgr.com/img/gallery/4-wireless-earbuds-that-have-more-powerful-bass-than-airpods/l-intro-1788266083.jpg",
       "category": "耳機",
       "articleType": "其他"
     }
