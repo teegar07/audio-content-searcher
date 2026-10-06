@@ -1,8 +1,19 @@
 {
-  "generatedAt": "2026-10-05T23:43:16.875Z",
+  "generatedAt": "2026-10-06T00:31:05.304Z",
   "days": 30,
   "count": 497,
   "articles": [
+    {
+      "source": "TechRadar",
+      "title": "The portable speaker I use most at home is this tiny cheap five-star JBL model — it wins out over my Sonos and Bang & Olufsen options for one simple reason: it lives in the bathroom",
+      "url": "https://www.techradar.com/audio/wireless-bluetooth-speakers/after-3-months-of-using-it-as-my-shower-speaker-the-jbl-go-5-is-now-my-favorite-little-bluetooth-speaker-and-id-doubly-recommend-it-now-its-had-a-price-cut",
+      "publishedAt": "2026-10-06T00:00:00.000Z",
+      "author": "Matt Bolton",
+      "description": "This little JBL speaker soundtracks my life — the best speaker is the one you have with you.",
+      "image": "https://cdn.mos.cms.futurecdn.net/bAXAmEEVnQr4FA2auwkee5-1920-80.jpg",
+      "category": "喇叭",
+      "articleType": "其他"
+    },
     {
       "source": "SoundGuys",
       "title": "Wireless gaming headset buying guide (2026): How to choose the best headset for your needs",
@@ -5457,17 +5468,6 @@
       "description": "Some wireless earbuds have even more powerful bass than AirPods, one of the best at low-range sound. Among the alternatives are offerings from Bose and Anker.",
       "image": "https://www.bgr.com/img/gallery/4-wireless-earbuds-that-have-more-powerful-bass-than-airpods/l-intro-1788266083.jpg",
       "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "BGR",
-      "title": "YouTube Music Needs This One Key Tidal Feature - BGR",
-      "url": "https://www.bgr.com/2247533/why-youtube-music-needs-ai-tag/",
-      "publishedAt": "2026-09-05T23:47:00.000Z",
-      "author": "Nala Ortiz",
-      "description": "Tidal has rolled out an AI-tagging feature that can also filter out AI-generated music. YouTube Music has been comparatively slow to adapt.",
-      "image": "https://www.bgr.com/img/gallery/youtube-music-needs-this-one-key-tidal-feature/l-intro-1788188159.jpg",
-      "category": "其他音訊",
       "articleType": "其他"
     }
   ]
