@@ -1,8 +1,19 @@
 {
-  "generatedAt": "2026-10-06T23:28:08.448Z",
+  "generatedAt": "2026-10-07T00:27:40.304Z",
   "days": 30,
   "count": 522,
   "articles": [
+    {
+      "source": "Tom's Guide",
+      "title": "Save your child's ears with these kid-friendly headphones on sale for Prime Day — save up to 32% now",
+      "url": "https://www.tomsguide.com/audio/headphones/save-your-childs-ears-with-these-kid-friendly-headphones-on-sale-for-prime-day-save-up-to-32-percent-now",
+      "publishedAt": "2026-10-07T00:02:57.000Z",
+      "author": "Scott Younker",
+      "description": "Shop these Prime Day deals now",
+      "image": "https://cdn.mos.cms.futurecdn.net/D2smrptf7MU7QTQ5SD88JK-2000-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
     {
       "source": "TechRadar",
       "title": "'The weirder, the better' — Control Resonant composer says he records sounds on a 'daily basis' that he then turns 'into something I could use musically,' but there is no 'audio bible' for Remedy's games",
@@ -2568,17 +2579,6 @@
     },
     {
       "source": "TechRadar",
-      "title": "Spotify’s Taste Profile must’ve been a victory, because it’s finally coming to the US in beta — here are 3 tips that could give your feed the spring cleaning it needs",
-      "url": "https://www.techradar.com/audio/spotify/spotify-is-bringing-its-algorithm-amending-taste-profile-tool-to-listeners-in-the-us-and-it-could-be-your-one-way-ticket-to-wiping-your-most-hated-genres-from-your-feed",
-      "publishedAt": "2026-09-23T13:00:00.000Z",
-      "author": "Rowan Davies",
-      "description": "Listeners in the US can now feed what they want to hear directly to the new Taste Profile tab.",
-      "image": "https://cdn.mos.cms.futurecdn.net/n9V4AXdU7YKsDUcVjZNHMM-2000-80.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "TechRadar",
       "title": "Beats 360 are one of the most comfortable, best-sounding headphones I've ever worn and made Supergirl more watchable than it should be",
       "url": "https://www.techradar.com/audio/wireless-headphones/beats-360-are-one-of-the-most-comfortable-best-sounding-headphones-ive-ever-worn-and-made-supergirl-more-watchable-than-it-should-be",
       "publishedAt": "2026-09-23T13:00:00.000Z",
@@ -2586,6 +2586,17 @@
       "description": "I've been test-driving Beats 360, and I love the fit, the sound, and how it made one movie more enjoyable than it might've been otherwise.",
       "image": "https://cdn.mos.cms.futurecdn.net/QYmmsgicHbd9WuKeW6eVVH-1920-80.jpg",
       "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "TechRadar",
+      "title": "Spotify’s Taste Profile must’ve been a victory, because it’s finally coming to the US in beta — here are 3 tips that could give your feed the spring cleaning it needs",
+      "url": "https://www.techradar.com/audio/spotify/spotify-is-bringing-its-algorithm-amending-taste-profile-tool-to-listeners-in-the-us-and-it-could-be-your-one-way-ticket-to-wiping-your-most-hated-genres-from-your-feed",
+      "publishedAt": "2026-09-23T13:00:00.000Z",
+      "author": "Rowan Davies",
+      "description": "Listeners in the US can now feed what they want to hear directly to the new Taste Profile tab.",
+      "image": "https://cdn.mos.cms.futurecdn.net/n9V4AXdU7YKsDUcVjZNHMM-2000-80.jpg",
+      "category": "其他音訊",
       "articleType": "其他"
     },
     {
@@ -5731,17 +5742,6 @@
       "author": "Sead Fadilpasic",
       "description": "The batteries inside your AirPods have a life span just like every other piece of tech, but is it possible to replace the battery when it goes bad?",
       "image": "https://www.bgr.com/img/gallery/can-you-replace-a-dying-airpod-battery/l-intro-1788370753.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "BGR",
-      "title": "5 Free Apps You Need To Install To Get The Most Out Of Your AirPods - BGR",
-      "url": "https://www.bgr.com/2249618/free-apps-to-get-best-out-of-airpods/",
-      "publishedAt": "2026-09-07T00:17:00.000Z",
-      "author": "Marinel Sigue",
-      "description": "Your AirPods actually offer a ton of surprising features, and you can get the most out of those features with these free App Store apps.",
-      "image": "https://www.bgr.com/img/gallery/5-free-apps-you-need-to-install-to-get-the-most-out-of-your-airpods/l-intro-1788363834.jpg",
       "category": "耳機",
       "articleType": "其他"
     }
