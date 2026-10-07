@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-07T01:20:33.541Z",
+  "generatedAt": "2026-10-07T02:13:38.129Z",
   "days": 30,
-  "count": 522,
+  "count": 521,
   "articles": [
     {
       "source": "Tom's Guide",
@@ -2579,17 +2579,6 @@
     },
     {
       "source": "TechRadar",
-      "title": "Beats 360 are one of the most comfortable, best-sounding headphones I've ever worn and made Supergirl more watchable than it should be",
-      "url": "https://www.techradar.com/audio/wireless-headphones/beats-360-are-one-of-the-most-comfortable-best-sounding-headphones-ive-ever-worn-and-made-supergirl-more-watchable-than-it-should-be",
-      "publishedAt": "2026-09-23T13:00:00.000Z",
-      "author": "Lance Ulanoff",
-      "description": "I've been test-driving Beats 360, and I love the fit, the sound, and how it made one movie more enjoyable than it might've been otherwise.",
-      "image": "https://cdn.mos.cms.futurecdn.net/QYmmsgicHbd9WuKeW6eVVH-1920-80.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "TechRadar",
       "title": "Spotify’s Taste Profile must’ve been a victory, because it’s finally coming to the US in beta — here are 3 tips that could give your feed the spring cleaning it needs",
       "url": "https://www.techradar.com/audio/spotify/spotify-is-bringing-its-algorithm-amending-taste-profile-tool-to-listeners-in-the-us-and-it-could-be-your-one-way-ticket-to-wiping-your-most-hated-genres-from-your-feed",
       "publishedAt": "2026-09-23T13:00:00.000Z",
@@ -2597,6 +2586,17 @@
       "description": "Listeners in the US can now feed what they want to hear directly to the new Taste Profile tab.",
       "image": "https://cdn.mos.cms.futurecdn.net/n9V4AXdU7YKsDUcVjZNHMM-2000-80.jpg",
       "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "TechRadar",
+      "title": "Beats 360 are one of the most comfortable, best-sounding headphones I've ever worn and made Supergirl more watchable than it should be",
+      "url": "https://www.techradar.com/audio/wireless-headphones/beats-360-are-one-of-the-most-comfortable-best-sounding-headphones-ive-ever-worn-and-made-supergirl-more-watchable-than-it-should-be",
+      "publishedAt": "2026-09-23T13:00:00.000Z",
+      "author": "Lance Ulanoff",
+      "description": "I've been test-driving Beats 360, and I love the fit, the sound, and how it made one movie more enjoyable than it might've been otherwise.",
+      "image": "https://cdn.mos.cms.futurecdn.net/QYmmsgicHbd9WuKeW6eVVH-1920-80.jpg",
+      "category": "耳機",
       "articleType": "其他"
     },
     {
@@ -5731,17 +5731,6 @@
       "author": "Michael Bizzaco",
       "description": "Bose has moved its second-generation QuietComfort headphones closer to the flagship model without giving them every premium feature.",
       "image": "https://www.bgr.com/img/gallery/bose-2nd-generation-quietcomfort-headphones-whats-new-and-should-you-upgrade/l-intro-1788378687.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "BGR",
-      "title": "Can You Replace A Dying AirPod Battery? - BGR",
-      "url": "https://www.bgr.com/2249696/can-airpods-battery-be-replaced/",
-      "publishedAt": "2026-09-07T01:47:00.000Z",
-      "author": "Sead Fadilpasic",
-      "description": "The batteries inside your AirPods have a life span just like every other piece of tech, but is it possible to replace the battery when it goes bad?",
-      "image": "https://www.bgr.com/img/gallery/can-you-replace-a-dying-airpod-battery/l-intro-1788370753.jpg",
       "category": "耳機",
       "articleType": "其他"
     }
