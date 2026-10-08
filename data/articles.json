@@ -1,8 +1,195 @@
 {
-  "generatedAt": "2026-10-08T02:39:44.182Z",
+  "generatedAt": "2026-10-08T22:52:44.761Z",
   "days": 30,
-  "count": 533,
+  "count": 537,
   "articles": [
+    {
+      "source": "SoundGuys",
+      "title": "Beats 360 are the Beats over-ear headphones I've always wanted, but they're no Studio Pro",
+      "url": "https://www.soundguys.com/beats-360-review-163545/",
+      "publishedAt": "2026-10-08T21:48:22.000Z",
+      "author": "Brady Snyder",
+      "description": "The Beats 360 are comfortable and customizable, but the lack of lossless audio might feel like a downgrade compared to Studio Pro.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/09/Beats-360-review-8-scaled.jpg",
+      "category": "耳機",
+      "articleType": "評測"
+    },
+    {
+      "source": "BGR",
+      "title": "This Hidden iPhone Feature Can Drastically Improve Audio Quality In Videos - BGR",
+      "url": "https://www.bgr.com/2276353/audio-mix-iphone-feature-to-improve-audio-quality-in-videos/",
+      "publishedAt": "2026-10-08T21:17:00.000Z",
+      "author": "José Adorno",
+      "description": "There's a slew of new features for the current model iPhone, and one of them is a hidden feature that will make your videos sound better.",
+      "image": "https://www.bgr.com/img/gallery/this-hidden-iphone-feature-can-drastically-improve-audio-quality-in-videos/l-intro-1790974047.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "Timekettle LiveTalk brings real-time translation to your everyday earbuds",
+      "url": "https://www.soundguys.com/timekettle-livetalk-164310/",
+      "publishedAt": "2026-10-08T18:00:40.000Z",
+      "author": "Chase Bernath",
+      "description": "From lectures abroad to your daily playlist, these AI interpreter earbuds are designed to do more than translate a quick conversation.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/10/Timekettle-Livetalk-earbud-held-in-hand-2-scaled.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "I've tested sleep earbuds for years, and these are the best headphones for sleeping in 2026",
+      "url": "https://www.soundguys.com/best-headphones-for-sleeping-2-164435/",
+      "publishedAt": "2026-10-08T15:59:31.000Z",
+      "author": "Adam Birney",
+      "description": "The best earbuds and headphones for sleeping in 2026, from noise canceling sleep buds to soft headbands, picked for comfort and quiet.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/01/anker-soundcore-sleep-a30-special-two-pairs-in-hand-scaled-e1767768228527.jpg",
+      "category": "耳機",
+      "articleType": "評測"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "The iPhone 18 Pro looks almost identical to its predecessor – so why does it look and sound better?",
+      "url": "https://www.whathifi.com/smartphones-tablets/smartphones/apple-iphone-18-pro",
+      "publishedAt": "2026-10-08T15:29:24.000Z",
+      "author": "",
+      "description": "A superb portable AV device, with subtle but worthwhile improvements to picture and sound",
+      "image": "https://cdn.mos.cms.futurecdn.net/7uL2vqc3zwJuFGVB8HjjAZ-1920-80.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "The Galaxy Buds 3 FE are still at their $99.99 Prime Day price",
+      "url": "https://www.soundguys.com/galaxy-buds-3-fe-deal-164493/",
+      "publishedAt": "2026-10-08T15:26:50.000Z",
+      "author": "Matt Horne",
+      "description": "The Samsung Galaxy Buds 3 FE are $50 off at Amazon, making these feature-packed Galaxy earbuds a strong post-Prime Day buy.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2023/10/samsung-galaxy-buds-fe-in-case-1000w-563h.jpg-1.webp",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "The Verge",
+      "title": "The Retro Song Bird plays just the music from your favorite Game Boy cartridges",
+      "url": "https://www.theverge.com/tech/1007926/retro-song-bird-nintendo-game-boy-cartridge-music-player",
+      "publishedAt": "2026-10-08T14:52:26.000Z",
+      "author": "Andrew Liszewski",
+      "description": "It’s a simple media player for exploring and enjoying all the music and sound effects from your Game Boy collection.",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/songbird.jpg?quality=90&strip=all&crop=0%2C10.745251402131%2C100%2C78.509497195739&w=1200",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "I’ve been desperate to listen to Rega’s Planar 6 RS Edition turntable all year – and it’s been more than worth the wait",
+      "url": "https://www.whathifi.com/hi-fi/turntables/rega-planar-6-rs-edition",
+      "publishedAt": "2026-10-08T14:13:21.000Z",
+      "author": "",
+      "description": "Rega’s Planar 6 RS Edition turntable combines the best bits of two of its premium five-star record players to huge success.",
+      "image": "https://cdn.mos.cms.futurecdn.net/7WMAw5rPHTFrgxyH5KifC6-1920-80.jpg",
+      "category": "黑膠／唱盤",
+      "articleType": "其他"
+    },
+    {
+      "source": "Tom's Guide",
+      "title": "Best Buy TechTober sale: 25 deals I'd buy on laptops, OLED TVs, JBL, and more",
+      "url": "https://www.tomsguide.com/sales-events/best-buy-techtober-sale-lives-on-25-best-deals-on-dell-laptops-lg-oled-tvs-jbl-speakers-and-more",
+      "publishedAt": "2026-10-08T13:46:30.000Z",
+      "author": "Millie Davis-Williams",
+      "description": "Amazon's October Prime Day sale is over, but Best Buy's TechTober lives on! Check out the biggest deals from the event on everything from smartwatches to TVs.",
+      "image": "https://cdn.mos.cms.futurecdn.net/S4nqyTNgAtKc2z3zYNufsh-2000-80.jpg",
+      "category": "喇叭",
+      "articleType": "其他"
+    },
+    {
+      "source": "TechRadar",
+      "title": "The Sony WH-1000XM6 are at a record-low price today — and I'm severely tempted by these class-leading heaphones",
+      "url": "https://www.techradar.com/audio/wireless-headphones/psa-this-is-the-best-headphone-deal-youll-see-this-side-of-black-friday-the-sony-wh-1000xm6-are-at-a-record-low-price",
+      "publishedAt": "2026-10-08T13:21:03.000Z",
+      "author": "Alex Whitelock",
+      "description": "The Sony WH-1000XM6 are easily some of the best headphones you can buy — particularly because Walmart has them listed for a new record-low price.",
+      "image": "https://cdn.mos.cms.futurecdn.net/8BgMC23zCWBCQrtRNvwiBF-1600-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Amazon announces a new premium tablet line to take on iPad with a “nanomatte” display – and I’ve tried it",
+      "url": "https://www.whathifi.com/smartphones-tablets/tablets/amazon-announces-a-new-premium-tablet-line-to-take-on-ipad-with-a-nanomatte-display-and-ive-tried-it",
+      "publishedAt": "2026-10-08T13:00:00.000Z",
+      "author": "Daniel Furn",
+      "description": "Could Amazon’s most powerful tablet yet also be its best for movie watching?",
+      "image": "https://cdn.mos.cms.futurecdn.net/LBHfv6Xri68QhFY2VCFZsc-2560-80.jpg",
+      "category": "其他音訊",
+      "articleType": "新聞"
+    },
+    {
+      "source": "TechRadar",
+      "title": "Prime Day is over, but Amazon still has 60 Black Friday-level deals on products we love — AirPods, Google Pixel 11, Sony headphones, TVs, and more",
+      "url": "https://www.techradar.com/tech/prime-day-has-ended-but-amazon-still-has-60-record-low-prices-on-products-we-love-airpods-google-pixel-11-sony-headphones-tvs-and-more",
+      "publishedAt": "2026-10-08T10:45:08.000Z",
+      "author": "Alex Whitelock",
+      "description": "Amazon Prime Day may be over, but the retailer still has Black Friday-level deals available today.",
+      "image": "https://cdn.mos.cms.futurecdn.net/UvrLeLoAuia4qHSLcHpMj9-1920-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "This family has been championing movies since the 1870s – and its cinemas offer something that streaming never can",
+      "url": "https://www.whathifi.com/streaming-entertainment/this-family-has-been-championing-movies-since-the-1870s-and-its-cinemas-offer-something-that-streaming-never-can",
+      "publishedAt": "2026-10-08T10:42:45.000Z",
+      "author": "Joe Svetlik",
+      "description": "From \"flickering pictures\" at 19th-century fairgrounds to 4K projectors and 7.1 surround sound, the Jervis family has seen it all",
+      "image": "https://cdn.mos.cms.futurecdn.net/Z36rzeGNU9WZrospNBFkNY-1920-80.jpg",
+      "category": "串流播放器",
+      "articleType": "其他"
+    },
+    {
+      "source": "TechRadar",
+      "title": "Magico's new speakers look like they were designed by NASA and cost more than a holiday cottage... and I want them",
+      "url": "https://www.techradar.com/audio/speakers/magicos-new-speakers-look-like-they-were-designed-by-nasa-and-cost-more-than-a-holiday-cottage-and-i-want-them",
+      "publishedAt": "2026-10-08T10:40:30.000Z",
+      "author": "Tom Bedford",
+      "description": "The Magic A3 2027 isn't an upgrade, but a complete overhaul — and it costs nearly £30,000 (or equivalent, where you live)",
+      "image": "https://cdn.mos.cms.futurecdn.net/5fzoS3z2xPVsqk4H3mB83e-1600-80.jpg",
+      "category": "喇叭",
+      "articleType": "新聞"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "AirPods 4 owners, most of you can skip the AirPods 5",
+      "url": "https://www.soundguys.com/airpods-4-vs-airpods-5-164235/",
+      "publishedAt": "2026-10-08T09:00:29.000Z",
+      "author": "Dave Carr",
+      "description": "AirPods 4 vs AirPods 5: We compare sound, noise canceling, features, and more to see whether AirPods 4 owners should upgrade.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/10/AirPods-4-w-Active-Noise-Cancellation-vs-AirPods-5-with-Wireless-Charging-Case-4-scaled.jpeg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "Tom's Guide",
+      "title": "Cambridge Audio L/R X review: Big on bass, big on features, big on price",
+      "url": "https://www.tomsguide.com/audio/speakers/cambridge-audio-l-r-x-review",
+      "publishedAt": "2026-10-08T08:30:46.000Z",
+      "author": "",
+      "description": "They're just BIG, okay?!",
+      "image": "https://cdn.mos.cms.futurecdn.net/ZJDF2TjUYNUwDAn2nBHDxm-2560-80.jpg",
+      "category": "喇叭",
+      "articleType": "評測"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "\"We charged extended lunchtime pub tabs to expenses\" – from litigation to listening rooms; the joys and challenges of producing What Hi-Fi? in a pre-digital era",
+      "url": "https://www.whathifi.com/hi-fi/we-charged-extended-lunchtime-pub-tabs-to-expenses-from-litigation-to-listening-rooms-the-joys-and-challenges-of-producing-what-hi-fi-in-a-pre-digital-era",
+      "publishedAt": "2026-10-08T07:00:00.000Z",
+      "author": "Jez Ford",
+      "description": "Jez Ford looks back on a formative – and hugely enjoyable – period in his career",
+      "image": "https://cdn.mos.cms.futurecdn.net/2ZwxQmg4zqmg46W9ediUfe-2100-80.png",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
     {
       "source": "Tom's Guide",
       "title": "9 best Bose deals to shop before Prime Day ends tonight — up to 53% off headphones and speakers",
@@ -584,17 +771,6 @@
       "description": "The Neo make it easier to share your music without others having to wear your headphones.",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/neo1.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
       "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "Engadget",
-      "title": "Spotify expands its Music Quiz trivia feature - Engadget",
-      "url": "https://www.engadget.com/2278295/spotify-expands-its-music-quiz-trivia-feature/",
-      "publishedAt": "2026-10-06T13:00:00.000Z",
-      "author": "Anna Washenko",
-      "description": "Test your knowledge on more than 2,000 artists.",
-      "image": "https://www.engadget.com/img/gallery/spotify-expands-its-music-quiz-trivia-feature/l-intro-1791288926.jpg",
-      "category": "其他音訊",
       "articleType": "其他"
     },
     {
@@ -1229,21 +1405,10 @@
       "title": "Sound Advice: your hi-fi and home cinema questions answered, live",
       "url": "https://www.whathifi.com/tv-home-cinema/sound-advice-your-hi-fi-and-home-cinema-questions-answered-live",
       "publishedAt": "2026-10-02T09:12:42.000Z",
-      "author": "Tom Parsons, Kashfia Kabir, Ketan Bharadia",
+      "author": "Tom Parsons, Ketan Bharadia, Kashfia Kabir",
       "description": "Letters from the postbag, plus a live Q&A",
       "image": "https://cdn.mos.cms.futurecdn.net/PoToA7opRJwpBtshJ8eRiQ-1920-80.jpg",
       "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "The five-star return of a portable hi-fi classic, Sonos strikes Dolby Atmos gold, fresh turntable treats from Technics and Pro-Ject, and more",
-      "url": "https://www.whathifi.com/av/the-five-star-return-of-portable-hi-fi-classic-sonos-strikes-dolby-atmos-gold-fresh-turntable-treats-from-technics-and-pro-ject-and-more",
-      "publishedAt": "2026-10-02T07:00:00.000Z",
-      "author": "Alastair Stevenson",
-      "description": "Eight products impressed our reviewers enough to earn five-star ratings last month – here’s what you need to know about them",
-      "image": "https://cdn.mos.cms.futurecdn.net/Wgbg6Avjw6w2skdDPDBnGo-1920-80.jpg",
-      "category": "黑膠／唱盤",
       "articleType": "其他"
     },
     {
@@ -1258,6 +1423,17 @@
       "articleType": "其他"
     },
     {
+      "source": "What Hi-Fi?",
+      "title": "The five-star return of a portable hi-fi classic, Sonos strikes Dolby Atmos gold, fresh turntable treats from Technics and Pro-Ject, and more",
+      "url": "https://www.whathifi.com/av/the-five-star-return-of-portable-hi-fi-classic-sonos-strikes-dolby-atmos-gold-fresh-turntable-treats-from-technics-and-pro-ject-and-more",
+      "publishedAt": "2026-10-02T07:00:00.000Z",
+      "author": "Alastair Stevenson",
+      "description": "Eight products impressed our reviewers enough to earn five-star ratings last month – here’s what you need to know about them",
+      "image": "https://cdn.mos.cms.futurecdn.net/Wgbg6Avjw6w2skdDPDBnGo-1920-80.jpg",
+      "category": "黑膠／唱盤",
+      "articleType": "其他"
+    },
+    {
       "source": "TechRadar",
       "title": "I love an outdoor party in Australia as much as the next person — these 7 Prime Day Bluetooth speaker deals will make you the life of yours",
       "url": "https://www.techradar.com/audio/wireless-bluetooth-speakers/i-love-an-outdoor-party-in-australia-as-much-as-the-next-person-these-7-prime-day-bluetooth-speaker-deals-will-make-you-the-life-of-yours",
@@ -1266,17 +1442,6 @@
       "description": "Shop JBL, Bose, Tribit and more with these attractive discounts",
       "image": "https://cdn.mos.cms.futurecdn.net/HFVszuiXW6VNQb6VoJCeEJ-2193-80.jpg",
       "category": "喇叭",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "Looking to build a vinyl collection? Amazon has discounted plenty for Prime Day",
-      "url": "https://www.whathifi.com/hi-fi/turntables/looking-to-build-a-vinyl-collection-amazon-has-discounted-plenty-for-prime-day",
-      "publishedAt": "2026-10-02T03:34:08.000Z",
-      "author": "Max Langridge",
-      "description": "It's time to start spinning around",
-      "image": "https://cdn.mos.cms.futurecdn.net/NUeKXdT35GYNXjsaMKoLFJ-2560-80.jpg",
-      "category": "黑膠／唱盤",
       "articleType": "其他"
     },
     {
@@ -1652,17 +1817,6 @@
       "image": "https://cdn.mos.cms.futurecdn.net/573TBiHT5LmH6eHbFA9eaL-2000-80.jpg",
       "category": "耳機",
       "articleType": "其他"
-    },
-    {
-      "source": "SoundGuys",
-      "title": "Beats 360 are the Beats over-ear headphones I've always wanted, but they're no Studio Pro",
-      "url": "https://www.soundguys.com/beats-360-review-163545/",
-      "publishedAt": "2026-09-30T09:00:38.000Z",
-      "author": "Brady Snyder",
-      "description": "The Beats 360 are comfortable and customizable, but the lack of lossless audio might feel like a downgrade compared to Studio Pro.",
-      "image": "https://www.soundguys.com/wp-content/uploads/2026/09/Beats-360-review-8-scaled.jpg",
-      "category": "耳機",
-      "articleType": "評測"
     },
     {
       "source": "SoundGuys",
@@ -5754,116 +5908,6 @@
       "description": "Bose's Lifestyle Ultra Speaker and Soundbar, Portable Smart Speaker, and Smart Soundbar all come with built-in Alexa and Google Assistant support.",
       "image": "https://www.bgr.com/img/gallery/4-bose-speakers-you-can-buy-with-built-in-voice-assistants/l-intro-1788788283.jpg",
       "category": "Soundbar",
-      "articleType": "其他"
-    },
-    {
-      "source": "SoundGuys",
-      "title": "Save $50 on the Anker Soundcore AeroFit 2 with this Amazon deal",
-      "url": "https://www.soundguys.com/anker-soundcore-aerofit-2-deal-162635/",
-      "publishedAt": "2026-09-08T16:36:17.000Z",
-      "author": "Matt Horne",
-      "description": "Anker Soundcore AeroFit 2 earbuds drop to $79.97 at Amazon, with open-ear comfort, LDAC audio, and up to 42 hours total battery.",
-      "image": "https://www.soundguys.com/wp-content/uploads/2024/10/Soundcore-AeroFit-2_1-scaled.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "The best products of IFA 2026, as chosen by What Hi-Fi?",
-      "url": "https://www.whathifi.com/tech-events/the-best-products-of-ifa-2026-as-chosen-by-what-hi-fi",
-      "publishedAt": "2026-09-08T15:26:27.000Z",
-      "author": "What Hi-Fi?",
-      "description": "The Berlin trade show has drawn to a close – here are the highlights",
-      "image": "https://cdn.mos.cms.futurecdn.net/8naeUh7GxmDfm2j6Wdu5eS-2560-80.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "SoundGuys",
-      "title": "New Skullcandy Crusher 1080 ANC hits its lowest price yet with $80 off",
-      "url": "https://www.soundguys.com/skullcandy-crusher-1080-anc-deal-162630/",
-      "publishedAt": "2026-09-08T15:22:55.000Z",
-      "author": "Matt Horne",
-      "description": "The Skullcandy Crusher 1080 ANC headphones drop to a record-low $199.99, with Bose-tuned sound, ANC, and up to 60 hours of battery.",
-      "image": "https://www.soundguys.com/wp-content/uploads/2026/07/skullcandy-crusher-1080-ANC-hero.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "TechRadar",
-      "title": "Don't pay $400 for Sony's latest headphones — here's why we recommend the WH-1000XM5 at a record-low price of $198 instead",
-      "url": "https://www.techradar.com/audio/wireless-headphones/dont-pay-usd400-for-sonys-latest-headphones-the-excellent-wh-1000xm5-are-down-to-a-record-low-of-usd198-and-the-smarter-buy",
-      "publishedAt": "2026-09-08T14:59:48.000Z",
-      "author": "Alex Whitelock",
-      "description": "Grab the Sony WH-1000XM5 while these five-star-rated headphones are still on sale at Amazon.",
-      "image": "https://cdn.mos.cms.futurecdn.net/Dkbi2LMiQ3RnHyW8f6TbN7-1920-80.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "How to watch NFL 2026 online from anywhere: live stream every match",
-      "url": "https://www.whathifi.com/streaming-entertainment/watch-nfl-2026-27-free",
-      "publishedAt": "2026-09-08T13:42:24.000Z",
-      "author": "Krishi Chowdhary",
-      "description": "All the best ways to watch the 2026 NFL season live and online, even for free",
-      "image": "https://cdn.mos.cms.futurecdn.net/PYTgLyA6kotLQ4pavduZ9f-2560-80.jpg",
-      "category": "串流播放器",
-      "articleType": "其他"
-    },
-    {
-      "source": "BGR",
-      "title": "Bose Vs. Sony: Which Premium Headphone Brand Is Best For You? - BGR",
-      "url": "https://www.bgr.com/2250973/bose-vs-sony-which-headphone-brand-is-best/",
-      "publishedAt": "2026-09-08T10:47:00.000Z",
-      "author": "Michael Bizzaco",
-      "description": "The latest set of headphones from both brands are excellent in terms of audio quality, ANC, and battery life. However, the Sony XM6 edges out Bose slightly.",
-      "image": "https://www.bgr.com/img/gallery/bose-vs-sony-which-premium-headphone-brand-is-best-for-you/l-intro-1788527738.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "BGR",
-      "title": "5 Spotify Features You Won't Find On YouTube Music - BGR",
-      "url": "https://www.bgr.com/2250330/spotify-features-not-available-youtube-music/",
-      "publishedAt": "2026-09-08T09:47:00.000Z",
-      "author": "Asad Kashif",
-      "description": "From seamless device handoff to social listening, Spotify still holds key advantages. Here are 5 features you won't find over on YouTube Music.",
-      "image": "https://www.bgr.com/img/gallery/5-spotify-features-you-wont-find-on-youtube-music/l-intro-1788447016.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "We have a \"Rega Special\" turntable, a new Dolby Atmos soundbar and TCL's flagship Super QLED in for testing this month",
-      "url": "https://www.whathifi.com/av/we-have-a-rega-special-turntable-a-new-dolby-atmos-soundbar-and-tcls-flagship-super-qled-in-for-testing-this-month",
-      "publishedAt": "2026-09-08T08:54:38.000Z",
-      "author": "Kashfia Kabir",
-      "description": "A handful of highlights of the products we have in for review",
-      "image": "https://cdn.mos.cms.futurecdn.net/9JsLwKGtLbQPzKQPknDxuG-1920-80.png",
-      "category": "Soundbar",
-      "articleType": "評測"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "4 updates on the new Sony WH-CH730N headphones that I'm excited for – and one that's bothering me",
-      "url": "https://www.whathifi.com/headphones/wireless-headphones/4-things-about-the-sony-wh-ch730n-im-excited-for-and-one-thats-bothering-me",
-      "publishedAt": "2026-09-08T07:00:00.000Z",
-      "author": "Harry McKerrell",
-      "description": "Sony's five-star, affordable wireless over-ears finally get their sequel",
-      "image": "https://cdn.mos.cms.futurecdn.net/dXTWcvQkcUUvZZZRRTmSuH-2560-80.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "BGR",
-      "title": "Spotify Could Be Ruining Your Android Auto Audio - Here's How - BGR",
-      "url": "https://www.bgr.com/2250570/spotify-could-ruin-android-auto-audio-quality/",
-      "publishedAt": "2026-09-08T03:17:00.000Z",
-      "author": "Nichols deCourville",
-      "description": "Noticing a perceivable dip in sound quality while streaming Spotify via Android Auto? It turns out a certain feature might be causing the problem.",
-      "image": "https://www.bgr.com/img/gallery/spotify-could-be-ruining-your-android-auto-audio-heres-how/l-intro-1788459273.jpg",
-      "category": "串流播放器",
       "articleType": "其他"
     }
   ]
