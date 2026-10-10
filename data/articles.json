@@ -1,8 +1,19 @@
 {
-  "generatedAt": "2026-10-09T23:40:43.491Z",
+  "generatedAt": "2026-10-10T00:35:57.217Z",
   "days": 30,
-  "count": 531,
+  "count": 532,
   "articles": [
+    {
+      "source": "TechRadar",
+      "title": "Man sent to prison for using an army of bots to boost his AI music streams — he made $8m from the scheme and had nearly 10 times the plays of Taylor Swift",
+      "url": "https://www.techradar.com/audio/audio-streaming/man-jailed-after-fraudulently-making-usd8m-from-ai-music-using-1-000-bots-as-google-reveals-its-watermarked-240-000-years-worth-of-ai-audio",
+      "publishedAt": "2026-10-10T00:00:00.000Z",
+      "author": "Alex Blake",
+      "description": "A man has been sentenced to prison for fraudulently making $8 million from streams of his AI music.",
+      "image": "https://cdn.mos.cms.futurecdn.net/hHnuFjdnhv4FTTTinaA7fP-2560-80.jpg",
+      "category": "串流播放器",
+      "articleType": "其他"
+    },
     {
       "source": "What Hi-Fi?",
       "title": "How to watch New Zealand vs Australia online from anywhere: free Bledisloe Cup 2026 rugby live streams",
