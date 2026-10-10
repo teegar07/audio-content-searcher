@@ -1,8 +1,74 @@
 {
-  "generatedAt": "2026-10-10T02:14:22.746Z",
+  "generatedAt": "2026-10-10T21:09:08.477Z",
   "days": 30,
-  "count": 531,
+  "count": 526,
   "articles": [
+    {
+      "source": "TechRadar",
+      "title": "I test audio kit, and love these Ruark passive speakers' impeccable design and detailed sound — but you need a small room to enjoy them properly",
+      "url": "https://www.techradar.com/audio/speakers/ruark-audio-talisman-r-review",
+      "publishedAt": "2026-10-10T18:00:00.000Z",
+      "author": "",
+      "description": "The Ruark Audio Talisman-R doubles the size of its range of passive floorstanders",
+      "image": "https://cdn.mos.cms.futurecdn.net/cSdTjCBpaThepoFL5J4Em9-2560-80.jpg",
+      "category": "喇叭",
+      "articleType": "評測"
+    },
+    {
+      "source": "BGR",
+      "title": "What Is The AUX Port On Your Alexa Echo Speakers For? - BGR",
+      "url": "https://www.bgr.com/2278044/aux-port-amazon-alexa-uses-explained/",
+      "publishedAt": "2026-10-10T16:32:00.000Z",
+      "author": "Michael Bizzaco",
+      "description": "You may have noticed your Amazon Echo Speakers have an AUX port, but what purpose does the AUX port serve on your Echo device of choice?",
+      "image": "https://www.bgr.com/img/gallery/what-is-the-aux-port-on-your-alexa-echo-speakers-for/l-intro-1791229783.jpg",
+      "category": "喇叭",
+      "articleType": "其他"
+    },
+    {
+      "source": "Engadget",
+      "title": "Why your smart speaker keeps misunderstanding you (and how to fix it) - Engadget",
+      "url": "https://www.engadget.com/2279051/smart-speaker-misunderstands-you-how-to-fix/",
+      "publishedAt": "2026-10-10T14:30:00.000Z",
+      "author": "Jack Peachey",
+      "description": "If your smart speaker doesn't understand what you're saying, making a few changes will give it the best chance to process your requests.",
+      "image": "https://www.engadget.com/img/gallery/why-your-smart-speaker-keeps-misunderstanding-you-and-how-to-fix-it/l-intro-1791307742.jpg",
+      "category": "喇叭",
+      "articleType": "其他"
+    },
+    {
+      "source": "BGR",
+      "title": "8 Of The Best Spatial Audio Earbuds You Can Buy In 2026 - BGR",
+      "url": "https://www.bgr.com/2279678/best-spatial-audio-earbuds-can-buy/",
+      "publishedAt": "2026-10-10T14:02:00.000Z",
+      "author": "Sydney Louw Butler",
+      "description": "Two separate Apple AirPods and Beats models are great for spatial audio and more; options from Sony, Google, Samsung, and Bose are worthy competitors.",
+      "image": "https://www.bgr.com/img/gallery/8-of-the-best-spatial-audio-earbuds-you-can-buy-in-2026/l-intro-1791397107.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "Tom's Guide",
+      "title": "I asked an audio engineer which earbuds he actually wears — and it’s not Apple, Bose or Sony",
+      "url": "https://www.tomsguide.com/audio/earbuds/i-asked-an-audio-engineer-which-earbuds-he-uses-and-all-i-have-to-say-is-this-i-told-you-so",
+      "publishedAt": "2026-10-10T08:30:00.000Z",
+      "author": "Erin Bashford",
+      "description": "I was talking, but no one was listening",
+      "image": "https://cdn.mos.cms.futurecdn.net/BnWZaz7R22jsbxxSVEdUgF-2000-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "BGR",
+      "title": "The Big Problem Of Using A Soundbar With A Mac - BGR",
+      "url": "https://www.bgr.com/2277751/big-problem-using-soundbar-with-a-mac/",
+      "publishedAt": "2026-10-10T02:17:00.000Z",
+      "author": "Ethan Stinson",
+      "description": "Since soundbars connect primarily via HDMI and several MacBooks don't have an HDMI port, a soundbar isn't ideal. Moreover, Bluetooth also introduces latency.",
+      "image": "https://www.bgr.com/img/gallery/the-big-problem-of-using-a-soundbar-with-a-mac/l-intro-1791222567.jpg",
+      "category": "Soundbar",
+      "articleType": "其他"
+    },
     {
       "source": "TechRadar",
       "title": "Man sent to prison for using an army of bots to boost his AI music streams — he made $8m from the scheme and had nearly 10 times the plays of Taylor Swift",
@@ -45,17 +111,6 @@
       "description": "Anker’s new clip-on earbuds effortlessly blend a stylish aesthetic with hi-tech features — and they don’t sound half bad either.",
       "image": "https://cdn.mos.cms.futurecdn.net/qcRbexCxmTQEsRUcwjisUm-1920-80.jpg",
       "category": "耳機",
-      "articleType": "評測"
-    },
-    {
-      "source": "Engadget",
-      "title": "Bose Lifestyle Ultra Soundbar review: A great home theater option all by itself - Engadget",
-      "url": "https://www.engadget.com/2282487/bose-lifestyle-ultra-soundbar-review/",
-      "publishedAt": "2026-10-09T18:00:00.000Z",
-      "author": "Billy Steele",
-      "description": "Bose’s latest soundbar pulls double duty as both a TV and music speaker. Plus, it doesn’t need a separate subwoofer for adequate bass.",
-      "image": "https://www.engadget.com/img/gallery/bose-lifestyle-ultra-soundbar-review-a-great-home-theater-option-all-by-itself/l-intro-1791567301.jpg",
-      "category": "Soundbar",
       "articleType": "評測"
     },
     {
@@ -247,12 +302,12 @@
     },
     {
       "source": "What Hi-Fi?",
-      "title": "How to watch South Africa vs Australia 1st Test 2026: Live stream for free from anywhere",
+      "title": "How to watch South Africa vs Australia 1st Test 2026: Live stream day 2 for free from anywhere",
       "url": "https://www.whathifi.com/streaming-entertainment/how-to-watch/south-africa-vs-australia-1st-test-2026",
       "publishedAt": "2026-10-09T03:00:00.000Z",
       "author": "Krishi Chowdhary",
-      "description": "Australia's Test return to South Africa eight years on from the 2018 Sandpapergate",
-      "image": "https://cdn.mos.cms.futurecdn.net/ffqJZXUWuwuHzXwQm8nD76-2560-80.jpg",
+      "description": "Renshaw and Cummins hold the key for Australia after South Africa’s pacers dominate opening day",
+      "image": "https://cdn.mos.cms.futurecdn.net/xbBYotVRuQgFuAA26SUE6H-2560-80.jpg",
       "category": "串流播放器",
       "articleType": "其他"
     },
@@ -1509,6 +1564,17 @@
       "image": "https://cdn.mos.cms.futurecdn.net/9QSfVrZ7cGYp2mnGDCiJGj-1920-80.jpg",
       "category": "Soundbar",
       "articleType": "其他"
+    },
+    {
+      "source": "Tom's Guide",
+      "title": "I tested the Soundcore Space 2 Pro and it's a killer Bose alternative for $160 less",
+      "url": "https://www.tomsguide.com/audio/headphones/anker-soundcore-space-2-pro-review",
+      "publishedAt": "2026-10-03T06:30:00.000Z",
+      "author": "",
+      "description": "The Anker Soundcore Space 2 Pro provide great bass (if you’re a basshead) and supreme comfort, but the headline AI feature seemingly doesn’t work.",
+      "image": "https://cdn.mos.cms.futurecdn.net/TvcpKZ4tFVCLB6pzCsLQgR-1920-80.jpg",
+      "category": "耳機",
+      "articleType": "評測"
     },
     {
       "source": "BGR",
@@ -5721,127 +5787,6 @@
       "description": "Can Team USA end a decade-plus wait to lift the trophy on European soil?",
       "image": "https://cdn.mos.cms.futurecdn.net/hayu6KhetuCLmY5Za3sCJP-2560-80.jpg",
       "category": "串流播放器",
-      "articleType": "其他"
-    },
-    {
-      "source": "SoundGuys",
-      "title": "IKEA’s newest Bluetooth speaker looks like a Steam Machine",
-      "url": "https://www.soundguys.com/ikea-badkruka-bluetooth-speaker-162896/",
-      "publishedAt": "2026-09-10T19:55:38.000Z",
-      "author": "Ryan McNeal",
-      "description": "IKEA has released a new Bluetooth speaker called the Badkruka, which has a striking resemblance to Valve's Steam Machine.",
-      "image": "https://www.soundguys.com/wp-content/uploads/2026/09/IKEA-Badkruka-bluetooth-speaker.jpg",
-      "category": "喇叭",
-      "articleType": "新聞"
-    },
-    {
-      "source": "SoundGuys",
-      "title": "Nothing could be taking its headphones to the next level with the Headphone (1) Pro",
-      "url": "https://www.soundguys.com/nothing-headphone-1-pro-leak-162861/",
-      "publishedAt": "2026-09-10T18:54:49.000Z",
-      "author": "Shimul Sood",
-      "description": "Nothing's rumored Headphone (1) Pro could feature a three-driver setup, adaptive ANC, 60 hours of battery life, and a $399 price tag.",
-      "image": "https://www.soundguys.com/wp-content/uploads/2025/06/nothing-headphone-1-lifestyle-wearing_1.jpg",
-      "category": "耳機",
-      "articleType": "新聞"
-    },
-    {
-      "source": "SoundGuys",
-      "title": "ASUS ROG Cetra Open Wireless gets its first discount since launch",
-      "url": "https://www.soundguys.com/asus-rog-cetra-open-wireless-earbuds-deal-162841/",
-      "publishedAt": "2026-09-10T15:46:17.000Z",
-      "author": "Matt Horne",
-      "description": "Save 10% on the ASUS ROG Cetra Open Wireless, open-ear gaming earbuds with Bluetooth and low-latency 2.4GHz wireless.",
-      "image": "https://www.soundguys.com/wp-content/uploads/2026/03/ASUS-ROG-Cetra-Open-Wireless-Gaming-Earbuds-RGB-Lighting.jpg",
-      "category": "耳機",
-      "articleType": "新聞"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "Looking for noise-cancelling earbuds? This brilliant, Award-winning Sony pair has a new lowest price",
-      "url": "https://www.whathifi.com/headphones/wireless-earbuds/looking-for-noise-cancelling-earbuds-this-brilliant-award-winning-sony-pair-has-a-new-lowest-price",
-      "publishedAt": "2026-09-10T14:59:21.000Z",
-      "author": "Daniel Furn",
-      "description": "Prices and noise levels at an all-time low",
-      "image": "https://cdn.mos.cms.futurecdn.net/GSdfws3gCPzqQUEzjVNBoW-1920-80.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "SoundGuys",
-      "title": "The best audio products of IFA 2026",
-      "url": "https://www.soundguys.com/best-of-ifa-2026-162572/",
-      "publishedAt": "2026-09-10T13:59:52.000Z",
-      "author": "Chase Bernath",
-      "description": "The SoundGuys team checked out a lot of new earbuds, headphones, and other audio gear at IFA 2026. Here's our top picks.",
-      "image": "https://www.soundguys.com/wp-content/uploads/2026/09/Best-of-IFA-2026-SG.jpg",
-      "category": "耳機",
-      "articleType": "新聞"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "The iPhone Duo looks great for movie fans, but I'm still waiting for this proper Apple home cinema announcement – and my patience is wearing thin",
-      "url": "https://www.whathifi.com/streaming-entertainment/streaming-hardware/the-iphone-duo-looks-great-for-movie-fans-but-im-still-waiting-for-this-proper-apple-home-cinema-announcement-and-my-patience-is-wearing-thin",
-      "publishedAt": "2026-09-10T12:12:57.000Z",
-      "author": "Lewis Empson",
-      "description": "Good things come to those who wait, but I've been waiting long enough",
-      "image": "https://cdn.mos.cms.futurecdn.net/NSu57qmxErbcYPc3ZfsGLn-2560-80.jpg",
-      "category": "串流播放器",
-      "articleType": "新聞"
-    },
-    {
-      "source": "TechRadar",
-      "title": "Forget AirPods 5, Apple's most-anticipated new over-ear headphones could come as soon as this month",
-      "url": "https://www.techradar.com/audio/wireless-headphones/apples-big-airpods-5-launch-event-might-be-over-but-its-most-anticipated-headphones-may-well-arrive-later-this-month",
-      "publishedAt": "2026-09-10T10:15:32.000Z",
-      "author": "Tom Bedford",
-      "description": "Rumors point to the Beats 360 releasing later in September, thanks to a recent firmware update to the cans.",
-      "image": "https://cdn.mos.cms.futurecdn.net/dhYBHopZJvTnhXm4RvPCD8-2034-80.jpg",
-      "category": "耳機",
-      "articleType": "新聞"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "Heading to university this month? Don't leave home without these 12 hi-fi and home cinema essentials",
-      "url": "https://www.whathifi.com/av/heading-to-university-this-month-dont-leave-home-without-these-12-tech-essentials",
-      "publishedAt": "2026-09-10T10:09:19.000Z",
-      "author": "Daniel Furn",
-      "description": "Work hard, play hard",
-      "image": "https://cdn.mos.cms.futurecdn.net/ta5eALtsWSn4stNEyZHFxF-1920-80.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "Tom's Guide",
-      "title": "Yoto Player 4th Gen unveiled with 'Green Button' playlist feature — and there's a new Yoto mini player, too",
-      "url": "https://www.tomsguide.com/audio/yoto-player-4th-gen-unveiled-with-green-button-playlist-feature-and-theres-a-new-yoto-mini-player-too",
-      "publishedAt": "2026-09-10T09:00:00.000Z",
-      "author": "Jeff Parsons",
-      "description": "Parents, rejoice!",
-      "image": "https://cdn.mos.cms.futurecdn.net/xNzJFscLjP2p4gX3u4KwCB-2560-80.jpg",
-      "category": "其他音訊",
-      "articleType": "新聞"
-    },
-    {
-      "source": "TechRadar",
-      "title": "Apple's dual AirPods 5 rollout is like a board meeting where 'Let's just let them pick what they want to pay for' was the outcome — and I don't mind it",
-      "url": "https://www.techradar.com/phones/airpods-5-and-airpods-5-with-wireless-charging-are-like-a-greatest-hits-rollout-of-airpods-pro-just-without-the-hearing-health-or-heart-rate-modules",
-      "publishedAt": "2026-09-10T08:51:08.000Z",
-      "author": "Becky Scarrott",
-      "description": "Want to pay $20 / £20 more for on-stem volume swipes and an hour or stamina? Go ahead!",
-      "image": "https://cdn.mos.cms.futurecdn.net/DNvuhvN6HFCcZDCUbcqvAn-1942-80.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "SoundGuys",
-      "title": "Do we really need two AirPods 5? It all comes down to $20",
-      "url": "https://www.soundguys.com/airpods-5-model-differences-162800/",
-      "publishedAt": "2026-09-10T08:00:20.000Z",
-      "author": "Dave Carr",
-      "description": "Apple made ANC cheaper with the AirPods 5, but a $20 upsell for volume controls and wireless charging has me asking why.",
-      "image": "https://www.soundguys.com/wp-content/uploads/2026/09/AirPods-NYC-1-scaled.jpeg",
-      "category": "耳機",
       "articleType": "其他"
     }
   ]
