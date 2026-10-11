@@ -1,8 +1,19 @@
 {
-  "generatedAt": "2026-10-11T00:12:56.576Z",
+  "generatedAt": "2026-10-11T00:48:26.217Z",
   "days": 30,
-  "count": 526,
+  "count": 527,
   "articles": [
+    {
+      "source": "BGR",
+      "title": "Buying A HomePod? Here Are 5 Smart Speakers To Try Instead - BGR",
+      "url": "https://www.bgr.com/2278723/smart-speakers-try-instead-apple-homepod/",
+      "publishedAt": "2026-10-11T00:17:00.000Z",
+      "author": "José Adorno",
+      "description": "Instead of an Apple HomePod, people should check out the JBL Authentic 500, Google Home Speaker, Amazon Echo Studio2, Sonos Play, and Amazon Echo Dot Max.",
+      "image": "https://www.bgr.com/img/gallery/buying-a-homepod-here-are-5-smart-speakers-to-try-instead/l-intro-1791296801.jpg",
+      "category": "喇叭",
+      "articleType": "其他"
+    },
     {
       "source": "TechRadar",
       "title": "I test audio kit, and love these Ruark passive speakers' impeccable design and detailed sound — but you need a small room to enjoy them properly",
