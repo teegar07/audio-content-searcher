@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T22:18:43.773Z",
+  "generatedAt": "2026-10-13T23:13:49.167Z",
   "days": 30,
   "count": 541,
   "articles": [
@@ -210,17 +210,6 @@
       "description": "What Hi-Fi? Awards 2026",
       "image": "https://cdn.mos.cms.futurecdn.net/RfYtMYJd7DATCUMgVMRMTD-790-80.jpg",
       "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "Best turntables 2026",
-      "url": "https://www.whathifi.com/hi-fi/turntables/best-turntables-2026",
-      "publishedAt": "2026-10-13T10:50:00.000Z",
-      "author": "Alastair Stevenson",
-      "description": "What Hi-Fi? Awards 2026",
-      "image": "https://cdn.mos.cms.futurecdn.net/4dyKvNQuAJQ3ogNXDsiqiV-600-80.png",
-      "category": "黑膠／唱盤",
       "articleType": "其他"
     },
     {
@@ -441,6 +430,17 @@
       "description": "What Hi-Fi? Awards 2026",
       "image": "https://cdn.mos.cms.futurecdn.net/6iTBP29K6d4edFXUxYaSLX-790-80.jpg",
       "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Best turntables 2026",
+      "url": "https://www.whathifi.com/hi-fi/turntables/best-turntables-2026",
+      "publishedAt": "2026-10-13T10:50:00.000Z",
+      "author": "Alastair Stevenson",
+      "description": "What Hi-Fi? Awards 2026",
+      "image": "https://cdn.mos.cms.futurecdn.net/4dyKvNQuAJQ3ogNXDsiqiV-600-80.png",
+      "category": "黑膠／唱盤",
       "articleType": "其他"
     },
     {
