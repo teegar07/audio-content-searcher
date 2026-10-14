@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-13T23:32:38.227Z",
+  "generatedAt": "2026-10-14T00:16:20.842Z",
   "days": 30,
-  "count": 541,
+  "count": 540,
   "articles": [
     {
       "source": "The Verge",
@@ -1820,11 +1820,11 @@
     },
     {
       "source": "Tom's Guide",
-      "title": "Tonies Discount Code for Oct 2026 | 15% OFF",
+      "title": "Tonies Discount Code for Oct 2026 | 10% OFF",
       "url": "https://www.tomsguide.com/audio/tonies-coupons",
       "publishedAt": "2026-10-06T13:02:16.000Z",
       "author": "Nathan Walters",
-      "description": "Use one of our 8 Tonies discount codes at the checkout to save money on the popular screen-free audio players for kids",
+      "description": "Use one of our 6 Tonies discount codes at the checkout to save money on the popular screen-free audio players for kids",
       "image": "https://cdn.mos.cms.futurecdn.net/hWNjsm3utD9S7Hg9nFPRFc-2560-80.jpg",
       "category": "其他音訊",
       "articleType": "其他"
@@ -5941,17 +5941,6 @@
       "description": "Recently made the switch from Spotify or another music streamer to Apple Music? Here's how to make sure all your personal playlists make the journey with you.",
       "image": "https://www.bgr.com/img/gallery/heres-how-to-transfer-your-playlists-to-apple-music-from-other-platforms/l-intro-1789014351.jpg",
       "category": "串流播放器",
-      "articleType": "其他"
-    },
-    {
-      "source": "BGR",
-      "title": "Bluetooth Vs. Bluetooth LE: What's The Difference? - BGR",
-      "url": "https://www.bgr.com/2254369/bluetooth-vs-le-differences-explained/",
-      "publishedAt": "2026-09-13T23:47:00.000Z",
-      "author": "Faith Leroux",
-      "description": "You may have noticed some of your devices connect using Bluetooth LE, but what does it do differently than standard Bluetooth connectivity?",
-      "image": "https://www.bgr.com/img/gallery/bluetooth-vs-bluetooth-le-whats-the-difference/l-intro-1788989375.jpg",
-      "category": "其他音訊",
       "articleType": "其他"
     }
   ]
