@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T01:01:10.320Z",
+  "generatedAt": "2026-10-14T01:44:42.507Z",
   "days": 30,
   "count": 540,
   "articles": [
@@ -192,72 +192,6 @@
     },
     {
       "source": "What Hi-Fi?",
-      "title": "The What Hi-Fi? Awards 2026 winners have been revealed!",
-      "url": "https://www.whathifi.com/av/the-what-hi-fi-awards-2026-winners-have-been-revealed",
-      "publishedAt": "2026-10-13T10:50:00.000Z",
-      "author": "Alastair Stevenson",
-      "description": "But the fun’s just getting started",
-      "image": "https://cdn.mos.cms.futurecdn.net/Yh2jTxyFQbmuh7J7JMe8fZ-1446-80.jpg",
-      "category": "其他音訊",
-      "articleType": "新聞"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "Best accessories 2026",
-      "url": "https://www.whathifi.com/av/av-accessories/best-accessories-2026",
-      "publishedAt": "2026-10-13T10:50:00.000Z",
-      "author": "Alastair Stevenson",
-      "description": "What Hi-Fi? Awards 2026",
-      "image": "https://cdn.mos.cms.futurecdn.net/RfYtMYJd7DATCUMgVMRMTD-790-80.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "Best portable music players 2026",
-      "url": "https://www.whathifi.com/hi-fi/portable-music-players/best-portable-music-players-2026",
-      "publishedAt": "2026-10-13T10:50:00.000Z",
-      "author": "Alastair Stevenson",
-      "description": "What Hi-Fi? Awards 2026",
-      "image": "https://cdn.mos.cms.futurecdn.net/ZqT5FWXqX6Uz7xf7ZSLZyF-1920-80.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "Best streaming services 2026",
-      "url": "https://www.whathifi.com/streaming-entertainment/best-streaming-services-2026",
-      "publishedAt": "2026-10-13T10:50:00.000Z",
-      "author": "Alastair Stevenson",
-      "description": "What Hi-Fi? Awards 2026",
-      "image": "https://cdn.mos.cms.futurecdn.net/6thQ7SFxLP8Rp7CorKTutj-2000-80.png",
-      "category": "串流播放器",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "Best smartphones 2026",
-      "url": "https://www.whathifi.com/smartphones-tablets/smartphones/best-smartphones-2026",
-      "publishedAt": "2026-10-13T10:50:00.000Z",
-      "author": "Alastair Stevenson",
-      "description": "What Hi-Fi? Awards 2026",
-      "image": "https://cdn.mos.cms.futurecdn.net/5AvZ2uyDUps4EyQP7kKrTf-1920-80.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "Best DACs 2026",
-      "url": "https://www.whathifi.com/hi-fi/dacs/best-dacs-2026",
-      "publishedAt": "2026-10-13T10:50:00.000Z",
-      "author": "Alastair Stevenson",
-      "description": "What Hi-Fi? Awards 2026",
-      "image": "https://cdn.mos.cms.futurecdn.net/V8qb8gPJvNY37EmEbrgwjX-1920-80.jpg",
-      "category": "DAC／擴大機",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
       "title": "Best radios 2026",
       "url": "https://www.whathifi.com/hi-fi/radio/best-radios-2026",
       "publishedAt": "2026-10-13T10:50:00.000Z",
@@ -342,6 +276,72 @@
       "description": "What Hi-Fi? Awards 2026",
       "image": "https://cdn.mos.cms.futurecdn.net/Vxf97wezjMN6KuNeuspynm-1920-80.jpg",
       "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "The What Hi-Fi? Awards 2026 winners have been revealed!",
+      "url": "https://www.whathifi.com/av/the-what-hi-fi-awards-2026-winners-have-been-revealed",
+      "publishedAt": "2026-10-13T10:50:00.000Z",
+      "author": "Alastair Stevenson",
+      "description": "But the fun’s just getting started",
+      "image": "https://cdn.mos.cms.futurecdn.net/Yh2jTxyFQbmuh7J7JMe8fZ-1446-80.jpg",
+      "category": "其他音訊",
+      "articleType": "新聞"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Best accessories 2026",
+      "url": "https://www.whathifi.com/av/av-accessories/best-accessories-2026",
+      "publishedAt": "2026-10-13T10:50:00.000Z",
+      "author": "Alastair Stevenson",
+      "description": "What Hi-Fi? Awards 2026",
+      "image": "https://cdn.mos.cms.futurecdn.net/RfYtMYJd7DATCUMgVMRMTD-790-80.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Best portable music players 2026",
+      "url": "https://www.whathifi.com/hi-fi/portable-music-players/best-portable-music-players-2026",
+      "publishedAt": "2026-10-13T10:50:00.000Z",
+      "author": "Alastair Stevenson",
+      "description": "What Hi-Fi? Awards 2026",
+      "image": "https://cdn.mos.cms.futurecdn.net/ZqT5FWXqX6Uz7xf7ZSLZyF-1920-80.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Best streaming services 2026",
+      "url": "https://www.whathifi.com/streaming-entertainment/best-streaming-services-2026",
+      "publishedAt": "2026-10-13T10:50:00.000Z",
+      "author": "Alastair Stevenson",
+      "description": "What Hi-Fi? Awards 2026",
+      "image": "https://cdn.mos.cms.futurecdn.net/6thQ7SFxLP8Rp7CorKTutj-2000-80.png",
+      "category": "串流播放器",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Best smartphones 2026",
+      "url": "https://www.whathifi.com/smartphones-tablets/smartphones/best-smartphones-2026",
+      "publishedAt": "2026-10-13T10:50:00.000Z",
+      "author": "Alastair Stevenson",
+      "description": "What Hi-Fi? Awards 2026",
+      "image": "https://cdn.mos.cms.futurecdn.net/5AvZ2uyDUps4EyQP7kKrTf-1920-80.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Best DACs 2026",
+      "url": "https://www.whathifi.com/hi-fi/dacs/best-dacs-2026",
+      "publishedAt": "2026-10-13T10:50:00.000Z",
+      "author": "Alastair Stevenson",
+      "description": "What Hi-Fi? Awards 2026",
+      "image": "https://cdn.mos.cms.futurecdn.net/V8qb8gPJvNY37EmEbrgwjX-1920-80.jpg",
+      "category": "DAC／擴大機",
       "articleType": "其他"
     },
     {
