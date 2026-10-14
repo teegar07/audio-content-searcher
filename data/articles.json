@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-14T22:04:15.260Z",
+  "generatedAt": "2026-10-14T22:51:09.720Z",
   "days": 30,
-  "count": 541,
+  "count": 555,
   "articles": [
     {
       "source": "TechRadar",
@@ -632,17 +632,6 @@
     },
     {
       "source": "What Hi-Fi?",
-      "title": "Best radios 2026",
-      "url": "https://www.whathifi.com/hi-fi/radio/best-radios-2026",
-      "publishedAt": "2026-10-13T10:50:00.000Z",
-      "author": "Alastair Stevenson",
-      "description": "What Hi-Fi? Awards 2026",
-      "image": "https://cdn.mos.cms.futurecdn.net/J8xkGSEy92zM549oL8VfCQ-1920-80.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
       "title": "Best tablets 2026",
       "url": "https://www.whathifi.com/smartphones-tablets/tablets/best-tablets-2026",
       "publishedAt": "2026-10-13T10:50:00.000Z",
@@ -687,17 +676,6 @@
     },
     {
       "source": "What Hi-Fi?",
-      "title": "Best projectors 2026",
-      "url": "https://www.whathifi.com/tv-home-cinema/projectors/best-projectors-2026",
-      "publishedAt": "2026-10-13T10:50:00.000Z",
-      "author": "Alastair Stevenson",
-      "description": "What Hi-Fi? Awards 2026",
-      "image": "https://cdn.mos.cms.futurecdn.net/rnmwCz2x5AxPyZNmRSf6SV-2126-80.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
       "title": "Best turntables 2026",
       "url": "https://www.whathifi.com/hi-fi/turntables/best-turntables-2026",
       "publishedAt": "2026-10-13T10:50:00.000Z",
@@ -737,6 +715,28 @@
       "author": "Alastair Stevenson",
       "description": "What Hi-Fi? Awards 2026",
       "image": "https://cdn.mos.cms.futurecdn.net/fra7k8xeqAqWJTovmfe5fX-1920-80.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Best radios 2026",
+      "url": "https://www.whathifi.com/hi-fi/radio/best-radios-2026",
+      "publishedAt": "2026-10-13T10:50:00.000Z",
+      "author": "Alastair Stevenson",
+      "description": "What Hi-Fi? Awards 2026",
+      "image": "https://cdn.mos.cms.futurecdn.net/J8xkGSEy92zM549oL8VfCQ-1920-80.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Best projectors 2026",
+      "url": "https://www.whathifi.com/tv-home-cinema/projectors/best-projectors-2026",
+      "publishedAt": "2026-10-13T10:50:00.000Z",
+      "author": "Alastair Stevenson",
+      "description": "What Hi-Fi? Awards 2026",
+      "image": "https://cdn.mos.cms.futurecdn.net/rnmwCz2x5AxPyZNmRSf6SV-2126-80.jpg",
       "category": "其他音訊",
       "articleType": "其他"
     },
@@ -1181,6 +1181,28 @@
       "articleType": "評測"
     },
     {
+      "source": "SoundGuys",
+      "title": "Best noise canceling earbuds 2026: The top ANC we've tested",
+      "url": "https://www.soundguys.com/best-noise-cancelling-wireless-earbuds-27207/",
+      "publishedAt": "2026-10-09T17:00:51.000Z",
+      "author": "Adam Birney",
+      "description": "We tested over 100 noise canceling earbuds to determine which ones are the best, and the top-performing earbuds might surprise you.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/02/SG_Sony-WF-1000XM6-vs-Apple-AirPods-Pro-3-Thumbnail-3.jpg",
+      "category": "耳機",
+      "articleType": "評測"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "Price drop reduces the Samsung Galaxy Buds 4 to just $142",
+      "url": "https://www.soundguys.com/samsung-galaxy-buds-4-deal-164545/",
+      "publishedAt": "2026-10-09T16:54:46.000Z",
+      "author": "Matt Horne",
+      "description": "Samsung’s Galaxy Buds 4 are back to their all-time low with a 21% discount, making this a strong earbuds deal.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/03/Samsung-Galaxy-Buds4-18.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
       "source": "TechRadar",
       "title": "IKEA has revealed a cheap LED Christmas tree — but I think its matchstick-style floor lamp is an even better festive buy",
       "url": "https://www.techradar.com/home/smart-lights/ikeas-led-christmas-tree-has-landed-for-festive-duty-but-its-matchstick-inspired-floor-lamp-looks-like-an-even-better-smart-plug-combo",
@@ -1210,6 +1232,17 @@
       "author": "Daniel Furn",
       "description": "It's a great week for TV deals",
       "image": "https://cdn.mos.cms.futurecdn.net/h7Em2K7oHZ3jDH9t6yoygS-1920-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "It's not to late to score $120 off the AirPods Max 2 — no Prime subscription required",
+      "url": "https://www.soundguys.com/airpods-max-2-prime-week-164536/",
+      "publishedAt": "2026-10-09T15:03:41.000Z",
+      "author": "Matt Horne",
+      "description": "Save 22% off the RRP on Apple’s new AirPods Max 2, with H2-powered upgrades, lossless USB-C audio, and 4.5-star ratings.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/04/apple-airpods-max-2-hero-image-scaled.jpg",
       "category": "耳機",
       "articleType": "其他"
     },
@@ -1291,6 +1324,28 @@
       "articleType": "其他"
     },
     {
+      "source": "SoundGuys",
+      "title": "I tried these $1399 IEMs for gaming, and they perform better than expected",
+      "url": "https://www.soundguys.com/i-tried-these-1399-iems-for-gaming-and-they-perform-better-than-expected-163479/",
+      "publishedAt": "2026-10-09T09:00:13.000Z",
+      "author": "Jhaycee Calvez",
+      "description": "The 64 Audio Solo is a planar-magnetic IEM that costs $ 1,400. Will you get a good gaming experience, or only for critical music listening?",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/10/64-Audio-Solo-Top-Down-IEM-only-scaled.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "I get the appeal of the Bose Sport Open Earbuds, just not at $199",
+      "url": "https://www.soundguys.com/i-get-the-appeal-of-the-bose-sport-open-earbuds-just-not-at-199-164148/",
+      "publishedAt": "2026-10-09T09:00:10.000Z",
+      "author": "Dave Carr",
+      "description": "Bose Sport Open Earbuds keep you aware during workouts, but at $199, these dedicated cardio earbuds are best bought on sale.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/10/Bose-Sport-Open-Earbuds-1-1-scaled.jpeg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
       "source": "TechRadar",
       "title": "'Please, no library or AI music. Love your game, love your handiwork' — Control Resonant composer suggests studios should appreciate music more if they 'value and respect your IP and your game'",
       "url": "https://www.techradar.com/gaming/control-resonant-composer-says-studios-should-avoid-ai-music-and-care-more-about-the-soundtrack-if-they-value-and-respect-your-ip-and-your-game-respect-the-client-the-gamers-the-fans-dammit",
@@ -1335,6 +1390,17 @@
       "articleType": "其他"
     },
     {
+      "source": "SoundGuys",
+      "title": "Beats 360 are the Beats over-ear headphones I've always wanted, but they're no Studio Pro",
+      "url": "https://www.soundguys.com/beats-360-review-163545/",
+      "publishedAt": "2026-10-08T21:48:22.000Z",
+      "author": "Brady Snyder",
+      "description": "The Beats 360 are comfortable and customizable, but the lack of lossless audio might feel like a downgrade compared to Studio Pro.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/09/Beats-360-review-8-scaled.jpg",
+      "category": "耳機",
+      "articleType": "評測"
+    },
+    {
       "source": "BGR",
       "title": "This Hidden iPhone Feature Can Drastically Improve Audio Quality In Videos - BGR",
       "url": "https://www.bgr.com/2276353/audio-mix-iphone-feature-to-improve-audio-quality-in-videos/",
@@ -1346,6 +1412,39 @@
       "articleType": "其他"
     },
     {
+      "source": "SoundGuys",
+      "title": "I've tested the top clip-on earbuds of 2026, and these are the ones worth buying",
+      "url": "https://www.soundguys.com/best-clip-on-earbuds-2026-155602/",
+      "publishedAt": "2026-10-08T21:01:03.000Z",
+      "author": "Adam Birney",
+      "description": "HUAWEI, Sony, and Bose manufacture some of the best clip-on earbuds on the market. Here's how they stack up in 2026.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/10/best-clip-on-earbuds-scaled.jpg",
+      "category": "耳機",
+      "articleType": "評測"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "Timekettle LiveTalk brings real-time translation to your everyday earbuds",
+      "url": "https://www.soundguys.com/timekettle-livetalk-164310/",
+      "publishedAt": "2026-10-08T18:00:40.000Z",
+      "author": "Chase Bernath",
+      "description": "From lectures abroad to your daily playlist, these AI interpreter earbuds are designed to do more than translate a quick conversation.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/10/Timekettle-Livetalk-earbud-held-in-hand-2-scaled.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "I've tested sleep earbuds for years, and these are the best headphones for sleeping in 2026",
+      "url": "https://www.soundguys.com/best-headphones-for-sleeping-2-164435/",
+      "publishedAt": "2026-10-08T15:59:31.000Z",
+      "author": "Adam Birney",
+      "description": "The best earbuds and headphones for sleeping in 2026, from noise canceling sleep buds to soft headbands, picked for comfort and quiet.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/01/anker-soundcore-sleep-a30-special-two-pairs-in-hand-scaled-e1767768228527.jpg",
+      "category": "耳機",
+      "articleType": "評測"
+    },
+    {
       "source": "What Hi-Fi?",
       "title": "The iPhone 18 Pro looks almost identical to its predecessor – so why does it look and sound better?",
       "url": "https://www.whathifi.com/smartphones-tablets/smartphones/apple-iphone-18-pro",
@@ -1354,6 +1453,17 @@
       "description": "A superb portable AV device, with subtle but worthwhile improvements to picture and sound",
       "image": "https://cdn.mos.cms.futurecdn.net/7uL2vqc3zwJuFGVB8HjjAZ-1920-80.jpg",
       "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "The Galaxy Buds 3 FE are still at their $99.99 Prime Day price",
+      "url": "https://www.soundguys.com/galaxy-buds-3-fe-deal-164493/",
+      "publishedAt": "2026-10-08T15:26:50.000Z",
+      "author": "Matt Horne",
+      "description": "The Samsung Galaxy Buds 3 FE are $50 off at Amazon, making these feature-packed Galaxy earbuds a strong post-Prime Day buy.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2023/10/samsung-galaxy-buds-fe-in-case-1000w-563h.jpg-1.webp",
+      "category": "耳機",
       "articleType": "其他"
     },
     {
@@ -1434,6 +1544,17 @@
       "articleType": "新聞"
     },
     {
+      "source": "SoundGuys",
+      "title": "AirPods 4 owners, most of you can skip the AirPods 5",
+      "url": "https://www.soundguys.com/airpods-4-vs-airpods-5-164235/",
+      "publishedAt": "2026-10-08T09:00:29.000Z",
+      "author": "Dave Carr",
+      "description": "AirPods 4 vs AirPods 5: We compare sound, noise canceling, features, and more to see whether AirPods 4 owners should upgrade.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/10/AirPods-4-w-Active-Noise-Cancellation-vs-AirPods-5-with-Wireless-Charging-Case-4-scaled.jpeg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
       "source": "Tom's Guide",
       "title": "Cambridge Audio L/R X review: Big on bass, big on features, big on price",
       "url": "https://www.tomsguide.com/audio/speakers/cambridge-audio-l-r-x-review",
@@ -1511,6 +1632,17 @@
       "articleType": "其他"
     },
     {
+      "source": "SoundGuys",
+      "title": "The best Bluetooth speakers in 2026: Which should you buy?",
+      "url": "https://www.soundguys.com/best-bluetooth-speakers-2488/",
+      "publishedAt": "2026-10-07T16:16:50.000Z",
+      "author": "Dave Carr",
+      "description": "Wireless speakers can fill a practical role in your day to day life, but it's hard to narrow down the best Bluetooth speakers. Let us help!",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/01/Best-BT-speaker-2026-1-scaled.jpeg",
+      "category": "喇叭",
+      "articleType": "其他"
+    },
+    {
       "source": "TechRadar",
       "title": "I'm sick of sleeping with my AirPods in when listening to audiobooks — so I'm about to buy these flatter, more comfortable Anker Soundcore Sleep A30 earbuds",
       "url": "https://www.techradar.com/health-fitness/sleep/airpods-are-great-but-theyre-a-nightmare-for-sleeping-in-while-i-listen-to-audiobooks-which-is-why-im-getting-these-soundcore-sleep-a30-earbuds-on-prime-day",
@@ -1518,6 +1650,17 @@
       "author": "Matt Evans",
       "description": "I listen to audiobooks at night because I'm secretly a child who loves a bedtime story — which is why I'm getting these Soundcore Sleep A30 earbuds to replace my uncomfortable AirPods.",
       "image": "https://cdn.mos.cms.futurecdn.net/88fCKhhEmWLkdm3SnoJA5o-2560-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "Prime Day plunges the TCL CrystalClip buds to an all-time low $49.99",
+      "url": "https://www.soundguys.com/tcl-crystalclip-earbuds-prime-day-164427/",
+      "publishedAt": "2026-10-07T16:15:24.000Z",
+      "author": "Matt Horne",
+      "description": "Amazon cuts the TCL CrystalClip by 38% off RRP, with open-ear audio, 10.8mm drivers, and up to 36 hours with the case.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/07/TCL-CrystalClip-Open-Ear-Clip-On-Earbuds-Press-Image.jpg",
       "category": "耳機",
       "articleType": "其他"
     },
@@ -1618,6 +1761,17 @@
       "description": "The best Prime Day soundbar and soundbar bundle deals in the US and UK as picked by our cinema-loving team",
       "image": "https://cdn.mos.cms.futurecdn.net/Zf3iRb8uHm7vEcBsunqdNP-2000-80.jpg",
       "category": "Soundbar",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "Deal: Sonos Ace headphones hit a 2026-low price with $160 off",
+      "url": "https://www.soundguys.com/sonos-ace-headphones-deal-164017/",
+      "publishedAt": "2026-10-07T13:04:15.000Z",
+      "author": "Matt Horne",
+      "description": "Sonos Ace falls to $239 at Amazon, its lowest price this year, with ANC, spatial audio, and up to 30 hours of battery life.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2024/05/DSC00016-scaled.jpg",
+      "category": "耳機",
       "articleType": "其他"
     },
     {
