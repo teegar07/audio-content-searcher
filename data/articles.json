@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-14T23:47:28.723Z",
+  "generatedAt": "2026-10-15T00:23:35.422Z",
   "days": 30,
-  "count": 557,
+  "count": 555,
   "articles": [
     {
       "source": "What Hi-Fi?",
@@ -665,17 +665,6 @@
     },
     {
       "source": "What Hi-Fi?",
-      "title": "Best radios 2026",
-      "url": "https://www.whathifi.com/hi-fi/radio/best-radios-2026",
-      "publishedAt": "2026-10-13T10:50:00.000Z",
-      "author": "Alastair Stevenson",
-      "description": "What Hi-Fi? Awards 2026",
-      "image": "https://cdn.mos.cms.futurecdn.net/J8xkGSEy92zM549oL8VfCQ-1920-80.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
       "title": "Best tablets 2026",
       "url": "https://www.whathifi.com/smartphones-tablets/tablets/best-tablets-2026",
       "publishedAt": "2026-10-13T10:50:00.000Z",
@@ -720,17 +709,6 @@
     },
     {
       "source": "What Hi-Fi?",
-      "title": "Best projectors 2026",
-      "url": "https://www.whathifi.com/tv-home-cinema/projectors/best-projectors-2026",
-      "publishedAt": "2026-10-13T10:50:00.000Z",
-      "author": "Alastair Stevenson",
-      "description": "What Hi-Fi? Awards 2026",
-      "image": "https://cdn.mos.cms.futurecdn.net/rnmwCz2x5AxPyZNmRSf6SV-2126-80.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
       "title": "Best turntables 2026",
       "url": "https://www.whathifi.com/hi-fi/turntables/best-turntables-2026",
       "publishedAt": "2026-10-13T10:50:00.000Z",
@@ -770,6 +748,28 @@
       "author": "Alastair Stevenson",
       "description": "What Hi-Fi? Awards 2026",
       "image": "https://cdn.mos.cms.futurecdn.net/fra7k8xeqAqWJTovmfe5fX-1920-80.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Best radios 2026",
+      "url": "https://www.whathifi.com/hi-fi/radio/best-radios-2026",
+      "publishedAt": "2026-10-13T10:50:00.000Z",
+      "author": "Alastair Stevenson",
+      "description": "What Hi-Fi? Awards 2026",
+      "image": "https://cdn.mos.cms.futurecdn.net/J8xkGSEy92zM549oL8VfCQ-1920-80.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Best projectors 2026",
+      "url": "https://www.whathifi.com/tv-home-cinema/projectors/best-projectors-2026",
+      "publishedAt": "2026-10-13T10:50:00.000Z",
+      "author": "Alastair Stevenson",
+      "description": "What Hi-Fi? Awards 2026",
+      "image": "https://cdn.mos.cms.futurecdn.net/rnmwCz2x5AxPyZNmRSf6SV-2126-80.jpg",
       "category": "其他音訊",
       "articleType": "其他"
     },
@@ -6107,28 +6107,6 @@
       "image": "https://www.soundguys.com/wp-content/uploads/2026/09/Moondrop-Chu-III-close-up-scaled.jpg",
       "category": "耳機",
       "articleType": "評測"
-    },
-    {
-      "source": "TechRadar",
-      "title": "I tried the new free 'bit-perfect' Hi-Res Audio player on the Mac App Store — it's a great idea for an open-source tool if you have an elite DAC, but I hit some rough edges",
-      "url": "https://www.techradar.com/audio/dacs/this-new-free-bit-perfect-hi-res-audio-player-for-mac-was-apparently-a-nightmare-to-make-but-could-become-the-lossless-player-of-your-dreams",
-      "publishedAt": "2026-09-15T00:00:00.000Z",
-      "author": "Carrie Marshall",
-      "description": "YM Pro is a Mac music player that bypasses the system mixer and communicates directly with your DAC",
-      "image": "https://cdn.mos.cms.futurecdn.net/uLbazrHsUiBeNkANSwecd4-1080-80.jpg",
-      "category": "DAC／擴大機",
-      "articleType": "其他"
-    },
-    {
-      "source": "BGR",
-      "title": "The 3 Most Common Problems With TCL Soundbars (And How To Fix Them) - BGR",
-      "url": "https://www.bgr.com/2255552/how-to-fix-tcl-soundbars-most-common-problems/",
-      "publishedAt": "2026-09-14T23:47:00.000Z",
-      "author": "Nick Woodard",
-      "description": "TCL soundbars are similarly in affordable tiers like its TV counterparts, but they fall prey to many similar faults that other sound systems suffer from.",
-      "image": "https://www.bgr.com/img/gallery/the-3-most-common-problems-with-tcl-soundbars-and-how-to-fix-them/l-intro-1788967924.jpg",
-      "category": "Soundbar",
-      "articleType": "其他"
     }
   ]
 }
