@@ -1,8 +1,19 @@
 {
-  "generatedAt": "2026-10-15T21:57:14.269Z",
+  "generatedAt": "2026-10-15T22:48:58.204Z",
   "days": 30,
   "count": 549,
   "articles": [
+    {
+      "source": "BGR",
+      "title": "YouTube Is Tackling A Big Problem With Music Transparency - BGR",
+      "url": "https://www.bgr.com/2288243/youtube-big-problem-with-ai-music-content-tags/",
+      "publishedAt": "2026-10-15T22:17:00.000Z",
+      "author": "Suzanne Bonnett",
+      "description": "For once, fans, artists, and the music industry agree that something needs to change, and YouTube Music is taking a big step toward making them happy.",
+      "image": "https://www.bgr.com/img/gallery/youtube-is-tackling-a-big-problem-with-music-transparency/l-intro-1792096905.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
     {
       "source": "Tom's Guide",
       "title": "AI-generated music is flooding streaming services — here's how YouTube Music is fighting back",
@@ -24,17 +35,6 @@
       "image": "https://www.soundguys.com/wp-content/uploads/2026/09/nothing-headphone-1-pro-hero.jpg",
       "category": "耳機",
       "articleType": "評測"
-    },
-    {
-      "source": "The Verge",
-      "title": "Sony’s WH-1000XM6 headphones are $130 off today only",
-      "url": "https://www.theverge.com/gadgets/1012173/sony-wh-1000xm6-headphones-deal-sale",
-      "publishedAt": "2026-10-15T17:10:58.000Z",
-      "author": "Sheena Vasani",
-      "description": "The deal ends tonight.",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/257746_Sony_WH-1000XM6_AKrales_0047.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "category": "耳機",
-      "articleType": "其他"
     },
     {
       "source": "TechRadar",
