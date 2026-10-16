@@ -1,8 +1,30 @@
 {
-  "generatedAt": "2026-10-16T20:33:15.045Z",
+  "generatedAt": "2026-10-16T21:53:28.083Z",
   "days": 30,
-  "count": 547,
+  "count": 549,
   "articles": [
+    {
+      "source": "SoundGuys",
+      "title": "TCL S55H sound bar gets a solid $51 Amazon discount",
+      "url": "https://www.soundguys.com/tcl-s55h-sound-bar-deal-164880/",
+      "publishedAt": "2026-10-16T21:19:40.000Z",
+      "author": "Matt Horne",
+      "description": "The TCL S55H sound bar drops to $108.99 on Amazon, bringing Dolby Atmos, a wireless subwoofer, and HDMI eARC for less.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/10/TCL-S55H-Sound-Bar-with-Wireless-Subwoofer-Press-Image.jpg",
+      "category": "喇叭",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "How to watch Australia vs New Zealand 2nd Test online from anywhere: free Bledisloe Cup rugby live streams as Wallabies seek revenge",
+      "url": "https://www.whathifi.com/streaming-entertainment/how-to-watch/australia-vs-new-free-bledisloe-cup-2026",
+      "publishedAt": "2026-10-16T21:00:00.000Z",
+      "author": "James Roberts",
+      "description": "The All Blacks have retained the trophy but the series is still alive",
+      "image": "https://cdn.mos.cms.futurecdn.net/Pgwn2mHUAygy5c6WDoA8uC-2560-80.jpg",
+      "category": "串流播放器",
+      "articleType": "其他"
+    },
     {
       "source": "SoundGuys",
       "title": "I've tested dozens of workout earbuds, and these are the best in 2026",
@@ -951,17 +973,6 @@
     },
     {
       "source": "What Hi-Fi?",
-      "title": "Best soundbars 2026",
-      "url": "https://www.whathifi.com/tv-home-cinema/soundbars/best-soundbars-2026",
-      "publishedAt": "2026-10-13T10:50:00.000Z",
-      "author": "Alastair Stevenson",
-      "description": "What Hi-Fi? Awards 2026",
-      "image": "https://cdn.mos.cms.futurecdn.net/TbhwWdwYNH857M6E2kKKkk-1920-80.jpg",
-      "category": "Soundbar",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
       "title": "Best Blu-ray players 2026",
       "url": "https://www.whathifi.com/tv-home-cinema/blu-ray-players/best-blu-ray-players-2026",
       "publishedAt": "2026-10-13T10:50:00.000Z",
@@ -1002,6 +1013,17 @@
       "description": "What Hi-Fi? Awards 2026",
       "image": "https://cdn.mos.cms.futurecdn.net/fqxbhG3fra5x6iFeikzF24-1920-80.jpg",
       "category": "喇叭",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Best soundbars 2026",
+      "url": "https://www.whathifi.com/tv-home-cinema/soundbars/best-soundbars-2026",
+      "publishedAt": "2026-10-13T10:50:00.000Z",
+      "author": "Alastair Stevenson",
+      "description": "What Hi-Fi? Awards 2026",
+      "image": "https://cdn.mos.cms.futurecdn.net/TbhwWdwYNH857M6E2kKKkk-1920-80.jpg",
+      "category": "Soundbar",
       "articleType": "其他"
     },
     {
