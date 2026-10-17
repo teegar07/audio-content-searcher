@@ -1,8 +1,96 @@
 {
-  "generatedAt": "2026-10-17T01:13:15.683Z",
+  "generatedAt": "2026-10-17T20:05:52.280Z",
   "days": 30,
-  "count": 549,
+  "count": 537,
   "articles": [
+    {
+      "source": "TechRadar",
+      "title": "I spent two weeks with those wacky headphone-loudspeaker hybrids, but they're the easiest 'pass' recommendation in a long time",
+      "url": "https://www.techradar.com/audio/wireless-headphones/i-spent-two-weeks-with-those-wacky-headphone-loudspeaker-hybrids-but-theyre-the-easiest-pass-recommendation-in-a-long-time",
+      "publishedAt": "2026-10-17T17:00:00.000Z",
+      "author": "",
+      "description": "Shake it up TDM, now, twist and shout",
+      "image": "https://cdn.mos.cms.futurecdn.net/gW797biDfwYwUgbHneiMTe-2000-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "Engadget",
+      "title": "How many watts should your Bluetooth speaker have? - Engadget",
+      "url": "https://www.engadget.com/2284027/how-many-watts-bluetooth-speaker-need/",
+      "publishedAt": "2026-10-17T14:00:00.000Z",
+      "author": "Calvin Wankhede",
+      "description": "Speaker power is commonly expressed using two ratings: RMS (root mean square) power and peak power. Here's what you need to know.",
+      "image": "https://www.engadget.com/img/gallery/how-many-watts-should-your-bluetooth-speaker-have/l-intro-1791534759.jpg",
+      "category": "喇叭",
+      "articleType": "其他"
+    },
+    {
+      "source": "The Verge",
+      "title": "Wired earbuds are having a moment, and Bose is here for it",
+      "url": "https://www.theverge.com/tech/1013320/bose-noise-cancelling-wired-earbuds-review",
+      "publishedAt": "2026-10-17T13:00:00.000Z",
+      "author": "John Higgins",
+      "description": "Wired? Inspired.",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268806_Bose-Noise-Cancelling-Wired-Earbuds_1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "category": "耳機",
+      "articleType": "評測"
+    },
+    {
+      "source": "Tom's Guide",
+      "title": "I ran 40 miles in the Brooks Ghost Amp, and I’d actually buy it over the Ghost 18",
+      "url": "https://www.tomsguide.com/wellness/running/i-ran-40-miles-in-the-brooks-ghost-amp-and-id-actually-buy-it-over-the-ghost-18",
+      "publishedAt": "2026-10-17T09:30:00.000Z",
+      "author": "",
+      "description": "The Amp breathes new energy into the Ghost line-up",
+      "image": "https://cdn.mos.cms.futurecdn.net/DgsvuRDTr5A2WkK2ghMUYg-2000-80.jpg",
+      "category": "DAC／擴大機",
+      "articleType": "其他"
+    },
+    {
+      "source": "Tom's Guide",
+      "title": "I would never spend over $300 on wireless earbuds — here's why (most of) you shouldn't either",
+      "url": "https://www.tomsguide.com/audio/earbuds/i-would-never-spend-over-usd300-on-wireless-earbuds-heres-why-most-of-you-shouldnt-either",
+      "publishedAt": "2026-10-17T09:00:00.000Z",
+      "author": "Erin Bashford",
+      "description": "50 pairs of earbuds/headphones later...",
+      "image": "https://cdn.mos.cms.futurecdn.net/pVaATfW7eEWZ8BsUTWR7Ed-2000-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Now Showing: 4 movies and shows we've been using to show off the newest home cinema products this month",
+      "url": "https://www.whathifi.com/av/now-showing-4-movies-and-shows-weve-been-using-to-show-off-the-newest-home-cinema-products-this-month",
+      "publishedAt": "2026-10-17T08:30:00.000Z",
+      "author": "Robyn Quick",
+      "description": "Featuring two blood-curdling entries just in time for Halloween",
+      "image": "https://cdn.mos.cms.futurecdn.net/aLTJUtHXDmPcpHPvazm8b8-1920-80.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "Tom's Guide",
+      "title": "I use 7 ChatGPT entertainment plugins every day — and these prompts help them deliver the best music and movie recommendations",
+      "url": "https://www.tomsguide.com/ai/i-use-these-7-chatgpt-entertainment-plugins-every-day-and-these-prompts-help-them-deliver-the-best-music-and-movie-recommendations",
+      "publishedAt": "2026-10-17T05:15:00.000Z",
+      "author": "Elton Jones",
+      "description": "Building better playlists and adding more movies to my streaming queues, thanks to AI",
+      "image": "https://cdn.mos.cms.futurecdn.net/ThEVo67v8BFSTb5kuVJ7fP-2560-80.jpg",
+      "category": "串流播放器",
+      "articleType": "其他"
+    },
+    {
+      "source": "BGR",
+      "title": "5 Amazon Finds For The Ultimate Music Production Starter Kit - BGR",
+      "url": "https://www.bgr.com/2284384/amazon-finds-ultimate-music-production-starter-kit/",
+      "publishedAt": "2026-10-17T01:17:00.000Z",
+      "author": "Nichols deCourville",
+      "description": "IK Multimedia makes a device that's great for connecting an instrument to MacBooks, but a MIDI keyboard controller from Akai can expand instrumentation options.",
+      "image": "https://www.bgr.com/img/gallery/5-amazon-finds-for-the-ultimate-music-production-starter-kit/l-intro-1791828718.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
     {
       "source": "TechRadar",
       "title": "The headphones that transmit bass through your skin just got an upgraded version — and it's no gimmick: we said the first model 'recreates the experience of being at a live gig much better than I could've imagined'",
@@ -356,17 +444,6 @@
       "articleType": "其他"
     },
     {
-      "source": "Engadget",
-      "title": "YouTube is reportedly gearing up to offer audiobooks - Engadget",
-      "url": "https://www.engadget.com/2287331/youtube-audiobook-offering-rumor/",
-      "publishedAt": "2026-10-15T10:07:37.000Z",
-      "author": "Mariella Moon",
-      "description": "YouTube is already talking to publishers about offering audiobooks on its platform, The Wall Street Journal says.",
-      "image": "https://www.engadget.com/img/gallery/youtube-is-reportedly-gearing-up-to-offer-audiobooks/l-intro-1792058722.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
       "source": "SoundGuys",
       "title": "The Sennheiser Momentum True Wireless 5 made me realize I'm a stem guy",
       "url": "https://www.soundguys.com/the-sennheiser-momentum-true-wireless-5-made-me-realize-im-a-stem-guy-164644/",
@@ -401,17 +478,6 @@
     },
     {
       "source": "What Hi-Fi?",
-      "title": "Hands on: Focal Mu-so Utopia: hands on review",
-      "url": "https://www.whathifi.com/hi-fi/naim-mu-so-utopia-hands-on-review",
-      "publishedAt": "2026-10-14T23:00:00.000Z",
-      "author": "",
-      "description": "How does Focal's Dolby Atmos-toting all-in-one system stack up?",
-      "image": "https://cdn.mos.cms.futurecdn.net/YzEgwdhLHC2rk5xjizTb5c-2560-80.jpg",
-      "category": "其他音訊",
-      "articleType": "評測"
-    },
-    {
-      "source": "What Hi-Fi?",
       "title": "“We don’t want to compromise on anything” – we visit Focal to discover the human craft behind its high-end speakers and headphones",
       "url": "https://www.whathifi.com/hi-fi/we-dont-want-to-compromise-on-anything-we-visit-focal-to-discover-the-human-craft-behind-its-high-end-speakers-and-headphones",
       "publishedAt": "2026-10-14T23:00:00.000Z",
@@ -420,6 +486,17 @@
       "image": "https://cdn.mos.cms.futurecdn.net/gfxpGVAjKMAaZpdZwdQdEV-2560-80.jpg",
       "category": "耳機",
       "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Hands on: Focal Mu-so Utopia: hands on review",
+      "url": "https://www.whathifi.com/hi-fi/naim-mu-so-utopia-hands-on-review",
+      "publishedAt": "2026-10-14T23:00:00.000Z",
+      "author": "",
+      "description": "How does Focal's Dolby Atmos-toting all-in-one system stack up?",
+      "image": "https://cdn.mos.cms.futurecdn.net/YzEgwdhLHC2rk5xjizTb5c-2560-80.jpg",
+      "category": "其他音訊",
+      "articleType": "評測"
     },
     {
       "source": "TechRadar",
@@ -940,17 +1017,6 @@
     },
     {
       "source": "What Hi-Fi?",
-      "title": "Best radios 2026",
-      "url": "https://www.whathifi.com/hi-fi/radio/best-radios-2026",
-      "publishedAt": "2026-10-13T10:50:00.000Z",
-      "author": "Alastair Stevenson",
-      "description": "What Hi-Fi? Awards 2026",
-      "image": "https://cdn.mos.cms.futurecdn.net/J8xkGSEy92zM549oL8VfCQ-1920-80.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
       "title": "Best tablets 2026",
       "url": "https://www.whathifi.com/smartphones-tablets/tablets/best-tablets-2026",
       "publishedAt": "2026-10-13T10:50:00.000Z",
@@ -958,28 +1024,6 @@
       "description": "What Hi-Fi? Awards 2026",
       "image": "https://cdn.mos.cms.futurecdn.net/Vxf97wezjMN6KuNeuspynm-1920-80.jpg",
       "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "Best music systems 2026",
-      "url": "https://www.whathifi.com/hi-fi/stereo-systems/best-music-systems-2026",
-      "publishedAt": "2026-10-13T10:50:00.000Z",
-      "author": "Alastair Stevenson",
-      "description": "What Hi-Fi? Awards 2026",
-      "image": "https://cdn.mos.cms.futurecdn.net/6iTBP29K6d4edFXUxYaSLX-790-80.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "Best standmount speakers 2026",
-      "url": "https://www.whathifi.com/speakers/best-standmount-speakers-2026",
-      "publishedAt": "2026-10-13T10:50:00.000Z",
-      "author": "Alastair Stevenson",
-      "description": "What Hi-Fi? Awards 2026",
-      "image": "https://cdn.mos.cms.futurecdn.net/ANKGmg5qn8HHuDGxNCAENE-1920-80.jpg",
-      "category": "喇叭",
       "articleType": "其他"
     },
     {
@@ -1083,12 +1127,45 @@
     },
     {
       "source": "What Hi-Fi?",
+      "title": "Best standmount speakers 2026",
+      "url": "https://www.whathifi.com/speakers/best-standmount-speakers-2026",
+      "publishedAt": "2026-10-13T10:50:00.000Z",
+      "author": "Alastair Stevenson",
+      "description": "What Hi-Fi? Awards 2026",
+      "image": "https://cdn.mos.cms.futurecdn.net/ANKGmg5qn8HHuDGxNCAENE-1920-80.jpg",
+      "category": "喇叭",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
       "title": "Best accessories 2026",
       "url": "https://www.whathifi.com/av/av-accessories/best-accessories-2026",
       "publishedAt": "2026-10-13T10:50:00.000Z",
       "author": "Alastair Stevenson",
       "description": "What Hi-Fi? Awards 2026",
       "image": "https://cdn.mos.cms.futurecdn.net/RfYtMYJd7DATCUMgVMRMTD-790-80.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Best radios 2026",
+      "url": "https://www.whathifi.com/hi-fi/radio/best-radios-2026",
+      "publishedAt": "2026-10-13T10:50:00.000Z",
+      "author": "Alastair Stevenson",
+      "description": "What Hi-Fi? Awards 2026",
+      "image": "https://cdn.mos.cms.futurecdn.net/J8xkGSEy92zM549oL8VfCQ-1920-80.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Best music systems 2026",
+      "url": "https://www.whathifi.com/hi-fi/stereo-systems/best-music-systems-2026",
+      "publishedAt": "2026-10-13T10:50:00.000Z",
+      "author": "Alastair Stevenson",
+      "description": "What Hi-Fi? Awards 2026",
+      "image": "https://cdn.mos.cms.futurecdn.net/6iTBP29K6d4edFXUxYaSLX-790-80.jpg",
       "category": "其他音訊",
       "articleType": "其他"
     },
@@ -3568,17 +3645,6 @@
       "articleType": "其他"
     },
     {
-      "source": "TechRadar",
-      "title": "Don't pay AU$699 for premium headphones — these 8 discounted sets are my favourites, with up to 63% off",
-      "url": "https://www.techradar.com/audio/wireless-headphones/all-premium-headphones-now-retail-for-au-aud699-but-here-are-8-of-my-favourites-that-buck-the-trend-downwards",
-      "publishedAt": "2026-09-30T01:43:43.000Z",
-      "author": "Max Langridge",
-      "description": "Don’t overspend on a new set of headphones",
-      "image": "https://cdn.mos.cms.futurecdn.net/97W8Y84y42p4iPprQkupWU-1920-80.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
       "source": "Tom's Guide",
       "title": "Massive JBL sale at Best Buy: my top speaker deals from $59",
       "url": "https://www.tomsguide.com/audio/bluetooth-speakers/massive-jbl-sale-at-best-buy-my-top-speaker-deals-from-usd59",
@@ -5843,204 +5909,6 @@
       "image": "https://cdn.mos.cms.futurecdn.net/NuZz4R5aU9XfYnnwcpBWHh-1920-80.jpg",
       "category": "串流播放器",
       "articleType": "其他"
-    },
-    {
-      "source": "BGR",
-      "title": "Do Older AirPods Still Hold Up After Years Of Use? - BGR",
-      "url": "https://www.bgr.com/2256579/do-airpods-hold-up-after-years-of-use/",
-      "publishedAt": "2026-09-17T16:17:00.000Z",
-      "author": "José Adorno",
-      "description": "AirPods might be among the cheaper products Apple sells, but users still expect them to last for years. The key to making that happen is to treat them well.",
-      "image": "https://www.bgr.com/img/gallery/do-older-airpods-still-hold-up-after-years-of-use/l-intro-1789165581.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "TechRadar",
-      "title": "Grand Theft Auto 6: The Album is the game's official soundtrack launching alongside the game with 34 original tracks — but it looks like the limited-edition vinyl has already sold out",
-      "url": "https://www.techradar.com/gaming/rockstar-announces-grand-theft-auto-vi-the-album-featuring-34-original-tracks-from-artists-like-pinkpantheress-and-travis-scott-but-the-limited-edition-vinyl-collection-has-already-sold-out",
-      "publishedAt": "2026-09-17T16:08:36.000Z",
-      "author": "Demi Williams",
-      "description": "Rockstar Games has announced Grand Theft Auto VI: The Album, GTA 6's official soundtrack that will launch alongside the game.",
-      "image": "https://cdn.mos.cms.futurecdn.net/hYVggdAmjgiJdosJQEzrED-2000-80.jpg",
-      "category": "黑膠／唱盤",
-      "articleType": "新聞"
-    },
-    {
-      "source": "Tom's Guide",
-      "title": "Bose just announced new earbuds, but these 11 existing audio devices are on sale now — save up to 45% now",
-      "url": "https://www.tomsguide.com/audio/bose-just-announced-new-earbuds-but-these-11-existing-audio-devices-are-already-on-sale-save-up-to-45-percent-now",
-      "publishedAt": "2026-09-17T15:51:04.000Z",
-      "author": "Olivia Halevy",
-      "description": "Amazon is knocking up to 45% off Bose speakers and headphones. Check out my favorite picks from the sale.",
-      "image": "https://cdn.mos.cms.futurecdn.net/ufg7vA4cVQQ5qaK6d7SrrJ-2000-80.jpg",
-      "category": "耳機",
-      "articleType": "新聞"
-    },
-    {
-      "source": "SoundGuys",
-      "title": "The best headphones in 2026: Lab-tested by experts",
-      "url": "https://www.soundguys.com/best-headphones-2559/",
-      "publishedAt": "2026-09-17T15:18:51.000Z",
-      "author": "Adam Birney",
-      "description": "Discover the best headphones for every need: From noise canceling to sound quality, find your perfect pair. Updated with the latest picks.",
-      "image": "https://www.soundguys.com/wp-content/uploads/2025/12/wireless-headphones-scaled.jpg",
-      "category": "耳機",
-      "articleType": "評測"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "I thought CD was dead - but these players and test discs sound phenomenal",
-      "url": "https://www.whathifi.com/hi-fi/cd-players/thought-cd-was-dead-our-audio-experts-pick-out-the-best-cd-players-and-some-of-our-favourite-test-discs-that-you-can-own-for-ever",
-      "publishedAt": "2026-09-17T15:13:40.000Z",
-      "author": "Daniel Furn",
-      "description": "No price hikes when your music is safely on your shelf",
-      "image": "https://cdn.mos.cms.futurecdn.net/TzQpcEUXSdmoZuMdxdAaV-1920-80.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "Tom's Guide",
-      "title": "I traded my sleep earbuds for a $50 pillow speaker — and my ears finally stopped hurting",
-      "url": "https://www.tomsguide.com/wellness/sleep-tech/jabees-peace-duo-pillow-speaker-review",
-      "publishedAt": "2026-09-17T13:59:04.000Z",
-      "author": "",
-      "description": "If you can’t fall asleep without listening to something but hate earbuds pressing into your ears all night long, this clever under-pillow speaker creates a private soundscape for maximum bedtime comfort.",
-      "image": "https://cdn.mos.cms.futurecdn.net/cF8mJd9UKjEguPEeFVZeTF-1920-80.jpg",
-      "category": "耳機",
-      "articleType": "評測"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "I needed a quick, cheap Bluetooth earbuds replacement – and this Award-winning £28 pair was a lifesaver",
-      "url": "https://www.whathifi.com/headphones/wireless-earbuds/i-needed-a-quick-cheap-bluetooth-earbuds-replacement-and-this-award-winning-gbp28-pair-was-a-lifesaver",
-      "publishedAt": "2026-09-17T13:03:46.000Z",
-      "author": "Daniel Furn",
-      "description": "The five-star WF-C510, now 49 per cent off",
-      "image": "https://cdn.mos.cms.futurecdn.net/owENLFHgWCrKxKZwPmqobR-1920-80.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "SoundGuys",
-      "title": "Bose expands audio lineup with colorful open-ear earbuds for audiophiles and runners",
-      "url": "https://www.soundguys.com/bose-ultra-2nd-gen-sport-open-earbuds-163367/",
-      "publishedAt": "2026-09-17T13:00:59.000Z",
-      "author": "Aamir Siddiqui",
-      "description": "Bose has announced the Ultra Open Earbuds (2nd Gen) and Sport Open Earbuds, targetting audiophiles and runners with each offering.",
-      "image": "https://www.soundguys.com/wp-content/uploads/2026/09/Bose-Ultra-Open-Earbuds-2nd-Gen_Olive-Green_06.jpg",
-      "category": "耳機",
-      "articleType": "新聞"
-    },
-    {
-      "source": "The Verge",
-      "title": "Bose’s next open earbuds have more bass, more volume, and more battery life",
-      "url": "https://www.theverge.com/tech/996341/bose-ultra-open-earbuds-second-gen-wireless-sport",
-      "publishedAt": "2026-09-17T13:00:00.000Z",
-      "author": "Andrew Liszewski",
-      "description": "Hear your music without drowning out the world around you.",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/bose1.jpg?quality=90&strip=all&crop=0,10.752607989199,100,78.494784021602",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "Bose's latest duo of open-ear wireless buds are “designed to feel as good as they sound”",
-      "url": "https://www.whathifi.com/headphones/wireless-earbuds/boses-latest-duo-of-open-ear-wireless-buds-are-designed-to-feel-as-good-as-they-sound",
-      "publishedAt": "2026-09-17T13:00:00.000Z",
-      "author": "Ioan Hazell",
-      "description": "Bose unveils the Sport Open Earbuds and Bose Ultra Open Earbuds (2nd Gen)",
-      "image": "https://cdn.mos.cms.futurecdn.net/s3bwZyNULwNyJDZXxeDc5S-1200-80.jpg",
-      "category": "耳機",
-      "articleType": "新聞"
-    },
-    {
-      "source": "TechRadar",
-      "title": "Bose just followed up our favorite elite open earbuds with not one but two options — and there's a cheaper pair to make Shokz… shocked",
-      "url": "https://www.techradar.com/audio/earbuds-airpods/bose-just-unveiled-the-successors-to-some-of-our-favorite-open-earbuds-and-theres-even-a-cheaper-option-to-make-shokz-a-little-er-shocked",
-      "publishedAt": "2026-09-17T13:00:00.000Z",
-      "author": "Tom Bedford",
-      "description": "Bose has two new clip-style earbuds: a follow-up to one of our top-rated pairs, plus a more affordable model.",
-      "image": "https://cdn.mos.cms.futurecdn.net/BMG62ZMAmRWXTtSDCsgsZS-1028-80.jpg",
-      "category": "耳機",
-      "articleType": "新聞"
-    },
-    {
-      "source": "Tom's Guide",
-      "title": "Bose announces active Sport Open Earbuds and upgrades the Ultra Open Earbuds — here’s what to expect (and what could still be missing)",
-      "url": "https://www.tomsguide.com/audio/earbuds/bose-announces-sport-open-earbuds-and-ultra-open-earbuds-gen-2",
-      "publishedAt": "2026-09-17T13:00:00.000Z",
-      "author": "Ashley Thieme",
-      "description": "Everything you need to know",
-      "image": "https://cdn.mos.cms.futurecdn.net/3yAgxhbaP4XCspZUud2Jvb-2000-80.jpg",
-      "category": "耳機",
-      "articleType": "新聞"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "Clearaudio’s new phono stage is designed to “tuck discreetly alongside any turntable”",
-      "url": "https://www.whathifi.com/hi-fi/phono-preamps/clearaudios-new-phono-stage-is-designed-to-tuck-discreetly-alongside-any-turntable",
-      "publishedAt": "2026-09-17T11:09:17.000Z",
-      "author": "Ioan Hazell",
-      "description": "Sometimes good things come in small packages",
-      "image": "https://cdn.mos.cms.futurecdn.net/MEzj7Uk28ZBWmyGgXx9HYS-2560-80.jpg",
-      "category": "黑膠／唱盤",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "Hisense brings the boom with its robust, party-ready line of portable Bluetooth speakers",
-      "url": "https://www.whathifi.com/speakers/wireless-speakers/hisense-brings-the-boom-with-its-robust-party-ready-line-of-portable-bluetooth-speakers",
-      "publishedAt": "2026-09-17T09:38:53.000Z",
-      "author": "Harry McKerrell",
-      "description": "Yet another boom-based Bluetooth range",
-      "image": "https://cdn.mos.cms.futurecdn.net/5UJEQ3u4UkLvZphmyG6NWm-2048-80.jpg",
-      "category": "喇叭",
-      "articleType": "其他"
-    },
-    {
-      "source": "SoundGuys",
-      "title": "Hisense takes on JBL and Ultimate Ears with its first outdoor Bluetooth speaker lineup",
-      "url": "https://www.soundguys.com/hisense-boom-portable-bluetooth-speakers-us-launch-163354/",
-      "publishedAt": "2026-09-17T09:34:08.000Z",
-      "author": "Aamir Siddiqui",
-      "description": "Hisense has launched three portable Bluetooth speakers in the US: FlexBoom, WeBoom, and VoyageBoom, alongside the Party Thunder Pro tower.",
-      "image": "https://www.soundguys.com/wp-content/uploads/2026/09/Hisense-Boom-Portable-Speaker-Lineup.jpeg",
-      "category": "喇叭",
-      "articleType": "新聞"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "Rotel Michi Prestige X430 review",
-      "url": "https://www.whathifi.com/hi-fi/stereo-amplifiers/rotel-michi-prestige-x430",
-      "publishedAt": "2026-09-17T08:00:00.000Z",
-      "author": "",
-      "description": "Well equipped, beautifully made and ever so capable",
-      "image": "https://cdn.mos.cms.futurecdn.net/jufWRA3M5AnHHnt8QMJZJZ-1920-80.jpg",
-      "category": "DAC／擴大機",
-      "articleType": "評測"
-    },
-    {
-      "source": "Tom's Guide",
-      "title": "ChatGPT is now my go-to for recommendations — 7 prompts I use to find new movies, music, games and more",
-      "url": "https://www.tomsguide.com/ai/chatgpt-is-now-my-go-to-for-recommendations-7-prompts-i-use-to-find-new-movies-music-games-and-more",
-      "publishedAt": "2026-09-17T07:30:00.000Z",
-      "author": "Elton Jones",
-      "description": "Spreading out my list of things to see, listen to and play, thanks to AI",
-      "image": "https://cdn.mos.cms.futurecdn.net/YAKnRrvQR8ny8RL39fXcDS-2560-80.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "SoundGuys",
-      "title": "Soundboks just launched its smallest and lightest party speaker yet",
-      "url": "https://www.soundguys.com/soundboks-rider-speaker-launch-163342/",
-      "publishedAt": "2026-09-17T07:00:23.000Z",
-      "author": "Akshay Gangwar",
-      "description": "The Soundboks Rider is the company's smallest and lightest speaker. It has an IP66 rating, weighs just 6.3kg, and can output 118dB of audio.",
-      "image": "https://www.soundguys.com/wp-content/uploads/2026/09/soundboks-rider-speaker-1.jpg",
-      "category": "喇叭",
-      "articleType": "新聞"
     }
   ]
 }
