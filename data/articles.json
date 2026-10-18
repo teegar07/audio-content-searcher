@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T21:12:20.891Z",
+  "generatedAt": "2026-10-18T22:02:57.961Z",
   "days": 30,
   "count": 524,
   "articles": [
@@ -544,17 +544,6 @@
     },
     {
       "source": "What Hi-Fi?",
-      "title": "“We don’t want to compromise on anything” – we visit Focal to discover the human craft behind its high-end speakers and headphones",
-      "url": "https://www.whathifi.com/hi-fi/we-dont-want-to-compromise-on-anything-we-visit-focal-to-discover-the-human-craft-behind-its-high-end-speakers-and-headphones",
-      "publishedAt": "2026-10-14T23:00:00.000Z",
-      "author": "Harry McKerrell",
-      "description": "Cosmonaut suits, Batman caves and speakers wearing jeans",
-      "image": "https://cdn.mos.cms.futurecdn.net/gfxpGVAjKMAaZpdZwdQdEV-2560-80.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
       "title": "Hands on: Focal Mu-so Utopia: hands on review",
       "url": "https://www.whathifi.com/hi-fi/naim-mu-so-utopia-hands-on-review",
       "publishedAt": "2026-10-14T23:00:00.000Z",
@@ -563,6 +552,17 @@
       "image": "https://cdn.mos.cms.futurecdn.net/YzEgwdhLHC2rk5xjizTb5c-2560-80.jpg",
       "category": "其他音訊",
       "articleType": "評測"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "“We don’t want to compromise on anything” – we visit Focal to discover the human craft behind its high-end speakers and headphones",
+      "url": "https://www.whathifi.com/hi-fi/we-dont-want-to-compromise-on-anything-we-visit-focal-to-discover-the-human-craft-behind-its-high-end-speakers-and-headphones",
+      "publishedAt": "2026-10-14T23:00:00.000Z",
+      "author": "Harry McKerrell",
+      "description": "Cosmonaut suits, Batman caves and speakers wearing jeans",
+      "image": "https://cdn.mos.cms.futurecdn.net/gfxpGVAjKMAaZpdZwdQdEV-2560-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
     },
     {
       "source": "TechRadar",
