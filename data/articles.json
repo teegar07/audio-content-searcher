@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-19T22:03:42.568Z",
+  "generatedAt": "2026-10-19T22:47:32.997Z",
   "days": 30,
-  "count": 534,
+  "count": 533,
   "articles": [
     {
       "source": "TechRadar",
@@ -310,17 +310,6 @@
       "image": "https://cdn.mos.cms.futurecdn.net/gW797biDfwYwUgbHneiMTe-2000-80.jpg",
       "category": "耳機",
       "articleType": "其他"
-    },
-    {
-      "source": "The Verge",
-      "title": "Wired earbuds are having a moment, and Bose is here for it",
-      "url": "https://www.theverge.com/tech/1013320/bose-noise-cancelling-wired-earbuds-review",
-      "publishedAt": "2026-10-17T13:00:00.000Z",
-      "author": "John Higgins",
-      "description": "Wired? Inspired.",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268806_Bose-Noise-Cancelling-Wired-Earbuds_1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "category": "耳機",
-      "articleType": "評測"
     },
     {
       "source": "Tom's Guide",
