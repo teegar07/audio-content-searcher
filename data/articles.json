@@ -1,8 +1,228 @@
 {
-  "generatedAt": "2026-10-19T00:59:56.266Z",
+  "generatedAt": "2026-10-19T22:03:42.568Z",
   "days": 30,
-  "count": 524,
+  "count": 534,
   "articles": [
+    {
+      "source": "TechRadar",
+      "title": "Want a more fun way to discover hi-res music? There's a new app for iOS and Android that streams radio stations all in CD quality FLAC or higher quality, and I'm loving the fun mix of stuff I've found",
+      "url": "https://www.techradar.com/audio/audio-streaming/theres-a-free-hi-res-music-streaming-app-on-iphone-and-android-with-no-ads-and-no-subscription",
+      "publishedAt": "2026-10-19T21:00:00.000Z",
+      "author": "Carrie Marshall",
+      "description": "Audiophile.fm is a completely free way to tune in to lossless internet radio on iPhone, Android and in your browser",
+      "image": "https://cdn.mos.cms.futurecdn.net/ddheLmjq53e4BabSbZKW59-2560-80.jpg",
+      "category": "串流播放器",
+      "articleType": "其他"
+    },
+    {
+      "source": "Tom's Guide",
+      "title": "Save $80 on the JBL PartyBox Encore Essential 2 — how to get yours",
+      "url": "https://www.tomsguide.com/audio/bluetooth-speakers/save-usd80-on-the-jbl-partybox-encore-essential-2-how-to-get-yours",
+      "publishedAt": "2026-10-19T19:50:47.000Z",
+      "author": "Louis Ramirez",
+      "description": "The perfect Bluetooth speaker for your next house party",
+      "image": "https://cdn.mos.cms.futurecdn.net/SdGbwwVnMJxTUzuFZAoEdX-2000-80.jpg",
+      "category": "喇叭",
+      "articleType": "其他"
+    },
+    {
+      "source": "The Verge",
+      "title": "Sony’s best noise-canceling earbuds are nearly $100 off today only",
+      "url": "https://www.theverge.com/gadgets/1013911/sonys-best-noise-canceling-earbuds-are-nearly-100-off-today-only",
+      "publishedAt": "2026-10-19T18:52:41.000Z",
+      "author": "Sheena Vasani",
+      "description": "The offer is only available through today.",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Sony-WF-1000XM6.png?quality=90&strip=all&crop=0,9.2512101155784,100,81.497579768843",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "Amazon deal slashes $300 off Bose’s new Lifestyle Ultra Subwoofer",
+      "url": "https://www.soundguys.com/bose-new-lifestyle-ultra-subwoofer-deal-164905/",
+      "publishedAt": "2026-10-19T17:12:39.000Z",
+      "author": "Matt Horne",
+      "description": "Bose’s new Lifestyle Ultra Subwoofer drops to $599 on Amazon, a record-low price for deeper home theater bass.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/10/Bose-New-Lifestyle-Ultra-Subwoofer-Press-Image.jpg",
+      "category": "喇叭",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "Amazon cuts $254 off Bose’s new Lifestyle Ultra Soundbar",
+      "url": "https://www.soundguys.com/bose-new-lifestyle-ultra-soundbar-deal-164899/",
+      "publishedAt": "2026-10-19T16:19:43.000Z",
+      "author": "Matt Horne",
+      "description": "The new Bose Lifestyle Ultra Soundbar drops to $844.99 on Amazon with Dolby Atmos, Wi-Fi, Bluetooth, and clearer dialogue.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/05/Bose-Lifestyle-Soundbar-1-scaled.jpeg",
+      "category": "Soundbar",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "Save $47 on the Soundcore Liberty 5 in this solid Amazon deal",
+      "url": "https://www.soundguys.com/soundcore-liberty-5-amazon-deal-164902/",
+      "publishedAt": "2026-10-19T15:58:52.000Z",
+      "author": "Matt Horne",
+      "description": "Grab 37% off the Soundcore Liberty 5 on Amazon and get adaptive ANC, Dolby Audio, and strong call features for less.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2025/05/Soundcore-Liberty-5-earbuds-in-case-angle.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "BGR",
+      "title": "5 Major Audio Brands That Celebrities Used To Own - BGR",
+      "url": "https://www.bgr.com/2287654/audio-brands-owned-by-celebrities/",
+      "publishedAt": "2026-10-19T15:47:00.000Z",
+      "author": "Nichols deCourville",
+      "description": "Some celebrities helped build headphone companies instead of just promoting them. For a few, selling their stake brought an enormous payday.",
+      "image": "https://www.bgr.com/img/gallery/5-major-audio-brands-that-celebrities-used-to-own/l-intro-1792077889.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "I just tested TCL's new mid-range Mini LED model – and there are flagships that should be worried",
+      "url": "https://www.whathifi.com/tv-home-cinema/televisions/tcl-c7l-65c7l",
+      "publishedAt": "2026-10-19T15:25:29.000Z",
+      "author": "",
+      "description": "New Super Quantum Dots, bags of brightness and dimming zones galore make the C7L a mid-range steal.",
+      "image": "https://cdn.mos.cms.futurecdn.net/2zYSAKH72tBN9BPeyuouhJ-1920-80.jpg",
+      "category": "其他音訊",
+      "articleType": "評測"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "One of our favourite ever Sony TVs has hit a new low price, but I wouldn't update the software just yet",
+      "url": "https://www.whathifi.com/tv-home-cinema/televisions/one-of-our-favourite-ever-sony-tvs-has-hit-a-new-low-price-but-i-wouldnt-update-the-software-just-yet",
+      "publishedAt": "2026-10-19T15:07:47.000Z",
+      "author": "Daniel Furn",
+      "description": "A fantastic TV at a fantastic price, but there is one catch",
+      "image": "https://cdn.mos.cms.futurecdn.net/tpncMFxoqzhBaspMwtkN7T-1920-80.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "I am ditching streaming services in favour of physical media. Here’s why",
+      "url": "https://www.whathifi.com/hi-fi/cd-players/i-am-ditching-streaming-services-in-favour-of-physical-media-heres-why",
+      "publishedAt": "2026-10-19T14:58:11.000Z",
+      "author": "Ioan Hazell",
+      "description": "Want a more accessible entry point to physical media? CDs might be the solution",
+      "image": "https://cdn.mos.cms.futurecdn.net/UuT9dP64MGHXMHidvQ7WLQ-2560-80.jpg",
+      "category": "串流播放器",
+      "articleType": "其他"
+    },
+    {
+      "source": "The Verge",
+      "title": "It’s hard to imagine wireless headphones ever getting lighter than these",
+      "url": "https://www.theverge.com/tech/1013635/its-hard-to-imagine-wireless-headphones-ever-getting-lighter-than-these",
+      "publishedAt": "2026-10-19T14:03:28.000Z",
+      "author": "Andrew Liszewski",
+      "description": "Lightweight headphones that aren’t earbuds.",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/final1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Sky announces a \"significant step forward\" for its accessible Premier League coverage – and it's a promising step forward",
+      "url": "https://www.whathifi.com/streaming-entertainment/tv-streaming-services/sky-announces-a-significant-step-forward-for-its-accessible-premier-league-coverage-and-its-a-promising-move",
+      "publishedAt": "2026-10-19T13:07:12.000Z",
+      "author": "Robyn Quick",
+      "description": "Live Descriptive Audio Commentary and Live Subtitles are on board",
+      "image": "https://cdn.mos.cms.futurecdn.net/zkgPTgyd6ERzFmk455JgB-2560-80.jpg",
+      "category": "串流播放器",
+      "articleType": "新聞"
+    },
+    {
+      "source": "The Verge",
+      "title": "Vibe coding is turning the music gear world upside down",
+      "url": "https://www.theverge.com/gadgets/1013493/vibe-coding-ai-music-gear-hacking-custom-firmware",
+      "publishedAt": "2026-10-19T12:30:00.000Z",
+      "author": "Terrence O'Brien",
+      "description": "LLMs have led to an explosion of custom firmware and hacks for synths, samplers, and grooveboxes.",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/elektron-model-cycles-model-samples-8.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "BGR",
+      "title": "How To Get Siri To Stop Reading Notifications On AirPods - BGR",
+      "url": "https://www.bgr.com/2276966/how-to-stop-siri-reading-notifications-airpods-guide/",
+      "publishedAt": "2026-10-19T10:17:00.000Z",
+      "author": "Ethan Stinson",
+      "description": "Stop Siri from reading notifications on your AirPods, silence alerts temporarily, or choose which types of notifications Apple’s earbuds announce.",
+      "image": "https://www.bgr.com/img/gallery/how-to-get-siri-to-stop-reading-notifications-on-airpods/l-intro-1791198603.jpg",
+      "category": "耳機",
+      "articleType": "新聞"
+    },
+    {
+      "source": "TechRadar",
+      "title": "It's a record, CD and cassette player system that works from your wall — whether we recommend vertical vinyl playback or not",
+      "url": "https://www.techradar.com/audio/turntables/this-wall-mounted-turntable-cd-player-and-cassette-system-is-ideal-for-retro-music-lovers-in-tiny-homes-you-just-need-a-spot-for-a-bluetooth-speaker",
+      "publishedAt": "2026-10-19T10:04:13.000Z",
+      "author": "Tom Bedford, Becky Scarrott",
+      "description": "The Trettitre Retro Ambient Audio System is a wall-mounted record, CD and cassette player, which offers everything except a speaker.",
+      "image": "https://cdn.mos.cms.futurecdn.net/6Pg4PFZucECPBNM2CDzFQX-614-80.jpg",
+      "category": "喇叭",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Goldmund aims to make a Statement with its new high-end Mimesis pre-amp’s “faithful” sound",
+      "url": "https://www.whathifi.com/hi-fi/stereo-amplifiers/goldmund-aims-to-make-a-statement-with-its-new-high-end-mimesis-pre-amps-faithful-sound",
+      "publishedAt": "2026-10-19T10:00:00.000Z",
+      "author": "Alastair Stevenson",
+      "description": "Everything from the proprietary circuit board to the dual-mono power supply has been designed with “purity” in mind",
+      "image": "https://cdn.mos.cms.futurecdn.net/HsmFsN4dvDge5FXxBVuiuE-2560-80.jpg",
+      "category": "DAC／擴大機",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "I flew to Switzerland to hear a £1 million hi-fi system – and it made quite the Statement",
+      "url": "https://www.whathifi.com/hi-fi/i-flew-to-switzerland-to-hear-a-gbp1-million-hi-fi-system-and-it-made-quite-the-statement",
+      "publishedAt": "2026-10-19T10:00:00.000Z",
+      "author": "Alastair Stevenson",
+      "description": "And the Goldmund Telos 9800 and Mimesis Statement are “just the start”",
+      "image": "https://cdn.mos.cms.futurecdn.net/KQXiWUpA8aZgaAvjbDYd46-2560-80.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Triangle’s new standmount speakers have “retro-chic” styling and bulky drivers",
+      "url": "https://www.whathifi.com/speakers/hi-fi-speakers/triangles-new-standmounter-speakers-have-retro-chic-styling-and-bulky-drivers",
+      "publishedAt": "2026-10-19T07:00:00.000Z",
+      "author": "Ioan Hazell",
+      "description": "With a 21cm mid/bass driver, the Borea BR05 means business",
+      "image": "https://cdn.mos.cms.futurecdn.net/KW38ZE5MwntFVQEPLjLAfK-2560-80.jpg",
+      "category": "喇叭",
+      "articleType": "其他"
+    },
+    {
+      "source": "Tom's Guide",
+      "title": "I'm an AirPods Max fangirl — but Technics' new headphones sound even better and boast double the battery life",
+      "url": "https://www.tomsguide.com/audio/over-ear-headphones/technics-eah-a1000-review",
+      "publishedAt": "2026-10-19T06:30:00.000Z",
+      "author": "",
+      "description": "Technics EAH-A1000 are everything I look for in Bluetooth headphones: amazing sound, comfy, and no AI features. But the ANC leaves something to be desired.",
+      "image": "https://cdn.mos.cms.futurecdn.net/kCVjAXZmrLKLq9WX9sxjqh-1920-80.jpg",
+      "category": "耳機",
+      "articleType": "評測"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "111 Award winners revealed, Naim’s new all-in-one, an amp and CD player pairing from NAD and more",
+      "url": "https://www.whathifi.com/av/111-award-winners-revealed-naims-new-all-in-one-an-amp-and-cd-player-pairing-from-nad-and-more",
+      "publishedAt": "2026-10-19T06:00:00.000Z",
+      "author": "Andy Madden",
+      "description": "All the key happenings in the worlds of hi-fi and home cinema",
+      "image": "https://cdn.mos.cms.futurecdn.net/ndudLhEWfwnPFtP8SsSNYa-1920-80.jpg",
+      "category": "DAC／擴大機",
+      "articleType": "新聞"
+    },
     {
       "source": "TechRadar",
       "title": "I tested Sony’s towering Bluetooth speaker in a parking lot and I’m surprised I didn’t get any noise complaints — here’s why the new ULT Tower 7 should be your go-to for any party",
@@ -53,7 +273,7 @@
       "url": "https://www.whathifi.com/streaming-entertainment/how-to-watch/south-africa-vs-australia-2nd-test-2026",
       "publishedAt": "2026-10-17T23:30:00.000Z",
       "author": "Krishi Chowdhary",
-      "description": "The Proteas look to level the series after a crushing 214-run defeat in Durban",
+      "description": "Scott Boland strikes twice before rain halts play on a frustrating opening day",
       "image": "https://cdn.mos.cms.futurecdn.net/RTNdMKMjeSpE7QN447YVe3-2560-80.jpg",
       "category": "串流播放器",
       "articleType": "其他"
@@ -449,7 +669,7 @@
       "url": "https://www.tomsguide.com/audio/edifier-coupons",
       "publishedAt": "2026-10-15T14:08:53.000Z",
       "author": "Nathan Walters",
-      "description": "Use one of our 1 Edifier promo codes to help you save on audiophile-level headphones, gaming headsets, earphones and speakers",
+      "description": "Use one of our 7 Edifier promo codes to help you save on audiophile-level headphones, gaming headsets, earphones and speakers",
       "image": "https://cdn.mos.cms.futurecdn.net/DGvVkD8T9xf5LYxLede2Dh-1920-80.jpg",
       "category": "耳機",
       "articleType": "其他"
@@ -544,17 +764,6 @@
     },
     {
       "source": "What Hi-Fi?",
-      "title": "Hands on: Focal Mu-so Utopia: hands on review",
-      "url": "https://www.whathifi.com/hi-fi/naim-mu-so-utopia-hands-on-review",
-      "publishedAt": "2026-10-14T23:00:00.000Z",
-      "author": "",
-      "description": "How does Focal's Dolby Atmos-toting all-in-one system stack up?",
-      "image": "https://cdn.mos.cms.futurecdn.net/YzEgwdhLHC2rk5xjizTb5c-2560-80.jpg",
-      "category": "其他音訊",
-      "articleType": "評測"
-    },
-    {
-      "source": "What Hi-Fi?",
       "title": "“We don’t want to compromise on anything” – we visit Focal to discover the human craft behind its high-end speakers and headphones",
       "url": "https://www.whathifi.com/hi-fi/we-dont-want-to-compromise-on-anything-we-visit-focal-to-discover-the-human-craft-behind-its-high-end-speakers-and-headphones",
       "publishedAt": "2026-10-14T23:00:00.000Z",
@@ -563,6 +772,17 @@
       "image": "https://cdn.mos.cms.futurecdn.net/gfxpGVAjKMAaZpdZwdQdEV-2560-80.jpg",
       "category": "耳機",
       "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Hands on: Focal Mu-so Utopia: hands on review",
+      "url": "https://www.whathifi.com/hi-fi/naim-mu-so-utopia-hands-on-review",
+      "publishedAt": "2026-10-14T23:00:00.000Z",
+      "author": "",
+      "description": "How does Focal's Dolby Atmos-toting all-in-one system stack up?",
+      "image": "https://cdn.mos.cms.futurecdn.net/YzEgwdhLHC2rk5xjizTb5c-2560-80.jpg",
+      "category": "其他音訊",
+      "articleType": "評測"
     },
     {
       "source": "TechRadar",
@@ -654,7 +874,7 @@
     },
     {
       "source": "What Hi-Fi?",
-      "title": "How to watch Rugby League World Cup 2026 online from anywhere: free live streams for every match, Fiji vs Cook Islands",
+      "title": "How to watch Rugby League World Cup 2026 online from anywhere: free live streams for every match, Tonga vs Lebanon",
       "url": "https://www.whathifi.com/streaming-entertainment/watch-rugby-league-world-cup-2026-free",
       "publishedAt": "2026-10-14T14:00:00.000Z",
       "author": "Adam Marshall",
@@ -1006,61 +1226,6 @@
     },
     {
       "source": "What Hi-Fi?",
-      "title": "The What Hi-Fi? Awards 2026 winners have been revealed!",
-      "url": "https://www.whathifi.com/av/the-what-hi-fi-awards-2026-winners-have-been-revealed",
-      "publishedAt": "2026-10-13T10:50:00.000Z",
-      "author": "Alastair Stevenson",
-      "description": "But the fun’s just getting started",
-      "image": "https://cdn.mos.cms.futurecdn.net/Yh2jTxyFQbmuh7J7JMe8fZ-1446-80.jpg",
-      "category": "其他音訊",
-      "articleType": "新聞"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "Best accessories 2026",
-      "url": "https://www.whathifi.com/av/av-accessories/best-accessories-2026",
-      "publishedAt": "2026-10-13T10:50:00.000Z",
-      "author": "Alastair Stevenson",
-      "description": "What Hi-Fi? Awards 2026",
-      "image": "https://cdn.mos.cms.futurecdn.net/RfYtMYJd7DATCUMgVMRMTD-790-80.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "Best portable music players 2026",
-      "url": "https://www.whathifi.com/hi-fi/portable-music-players/best-portable-music-players-2026",
-      "publishedAt": "2026-10-13T10:50:00.000Z",
-      "author": "Alastair Stevenson",
-      "description": "What Hi-Fi? Awards 2026",
-      "image": "https://cdn.mos.cms.futurecdn.net/ZqT5FWXqX6Uz7xf7ZSLZyF-1920-80.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "Best smartphones 2026",
-      "url": "https://www.whathifi.com/smartphones-tablets/smartphones/best-smartphones-2026",
-      "publishedAt": "2026-10-13T10:50:00.000Z",
-      "author": "Alastair Stevenson",
-      "description": "What Hi-Fi? Awards 2026",
-      "image": "https://cdn.mos.cms.futurecdn.net/5AvZ2uyDUps4EyQP7kKrTf-1920-80.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "Best DACs 2026",
-      "url": "https://www.whathifi.com/hi-fi/dacs/best-dacs-2026",
-      "publishedAt": "2026-10-13T10:50:00.000Z",
-      "author": "Alastair Stevenson",
-      "description": "What Hi-Fi? Awards 2026",
-      "image": "https://cdn.mos.cms.futurecdn.net/V8qb8gPJvNY37EmEbrgwjX-1920-80.jpg",
-      "category": "DAC／擴大機",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
       "title": "Best speaker packages 2026",
       "url": "https://www.whathifi.com/tv-home-cinema/surround-sound-systems/best-speaker-packages-2026",
       "publishedAt": "2026-10-13T10:50:00.000Z",
@@ -1116,6 +1281,17 @@
     },
     {
       "source": "What Hi-Fi?",
+      "title": "The What Hi-Fi? Awards 2026 winners have been revealed!",
+      "url": "https://www.whathifi.com/av/the-what-hi-fi-awards-2026-winners-have-been-revealed",
+      "publishedAt": "2026-10-13T10:50:00.000Z",
+      "author": "Alastair Stevenson",
+      "description": "But the fun’s just getting started",
+      "image": "https://cdn.mos.cms.futurecdn.net/Yh2jTxyFQbmuh7J7JMe8fZ-1446-80.jpg",
+      "category": "其他音訊",
+      "articleType": "新聞"
+    },
+    {
+      "source": "What Hi-Fi?",
       "title": "Best tablets 2026",
       "url": "https://www.whathifi.com/smartphones-tablets/tablets/best-tablets-2026",
       "publishedAt": "2026-10-13T10:50:00.000Z",
@@ -1123,6 +1299,17 @@
       "description": "What Hi-Fi? Awards 2026",
       "image": "https://cdn.mos.cms.futurecdn.net/Vxf97wezjMN6KuNeuspynm-1920-80.jpg",
       "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Best DACs 2026",
+      "url": "https://www.whathifi.com/hi-fi/dacs/best-dacs-2026",
+      "publishedAt": "2026-10-13T10:50:00.000Z",
+      "author": "Alastair Stevenson",
+      "description": "What Hi-Fi? Awards 2026",
+      "image": "https://cdn.mos.cms.futurecdn.net/V8qb8gPJvNY37EmEbrgwjX-1920-80.jpg",
+      "category": "DAC／擴大機",
       "articleType": "其他"
     },
     {
@@ -1204,6 +1391,17 @@
     },
     {
       "source": "What Hi-Fi?",
+      "title": "Best smartphones 2026",
+      "url": "https://www.whathifi.com/smartphones-tablets/smartphones/best-smartphones-2026",
+      "publishedAt": "2026-10-13T10:50:00.000Z",
+      "author": "Alastair Stevenson",
+      "description": "What Hi-Fi? Awards 2026",
+      "image": "https://cdn.mos.cms.futurecdn.net/5AvZ2uyDUps4EyQP7kKrTf-1920-80.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
       "title": "Best streaming services 2026",
       "url": "https://www.whathifi.com/streaming-entertainment/best-streaming-services-2026",
       "publishedAt": "2026-10-13T10:50:00.000Z",
@@ -1222,6 +1420,17 @@
       "description": "What Hi-Fi? Awards 2026",
       "image": "https://cdn.mos.cms.futurecdn.net/ANKGmg5qn8HHuDGxNCAENE-1920-80.jpg",
       "category": "喇叭",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Best accessories 2026",
+      "url": "https://www.whathifi.com/av/av-accessories/best-accessories-2026",
+      "publishedAt": "2026-10-13T10:50:00.000Z",
+      "author": "Alastair Stevenson",
+      "description": "What Hi-Fi? Awards 2026",
+      "image": "https://cdn.mos.cms.futurecdn.net/RfYtMYJd7DATCUMgVMRMTD-790-80.jpg",
+      "category": "其他音訊",
       "articleType": "其他"
     },
     {
@@ -1254,6 +1463,17 @@
       "author": "Alastair Stevenson",
       "description": "What Hi-Fi? Awards 2026",
       "image": "https://cdn.mos.cms.futurecdn.net/rnmwCz2x5AxPyZNmRSf6SV-2126-80.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Best portable music players 2026",
+      "url": "https://www.whathifi.com/hi-fi/portable-music-players/best-portable-music-players-2026",
+      "publishedAt": "2026-10-13T10:50:00.000Z",
+      "author": "Alastair Stevenson",
+      "description": "What Hi-Fi? Awards 2026",
+      "image": "https://cdn.mos.cms.futurecdn.net/ZqT5FWXqX6Uz7xf7ZSLZyF-1920-80.jpg",
       "category": "其他音訊",
       "articleType": "其他"
     },
@@ -2627,7 +2847,7 @@
       "url": "https://www.tomsguide.com/audio/tonies-coupons",
       "publishedAt": "2026-10-06T13:02:16.000Z",
       "author": "Nathan Walters",
-      "description": "Use one of our 6 Tonies discount codes at the checkout to save money on the popular screen-free audio players for kids",
+      "description": "Use one of our 7 Tonies discount codes at the checkout to save money on the popular screen-free audio players for kids",
       "image": "https://cdn.mos.cms.futurecdn.net/hWNjsm3utD9S7Hg9nFPRFc-2560-80.jpg",
       "category": "其他音訊",
       "articleType": "其他"
@@ -3543,17 +3763,6 @@
       "description": "A redesigned remote and a speedier experience… but at what cost?",
       "image": "https://cdn.mos.cms.futurecdn.net/AQeohfTg6Qwcwc4Xc9NM2n-813-80.jpg",
       "category": "串流播放器",
-      "articleType": "其他"
-    },
-    {
-      "source": "TechRadar",
-      "title": "I'm an audio reviewer and these 14 Prime Day headphone deals are still worth checking out",
-      "url": "https://www.techradar.com/audio/headphones/im-an-audio-reviewer-and-these-are-the-best-expert-approved-headphone-deals-to-shop-in-the-amazon-prime-big-deal-days-sale",
-      "publishedAt": "2026-10-01T00:00:00.000Z",
-      "author": "Max Langridge",
-      "description": "The discounts are waning, so don't miss your final chance",
-      "image": "https://cdn.mos.cms.futurecdn.net/iQbbBFzUUesN6Gbxta2Tve-1920-80.jpg",
-      "category": "耳機",
       "articleType": "其他"
     },
     {
@@ -5667,105 +5876,6 @@
       "image": "https://www.bgr.com/img/gallery/how-to-improve-xbox-series-xs-audio-quality/l-intro-1789418003.jpg",
       "category": "其他音訊",
       "articleType": "新聞"
-    },
-    {
-      "source": "BGR",
-      "title": "5 Common Mistakes That Might Be Ruining Your PC Audio - BGR",
-      "url": "https://www.bgr.com/2257617/common-mistakes-ruining-audio-pc/",
-      "publishedAt": "2026-09-19T17:17:00.000Z",
-      "author": "Nichols deCourville",
-      "description": "The audio coming out of your PC could be some of the highest-quality available, but not if you're making one of these common mistakes.",
-      "image": "https://www.bgr.com/img/gallery/5-common-mistakes-that-might-be-ruining-your-pc-audio/l-intro-1789400643.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "BGR",
-      "title": "How Long Will Apple Provide Software Support For Your AirPods? - BGR",
-      "url": "https://www.bgr.com/2257691/how-long-will-apple-provide-software-support-airpods/",
-      "publishedAt": "2026-09-19T16:32:00.000Z",
-      "author": "Noelle Corbett",
-      "description": "Apple doesn't have an official update timetable for AirPods, but judging by when older models got discontinued, here's how long yours should last.",
-      "image": "https://www.bgr.com/img/gallery/how-long-will-apple-provide-software-support-for-your-airpods/l-intro-1789401487.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "BGR",
-      "title": "Bluetooth 5.3 Vs. 5.4: What's The Difference? - BGR",
-      "url": "https://www.bgr.com/2257586/bluetooth-5-3-vs-5-4-differences/",
-      "publishedAt": "2026-09-19T15:17:00.000Z",
-      "author": "Asad Kashif",
-      "description": "Some phones are starting to ship with Bluetooth 6.0, but the vast majority of devices still use 5.3 or 5.4. Here are the main differences between the versions.",
-      "image": "https://www.bgr.com/img/gallery/bluetooth-5-3-vs-5-4-whats-the-difference/l-intro-1789394388.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "BGR",
-      "title": "5 Over-Ear Headphone Brands That Have Better Battery Life Than Bose - BGR",
-      "url": "https://www.bgr.com/2257594/over-ear-headphone-brands-better-battery-life-bose/",
-      "publishedAt": "2026-09-19T14:47:00.000Z",
-      "author": "Eduardo Ariedo",
-      "description": "Bose leads in noise cancellation but falls short on battery life. Uncover 5 competitor brands offering up to 60+ hours of music on a single charge.",
-      "image": "https://www.bgr.com/img/gallery/5-over-ear-headphone-brands-that-have-better-battery-life-than-bose/l-intro-1789400218.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "BGR",
-      "title": "Parents Have Been Waiting Years For This New Spotify Setting - BGR",
-      "url": "https://www.bgr.com/2262206/spotify-wrapped-recommendation-setting-parents-exclude-kids-music/",
-      "publishedAt": "2026-09-19T09:17:00.000Z",
-      "author": "Aaron Greenbaum",
-      "description": "Spotify's new feature protects your recommendation algorithm by optionally filtering out kids and family music with a toggle button.",
-      "image": "https://www.bgr.com/img/gallery/parents-have-been-waiting-years-for-this-new-spotify-setting/l-intro-1789739305.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "SoundGuys",
-      "title": "The Sony XM4C prove we don't need a new headphone model every year",
-      "url": "https://www.soundguys.com/the-sony-xm4c-prove-we-dont-need-a-new-headphone-every-year-163408/",
-      "publishedAt": "2026-09-19T09:00:24.000Z",
-      "author": "Adam Birney",
-      "description": "Sony's WH-1000XM4C is proof that the XM4 didn't need replacing. Here's why the yearly headphone refresh isn't always necessary.",
-      "image": "https://www.soundguys.com/wp-content/uploads/2026/09/sony-wh-1000xm4C-005.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "TechRadar",
-      "title": "Bose QuietComfort Headphones (2nd Gen) review: great headphones, but they're really quite expensive (in a crowded market)",
-      "url": "https://www.techradar.com/audio/wireless-headphones/after-a-month-testing-boses-new-premium-headphones-i-would-recommend-them-but-id-recommend-waiting-more",
-      "publishedAt": "2026-09-19T09:00:00.000Z",
-      "author": "",
-      "description": "The Bose QuietComfort Headphones (2nd Gen) sound fantastic and feel comfortable to wear, but after testing them thoroughly I'm still not sure they justify their asking price.",
-      "image": "https://cdn.mos.cms.futurecdn.net/Htq43AtTPNZ6kK7G4jdENN-2252-80.jpg",
-      "category": "耳機",
-      "articleType": "評測"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "“Good sound is good sound, regardless of whether it's hi-fi or home cinema” – how a surprise product reminded me of this simple truth",
-      "url": "https://www.whathifi.com/tv-home-cinema/good-sound-is-good-sound-regardless-of-whether-its-hi-fi-or-home-cinema-how-a-surprise-product-reminded-me-of-this-simple-truth",
-      "publishedAt": "2026-09-19T07:00:00.000Z",
-      "author": "Alastair Stevenson",
-      "description": "Whether it’s an all-in-one system, stereo speakers or a Dolby Atmos soundbar, good sound is good sound",
-      "image": "https://cdn.mos.cms.futurecdn.net/HeDmB2QFj9ft5ubcGJQiHC-1920-80.jpg",
-      "category": "Soundbar",
-      "articleType": "其他"
-    },
-    {
-      "source": "BGR",
-      "title": "Bose's Return To Wireless Open Earbuds Comes With A Few Major Upgrades - BGR",
-      "url": "https://www.bgr.com/2262187/new-bose-earbuds-ultra-open-upgrades-features/",
-      "publishedAt": "2026-09-19T03:17:00.000Z",
-      "author": "Gaurav Shukla",
-      "description": "The new Bose Ultra Open Earbuds (2nd Gen) and the Sport Open Earbuds have new drivers that result in better sound quality along with improved battery life.",
-      "image": "https://www.bgr.com/img/gallery/boses-return-to-wireless-open-earbuds-comes-with-a-few-major-upgrades/l-intro-1789736818.jpg",
-      "category": "耳機",
-      "articleType": "其他"
     }
   ]
 }
