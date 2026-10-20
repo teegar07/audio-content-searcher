@@ -1,8 +1,19 @@
 {
-  "generatedAt": "2026-10-20T22:04:31.035Z",
+  "generatedAt": "2026-10-20T22:50:25.715Z",
   "days": 30,
   "count": 542,
   "articles": [
+    {
+      "source": "BGR",
+      "title": "Some Google Home Speakers Have A Big New Problem (And It's Not Gemini) - BGR",
+      "url": "https://www.bgr.com/2292376/google-home-speakers-big-data-problem-explained/",
+      "publishedAt": "2026-10-20T22:17:00.000Z",
+      "author": "Ethan Stinson",
+      "description": "Users who set up a brand-new Google Home Speaker are learning after the fact that their speaker has a flaw that could cost them a fortune.",
+      "image": "https://www.bgr.com/img/gallery/some-google-home-speakers-have-a-big-new-problem-and-its-not-gemini/l-intro-1792530922.jpg",
+      "category": "喇叭",
+      "articleType": "其他"
+    },
     {
       "source": "SoundGuys",
       "title": "Save $31 on the Sony WH-CH520 headphones in rare price drop",
@@ -720,7 +731,7 @@
     },
     {
       "source": "What Hi-Fi?",
-      "title": "How to watch Champions Cup 2026/27 online from anywhere: live stream rugby for free",
+      "title": "How to watch Champions Cup 2026/27 online from anywhere: live stream rugby for free, Round 2",
       "url": "https://www.whathifi.com/streaming-entertainment/how-to-watch/champions-cup-2026-27-free",
       "publishedAt": "2026-10-16T07:00:00.000Z",
       "author": "Adam Marshall",
@@ -5952,17 +5963,6 @@
       "description": "Christian Craighead's explosive firsthand account of the 2019 Nairobi terror attack",
       "image": "https://cdn.mos.cms.futurecdn.net/wkP7mBuyGDzMr4z4YBmMQj-1910-80.jpg",
       "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "TechRadar",
-      "title": "Quote of the day by Figure AI founder and CEO Brett Adcock: 'We're building a new species here' — an audacious vision to replace manual labor with humanoid AI",
-      "url": "https://www.techradar.com/pro/quote-of-the-day-by-figure-ai-founder-and-ceo-brett-adcock-were-building-a-new-species-here-an-audacious-vision-to-replace-manual-labor-with-humanoid-ai",
-      "publishedAt": "2026-09-20T22:00:00.000Z",
-      "author": "Keumars Afifi-Sabet",
-      "description": "Physical AI is coming in the form of humanoid robots, but are we ready?",
-      "image": "https://cdn.mos.cms.futurecdn.net/NNzrzUBR5QxNFHioGTWcoM-1024-80.jpg",
-      "category": "DAC／擴大機",
       "articleType": "其他"
     }
   ]
