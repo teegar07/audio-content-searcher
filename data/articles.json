@@ -1,8 +1,19 @@
 {
-  "generatedAt": "2026-10-20T00:12:22.526Z",
+  "generatedAt": "2026-10-20T01:00:50.561Z",
   "days": 30,
-  "count": 533,
+  "count": 534,
   "articles": [
+    {
+      "source": "Engadget",
+      "title": "How to stop audio from auto-playing on Android Auto - Engadget",
+      "url": "https://www.engadget.com/2288195/how-to-stop-audio-automatically-play-android-auto/",
+      "publishedAt": "2026-10-20T00:30:00.000Z",
+      "author": "Gabriela Vătu",
+      "description": "If Android Auto is playing your music as soon as you start your car, you may want to disable that feature. Here's why it's happening and how to change it.",
+      "image": "https://www.engadget.com/img/gallery/how-to-stop-audio-from-auto-playing-on-android-auto/l-intro-1792093586.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
     {
       "source": "TechRadar",
       "title": "Want a more fun way to discover hi-res music? There's a new app for iOS and Android that streams radio stations all in CD quality FLAC or higher quality, and I'm loving the fun mix of stuff I've found",
