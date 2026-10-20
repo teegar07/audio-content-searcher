@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-20T22:50:25.715Z",
+  "generatedAt": "2026-10-20T23:43:01.852Z",
   "days": 30,
-  "count": 542,
+  "count": 541,
   "articles": [
     {
       "source": "BGR",
@@ -5952,17 +5952,6 @@
       "description": "Maybe you've heard that an external DAC can improve audio quality, but what is it and does it really do this? It can, but you may not need an upgrade.",
       "image": "https://www.bgr.com/img/gallery/what-is-a-dac-and-does-it-really-improve-audio-quality/l-intro-1789570103.jpg",
       "category": "DAC／擴大機",
-      "articleType": "其他"
-    },
-    {
-      "source": "TechRadar",
-      "title": "How to listen to Christian Craighead's One Man In for free — get the former SAS soldier's audiobook now",
-      "url": "https://www.techradar.com/how-to-watch/tv-shows/how-to-listen-to-christian-craigheads-one-man-in-for-free-get-the-former-sas-soldiers-audiobook",
-      "publishedAt": "2026-09-20T23:24:15.000Z",
-      "author": "Tom Bailey",
-      "description": "Christian Craighead's explosive firsthand account of the 2019 Nairobi terror attack",
-      "image": "https://cdn.mos.cms.futurecdn.net/wkP7mBuyGDzMr4z4YBmMQj-1910-80.jpg",
-      "category": "其他音訊",
       "articleType": "其他"
     }
   ]
