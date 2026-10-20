@@ -1,8 +1,184 @@
 {
-  "generatedAt": "2026-10-20T01:42:40.827Z",
+  "generatedAt": "2026-10-20T21:17:39.234Z",
   "days": 30,
-  "count": 533,
+  "count": 542,
   "articles": [
+    {
+      "source": "SoundGuys",
+      "title": "Save $31 on the Sony WH-CH520 headphones in rare price drop",
+      "url": "https://www.soundguys.com/deal-sony-wh-ch520-headphones-165003/",
+      "publishedAt": "2026-10-20T17:43:18.000Z",
+      "author": "Matt Horne",
+      "description": "Sony WH-CH520 headphones drop to $38 on Amazon, with 50-hour battery life, multipoint pairing, and a built-in mic.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2023/09/Sony-WH-CH520-Featured-Image-3-scaled.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "BGR",
+      "title": "YouTube Premium Could Get Its Best Perk Yet, As Long As It Doesn't Pull A Spotify - BGR",
+      "url": "https://www.bgr.com/2291937/youtube-premium-best-perk-yet-audiobooks/",
+      "publishedAt": "2026-10-20T17:17:00.000Z",
+      "author": "Joshua Hawkins",
+      "description": "YouTube Premium's higher price might be easier to stomach with a reported new perk, as long as Google avoids Spotify's frustrating approach.",
+      "image": "https://www.bgr.com/img/gallery/youtube-premium-could-get-its-best-perk-yet-as-long-as-it-doesnt-pull-a-spotify/l-intro-1792515480.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "LG S30A soundbar hits record low with $70 discount",
+      "url": "https://www.soundguys.com/lg-s30a-soundbar-deal-165006/",
+      "publishedAt": "2026-10-20T16:53:35.000Z",
+      "author": "Matt Horne",
+      "description": "This LG compact S30A soundbar is at an all-time low on Amazon at $149.99, with a wireless subwoofer and Dolby Audio included.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/10/LG-S30A-2.1-channel-Soundbar-Press-Image.jpg",
+      "category": "Soundbar",
+      "articleType": "其他"
+    },
+    {
+      "source": "Tom's Guide",
+      "title": "I just discovered an iPhone and Android hi-res music streaming app — and it's completely free, no ads, no subscription",
+      "url": "https://www.tomsguide.com/entertainment/music-streaming/i-just-discovered-an-iphone-and-android-hi-res-music-streaming-app-and-its-completely-free-no-ads-no-subscription",
+      "publishedAt": "2026-10-20T16:38:20.000Z",
+      "author": "Erin Bashford",
+      "description": "What's the catch, right? Seemingly none... just Audiophile.fm",
+      "image": "https://cdn.mos.cms.futurecdn.net/8AK9oCFNcRvkYGLavVjshL-2560-80.jpg",
+      "category": "串流播放器",
+      "articleType": "其他"
+    },
+    {
+      "source": "TechRadar",
+      "title": "Native Apple Music support is finally coming to a wireless speaker system other than Sonos — has Bluesound just become the Apple-loving audiophile's ideal option?",
+      "url": "https://www.techradar.com/audio/multi-room/theres-finally-a-proper-sonos-alternative-for-apple-loving-audiophiles-bluesound-is-getting-apple-music-as-a-free-upgrade-soon-and-not-just-on-its-own-devices",
+      "publishedAt": "2026-10-20T16:10:38.000Z",
+      "author": "Carrie Marshall",
+      "description": "Bluesound has updated BluOS with Apple Music integration. In addition to Bluesound devices, the platform also powers devices by big brands such as DALI and Monitor Audio.",
+      "image": "https://cdn.mos.cms.futurecdn.net/kDeFYY6KAJVDY3SLnmLDTW-1920-80.jpg",
+      "category": "喇叭",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "Belkin’s new budget ANC earbuds get their first Amazon discount",
+      "url": "https://www.soundguys.com/belkin-soundform-isolate-buds-anc-deal-164999/",
+      "publishedAt": "2026-10-20T15:37:00.000Z",
+      "author": "Matt Horne",
+      "description": "Belkin SoundForm Isolate Buds ANC drop to $52.99 on Amazon, their best price so far for affordable noise-canceling earbuds.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/09/Belkin-SoundForm-Isolate-Buds-white-2.jpeg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Bluesound owners just got a free Apple Music upgrade",
+      "url": "https://www.whathifi.com/streaming-entertainment/music-streaming/bluesound-owners-just-got-a-free-apple-music-upgrade",
+      "publishedAt": "2026-10-20T14:06:21.000Z",
+      "author": "Ioan Hazell",
+      "description": "Access to the streaming service comes with the latest BluOS update",
+      "image": "https://cdn.mos.cms.futurecdn.net/YdZizSrzJRa2WEJGFLShjk-900-80.jpg",
+      "category": "串流播放器",
+      "articleType": "其他"
+    },
+    {
+      "source": "TechRadar",
+      "title": "‘Self sabotage by Spotify’: The music platform is cracking down on Family plan sharing, and it does nothing except reveal Spotify’s true colors",
+      "url": "https://www.techradar.com/audio/spotify/spotifys-crack-down-on-family-plan-sharing-could-land-you-a-12-month-ban-and-it-could-be-the-final-straw-for-users-myself-included",
+      "publishedAt": "2026-10-20T14:06:02.000Z",
+      "author": "Rowan Davies",
+      "description": "Premium Family members must now prove to Spotify they live in the same household as the account holder.",
+      "image": "https://cdn.mos.cms.futurecdn.net/Yun3kDt3wnpcQxHd4jNzb5-2560-80.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "I’ve been testing the AirPods 5 and they deliver outstanding ANC performance in an open design – but it’s not all plain sailing for Apple’s newest gen earbuds",
+      "url": "https://www.whathifi.com/headphones/wireless-earbuds/apple-airpods-5-with-wireless-charging-case",
+      "publishedAt": "2026-10-20T13:34:32.000Z",
+      "author": "",
+      "description": "The AirPods 5 feature improved ANC and updated sonic performance in this tried-and-tested design, along with plenty of new iOS features, but have they evolved enough?",
+      "image": "https://cdn.mos.cms.futurecdn.net/NzfbkvnYm7hDEyWTDyig8H-1920-80.jpg",
+      "category": "耳機",
+      "articleType": "評測"
+    },
+    {
+      "source": "Tom's Guide",
+      "title": "I tested the Snoozeband Original with built-in speakers — now I can fall asleep fast even when I'm on the move",
+      "url": "https://www.tomsguide.com/wellness/sleep-tech/snoozeband-original-sleep-headphones-review",
+      "publishedAt": "2026-10-20T11:30:00.000Z",
+      "author": "",
+      "description": "The SnoozeBand Original is a cheap and comfortable solution to those who rely on white noise to fall asleep fast and drown out unwelcome noises, wherever you are.",
+      "image": "https://cdn.mos.cms.futurecdn.net/y8ty2un6wvYePYy8LRVJ8E-1920-80.jpg",
+      "category": "耳機",
+      "articleType": "評測"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "How to watch PSG vs Barcelona: live stream UCL game for FREE",
+      "url": "https://www.whathifi.com/streaming-entertainment/how-to-watch/psg-vs-barcelona-champions-league-2026-27-free",
+      "publishedAt": "2026-10-20T11:00:00.000Z",
+      "author": "Aatif Sulleyman",
+      "description": "How to watch PSG vs Barcelona live streams from anywhere in the 2026/27 UCL. Free coverage, TV channels and broadcast details from Parc des Princes.",
+      "image": "https://cdn.mos.cms.futurecdn.net/LVbJsfskyxMu2gM52Fhd3A-1920-80.jpg",
+      "category": "串流播放器",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "All the TVs that won a 2026 What Hi-Fi? Award, plus their best prices and biggest discounts",
+      "url": "https://www.whathifi.com/tv-home-cinema/televisions/all-the-tvs-that-won-a-2026-what-hi-fi-award-plus-their-best-prices-and-biggest-discounts",
+      "publishedAt": "2026-10-20T10:23:06.000Z",
+      "author": "Daniel Furn",
+      "description": "The big winners for a very special 50th anniversary year...",
+      "image": "https://cdn.mos.cms.futurecdn.net/Lh4JnNFw9s6LswLofsxtVh-1920-80.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "The Verge",
+      "title": "Some Google Home Speakers caught downloading hundreds of gigs of data",
+      "url": "https://www.theverge.com/tech/1014209/google-home-speaker-bug-continuous-download",
+      "publishedAt": "2026-10-20T10:16:47.000Z",
+      "author": "Jess Weatherbed",
+      "description": "The issue might be tied to failed attempts to install a firmware update.",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268614_Google_Home_Speaker_JTuohy_0010.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "category": "喇叭",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "\"Our projectors still offer a different, elevated and more precise experience for the discerning cinephile\" – manufacturers have their say on the rise of giant TVs",
+      "url": "https://www.whathifi.com/tv-home-cinema/projectors/are-giant-tvs-a-threat-to-projectors-we-asked-the-industry-to-find-out",
+      "publishedAt": "2026-10-20T09:44:59.000Z",
+      "author": "Tom Parsons",
+      "description": "According to Sony, Optoma, Anker and Xgimi, projectors continue to offer unique qualities that the biggest TVs can’t match",
+      "image": "https://cdn.mos.cms.futurecdn.net/rsgaVHe4uyzC7xXw8KBfxW-1920-80.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Jamo’s new flagship HYG 5 wireless speaker is like a HomePod with added motion controls",
+      "url": "https://www.whathifi.com/speakers/wireless-speakers/jamos-new-flagship-hyg-5-wireless-speaker-is-like-a-homepod-with-added-motion-controls",
+      "publishedAt": "2026-10-20T08:00:00.000Z",
+      "author": "Joe Svetlik",
+      "description": "Just wave your hand to wake this Danish speaker",
+      "image": "https://cdn.mos.cms.futurecdn.net/rCWxdSHoqcZ4nDfm4Ta7kh-2534-80.jpg",
+      "category": "喇叭",
+      "articleType": "其他"
+    },
+    {
+      "source": "Tom's Guide",
+      "title": "I tested the Marshall Bromley 150 — and it blew me away with its ground-shaking bass",
+      "url": "https://www.tomsguide.com/audio/bluetooth-speakers/marshall-bromley-150-review",
+      "publishedAt": "2026-10-20T08:00:00.000Z",
+      "author": "",
+      "description": "The Marshall Bromley 150 is a beautiful little party speaker, boasting powerful bass, a wide soundstage, 40 hours of battery life, and a range of features.",
+      "image": "https://cdn.mos.cms.futurecdn.net/9cjtyeyAmdfexS8WzL8ufj-1920-80.jpg",
+      "category": "喇叭",
+      "articleType": "評測"
+    },
     {
       "source": "Engadget",
       "title": "How to stop audio from auto-playing on Android Auto - Engadget",
@@ -34,17 +210,6 @@
       "description": "The perfect Bluetooth speaker for your next house party",
       "image": "https://cdn.mos.cms.futurecdn.net/SdGbwwVnMJxTUzuFZAoEdX-2000-80.jpg",
       "category": "喇叭",
-      "articleType": "其他"
-    },
-    {
-      "source": "The Verge",
-      "title": "Sony’s best noise-canceling earbuds are nearly $100 off today only",
-      "url": "https://www.theverge.com/gadgets/1013911/sonys-best-noise-canceling-earbuds-are-nearly-100-off-today-only",
-      "publishedAt": "2026-10-19T18:52:41.000Z",
-      "author": "Sheena Vasani",
-      "description": "The offer is only available through today.",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Sony-WF-1000XM6.png?quality=90&strip=all&crop=0,9.2512101155784,100,81.497579768843",
-      "category": "耳機",
       "articleType": "其他"
     },
     {
@@ -284,8 +449,8 @@
       "url": "https://www.whathifi.com/streaming-entertainment/how-to-watch/south-africa-vs-australia-2nd-test-2026",
       "publishedAt": "2026-10-17T23:30:00.000Z",
       "author": "Krishi Chowdhary",
-      "description": "Scott Boland strikes twice before rain halts play on a frustrating opening day",
-      "image": "https://cdn.mos.cms.futurecdn.net/RTNdMKMjeSpE7QN447YVe3-2560-80.jpg",
+      "description": "Scott Boland’s four-wicket haul puts Australia in control",
+      "image": "https://cdn.mos.cms.futurecdn.net/gjKyZM2dgxwQ3V3cUCU6SX-2560-80.jpg",
       "category": "串流播放器",
       "articleType": "其他"
     },
@@ -555,7 +720,7 @@
     },
     {
       "source": "What Hi-Fi?",
-      "title": "How to watch Champions Cup 2026/27 online from anywhere: live stream rugby for free",
+      "title": "How to watch Champions Cup 2026/27 online from anywhere: live stream rugby for free, Round 2",
       "url": "https://www.whathifi.com/streaming-entertainment/how-to-watch/champions-cup-2026-27-free",
       "publishedAt": "2026-10-16T07:00:00.000Z",
       "author": "Adam Marshall",
@@ -3495,7 +3660,7 @@
       "title": "Sound Advice: your hi-fi and home cinema questions answered, live",
       "url": "https://www.whathifi.com/tv-home-cinema/sound-advice-your-hi-fi-and-home-cinema-questions-answered-live",
       "publishedAt": "2026-10-02T09:12:42.000Z",
-      "author": "Tom Parsons, Ketan Bharadia, Kashfia Kabir",
+      "author": "Tom Parsons, Kashfia Kabir, Ketan Bharadia",
       "description": "Letters from the postbag, plus a live Q&A",
       "image": "https://cdn.mos.cms.futurecdn.net/PoToA7opRJwpBtshJ8eRiQ-1920-80.jpg",
       "category": "其他音訊",
@@ -4409,7 +4574,7 @@
       "url": "https://www.whathifi.com/hi-fi/dacs/audioquest-dragonfly-copper",
       "publishedAt": "2026-09-28T08:37:02.000Z",
       "author": "",
-      "description": "Tiny but mighty DragonFly soars again",
+      "description": "What Hi-Fi? Awards 2026 winner. Tiny but mighty DragonFly soars again",
       "image": "https://cdn.mos.cms.futurecdn.net/3KHapGSRKdgB5HRYv9cGyL-1920-80.jpg",
       "category": "DAC／擴大機",
       "articleType": "評測"
@@ -5798,72 +5963,6 @@
       "description": "Physical AI is coming in the form of humanoid robots, but are we ready?",
       "image": "https://cdn.mos.cms.futurecdn.net/NNzrzUBR5QxNFHioGTWcoM-1024-80.jpg",
       "category": "DAC／擴大機",
-      "articleType": "其他"
-    },
-    {
-      "source": "BGR",
-      "title": "Are Bookshelf Speakers Better Than Soundbars? - BGR",
-      "url": "https://www.bgr.com/2259360/are-bookshelf-speakers-better-soundbars/",
-      "publishedAt": "2026-09-20T16:32:00.000Z",
-      "author": "Michael Bizzaco",
-      "description": "Deciding between bookshelf speakers and a soundbar? You'll want to pick a side early, because the two systems don't play nice together.",
-      "image": "https://www.bgr.com/img/gallery/are-bookshelf-speakers-better-than-soundbars/l-intro-1789495371.jpg",
-      "category": "Soundbar",
-      "articleType": "其他"
-    },
-    {
-      "source": "BGR",
-      "title": "How Does Bitrate Affect Audio Quality? - BGR",
-      "url": "https://www.bgr.com/2259142/how-does-bitrate-affect-audio-quality/",
-      "publishedAt": "2026-09-20T13:47:00.000Z",
-      "author": "Jules Wang",
-      "description": "Higher bitrate audio generally means clearer sound, where you can hear all the frequencies better. That said, lossy formats like MP3 and AAC are also decent.",
-      "image": "https://www.bgr.com/img/gallery/how-does-bitrate-affect-audio-quality/l-intro-1789487170.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "Tom's Guide",
-      "title": "I tested the AirPods 5 vs the AirPods 4 ANC — should you upgrade?",
-      "url": "https://www.tomsguide.com/audio/airpods/airpods-5-vs-airpods-4-anc",
-      "publishedAt": "2026-09-20T10:00:00.000Z",
-      "author": "Erin Bashford",
-      "description": "What are the differences between the AirPods 4 ANC and the brand-new AirPods 5? Are the AirPods 5 worth the upgrade?",
-      "image": "https://cdn.mos.cms.futurecdn.net/xEvxo562uQbA8mimzdKRnH-2000-80.jpg",
-      "category": "耳機",
-      "articleType": "評測"
-    },
-    {
-      "source": "BGR",
-      "title": "Which Bose Headphones Have The Best Battery Life? - BGR",
-      "url": "https://www.bgr.com/2258773/which-bose-headphones-have-best-battery-life/",
-      "publishedAt": "2026-09-20T09:47:00.000Z",
-      "author": "Marinel Sigue",
-      "description": "Bose's QuietComfort lineup offers different battery life, charging speeds, and features. Here's how the three current headphone models compare.",
-      "image": "https://www.bgr.com/img/gallery/which-bose-headphones-have-the-best-battery-life/l-intro-1789468042.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "How to watch Road World Championships 2026: live stream for FREE",
-      "url": "https://www.whathifi.com/streaming-entertainment/how-to-watch/uci-road-world-championships-2026-live-stream",
-      "publishedAt": "2026-09-20T05:00:00.000Z",
-      "author": "Aatif Sulleyman",
-      "description": "How to watch Road World Championships 2026 live streams. Free coverage and preview, with Remco Evenepoel and Lotte Kopecky among the road race favourites.",
-      "image": "https://cdn.mos.cms.futurecdn.net/HDnKgxYNSzKUZzXFbd74vH-1920-80.jpg",
-      "category": "串流播放器",
-      "articleType": "其他"
-    },
-    {
-      "source": "Tom's Guide",
-      "title": "I swapped my AirPods Pro 3 for the AirPods 5 on a 22-mile run: Here are 3 things I liked, and 2 things I missed",
-      "url": "https://www.tomsguide.com/audio/airpods/i-swapped-my-airpods-pro-3-for-the-airpods-5-on-a-22-mile-run-here-are-3-things-i-liked-and-2-things-i-missed",
-      "publishedAt": "2026-09-20T04:15:00.000Z",
-      "author": "Jane McGuire",
-      "description": "The AirPods 5 are $100 cheaper, but can they keep up?",
-      "image": "https://cdn.mos.cms.futurecdn.net/vZiMLjLv53NSrF3PSX5oAK-2560-80.jpg",
-      "category": "耳機",
       "articleType": "其他"
     }
   ]
