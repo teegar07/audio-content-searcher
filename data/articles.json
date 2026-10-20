@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-20T01:00:50.561Z",
+  "generatedAt": "2026-10-20T01:42:40.827Z",
   "days": 30,
-  "count": 534,
+  "count": 533,
   "articles": [
     {
       "source": "Engadget",
@@ -5865,17 +5865,6 @@
       "image": "https://cdn.mos.cms.futurecdn.net/vZiMLjLv53NSrF3PSX5oAK-2560-80.jpg",
       "category": "耳機",
       "articleType": "其他"
-    },
-    {
-      "source": "BGR",
-      "title": "How To Improve Xbox Series X's Audio Quality - BGR",
-      "url": "https://www.bgr.com/2258282/improve-xbox-series-x-audio-quality/",
-      "publishedAt": "2026-09-20T01:17:00.000Z",
-      "author": "Aaron Greenbaum",
-      "description": "Whether you're playing online with friends or watching the latest movie releases, this is how to get the best audio out of your Xbox Series X.",
-      "image": "https://www.bgr.com/img/gallery/how-to-improve-xbox-series-xs-audio-quality/l-intro-1789418003.jpg",
-      "category": "其他音訊",
-      "articleType": "新聞"
     }
   ]
 }
