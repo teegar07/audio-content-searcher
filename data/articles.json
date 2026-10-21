@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-21T21:16:23.858Z",
+  "generatedAt": "2026-10-21T22:07:14.441Z",
   "days": 30,
-  "count": 549,
+  "count": 548,
   "articles": [
     {
       "source": "SoundGuys",
@@ -6030,17 +6030,6 @@
       "image": "https://cdn.mos.cms.futurecdn.net/9ui8vuAvNqX2Bubaxvks8J-1920-80.jpg",
       "category": "耳機",
       "articleType": "新聞"
-    },
-    {
-      "source": "BGR",
-      "title": "Why Do Some Hotel Mirrors Have Bluetooth? - BGR",
-      "url": "https://www.bgr.com/2260988/why-some-hotel-mirrors-have-bluetooth/",
-      "publishedAt": "2026-09-21T21:47:00.000Z",
-      "author": "Trevor Mogg",
-      "description": "Some hotel mirrors now have a Bluetooth connection, which allows you to use them as speakers for your mobile devices. More smart mirror upgrades are on the way.",
-      "image": "https://www.bgr.com/img/gallery/why-do-some-hotel-mirrors-have-bluetooth/l-intro-1789644410.jpg",
-      "category": "喇叭",
-      "articleType": "其他"
     }
   ]
 }
