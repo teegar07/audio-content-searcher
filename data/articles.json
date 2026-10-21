@@ -1,8 +1,19 @@
 {
-  "generatedAt": "2026-10-21T22:07:14.441Z",
+  "generatedAt": "2026-10-21T22:55:31.987Z",
   "days": 30,
-  "count": 548,
+  "count": 549,
   "articles": [
+    {
+      "source": "Engadget",
+      "title": "Bose buys audio rival Skullcandy - Engadget",
+      "url": "https://www.engadget.com/2293698/bose-buys-audio-rival-skullcandy/",
+      "publishedAt": "2026-10-21T22:19:48.000Z",
+      "author": "Ian Carlos Campbell",
+      "description": "Bose sees the company as a way to reach a wider audience.",
+      "image": "https://www.engadget.com/img/gallery/bose-buys-audio-rival-skullcandy/l-intro-1792621054.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
     {
       "source": "SoundGuys",
       "title": "Amazon drops TOZO A1 earbuds under $14 with app EQ support",
