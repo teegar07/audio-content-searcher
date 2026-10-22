@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-22T22:04:29.954Z",
+  "generatedAt": "2026-10-22T22:54:11.440Z",
   "days": 30,
-  "count": 541,
+  "count": 542,
   "articles": [
     {
       "source": "The Verge",
@@ -24,6 +24,17 @@
       "image": "https://cdn.mos.cms.futurecdn.net/SLyCYczxt5FxYChGHfQJth-2345-80.jpg",
       "category": "耳機",
       "articleType": "新聞"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "I've tested hundreds of earbuds, and these are the best ones under $200 in 2026",
+      "url": "https://www.soundguys.com/best-wireless-earbuds-under-200-73754/",
+      "publishedAt": "2026-10-22T18:02:32.000Z",
+      "author": "Adam Birney",
+      "description": "Wireless earbuds under $200 is a sweet spot if you want noise canceling and other premium features. Here are the best picks and why.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/10/DSC09964-scaled.jpg",
+      "category": "耳機",
+      "articleType": "評測"
     },
     {
       "source": "The Verge",
