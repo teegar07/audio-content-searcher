@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T22:55:31.987Z",
+  "generatedAt": "2026-10-22T00:01:45.851Z",
   "days": 30,
   "count": 549,
   "articles": [
@@ -12,6 +12,17 @@
       "description": "Bose sees the company as a way to reach a wider audience.",
       "image": "https://www.engadget.com/img/gallery/bose-buys-audio-rival-skullcandy/l-intro-1792621054.jpg",
       "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "The best budget noise canceling headphones under $150: My top picks after years of testing",
+      "url": "https://www.soundguys.com/best-budget-noise-cancelling-headphones-7142/",
+      "publishedAt": "2026-10-21T20:50:48.000Z",
+      "author": "Dave Carr",
+      "description": "Find the best budget noise canceling headphones under $150, with our top picks for ANC, sound quality, comfort, and battery life.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/04/Best-ANC-Headphones-under-150-1-scaled.jpeg",
+      "category": "耳機",
       "articleType": "其他"
     },
     {
@@ -6030,17 +6041,6 @@
       "image": "https://www.bgr.com/img/gallery/what-is-apple-music-select/l-intro-1789648216.jpg",
       "category": "其他音訊",
       "articleType": "其他"
-    },
-    {
-      "source": "TechRadar",
-      "title": "Researchers can make headphones leak audio through a wall, but the 30-meter claim has a few caveats",
-      "url": "https://www.techradar.com/pro/security/researchers-can-make-headphones-leak-audio-through-a-wall-but-the-30-meter-claim-has-a-few-caveats",
-      "publishedAt": "2026-09-21T23:20:00.000Z",
-      "author": "Rahim Amir",
-      "description": "Encryption can't stop InjectEave because the audio leaks after it's been decoded, but it does have its limitations.",
-      "image": "https://cdn.mos.cms.futurecdn.net/9ui8vuAvNqX2Bubaxvks8J-1920-80.jpg",
-      "category": "耳機",
-      "articleType": "新聞"
     }
   ]
 }
