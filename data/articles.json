@@ -1,8 +1,19 @@
 {
-  "generatedAt": "2026-10-22T00:01:45.851Z",
+  "generatedAt": "2026-10-22T00:33:53.634Z",
   "days": 30,
   "count": 549,
   "articles": [
+    {
+      "source": "TechRadar",
+      "title": "‘A genuine Sonos rival’: the WiiM Bar is a strong Dolby Atmos soundbar that conjures up a delightfully wide soundstage and has no end of handy features — here’s whether I'd recommend it after hours of use",
+      "url": "https://www.techradar.com/televisions/soundbars/wiim-bar-review",
+      "publishedAt": "2026-10-22T00:00:00.000Z",
+      "author": "",
+      "description": "Can WiiM rival Sonos in the world of Dolby Atmos soundbars? Here’s my view after testing out the company’s first ever soundbar.",
+      "image": "https://cdn.mos.cms.futurecdn.net/VuDrgtc9A8AydwhofNVeX5-1920-80.jpg",
+      "category": "Soundbar",
+      "articleType": "評測"
+    },
     {
       "source": "Engadget",
       "title": "Bose buys audio rival Skullcandy - Engadget",
@@ -6029,17 +6040,6 @@
       "description": "Apple Music offers several audio quality settings, but their data use varies dramatically depending on whether you're streaming or downloading music.",
       "image": "https://www.bgr.com/img/gallery/which-apple-music-audio-setting-uses-the-most-data/l-intro-1789655873.jpg",
       "category": "串流播放器",
-      "articleType": "其他"
-    },
-    {
-      "source": "BGR",
-      "title": "What Is Apple Music Select? - BGR",
-      "url": "https://www.bgr.com/2261033/apple-music-select-explained/",
-      "publishedAt": "2026-09-22T00:17:00.000Z",
-      "author": "Christine Persaud",
-      "description": "Apple Music Select gives some iCloud+ subscribers a limited, ad-free version of Apple Music with regional stations and discounted upgrade options.",
-      "image": "https://www.bgr.com/img/gallery/what-is-apple-music-select/l-intro-1789648216.jpg",
-      "category": "其他音訊",
       "articleType": "其他"
     }
   ]
