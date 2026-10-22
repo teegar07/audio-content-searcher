@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-22T22:54:11.440Z",
+  "generatedAt": "2026-10-22T23:59:33.242Z",
   "days": 30,
-  "count": 542,
+  "count": 541,
   "articles": [
     {
       "source": "The Verge",
@@ -5952,17 +5952,6 @@
       "description": "Bluetooth is great for connecting devices over short distances, but many factors affect its range. Those include Bluetooth specs, as well as the surroundings.",
       "image": "https://www.bgr.com/img/gallery/bluetooth-range-how-far-does-it-really-reach/l-intro-1789665483.jpg",
       "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "BGR",
-      "title": "Why Do Speakers Have Multiple Drivers, But Most Headphones Don't? - BGR",
-      "url": "https://www.bgr.com/2262285/why-speakers-have-multiple-driver-but-headphones-dont/",
-      "publishedAt": "2026-09-22T23:47:00.000Z",
-      "author": "Briley Kenney",
-      "description": "Larger and multiple drivers comes with higher power requirements, and a portable format like headphones would require better battery life and a bulkier headset.",
-      "image": "https://www.bgr.com/img/gallery/why-do-speakers-have-multiple-drivers-but-most-headphones-dont/l-intro-1789743320.jpg",
-      "category": "耳機",
       "articleType": "其他"
     }
   ]
