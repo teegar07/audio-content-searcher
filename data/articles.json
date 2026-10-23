@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-23T22:46:51.637Z",
+  "generatedAt": "2026-10-23T23:50:48.414Z",
   "days": 30,
-  "count": 547,
+  "count": 546,
   "articles": [
     {
       "source": "TechRadar",
@@ -6008,17 +6008,6 @@
       "image": "https://cdn.mos.cms.futurecdn.net/yUgsNTQrQ9fiUbv78H8EBL-2560-80.jpg",
       "category": "其他音訊",
       "articleType": "其他"
-    },
-    {
-      "source": "Tom's Guide",
-      "title": "Ray-Ban Meta Audio hands-on — an attempt to allay privacy concerns",
-      "url": "https://www.tomsguide.com/computing/smart-glasses/ray-ban-meta-audio-hands-on-an-attempt-to-allay-privacy-concerns",
-      "publishedAt": "2026-09-23T23:34:08.000Z",
-      "author": "Scott Younker",
-      "description": "Lighter, better looking but expensive",
-      "image": "https://cdn.mos.cms.futurecdn.net/wzs85cTXf3YJbck3vPLCTf-2300-80.jpg",
-      "category": "其他音訊",
-      "articleType": "評測"
     }
   ]
 }
