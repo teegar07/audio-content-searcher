@@ -1,8 +1,19 @@
 {
-  "generatedAt": "2026-10-23T21:50:41.893Z",
+  "generatedAt": "2026-10-23T22:46:51.637Z",
   "days": 30,
   "count": 547,
   "articles": [
+    {
+      "source": "TechRadar",
+      "title": "Stranger Than Heaven director reveals the game's showbiz system was originally a 'rhythm game' but didn't 'exactly match the feeling that you're promoting a show,' says the idea of looking for inspiration sources was influenced by how musicians have an 'antenna for the music'",
+      "url": "https://www.techradar.com/gaming/at-some-point-we-did-have-a-small-rhythm-game-but-it-didnt-exactly-match-the-feeling-that-youre-promoting-a-show-stranger-than-heaven-director-says-the-showbiz-system-was-a-real-challenge-and-inspired-by-musicians-with-an-antenna-for-music",
+      "publishedAt": "2026-10-23T22:00:00.000Z",
+      "author": "Demi Williams, James Pickard",
+      "description": "Stranger Than Heaven director Mikinobu Abe has revealed how RGG Studio designed the game's Showbiz narrative system and how difficult it was to get right.",
+      "image": "https://cdn.mos.cms.futurecdn.net/tRcHvrrGZDPpXvCQfAs9YC-1920-80.jpg",
+      "category": "其他音訊",
+      "articleType": "新聞"
+    },
     {
       "source": "The Verge",
       "title": "Soundcore’s latest noise-crushing headphones are on sale for a new low price",
@@ -6008,17 +6019,6 @@
       "image": "https://cdn.mos.cms.futurecdn.net/wzs85cTXf3YJbck3vPLCTf-2300-80.jpg",
       "category": "其他音訊",
       "articleType": "評測"
-    },
-    {
-      "source": "BGR",
-      "title": "'The Best-Sounding Headphones We've Ever Built': Beats President Talks Beats 360, Customization, And Apple - BGR",
-      "url": "https://www.bgr.com/2267163/beats-president-interview-360-customization-apple/",
-      "publishedAt": "2026-09-23T22:33:04.000Z",
-      "author": "José Adorno",
-      "description": "Beats Electronics president Oliver Schusser took some time to talk with us about the new Beats 360 headphones, the relationship with Apple, and more.",
-      "image": "https://www.bgr.com/img/gallery/the-best-sounding-headphones-weve-ever-built-beats-president-talks-beats-360-customization-and-apple/l-intro-1790202567.jpg",
-      "category": "耳機",
-      "articleType": "其他"
     }
   ]
 }
