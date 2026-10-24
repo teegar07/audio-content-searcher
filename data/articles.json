@@ -1,8 +1,19 @@
 {
-  "generatedAt": "2026-10-23T23:50:48.414Z",
+  "generatedAt": "2026-10-24T00:26:52.193Z",
   "days": 30,
   "count": 546,
   "articles": [
+    {
+      "source": "TechRadar",
+      "title": "This Dolby Atmos soundbar from JBL may not have up-firing speakers, but it still sounds more expansive than most models I’ve tested — here’s how I’d rate it after hours of testing",
+      "url": "https://www.techradar.com/televisions/soundbars/jbl-bar-800mk2-review",
+      "publishedAt": "2026-10-24T00:00:00.000Z",
+      "author": "",
+      "description": "I tested a JBL soundbar with battery powered detachable speakers, and it absolutely blew me away.",
+      "image": "https://cdn.mos.cms.futurecdn.net/QS3Ksc5iGqkBLoC9AM3ZZQ-1920-80.jpg",
+      "category": "Soundbar",
+      "articleType": "評測"
+    },
     {
       "source": "TechRadar",
       "title": "Stranger Than Heaven director reveals the game's showbiz system was originally a 'rhythm game' but didn't 'exactly match the feeling that you're promoting a show,' says the idea of looking for inspiration sources was influenced by how musicians have an 'antenna for the music'",
@@ -5995,17 +6006,6 @@
       "author": "Ioan Hazell",
       "description": "The Revere collection features models with built-in CD players and internet radio",
       "image": "https://cdn.mos.cms.futurecdn.net/iSmamPvRBruQe4YsUajR7h-2560-80.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "TechRadar",
-      "title": "Perv glasses no more? The Ray-Ban Meta Audio glasses have Dolby Atmos, and no cameras at all",
-      "url": "https://www.techradar.com/computing/virtual-reality-augmented-reality/the-ray-ban-meta-audio-glasses-remove-the-cameras-for-better-battery-life-and-dolby-atmos",
-      "publishedAt": "2026-09-24T00:00:00.000Z",
-      "author": "Hamish Hector",
-      "description": "The new best Meta smart glasses?",
-      "image": "https://cdn.mos.cms.futurecdn.net/yUgsNTQrQ9fiUbv78H8EBL-2560-80.jpg",
       "category": "其他音訊",
       "articleType": "其他"
     }
