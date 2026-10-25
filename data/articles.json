@@ -1,8 +1,19 @@
 {
-  "generatedAt": "2026-10-25T21:22:31.072Z",
+  "generatedAt": "2026-10-25T22:12:55.003Z",
   "days": 30,
-  "count": 529,
+  "count": 530,
   "articles": [
+    {
+      "source": "BGR",
+      "title": "How To Tell If Your Headphones Support Lossless Audio - BGR",
+      "url": "https://www.bgr.com/2292207/how-to-tell-if-headphones-support-lossless-audio/",
+      "publishedAt": "2026-10-25T21:47:00.000Z",
+      "author": "Ethan Stinson",
+      "description": "If you're listening to a service that offers lossless audio, your wireless headphones will recompress the file, so wired headphones are necessary.",
+      "image": "https://www.bgr.com/img/gallery/how-to-tell-if-your-headphones-support-lossless-audio/l-intro-1792523352.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
     {
       "source": "The Verge",
       "title": "Scott Walker’s The Drift will get under your skin",
