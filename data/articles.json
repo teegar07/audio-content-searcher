@@ -1,8 +1,19 @@
 {
-  "generatedAt": "2026-10-25T20:25:39.560Z",
+  "generatedAt": "2026-10-25T21:22:31.072Z",
   "days": 30,
-  "count": 528,
+  "count": 529,
   "articles": [
+    {
+      "source": "The Verge",
+      "title": "Scott Walker’s The Drift will get under your skin",
+      "url": "https://www.theverge.com/entertainment/1018300/scott-walker-the-drift-music-album-review",
+      "publishedAt": "2026-10-25T21:08:09.000Z",
+      "author": "Terrence O'Brien",
+      "description": "Walker’s 2006 album is unsettling, bizarre, and the perfect way to kill a party.",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/a1635465713_10.jpg?quality=90&strip=all&crop=0,23.821989528796,100,52.356020942408",
+      "category": "其他音訊",
+      "articleType": "評測"
+    },
     {
       "source": "TechRadar",
       "title": "Topping's well-built new DAC is stuffed with features and makes a real difference to a desktop system, but it doesn't grab me be the lapels",
