@@ -1,8 +1,96 @@
 {
-  "generatedAt": "2026-10-25T00:57:57.210Z",
+  "generatedAt": "2026-10-25T20:25:39.560Z",
   "days": 30,
-  "count": 538,
+  "count": 528,
   "articles": [
+    {
+      "source": "TechRadar",
+      "title": "Topping's well-built new DAC is stuffed with features and makes a real difference to a desktop system, but it doesn't grab me be the lapels",
+      "url": "https://www.techradar.com/audio/dacs/topping-dx1-ii-review",
+      "publishedAt": "2026-10-25T18:00:00.000Z",
+      "author": "",
+      "description": "The Topping DX1 II is a big step on from the original DAC, at least where specification is concerned, but it's a little laid-back.",
+      "image": "https://cdn.mos.cms.futurecdn.net/MngaCKTy96hCsrNUW6G5uE-2560-80.jpg",
+      "category": "DAC／擴大機",
+      "articleType": "評測"
+    },
+    {
+      "source": "Engadget",
+      "title": "Why are earbuds usually cheaper than headphones? - Engadget",
+      "url": "https://www.engadget.com/2293014/why-earbuds-cheaper-than-headphones/",
+      "publishedAt": "2026-10-25T14:15:00.000Z",
+      "author": "Erin Carson",
+      "description": "Earbuds tend to be smaller and less complex to build than headphones.",
+      "image": "https://www.engadget.com/img/gallery/why-are-earbuds-usually-cheaper-than-headphones/l-intro-1792596068.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "The Verge",
+      "title": "r/opensource just banned AI, non-English speakers, and more",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+      "publishedAt": "2026-10-25T13:25:32.000Z",
+      "author": "Terrence O'Brien",
+      "description": "The opensource subreddit’s new rules against AI have sparked a revolt.",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK115_Reddit_01.jpg.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "category": "喇叭",
+      "articleType": "其他"
+    },
+    {
+      "source": "Engadget",
+      "title": "When AI glasses could be a worthy headphones replacement - Engadget",
+      "url": "https://www.engadget.com/2292076/when-ai-glasses-worth-headphones-replacement/",
+      "publishedAt": "2026-10-25T12:45:00.000Z",
+      "author": "Nimrod Aldea",
+      "description": "Smart AI glasses like Ray-Ban Meta smart glasses can be used as headphones for calls, notifications and music. But are they as good as headphones? Probably not.",
+      "image": "https://www.engadget.com/img/gallery/when-ai-glasses-could-be-a-worthy-headphones-replacement/l-intro-1792519044.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "How to watch Barcelona vs Real Madrid: live stream El Clásico for FREE",
+      "url": "https://www.whathifi.com/streaming-entertainment/how-to-watch/how-to-watch-barcelona-vs-real-madrid-live-stream-el-clasico-for-free-from-anywhere",
+      "publishedAt": "2026-10-25T12:00:00.000Z",
+      "author": "Aatif Sulleyman",
+      "description": "How to watch Barcelona vs Real Madrid live streams from anywhere in La Liga 2026/27. Free coverage, TV channels and broadcast details from Camp Nou.",
+      "image": "https://cdn.mos.cms.futurecdn.net/LcGQpQ9o7AS4ebikE8eEPn-1920-80.jpg",
+      "category": "串流播放器",
+      "articleType": "其他"
+    },
+    {
+      "source": "Tom's Guide",
+      "title": "I watched 3 movies with JBL and Samsung's 2026 flagship soundbars — here's the one I'd choose and why",
+      "url": "https://www.tomsguide.com/audio/soundbars/i-watched-3-movies-with-jbl-and-samsungs-2026-flagship-soundbars-heres-the-one-id-choose-and-why",
+      "publishedAt": "2026-10-25T10:45:00.000Z",
+      "author": "Erin Bashford",
+      "description": "I mean, if I had enough money...",
+      "image": "https://cdn.mos.cms.futurecdn.net/uKiBX2wqj4s52U733ooNyN-2000-80.jpg",
+      "category": "Soundbar",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "I tried both Bose QuietComfort headphones, and I'd save the $90",
+      "url": "https://www.soundguys.com/i-tried-both-bose-quietcomfort-headphones-and-id-save-the-90-165114/",
+      "publishedAt": "2026-10-25T09:00:26.000Z",
+      "author": "Dave Carr",
+      "description": "After testing the Bose QuietComfort Headphones (2nd Gen), I'd buy them over the pricier Ultras. Here's why they're all I need.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/10/Bose-QC-2-vs-Bose-QC-Ultra-2-1-scaled.jpeg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "BGR",
+      "title": "Some Audiophiles Avoid The Blue Yeti Microphone, So Here Are 4 Affordable Alternatives - BGR",
+      "url": "https://www.bgr.com/2291659/audiophiles-blue-yeti-affordable-microphone-alternatives/",
+      "publishedAt": "2026-10-25T02:17:00.000Z",
+      "author": "Joel Loynds",
+      "description": "The Blue Yeti helped make USB microphones mainstream, but there's plenty of competition now for those who want good audio without a studio setup.",
+      "image": "https://www.bgr.com/img/gallery/some-audiophiles-avoid-the-blue-yeti-microphone-so-here-are-4-affordable-alternatives/l-intro-1792506973.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
     {
       "source": "BGR",
       "title": "How Much Treble Should Your Headphone EQ Have For Better Audio Quality? - BGR",
@@ -708,17 +796,6 @@
       "articleType": "評測"
     },
     {
-      "source": "Engadget",
-      "title": "Bose buys audio rival Skullcandy - Engadget",
-      "url": "https://www.engadget.com/2293698/bose-buys-audio-rival-skullcandy/",
-      "publishedAt": "2026-10-21T22:19:48.000Z",
-      "author": "Ian Carlos Campbell",
-      "description": "Bose sees the company as a way to reach a wider audience.",
-      "image": "https://www.engadget.com/img/gallery/bose-buys-audio-rival-skullcandy/l-intro-1792621054.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
       "source": "SoundGuys",
       "title": "The best budget noise canceling headphones under $150: My top picks after years of testing",
       "url": "https://www.soundguys.com/best-budget-noise-cancelling-headphones-7142/",
@@ -1303,17 +1380,6 @@
     },
     {
       "source": "What Hi-Fi?",
-      "title": "Goldmund aims to make a Statement with its new high-end Mimesis pre-amp’s “faithful” sound",
-      "url": "https://www.whathifi.com/hi-fi/stereo-amplifiers/goldmund-aims-to-make-a-statement-with-its-new-high-end-mimesis-pre-amps-faithful-sound",
-      "publishedAt": "2026-10-19T10:00:00.000Z",
-      "author": "Alastair Stevenson",
-      "description": "Everything from the proprietary circuit board to the dual-mono power supply has been designed with “purity” in mind",
-      "image": "https://cdn.mos.cms.futurecdn.net/HsmFsN4dvDge5FXxBVuiuE-2560-80.jpg",
-      "category": "DAC／擴大機",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
       "title": "I flew to Switzerland to hear a £1 million hi-fi system – and it made quite the Statement",
       "url": "https://www.whathifi.com/hi-fi/i-flew-to-switzerland-to-hear-a-gbp1-million-hi-fi-system-and-it-made-quite-the-statement",
       "publishedAt": "2026-10-19T10:00:00.000Z",
@@ -1321,6 +1387,17 @@
       "description": "And the Goldmund Telos 9800 and Mimesis Statement are “just the start”",
       "image": "https://cdn.mos.cms.futurecdn.net/KQXiWUpA8aZgaAvjbDYd46-2560-80.jpg",
       "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Goldmund aims to make a Statement with its new high-end Mimesis pre-amp’s “faithful” sound",
+      "url": "https://www.whathifi.com/hi-fi/stereo-amplifiers/goldmund-aims-to-make-a-statement-with-its-new-high-end-mimesis-pre-amps-faithful-sound",
+      "publishedAt": "2026-10-19T10:00:00.000Z",
+      "author": "Alastair Stevenson",
+      "description": "Everything from the proprietary circuit board to the dual-mono power supply has been designed with “purity” in mind",
+      "image": "https://cdn.mos.cms.futurecdn.net/HsmFsN4dvDge5FXxBVuiuE-2560-80.jpg",
+      "category": "DAC／擴大機",
       "articleType": "其他"
     },
     {
@@ -5733,193 +5810,6 @@
       "image": "https://www.bgr.com/img/gallery/why-im-excited-for-qualcomms-newest-snapdragon-audio-chip/l-intro-1790269345.jpg",
       "category": "耳機",
       "articleType": "其他"
-    },
-    {
-      "source": "BGR",
-      "title": "AirPods 5 Review: The Best Noise Cancellation In Affordable Earbuds - BGR",
-      "url": "https://www.bgr.com/2269100/airpods-5-review/",
-      "publishedAt": "2026-09-25T17:17:00.000Z",
-      "author": "Connor Jewiss",
-      "description": "Much like Apple's iPhone 17 adopted some of the best Pro features, the AirPods 5 come closer to matching the AirPods Pro than any previous model.",
-      "image": "https://www.bgr.com/img/gallery/airpods-5-review/l-intro-1791227606.jpg",
-      "category": "耳機",
-      "articleType": "評測"
-    },
-    {
-      "source": "SoundGuys",
-      "title": "Apple's HomePod mini 2 could drop orange and yellow for these new colors",
-      "url": "https://www.soundguys.com/homepod-mini-2-design-and-colors-163776/",
-      "publishedAt": "2026-09-25T17:10:14.000Z",
-      "author": "Ryan McNeal",
-      "description": "The HomePod mini 2 has been spotted hiding in Apple's code, revealing the smart speaker's design and colors.",
-      "image": "https://www.soundguys.com/wp-content/uploads/2026/09/HomePod-minis-2-colors.jpg",
-      "category": "喇叭",
-      "articleType": "其他"
-    },
-    {
-      "source": "SoundGuys",
-      "title": "Soundcore Liberty Buds deal cuts the open-fit earbuds to $59.99, down 40% from RRP",
-      "url": "https://www.soundguys.com/soundcore-liberty-buds-deal-163770/",
-      "publishedAt": "2026-09-25T15:37:45.000Z",
-      "author": "Matt Horne",
-      "description": "Get 40% off the Anker Soundcore Liberty Buds right now, with ANC, spatial audio, and up to 30 hours of battery life.",
-      "image": "https://www.soundguys.com/wp-content/uploads/2026/09/Anker-Soundcore-Liberty-Buds-Press-Image.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "Our experts pick the best deals on 65-inch TVs, newly reviewed projectors and Award-winning speakers",
-      "url": "https://www.whathifi.com/av/our-experts-pick-the-best-deals-on-65-inch-tvs-newly-reviewed-projectors-and-award-winning-speakers",
-      "publishedAt": "2026-09-25T15:21:06.000Z",
-      "author": "Daniel Furn",
-      "description": "Half-price discounts, free soundbars and more",
-      "image": "https://cdn.mos.cms.futurecdn.net/4jckYGMAMuYMkLqSti86Ud-1920-80.jpg",
-      "category": "Soundbar",
-      "articleType": "其他"
-    },
-    {
-      "source": "BGR",
-      "title": "7 Free Ways To Get Better Sound Quality On Any Audio File - BGR",
-      "url": "https://www.bgr.com/2265166/free-ways-get-better-sound-quality-audio-file/",
-      "publishedAt": "2026-09-25T14:02:00.000Z",
-      "author": "Levin Roy",
-      "description": "Audiophiles love tinkering with gear and settings to get the best possible sound. Join their ranks with these tips to improve the quality of any audio file.",
-      "image": "https://www.bgr.com/img/gallery/7-free-ways-to-get-better-sound-quality-on-any-audio-file/l-intro-1790083372.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "Tom's Guide",
-      "title": "The JBL Live Beam 4 just became my go-to earbuds — their dynamic sound and useful touchscreen case are killer",
-      "url": "https://www.tomsguide.com/audio/earbuds/jbl-live-beam-4-review",
-      "publishedAt": "2026-09-25T12:18:05.000Z",
-      "author": "",
-      "description": "The JBL Live Beam 4 are excellent ANC earbuds, boasting a wide soundstage and punchy bass. Their case doubles as a controller and they're extremely comfortable.",
-      "image": "https://cdn.mos.cms.futurecdn.net/k6thCR5ohXHF3m8dva64o7-1920-80.jpg",
-      "category": "耳機",
-      "articleType": "評測"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "Samsung R95H (MRE65R95H) review",
-      "url": "https://www.whathifi.com/tv-home-cinema/televisions/samsung-r95h-mre65r95h",
-      "publishedAt": "2026-09-25T11:03:25.000Z",
-      "author": "",
-      "description": "Samsung’s first mainstream RGB Mini LED TV is a surprising miss",
-      "image": "https://cdn.mos.cms.futurecdn.net/aivVBPfVENxfUQRm7itcTY-1920-80.jpg",
-      "category": "其他音訊",
-      "articleType": "評測"
-    },
-    {
-      "source": "TechRadar",
-      "title": "Bose just gave my inner goth child an asymmetric design with an emo stripe, added a bit of cashmere (because I'm not a teenager any more) and I'm sold — even to the tune of $950",
-      "url": "https://www.techradar.com/audio/emo-all-grown-up-got-yourself-a-bit-of-money-ive-found-your-perfect-designer-bose-headphones-based-on-the-5-star-qc-ultra-gen-2",
-      "publishedAt": "2026-09-25T10:04:11.000Z",
-      "author": "Tom Bedford",
-      "description": "Bose × Thom Browne QuietComfort Ultra Headphones (2nd Gen) change the design of the Boses, and add a fair markup on top",
-      "image": "https://cdn.mos.cms.futurecdn.net/gNUF2eh2FuPWcVrMWc7nt9-800-80.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "Qobuz has started tagging AI music – but is anybody listening to it anyway?",
-      "url": "https://www.whathifi.com/streaming-entertainment/qobuz-has-started-tagging-ai-music-but-is-anybody-listening-to-it-anyway",
-      "publishedAt": "2026-09-25T09:38:59.000Z",
-      "author": "Ioan Hazell",
-      "description": "Just 0.38 per cent of the platform's streams come from AI-generated tracks",
-      "image": "https://cdn.mos.cms.futurecdn.net/bb5NNH8vH323PgWHihbvWZ-1895-80.jpg",
-      "category": "串流播放器",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "What Hi-Fi? (and my dad) got me into hi-fi, and as it turns 50, I can still remember one review in particular",
-      "url": "https://www.whathifi.com/hi-fi/cd-players/what-hi-fi-and-my-dad-got-me-into-hi-fi-and-as-it-turns-50-i-can-still-remember-one-review-in-particular",
-      "publishedAt": "2026-09-25T09:32:25.000Z",
-      "author": "Alastair Stevenson",
-      "description": "This micro system had a big impact on my formative years, even though I never got to hear it",
-      "image": "https://cdn.mos.cms.futurecdn.net/wgN4kp92FwswHEL2RKgtQC-790-80.jpg",
-      "category": "其他音訊",
-      "articleType": "評測"
-    },
-    {
-      "source": "Tom's Guide",
-      "title": "Bose SoundLink Micro 2 review: Big Bose sound in a pocket-sized package",
-      "url": "https://www.tomsguide.com/audio/bluetooth-speakers/bose-soundlink-micro-2-review",
-      "publishedAt": "2026-09-25T09:10:55.000Z",
-      "author": "",
-      "description": "Very micro, but very good",
-      "image": "https://cdn.mos.cms.futurecdn.net/kQNVFQeyLTQqYLXQuLTyh3-1920-80.jpg",
-      "category": "喇叭",
-      "articleType": "評測"
-    },
-    {
-      "source": "Tom's Guide",
-      "title": "I’ve been testing the Noble Audio Osprey — their beautiful sound and effective ANC make them a solid choice",
-      "url": "https://www.tomsguide.com/audio/earbuds/noble-audio-osprey-review",
-      "publishedAt": "2026-09-25T08:36:29.000Z",
-      "author": "",
-      "description": "The Noble Audio Osprey are comfortable wireless earbuds with effective ANC, and they boast excellent, detailed sound, and they're great for audiophiles.",
-      "image": "https://cdn.mos.cms.futurecdn.net/hEPJUhKoGghvSCHGaXcs9d-1920-80.jpg",
-      "category": "耳機",
-      "articleType": "評測"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "\"Both designs are solid testaments to the excellence of the BBC’s engineering department\" – we compare two legendary speaker designs",
-      "url": "https://www.whathifi.com/speakers/hi-fi-speakers/two-different-monitors-decades-old-in-design-i-compared-two-legendary-bbc-speakers-to-find-out-if-their-performance-still-holds-up-today",
-      "publishedAt": "2026-09-25T08:10:15.000Z",
-      "author": "Ketan Bharadia",
-      "description": "We listen to two legendary BBC speakers – the LS3/5A and the LS5/9 – to find out how they compare and if their performance still holds up today",
-      "image": "https://cdn.mos.cms.futurecdn.net/H8AZWxT9wksDm84GynoXs3-1920-80.jpg",
-      "category": "喇叭",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "How to watch PREM Rugby 2026/27 for FREE: live stream every match from anywhere",
-      "url": "https://www.whathifi.com/streaming-entertainment/how-to-watch/prem-rugby-2026-27",
-      "publishedAt": "2026-09-25T08:00:00.000Z",
-      "author": "Aatif Sulleyman",
-      "description": "Find out how to watch the 2026/27 Gallagher PREM from anywhere, and potentially for free",
-      "image": "https://cdn.mos.cms.futurecdn.net/CAzVjqYSorsPM5yyNGbffk-1920-80.jpg",
-      "category": "串流播放器",
-      "articleType": "其他"
-    },
-    {
-      "source": "Tom's Guide",
-      "title": "I swapped my Shokz for the Apple Airpods 5 on my runs — here’s 4 things I love, and 2 I don’t",
-      "url": "https://www.tomsguide.com/audio/airpods/i-swapped-my-shokz-for-the-apple-airpods-5-on-my-runs-heres-4-things-i-love-and-2-i-dont",
-      "publishedAt": "2026-09-25T07:30:00.000Z",
-      "author": "Nick Harris-Fry",
-      "description": "The AirPods 5 are perfect for running, if they stay in your ears",
-      "image": "https://cdn.mos.cms.futurecdn.net/qvxHobBTLw6JbdYafdTRz3-2560-80.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "Tom's Guide",
-      "title": "My $300 noise-canceling headphones started making a strange pop on every step — the fix was surprisingly simple",
-      "url": "https://www.tomsguide.com/audio/headphones/my-usd300-noise-canceling-headphones-started-making-a-strange-pop-on-every-step-the-fix-was-surprisingly-simple",
-      "publishedAt": "2026-09-25T07:00:00.000Z",
-      "author": "Kaycee Hill",
-      "description": "That annoying crackle in your noise-canceling headphones doesn't mean they're broken. Here's what's actually happening",
-      "image": "https://cdn.mos.cms.futurecdn.net/TshkAYLcFq9LJud4U73Q99-1920-80.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "SoundGuys",
-      "title": "The Nothing Headphone (1) Pro just leaked, and they look unmistakably Nothing",
-      "url": "https://www.soundguys.com/nothing-headphone-1-pro-design-leak-163733/",
-      "publishedAt": "2026-09-25T06:52:36.000Z",
-      "author": "Shimul Sood",
-      "description": "A new leak gives us our first proper look at the rumored Nothing Headphone (1) Pro, revealing a familiar transparent styling.",
-      "image": "https://www.soundguys.com/wp-content/uploads/2025/09/Nothing-headphone-1-with-ear-3-1-scaled.jpg",
-      "category": "耳機",
-      "articleType": "新聞"
     }
   ]
 }
