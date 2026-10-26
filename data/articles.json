@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-26T00:00:57.001Z",
+  "generatedAt": "2026-10-26T01:06:45.326Z",
   "days": 30,
-  "count": 530,
+  "count": 529,
   "articles": [
     {
       "source": "BGR",
@@ -56,17 +56,6 @@
       "description": "The opensource subreddit’s new rules against AI have sparked a revolt.",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK115_Reddit_01.jpg.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "category": "喇叭",
-      "articleType": "其他"
-    },
-    {
-      "source": "Engadget",
-      "title": "When AI glasses could be a worthy headphones replacement - Engadget",
-      "url": "https://www.engadget.com/2292076/when-ai-glasses-worth-headphones-replacement/",
-      "publishedAt": "2026-10-25T12:45:00.000Z",
-      "author": "Nimrod Aldea",
-      "description": "Smart AI glasses like Ray-Ban Meta smart glasses can be used as headphones for calls, notifications and music. But are they as good as headphones? Probably not.",
-      "image": "https://www.engadget.com/img/gallery/when-ai-glasses-could-be-a-worthy-headphones-replacement/l-intro-1792519044.jpg",
-      "category": "耳機",
       "articleType": "其他"
     },
     {
