@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-26T23:01:37.786Z",
+  "generatedAt": "2026-10-26T23:30:50.132Z",
   "days": 30,
-  "count": 535,
+  "count": 545,
   "articles": [
     {
       "source": "TechRadar",
@@ -386,6 +386,17 @@
       "description": "Stranger Than Heaven director Mikinobu Abe has revealed how RGG Studio designed the game's Showbiz narrative system and how difficult it was to get right.",
       "image": "https://cdn.mos.cms.futurecdn.net/tRcHvrrGZDPpXvCQfAs9YC-1920-80.jpg",
       "category": "其他音訊",
+      "articleType": "新聞"
+    },
+    {
+      "source": "Android Headlines",
+      "title": "Samsung's First Over-Ear Headphones in Years Just Passed Official Testing",
+      "url": "https://www.androidheadlines.com/2026/10/samsung-galaxy-studio-headphones-rra-certification.html",
+      "publishedAt": "2026-10-23T21:00:36.000Z",
+      "author": "Jean Leon",
+      "description": "Samsung's leaked Galaxy Studio over-ear headphones hit the RRA regulatory certification, signaling an official launch is getting closer.",
+      "image": "https://www.androidheadlines.com/wp-content/uploads/2026/10/over-ear-headphones-generic-featured-image.jpg",
+      "category": "耳機",
       "articleType": "新聞"
     },
     {
@@ -959,6 +970,17 @@
       "image": "https://cdn.mos.cms.futurecdn.net/VuDrgtc9A8AydwhofNVeX5-1920-80.jpg",
       "category": "Soundbar",
       "articleType": "評測"
+    },
+    {
+      "source": "Android Headlines",
+      "title": "Bose Acquires Skullcandy to Bring High End Tech to Streetwear Headphones",
+      "url": "https://www.androidheadlines.com/2026/10/bose-acquires-skullcandy-audio-deal.html",
+      "publishedAt": "2026-10-21T22:48:44.000Z",
+      "author": "Jean Leon",
+      "description": "Bose has officially acquired Skullcandy to combine premium noise cancellation with action sports lifestyle design.",
+      "image": "https://www.androidheadlines.com/wp-content/uploads/2026/10/Bose-acquires-Skullcandy-audio-technology.jpg",
+      "category": "耳機",
+      "articleType": "其他"
     },
     {
       "source": "SoundGuys",
@@ -2050,6 +2072,17 @@
       "articleType": "其他"
     },
     {
+      "source": "Android Headlines",
+      "title": "YouTube Music Launches New AI Badge to Spot Generated Tracks",
+      "url": "https://www.androidheadlines.com/2026/10/youtube-music-adds-ai-labels.html",
+      "publishedAt": "2026-10-15T13:19:35.000Z",
+      "author": "Jean Leon",
+      "description": "YouTube Music rolls out new AI labels on its Now Playing screen to identify tracks created using generative AI tools.",
+      "image": "https://www.androidheadlines.com/wp-content/uploads/2025/06/AH-YouTube-Music-lyric-sharing.jpg",
+      "category": "其他音訊",
+      "articleType": "新聞"
+    },
+    {
       "source": "TechRadar",
       "title": "‘The sort of bass that you feel in your soul’: I tested Marshall’s smallest party speaker yet, and it offers no shortage of low-end might — but is it worth its steep asking price?",
       "url": "https://www.techradar.com/audio/wireless-bluetooth-speakers/marshall-bromley-150-review",
@@ -2193,6 +2226,17 @@
       "articleType": "其他"
     },
     {
+      "source": "Android Headlines",
+      "title": "Moto Buds 2 Ultra model claimed to launch next month",
+      "url": "https://www.androidheadlines.com/2026/10/moto-buds-2-ultra-model-claimed-to-launch-next-month.html",
+      "publishedAt": "2026-10-14T17:57:59.000Z",
+      "author": "Justin Diaz",
+      "description": "Motorola has been launching new true wireless earbuds for the past few years, some of which have been popular options among fans, and the most recent",
+      "image": "https://www.androidheadlines.com/wp-content/uploads/2026/04/Moto-buds-2-plus-AH.jpg",
+      "category": "耳機",
+      "articleType": "新聞"
+    },
+    {
       "source": "SoundGuys",
       "title": "The best IEMs for gaming 2026",
       "url": "https://www.soundguys.com/best-iems-for-gaming-136389/",
@@ -2211,6 +2255,17 @@
       "author": "David Nield",
       "description": "It seems that Ray-Ban Meta smart glasses have started making voice recordings without any explicit authorization.",
       "image": "https://cdn.mos.cms.futurecdn.net/dnZEo76aacVq6iYBiiSzWb-2000-80.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "Android Headlines",
+      "title": "Lossless Audio Is Breaking the Spotify Desktop App for Many Users",
+      "url": "https://www.androidheadlines.com/2026/10/spotify-lossless-audio-desktop-app-crash.html",
+      "publishedAt": "2026-10-14T16:06:43.000Z",
+      "author": "Sai Krishna",
+      "description": "Spotify's desktop app is reportedly crashing for some users when trying to play lossless audio. It is mainly affecting Windows users.",
+      "image": "https://www.androidheadlines.com/wp-content/uploads/2024/04/Spotify-AM-AH-1.jpg",
       "category": "其他音訊",
       "articleType": "其他"
     },
@@ -2301,6 +2356,17 @@
       "image": "https://cdn.mos.cms.futurecdn.net/Jb22T8FKykhNR9WNgevs8e-2560-80.jpg",
       "category": "耳機",
       "articleType": "評測"
+    },
+    {
+      "source": "Android Headlines",
+      "title": "AirPods Pro 4 Could Split Into Two Models, and One Looks Very Different",
+      "url": "https://www.androidheadlines.com/2026/10/airpods-pro-4-could-split-into-two-models-and-one-looks-very-different.html",
+      "publishedAt": "2026-10-14T11:53:21.000Z",
+      "author": "Tyler Lee",
+      "description": "The AirPods Pro 4 lineup may include two models, with a metallic finish on the pricier one and a US-only launch, a new leak claims.",
+      "image": "https://www.androidheadlines.com/wp-content/uploads/2025/09/Apple-AirPods-Pro-3-Live-Translation-scaled.jpg",
+      "category": "耳機",
+      "articleType": "新聞"
     },
     {
       "source": "What Hi-Fi?",
@@ -2433,6 +2499,17 @@
       "image": "https://www.soundguys.com/wp-content/uploads/2026/10/Beats-Pill-–-Pokemon-Special-Edition-Promo.jpg",
       "category": "喇叭",
       "articleType": "其他"
+    },
+    {
+      "source": "Android Headlines",
+      "title": "Pikachu Meets Portable Audio in Apple’s New Pokémon Beats Pill",
+      "url": "https://www.androidheadlines.com/2026/10/apple-beats-pill-pokemon-edition-speaker.html",
+      "publishedAt": "2026-10-13T15:51:53.000Z",
+      "author": "Sai Krishna",
+      "description": "Apple's Beats has officially launched the special-edition Pokemon Pill speaker. It comes with Pokemon and Mimikyu artwork on the grille.",
+      "image": "https://www.androidheadlines.com/wp-content/uploads/2026/10/beats-pokemon-pill-speaker.jpg",
+      "category": "喇叭",
+      "articleType": "新聞"
     },
     {
       "source": "SoundGuys",
@@ -3480,6 +3557,17 @@
       "articleType": "評測"
     },
     {
+      "source": "Android Headlines",
+      "title": "Samsung Long-Rumored AirPods Max Rival Might Be Called Galaxy Studio",
+      "url": "https://www.androidheadlines.com/2026/10/samsung-airpods-max-rival-called-galaxy-studio.html",
+      "publishedAt": "2026-10-08T19:17:04.000Z",
+      "author": "Jean Leon",
+      "description": "A new leak suggests Samsung is developing over-ear headphones named Galaxy Studio to expand its audio lineup alongside Galaxy Buds.",
+      "image": "https://www.androidheadlines.com/wp-content/uploads/2026/10/over-ear-headphones-generic-featured-image.jpg",
+      "category": "耳機",
+      "articleType": "新聞"
+    },
+    {
       "source": "SoundGuys",
       "title": "Timekettle LiveTalk brings real-time translation to your everyday earbuds",
       "url": "https://www.soundguys.com/timekettle-livetalk-164310/",
@@ -3674,6 +3762,17 @@
       "author": "Daniel Furn",
       "description": "A good saving doesn't automatically mean it's a good deal...",
       "image": "https://cdn.mos.cms.futurecdn.net/VM57UkZDjUVBEw6sGeRAi8-1920-80.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "Android Headlines",
+      "title": "Spotify Is Bringing Audiobooks to More Than 180 Markets",
+      "url": "https://www.androidheadlines.com/2026/10/spotify-audiobooks-expansion-180-markets.html",
+      "publishedAt": "2026-10-07T16:50:32.000Z",
+      "author": "Sai Krishna",
+      "description": "Spotify audiobooks are expanding to more than 180 markets worldwide, allowing users to either purchase or stream them.",
+      "image": "https://www.androidheadlines.com/wp-content/uploads/2026/05/Spotify-logo.jpg",
       "category": "其他音訊",
       "articleType": "其他"
     },
@@ -4103,6 +4202,17 @@
       "author": "Ryan McNeal",
       "description": "TDM has launched a new pair of headphones called the Neo. These cans can do something that other headphones can't.",
       "image": "https://www.soundguys.com/wp-content/uploads/2026/10/TMD-Neo-Hybrid-headphones.jpg",
+      "category": "耳機",
+      "articleType": "新聞"
+    },
+    {
+      "source": "Android Headlines",
+      "title": "Sony's INZONE gaming lineup expands with new Fnatic H9 II",
+      "url": "https://www.androidheadlines.com/2026/10/sonys-inzone-gaming-lineup-expands-with-new-fnatic-h9-ii.html",
+      "publishedAt": "2026-10-06T16:00:16.000Z",
+      "author": "Justin Diaz",
+      "description": "Sony is announcing two additions to its INZONE gaming audio lineup with new versions of the INZONE H9 II and the INZONE E9 compact wired earbuds, the",
+      "image": "https://www.androidheadlines.com/wp-content/uploads/2026/10/Sony-INZONE-H9-II-Fnatic-Edition-11.jpg",
       "category": "耳機",
       "articleType": "新聞"
     },
@@ -4998,6 +5108,17 @@
       "articleType": "其他"
     },
     {
+      "source": "Android Headlines",
+      "title": "Galaxy Buds On Are Official as Samsung's First Clip-On Earbuds",
+      "url": "https://www.androidheadlines.com/2026/10/galaxy-buds-on-are-official-as-samsungs-first-clip-on-earbuds.html",
+      "publishedAt": "2026-10-01T11:43:31.000Z",
+      "author": "Tyler Lee",
+      "description": "Meet the Galaxy Buds On, Samsung's first clip-on earbuds, with an open-ear fit, Gemini Live support, and up to 9.5 hours of battery.",
+      "image": "https://www.androidheadlines.com/wp-content/uploads/2026/10/Samsung-Galaxy-Buds-On.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
       "source": "Tom's Guide",
       "title": "I ran, cycled and worked out with the Shokz OpenFit Air 2 for three weeks — here’s my verdict",
       "url": "https://www.tomsguide.com/audio/headphones/shokz-openfit-air-2-review",
@@ -5876,17 +5997,6 @@
       "image": "https://cdn.mos.cms.futurecdn.net/5YDDRNED4bmGUw6pwPRXU7-2560-80.jpg",
       "category": "耳機",
       "articleType": "評測"
-    },
-    {
-      "source": "BGR",
-      "title": "Why Do Wireless Headphones Have ANC, But Wired Ones Don't? - BGR",
-      "url": "https://www.bgr.com/2264212/why-earbuds-have-but-wired-headphones-dont/",
-      "publishedAt": "2026-09-26T23:17:00.000Z",
-      "author": "Sead Fadilpasic",
-      "description": "Even if you haven't utilized Active Noise Cancellation with wireless headphones, you've definitely heard of it, but why isn't it offered with wired headphones?",
-      "image": "https://www.bgr.com/img/gallery/why-do-wireless-headphones-have-anc-but-wired-ones-dont/l-intro-1789920940.jpg",
-      "category": "耳機",
-      "articleType": "其他"
     }
   ]
 }
