@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-26T22:19:45.368Z",
+  "generatedAt": "2026-10-26T23:01:37.786Z",
   "days": 30,
-  "count": 536,
+  "count": 535,
   "articles": [
     {
       "source": "TechRadar",
@@ -5886,17 +5886,6 @@
       "description": "Even if you haven't utilized Active Noise Cancellation with wireless headphones, you've definitely heard of it, but why isn't it offered with wired headphones?",
       "image": "https://www.bgr.com/img/gallery/why-do-wireless-headphones-have-anc-but-wired-ones-dont/l-intro-1789920940.jpg",
       "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "BGR",
-      "title": "Which Apple Music Plan Gives You The Most For Your Money? - BGR",
-      "url": "https://www.bgr.com/2265237/which-apple-music-plan-best-for-your-money/",
-      "publishedAt": "2026-09-26T22:47:00.000Z",
-      "author": "Trevor Mogg",
-      "description": "Of the four subscription plans available from Apple Music, the Family and Student plans stand out for their excellent value when it comes to streaming music.",
-      "image": "https://www.bgr.com/img/gallery/which-apple-music-plan-gives-you-the-most-for-your-money/l-intro-1790086865.jpg",
-      "category": "串流播放器",
       "articleType": "其他"
     }
   ]
