@@ -1,8 +1,206 @@
 {
-  "generatedAt": "2026-10-26T01:06:45.326Z",
+  "generatedAt": "2026-10-26T22:19:45.368Z",
   "days": 30,
-  "count": 529,
+  "count": 536,
   "articles": [
+    {
+      "source": "TechRadar",
+      "title": "‘Listeners yearn for Cover Flow’: in yet another win for retro music, Apple Music fans are crying out for a return to the more vinyl-like, scrollable album visual they lost a decade ago",
+      "url": "https://www.techradar.com/audio/apple-music/listeners-yearn-for-cover-flow-one-apple-music-user-claims-to-have-seen-the-future-of-apples-music-platform-but-fans-just-want-the-rolodex-style-visual-they-lost-back-in-2015",
+      "publishedAt": "2026-10-26T22:00:00.000Z",
+      "author": "Rowan Davies",
+      "description": "Could Cover Flow be making a comeback? If it's true, it's going to make a lot of Apple Music subscribers very happy.",
+      "image": "https://cdn.mos.cms.futurecdn.net/8dqSKTr4qT9XhHRpw3N7BK-1920-80.jpg",
+      "category": "黑膠／唱盤",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "NEW REVIEW Leica Cine Compact 1",
+      "url": "https://www.whathifi.com/tv-home-cinema/projectors/leica-cine-compact-1",
+      "publishedAt": "2026-10-26T20:46:00.000Z",
+      "author": "",
+      "description": "Leica's third projector is smaller, lighter, more affordable, and potentially more versatile. But how close can it get to the larger Leicas for image quality?",
+      "image": "https://cdn.mos.cms.futurecdn.net/biY2pR7mKFgn7JdQ4pBfuR-1920-80.jpg",
+      "category": "其他音訊",
+      "articleType": "評測"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "JBL Tour One M3 headphones get a huge $250 price drop",
+      "url": "https://www.soundguys.com/jbl-tour-one-m3-smart-tx-deal-165294/",
+      "publishedAt": "2026-10-26T20:34:49.000Z",
+      "author": "Matt Horne",
+      "description": "JBL Tour One M3 Smart Tx drops to $199.95 on Amazon, packing ANC, spatial audio, and its handy Smart Tx transmitter.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2025/04/jbl-tour-one-m3-hero.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "BGR",
+      "title": "8 PC Speakers Small Enough To Fit Under Your Monitor - BGR",
+      "url": "https://www.bgr.com/2296562/pc-speakers-small-fit-under-monitor/",
+      "publishedAt": "2026-10-26T20:02:00.000Z",
+      "author": "Asad Kashif",
+      "description": "There are a number of great compact speakers just small enough to fit under a variety of monitor setups that still provide solid audio performance.",
+      "image": "https://www.bgr.com/img/gallery/8-pc-speakers-small-enough-to-fit-under-your-monitor/l-intro-1793016707.jpg",
+      "category": "喇叭",
+      "articleType": "其他"
+    },
+    {
+      "source": "The Verge",
+      "title": "Nothing’s eye-catching Ear 3A earbuds are matching their best price to date",
+      "url": "https://www.theverge.com/gadgets/1018612/nothing-ear-3a-noise-canceling-earbuds-deal-sale",
+      "publishedAt": "2026-10-26T17:25:34.000Z",
+      "author": "Sheena Vasani",
+      "description": "All four colors are on sale.",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268654_Nothing_Ear_3A_JHiggins_0014.jpg?quality=90&strip=all&crop=0%2C14.488902354413%2C100%2C78.534031413613&w=1200",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "Save $120 on JBL’s Boombox 4 with this Amazon deal",
+      "url": "https://www.soundguys.com/jbl-boombox-4-deal-165274/",
+      "publishedAt": "2026-10-26T17:22:42.000Z",
+      "author": "Matt Horne",
+      "description": "JBL’s Boombox 4 just dropped 22% off RRP on Amazon, making this premium party speaker much easier to grab.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/04/JBL-Xtreme-5-vs-Boombox-4-7-scaled.jpeg",
+      "category": "喇叭",
+      "articleType": "其他"
+    },
+    {
+      "source": "The Verge",
+      "title": "Sony’s XM4C are nearly identical to the XM4, and that’s okay",
+      "url": "https://www.theverge.com/tech/1018115/sony-wh-1000xm4c-headphones-review",
+      "publishedAt": "2026-10-26T16:45:00.000Z",
+      "author": "John Higgins",
+      "description": "What’s old is new again.",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268823_Sony_XM4C_JHiggins_0003.jpg?quality=90&strip=all&crop=0%2C21.465968586387%2C100%2C78.534031413613&w=1200",
+      "category": "耳機",
+      "articleType": "評測"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "A capable and commanding amplifier duo that should slot into a wide range of systems with ease",
+      "url": "https://www.whathifi.com/hi-fi/stereo-amplifiers/audio-research-ls-2-s-200",
+      "publishedAt": "2026-10-26T16:18:26.000Z",
+      "author": "",
+      "description": "The Audio Research LS-2/S-200 pre/power amp pairing proves a surprisingly versatile and accommodating proposition.",
+      "image": "https://cdn.mos.cms.futurecdn.net/9mZmztKFhuKQqHKJ5UG2w5-1920-80.jpg",
+      "category": "DAC／擴大機",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "CMF Headphone Pro drops to $55 in record-low deal",
+      "url": "https://www.soundguys.com/cmf-headphone-pro-deal-165261/",
+      "publishedAt": "2026-10-26T16:10:28.000Z",
+      "author": "Matt Horne",
+      "description": "CMF Headphone Pro drops to an all-time low of $55 on Amazon, with ANC, LDAC, and up to 100 hours of battery life.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2025/10/cmf-headphone-pro-hero-scaled.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Apple's pitching its all-new iPad Mini as the perfect tablet for cinephiles",
+      "url": "https://www.whathifi.com/smartphones-tablets/tablets/apples-pitching-its-all-new-ipad-mini-as-the-perfect-tablet-for-cinephiles",
+      "publishedAt": "2026-10-26T15:41:02.000Z",
+      "author": "Lewis Empson",
+      "description": "A bigger, brighter OLED display and an in-screen sound system headline the upgrades",
+      "image": "https://cdn.mos.cms.futurecdn.net/nJNPZNSrrMeLitaMMXBAzi-2560-80.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Beatles obsessive? Nearly 1300 rare Beatles vinyl records are set to go on sale this week",
+      "url": "https://www.whathifi.com/hi-fi/vinyl/vinyl-obsessive-over-1000-rare-and-exclusive-beatles-records-go-on-sale-this-week",
+      "publishedAt": "2026-10-26T15:14:34.000Z",
+      "author": "Harry McKerrell",
+      "description": "Sale begins October 30th",
+      "image": "https://cdn.mos.cms.futurecdn.net/Vd4d4pCe5eBAZvxVvEdJP7-2100-80.jpg",
+      "category": "黑膠／唱盤",
+      "articleType": "其他"
+    },
+    {
+      "source": "BGR",
+      "title": "9 Sleek Home Audio Systems That Can Fit On Your Bookshelf - BGR",
+      "url": "https://www.bgr.com/2295204/home-audio-systems-fit-bookshelf/",
+      "publishedAt": "2026-10-26T14:02:00.000Z",
+      "author": "Asad Khan",
+      "description": "Today's sleek home audio systems can fit on your bookshelf yet still fill your room with quality sound. Among the best are speakers from Sonos and Edifier.",
+      "image": "https://www.bgr.com/img/gallery/9-sleek-home-audio-systems-that-can-fit-on-your-bookshelf/l-intro-1792751551.jpg",
+      "category": "喇叭",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Apple's \"luxurious\" AirPods Max 2 just had their first discount",
+      "url": "https://www.whathifi.com/headphones/wireless-headphones/apples-luxurious-airpods-max-2-just-had-their-first-discount",
+      "publishedAt": "2026-10-26T12:39:40.000Z",
+      "author": "Daniel Furn",
+      "description": "Apple's luxury over-ears get a rare price drop",
+      "image": "https://cdn.mos.cms.futurecdn.net/eKitDjqb8qznXdGHScHX8W-2560-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "I've heard dozens of wireless headphones this year – trust me, we've never had it so good",
+      "url": "https://www.whathifi.com/headphones/wireless-headphones/ive-heard-dozens-of-wireless-headphones-this-year-trust-me-weve-never-had-it-so-good",
+      "publishedAt": "2026-10-26T12:39:34.000Z",
+      "author": "Harry McKerrell",
+      "description": "We're in The Golden Age of Wireless (headphones)",
+      "image": "https://cdn.mos.cms.futurecdn.net/spoK7pFCuTNfhfKKjGBUr-2560-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "TechRadar",
+      "title": "'How many is too many open earbuds?' — as Samsung and OnePlus both launch clip-on buds, I can't help but wonder whether the market is now oversaturated",
+      "url": "https://www.techradar.com/audio/earbuds-airpods/samsung-has-new-clip-on-buds-oneplus-has-new-clip-on-buds-when-do-we-say-thats-enough-new-open-earbuds",
+      "publishedAt": "2026-10-26T10:48:18.000Z",
+      "author": "Tom Bedford",
+      "description": "Two more ear cuff-style open earbuds have launched, from Samsung and OnePlus — neither of which are available in the west yet — but it's busy market segment.",
+      "image": "https://cdn.mos.cms.futurecdn.net/7Eiej3j97RTPjHg4crWdvk-2000-80.jpg",
+      "category": "耳機",
+      "articleType": "新聞"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Steinway's new entry-level floorstander promises room-filling sound from a slender cabinet",
+      "url": "https://www.whathifi.com/speakers/hi-fi-speakers/steinways-new-entry-level-floorstander-promises-room-filling-sound-from-a-slender-cabinet",
+      "publishedAt": "2026-10-26T08:00:00.000Z",
+      "author": "Joe Svetlik",
+      "description": "The Model O is designed to be placed close to a wall",
+      "image": "https://cdn.mos.cms.futurecdn.net/a9nPx8VXjhXZYbpkMFV9m9-2057-80.jpg",
+      "category": "喇叭",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Bose makes a shock purchase, Technics’ latest turntable, a $45k Esoteric CD player and more",
+      "url": "https://www.whathifi.com/av/bose-makes-a-surprise-purchase-technics-latest-turntable-a-usd45k-cd-player-and-more",
+      "publishedAt": "2026-10-26T07:00:00.000Z",
+      "author": "Andy Madden",
+      "description": "All the key happenings in the worlds of hi-fi and home cinema",
+      "image": "https://cdn.mos.cms.futurecdn.net/KMJXjNLrkzvaiNMHsbyVsd-1920-80.jpg",
+      "category": "黑膠／唱盤",
+      "articleType": "其他"
+    },
+    {
+      "source": "BGR",
+      "title": "Apple Music's Family Plan Has One Big Advantage Over Spotify (It's Not Just Price) - BGR",
+      "url": "https://www.bgr.com/2291671/apple-music-family-plan-advantage-over-spotify/",
+      "publishedAt": "2026-10-26T03:47:00.000Z",
+      "author": "José Adorno",
+      "description": "Apple Music and Spotify lead the pack among audio streaming services, but Apple Music currently trumps Spotify in one clear aspect of their family plans.",
+      "image": "https://www.bgr.com/img/gallery/apple-musics-family-plan-has-one-big-advantage-over-spotify-its-not-just-price/l-intro-1792507259.jpg",
+      "category": "串流播放器",
+      "articleType": "其他"
+    },
     {
       "source": "BGR",
       "title": "How To Tell If Your Headphones Support Lossless Audio - BGR",
@@ -15,17 +213,6 @@
       "articleType": "其他"
     },
     {
-      "source": "The Verge",
-      "title": "Scott Walker’s The Drift will get under your skin",
-      "url": "https://www.theverge.com/entertainment/1018300/scott-walker-the-drift-music-album-review",
-      "publishedAt": "2026-10-25T21:08:09.000Z",
-      "author": "Terrence O'Brien",
-      "description": "Walker’s 2006 album is unsettling, bizarre, and the perfect way to kill a party.",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/a1635465713_10.jpg?quality=90&strip=all&crop=0,23.821989528796,100,52.356020942408",
-      "category": "其他音訊",
-      "articleType": "評測"
-    },
-    {
       "source": "TechRadar",
       "title": "Topping's well-built new DAC is stuffed with features and makes a real difference to a desktop system, but it doesn't grab me be the lapels",
       "url": "https://www.techradar.com/audio/dacs/topping-dx1-ii-review",
@@ -35,17 +222,6 @@
       "image": "https://cdn.mos.cms.futurecdn.net/MngaCKTy96hCsrNUW6G5uE-2560-80.jpg",
       "category": "DAC／擴大機",
       "articleType": "評測"
-    },
-    {
-      "source": "Engadget",
-      "title": "Why are earbuds usually cheaper than headphones? - Engadget",
-      "url": "https://www.engadget.com/2293014/why-earbuds-cheaper-than-headphones/",
-      "publishedAt": "2026-10-25T14:15:00.000Z",
-      "author": "Erin Carson",
-      "description": "Earbuds tend to be smaller and less complex to build than headphones.",
-      "image": "https://www.engadget.com/img/gallery/why-are-earbuds-usually-cheaper-than-headphones/l-intro-1792596068.jpg",
-      "category": "耳機",
-      "articleType": "其他"
     },
     {
       "source": "The Verge",
@@ -345,17 +521,6 @@
       "articleType": "其他"
     },
     {
-      "source": "The Verge",
-      "title": "Apple revives the original iPod as an Apple Music easter egg",
-      "url": "https://www.theverge.com/entertainment/1017413/apple-music-ipod-404-page",
-      "publishedAt": "2026-10-23T13:58:43.000Z",
-      "author": "Stevie Bonifield",
-      "description": "The iPod’s back — on Apple Music.",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-23-at-9.37.49-AM.png?quality=90&strip=all&crop=12.805685249999%2C11.686014773698%2C68.258630720705%2C70.949974447181&w=1200",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
       "source": "What Hi-Fi?",
       "title": "This new European hi-fi brand's trio of luxury amplifiers are engineered to produce \"an uncompromising vision of musical realism\"",
       "url": "https://www.whathifi.com/hi-fi/stereo-amplifiers/this-new-european-hi-fi-brands-trio-of-luxury-amplifiers-promise-an-uncompromising-vision-of-musical-realism",
@@ -376,17 +541,6 @@
       "image": "https://cdn.mos.cms.futurecdn.net/UHeVMEBnDdySTBpwwBALhn-1080-80.png",
       "category": "其他音訊",
       "articleType": "其他"
-    },
-    {
-      "source": "The Verge",
-      "title": "Brick’s new app blocker is designed for bedtime doomscrolling",
-      "url": "https://www.theverge.com/gadgets/1017383/brick-night-app-blocker-gadget-bluetooth-launch",
-      "publishedAt": "2026-10-23T12:50:17.000Z",
-      "author": "Jess Weatherbed",
-      "description": "Brick Night uses Bluetooth to create location-based blocking zones.",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Brick-Night-app-blocker-hero.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "category": "其他音訊",
-      "articleType": "新聞"
     },
     {
       "source": "BGR",
@@ -1176,7 +1330,7 @@
       "publishedAt": "2026-10-20T13:34:32.000Z",
       "author": "",
       "description": "The AirPods 5 feature improved ANC and updated sonic performance in this tried-and-tested design, along with plenty of new iOS features, but have they evolved enough?",
-      "image": "https://cdn.mos.cms.futurecdn.net/NzfbkvnYm7hDEyWTDyig8H-1920-80.jpg",
+      "image": "https://cdn.mos.cms.futurecdn.net/TqnxBB8roGGrwc6hLD9KxG-1920-80.jpg",
       "category": "耳機",
       "articleType": "評測"
     },
@@ -2084,7 +2238,7 @@
     },
     {
       "source": "What Hi-Fi?",
-      "title": "How to watch Rugby League World Cup 2026 online from anywhere: free live streams for every match, PNG vs Samoa & England vs France",
+      "title": "How to watch Rugby League World Cup 2026 online from anywhere: free live streams for every match, final pool games",
       "url": "https://www.whathifi.com/streaming-entertainment/watch-rugby-league-world-cup-2026-free",
       "publishedAt": "2026-10-14T14:00:00.000Z",
       "author": "Adam Marshall",
@@ -4008,17 +4162,6 @@
       "articleType": "其他"
     },
     {
-      "source": "TechRadar",
-      "title": "My top 6 hi-res portable audio buys in the Prime Day sales, as TechRadar's audio editor",
-      "url": "https://www.techradar.com/audio/dacs/the-6-best-amazon-prime-day-portable-hi-fi-deals-as-chosen-by-techradars-audio-editor-level-up-your-listening-with-hi-res-buys-from-just-gbp79-live-now",
-      "publishedAt": "2026-10-06T13:42:02.000Z",
-      "author": "Becky Scarrott",
-      "description": "Amazon Prime Day (or Big Deal Days) isn't just for Bluetooth headphones, you know…",
-      "image": "https://cdn.mos.cms.futurecdn.net/Fw4bDSVD4YrDeJPMcaKLea-2560-80.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
       "source": "Tom's Guide",
       "title": "Buying the Bose QuietComfort Headphones Gen 2 makes zero sense when Gen 1 is just $169 right now",
       "url": "https://www.tomsguide.com/audio/headphones/dont-get-the-new-bose-quietcomfort-2nd-gen-gen-1-is-currently-just-usd169-for-prime-day",
@@ -5754,72 +5897,6 @@
       "description": "Of the four subscription plans available from Apple Music, the Family and Student plans stand out for their excellent value when it comes to streaming music.",
       "image": "https://www.bgr.com/img/gallery/which-apple-music-plan-gives-you-the-most-for-your-money/l-intro-1790086865.jpg",
       "category": "串流播放器",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "After nearly half a decade, the small, next-gen OLED TVs I've been waiting for are finally here",
-      "url": "https://www.whathifi.com/tv-home-cinema/televisions/after-nearly-half-a-decade-the-small-next-gen-oled-tvs-ive-been-waiting-for-are-finally-here",
-      "publishedAt": "2026-09-26T16:46:24.000Z",
-      "author": "Lewis Empson",
-      "description": "But will I actually buy one this year?",
-      "image": "https://cdn.mos.cms.futurecdn.net/sLuVBkoTB252mNx2JdBxYf-1920-80.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "TechRadar",
-      "title": "I never considered buying ear-tip free AirPods-esuqe earbuds, but the spacious sound and solid ANC on JBL's new smartcase-toting buds made me reconsider — although their open style won't suit everyone",
-      "url": "https://www.techradar.com/audio/earbuds-airpods/jbl-live-flex-4-review",
-      "publishedAt": "2026-09-26T16:00:00.000Z",
-      "author": "",
-      "description": "I tested the JBL Live Flex 4 and found them to be an excellent pair of open-fit buds, with impressive sound quality, genuinely decent ANC, and even a smart charging case.",
-      "image": "https://cdn.mos.cms.futurecdn.net/PJxFBDa5uVbRhrViwNe8nh-1920-80.jpg",
-      "category": "耳機",
-      "articleType": "評測"
-    },
-    {
-      "source": "BGR",
-      "title": "4 Reasons To Skip Buying The AirPods 5 - BGR",
-      "url": "https://www.bgr.com/2269474/airpods-5-reasons-to-skip-buying-them/",
-      "publishedAt": "2026-09-26T12:17:00.000Z",
-      "author": "Joshua Hawkins",
-      "description": "If your older AirPods have been frustrating you, a new pair of AirPods 5 might not fix the things that made you want to replace them.",
-      "image": "https://www.bgr.com/img/gallery/4-reasons-to-skip-buying-the-airpods-5/l-intro-1790369130.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "Tom's Guide",
-      "title": "Sony’s portable party speaker delivers ground-shaking, room-filling bass that makes you want to headbang until your neck hurts — here’s why I love it",
-      "url": "https://www.tomsguide.com/audio/bluetooth-speakers/sony-ult-tower-5-review",
-      "publishedAt": "2026-09-26T11:30:00.000Z",
-      "author": "",
-      "description": "The Sony ULT Tower 5 is a supremely powerful portable party speaker, boasting meaty bass, refined treble, an array of ports, and tasteful LED lighting.",
-      "image": "https://cdn.mos.cms.futurecdn.net/ZUY7HahddEjLd4LkJkqApZ-1919-80.jpg",
-      "category": "喇叭",
-      "articleType": "評測"
-    },
-    {
-      "source": "TechRadar",
-      "title": "I've found the 18 best tech deals in the Best Buy weekend flash sale — get up to 50% off TVs, laptops, appliances, headphones, and more",
-      "url": "https://www.techradar.com/seasonal-sales/best-buy-launches-a-surprise-weekend-flash-sale-with-up-to-50-percent-off-ive-found-the-18-best-deals-on-tvs-laptops-appliances-headphones-and-more",
-      "publishedAt": "2026-09-26T10:38:07.000Z",
-      "author": "James Pickard",
-      "description": "A surprise weekend flash sale has just kicked off at Best Buy, so I've picked out the 18 best tech deals on TVs, laptops, appliances, headphones, and more.",
-      "image": "https://cdn.mos.cms.futurecdn.net/CHiTqKq2TUjW4rHTofjcP6-2560-80.jpg",
-      "category": "耳機",
-      "articleType": "新聞"
-    },
-    {
-      "source": "BGR",
-      "title": "Why I'm Excited For Qualcomm's Newest Snapdragon Audio Chip - BGR",
-      "url": "https://www.bgr.com/2267905/qualcomm-audio-chip-new-functionality/",
-      "publishedAt": "2026-09-26T03:17:00.000Z",
-      "author": "Connor Jewiss",
-      "description": "Qualcomm's new audio chip could change how you watch movies with earbuds, and we saw a demo that made the idea surprisingly appealing.",
-      "image": "https://www.bgr.com/img/gallery/why-im-excited-for-qualcomms-newest-snapdragon-audio-chip/l-intro-1790269345.jpg",
-      "category": "耳機",
       "articleType": "其他"
     }
   ]
