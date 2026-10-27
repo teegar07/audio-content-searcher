@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-27T22:48:40.833Z",
+  "generatedAt": "2026-10-27T23:21:44.175Z",
   "days": 30,
-  "count": 552,
+  "count": 551,
   "articles": [
     {
       "source": "BGR",
@@ -6061,17 +6061,6 @@
       "author": "Asad Kashif",
       "description": "Microsoft can't get Bluetooth right, whether it's random disconnects, disappearing toggles, poor audio quality, or bad device management.",
       "image": "https://www.bgr.com/img/gallery/the-5-biggest-problems-users-have-with-bluetooth-on-windows-11/l-intro-1790117254.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "BGR",
-      "title": "Audio Vs. File Compression: What To Avoid For Better Audio Quality - BGR",
-      "url": "https://www.bgr.com/2265961/audio-vs-file-compression-differences-quality-impact/",
-      "publishedAt": "2026-09-27T22:47:00.000Z",
-      "author": "Jules Wang",
-      "description": "Compression is a key editing tool that helps artists sculpt sound. If used incorrectly, the end result can be worse than when you started.",
-      "image": "https://www.bgr.com/img/gallery/audio-vs-file-compression-what-to-avoid-for-better-audio-quality/l-intro-1790111096.jpg",
       "category": "其他音訊",
       "articleType": "其他"
     }
