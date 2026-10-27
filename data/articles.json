@@ -1,8 +1,184 @@
 {
-  "generatedAt": "2026-10-27T01:57:40.372Z",
+  "generatedAt": "2026-10-27T21:50:22.363Z",
   "days": 30,
-  "count": 544,
+  "count": 551,
   "articles": [
+    {
+      "source": "BGR",
+      "title": "Samsung's New Galaxy Buds On Are Earbuds That Don't Actually Enter Your Ear - BGR",
+      "url": "https://www.bgr.com/2298868/samsung-new-galaxy-buds-on-released-korea/",
+      "publishedAt": "2026-10-27T21:17:00.000Z",
+      "author": "Nichols deCourville",
+      "description": "Fans looking for the latest and greatest in earbuds may not have much longer to wait for Samsung's next release, a pair of clip-on earbuds.",
+      "image": "https://www.bgr.com/img/gallery/samsungs-new-galaxy-buds-on-are-earbuds-that-dont-actually-enter-your-ear/l-intro-1793129716.jpg",
+      "category": "耳機",
+      "articleType": "新聞"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "Samsung S700D deal knocks $151 off this slim Dolby Atmos soundbar",
+      "url": "https://www.soundguys.com/samsung-s700d-deal-165509/",
+      "publishedAt": "2026-10-27T20:21:37.000Z",
+      "author": "Matt Horne",
+      "description": "Save 28% off the RRP on the Samsung S700D, a slim 3.1-channel soundbar with Wireless Dolby Atmos and Wi-Fi.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/10/Samsung-S700D-3.1ch-Soundbar-Product-Image.jpg",
+      "category": "Soundbar",
+      "articleType": "其他"
+    },
+    {
+      "source": "TechRadar",
+      "title": "‘The open-ear market has a strong new contender’: Sennheiser’s first clip-style open earbuds are a surprisingly solid first attempt, but they're not perfect",
+      "url": "https://www.techradar.com/audio/earbuds-airpods/sennheiser-accentum-clip-review",
+      "publishedAt": "2026-10-27T20:00:00.000Z",
+      "author": "",
+      "description": "Sennheiser enters the cuff-style market with convincing audio clarity and smart features, though a couple of fit and control quirks keep these from being a top pick",
+      "image": "https://cdn.mos.cms.futurecdn.net/JcCs5t55uuKQDazyqeuwN7-2560-80.jpg",
+      "category": "耳機",
+      "articleType": "評測"
+    },
+    {
+      "source": "TechRadar",
+      "title": "CD players are back, but even models with an 'incredibly attractive price' like this one aren't, well… very cheap",
+      "url": "https://www.techradar.com/audio/portable-media-players/cd-players-are-back-and-this-new-musical-fidelity-buy-has-an-incredibly-attractive-price-the-same-as-an-oppo-a7-pro-max-smartphone",
+      "publishedAt": "2026-10-27T16:33:22.000Z",
+      "author": "Tom Bedford",
+      "description": "The Musical Fidelity B1xcd is a CD player which capitalizes on the physical media resurgence, and it costs less than alternative models on the market.",
+      "image": "https://cdn.mos.cms.futurecdn.net/faGqNYZbh7HuCqMTsf5GR7-1169-80.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "Bose QuietComfort Headphones 2nd Gen return to Prime Day price",
+      "url": "https://www.soundguys.com/bose-quietcomfort-headphones-2nd-gen-deal-165482/",
+      "publishedAt": "2026-10-27T16:16:34.000Z",
+      "author": "Matt Horne",
+      "description": "Bose QuietComfort Headphones 2nd Gen are back to $319.99 on Amazon, tying the lowest price we've ever tracked.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/08/Bose-QuietComfort-Headphones-2nd-Gen-Rosewood-Mauve.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "Android Headlines",
+      "title": "Fairbuds 2 get their official US launch starting next month",
+      "url": "https://www.androidheadlines.com/2026/10/fairbuds-2-get-their-official-us-launch-starting-next-month.html",
+      "publishedAt": "2026-10-27T15:53:55.000Z",
+      "author": "Justin Diaz",
+      "description": "The Fairbuds 2 are the upcoming second generation earbuds from Fairphone, and they're due for a US launch in the very near future. Just around the corner,",
+      "image": "https://www.androidheadlines.com/wp-content/uploads/2026/10/Fairphone-Fairbuds-2-earbuds-green-featured.jpg",
+      "category": "耳機",
+      "articleType": "新聞"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "Amazon cuts CMF Buds 2 to $29 — lowest price in months",
+      "url": "https://www.soundguys.com/cmf-buds-2-deal-165478/",
+      "publishedAt": "2026-10-27T15:09:02.000Z",
+      "author": "Matt Horne",
+      "description": "Save $20 on the CMF Buds 2 and get features like hybrid ANC, dual-device pairing, spatial audio, and long battery life.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2024/09/a-hand-holding-the-cmf-buds-pro-2-scaled.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "This Award-winning Dolby Atmos soundbar creates an immersive bubble of sound that's rare for this price – and it's on sale",
+      "url": "https://www.whathifi.com/tv-home-cinema/soundbars/this-award-winning-dolby-atmos-soundbar-creates-an-immersive-bubble-of-sound-thats-rare-for-this-price-and-its-on-sale",
+      "publishedAt": "2026-10-27T14:50:12.000Z",
+      "author": "Daniel Furn",
+      "description": "Sony's atypical soundbar system can't be beaten at this low price",
+      "image": "https://cdn.mos.cms.futurecdn.net/k5AWcWziRTVNKvwPqthvdk-1920-80.jpg",
+      "category": "Soundbar",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Charming design and features aplenty, but will the Pure Bloom radio blossom when it comes to sound?",
+      "url": "https://www.whathifi.com/hi-fi/radio/pure-bloom",
+      "publishedAt": "2026-10-27T13:31:57.000Z",
+      "author": "",
+      "description": "A fun, affordable and capable digital radio",
+      "image": "https://cdn.mos.cms.futurecdn.net/953RMRenvkTgEG6r8ts7GA-1920-80.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "The Verge",
+      "title": "AirFly’s wireless headphone dongle adds a screen to guide you through the pairing process",
+      "url": "https://www.theverge.com/tech/1018679/twelve-south-airfly-view-screen-display-wireless-headphone-earbuds-airplane-adapter",
+      "publishedAt": "2026-10-27T13:00:00.000Z",
+      "author": "Andrew Liszewski",
+      "description": "The next Airfly audio streaming dongle makes it easier to pair your headphones.",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/airfly1.jpg?quality=90&strip=all&crop=0%2C10.743514466352%2C100%2C78.512971067296&w=1200",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "TechRadar",
+      "title": "Logitech Yeti 2 is one of the best mics for streaming I've ever used – it's just a shame about the higher price",
+      "url": "https://www.techradar.com/computing/mics-speakers/logitech-yeti-2",
+      "publishedAt": "2026-10-27T12:10:50.000Z",
+      "author": "",
+      "description": "The Logitech Yeti 2 has improved on its predecessor in almost every way, although the higher price is an unwelcome change.",
+      "image": "https://cdn.mos.cms.futurecdn.net/XxKmkzXpLcpd2VcC9teCPc-1920-80.jpg",
+      "category": "喇叭",
+      "articleType": "其他"
+    },
+    {
+      "source": "TechRadar",
+      "title": "7 of the biggest iOS 27.2 upgrades — from Siri improvements to the new Apple Music icon",
+      "url": "https://www.techradar.com/phones/ios/ios-27-2-has-landed-with-a-wealth-of-updates-these-are-the-7-biggest-changes-including-siri-improvements-and-a-new-apple-music-icon",
+      "publishedAt": "2026-10-27T11:41:37.000Z",
+      "author": "James Rogerson",
+      "description": "iOS 27.2 brings changes and improvements to Siri, Messages, Apple Music, FaceTime, the iPhone Duo, and more.",
+      "image": "https://cdn.mos.cms.futurecdn.net/JuUeKKYAEzfRckGqmZw6Kd-1920-80.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "These Award-winning Dolby Atmos soundbars have just trumped two old champions",
+      "url": "https://www.whathifi.com/tv-home-cinema/soundbars/these-award-winning-dolby-atmos-soundbars-have-just-trumped-two-old-champions",
+      "publishedAt": "2026-10-27T11:00:09.000Z",
+      "author": "Robyn Quick",
+      "description": "Find out how they came out on top",
+      "image": "https://cdn.mos.cms.futurecdn.net/k7GaxSYBvHdDVsxLsHMUqY-1920-80.jpg",
+      "category": "Soundbar",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "We pick our 10 favourite Leonard Cohen songs that will show off your hi-fi system's talents",
+      "url": "https://www.whathifi.com/hi-fi/10-of-the-best-leonard-cohen-songs-to-test-your-hi-fi-system",
+      "publishedAt": "2026-10-27T09:22:47.000Z",
+      "author": "Ioan Hazell",
+      "description": "Put your set-up to the test with the high priest of pathos",
+      "image": "https://cdn.mos.cms.futurecdn.net/4DRv3AZsxbRmywcVd76XPG-2560-80.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "I'm a big fan of Amazon’s stunning nanomatte tablet display – but there is a frustrating catch",
+      "url": "https://www.whathifi.com/smartphones-tablets/tablets/im-a-big-fan-of-amazons-stunning-nanomatte-tablet-display-but-there-is-a-frustrating-catch",
+      "publishedAt": "2026-10-27T08:02:06.000Z",
+      "author": "Daniel Furn",
+      "description": "It's the best-looking Amazon tablet yet, but film and TV fans will have to shell out for the Pro model",
+      "image": "https://cdn.mos.cms.futurecdn.net/gzRXyBtcNsWztLs3KAGjdF-2560-80.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "How to watch South Africa vs Australia 3rd Test 2026: Live stream cricket for free from anywhere",
+      "url": "https://www.whathifi.com/streaming-entertainment/how-to-watch/south-africa-vs-australia-3rd-test-2026",
+      "publishedAt": "2026-10-27T05:00:00.000Z",
+      "author": "Krishi Chowdhary",
+      "description": "Australia face tough selection calls as South Africa aim to seal the series at Newlands",
+      "image": "https://cdn.mos.cms.futurecdn.net/8b9ybya79VN5gxHVVT9nFY-2560-80.jpg",
+      "category": "串流播放器",
+      "articleType": "其他"
+    },
     {
       "source": "TechRadar",
       "title": "‘Listeners yearn for Cover Flow’: in yet another win for retro music, Apple Music fans are crying out for a return to the more vinyl-like, scrollable album visual they lost a decade ago",
@@ -45,17 +221,6 @@
       "description": "There are a number of great compact speakers just small enough to fit under a variety of monitor setups that still provide solid audio performance.",
       "image": "https://www.bgr.com/img/gallery/8-pc-speakers-small-enough-to-fit-under-your-monitor/l-intro-1793016707.jpg",
       "category": "喇叭",
-      "articleType": "其他"
-    },
-    {
-      "source": "The Verge",
-      "title": "Nothing’s eye-catching Ear 3A earbuds are matching their best price to date",
-      "url": "https://www.theverge.com/gadgets/1018612/nothing-ear-3a-noise-canceling-earbuds-deal-sale",
-      "publishedAt": "2026-10-26T17:25:34.000Z",
-      "author": "Sheena Vasani",
-      "description": "All four colors are on sale.",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268654_Nothing_Ear_3A_JHiggins_0014.jpg?quality=90&strip=all&crop=0%2C14.488902354413%2C100%2C78.534031413613&w=1200",
-      "category": "耳機",
       "articleType": "其他"
     },
     {
@@ -222,17 +387,6 @@
       "image": "https://cdn.mos.cms.futurecdn.net/MngaCKTy96hCsrNUW6G5uE-2560-80.jpg",
       "category": "DAC／擴大機",
       "articleType": "評測"
-    },
-    {
-      "source": "The Verge",
-      "title": "r/opensource just banned AI, non-English speakers, and more",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
-      "publishedAt": "2026-10-25T13:25:32.000Z",
-      "author": "Terrence O'Brien",
-      "description": "The opensource subreddit’s new rules against AI have sparked a revolt.",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK115_Reddit_01.jpg.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "category": "喇叭",
-      "articleType": "其他"
     },
     {
       "source": "What Hi-Fi?",
@@ -2050,6 +2204,17 @@
       "articleType": "其他"
     },
     {
+      "source": "Tom's Guide",
+      "title": "Edifier Promo Codes in Oct 2026 | Exclusive $10 Gift Card",
+      "url": "https://www.tomsguide.com/audio/edifier-coupons",
+      "publishedAt": "2026-10-15T14:08:53.000Z",
+      "author": "Nathan Walters",
+      "description": "Use one of our 7 Edifier promo codes to help you save on audiophile-level headphones, gaming headsets, earphones and speakers",
+      "image": "https://cdn.mos.cms.futurecdn.net/DGvVkD8T9xf5LYxLede2Dh-1920-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
       "source": "What Hi-Fi?",
       "title": "Moon's premium integrated amplifier vows to combine \"exceptional sound\" with an \"elegant, timeless form\"",
       "url": "https://www.whathifi.com/hi-fi/stereo-amplifiers/moons-premium-integrated-amplifier-vows-to-combine-exceptional-sound-with-an-elegant-timeless-form",
@@ -2488,17 +2653,6 @@
       "image": "https://www.soundguys.com/wp-content/uploads/2026/10/Beats-Pill-–-Pokemon-Special-Edition-Promo.jpg",
       "category": "喇叭",
       "articleType": "其他"
-    },
-    {
-      "source": "Android Headlines",
-      "title": "Pikachu Meets Portable Audio in Apple’s New Pokémon Beats Pill",
-      "url": "https://www.androidheadlines.com/2026/10/apple-beats-pill-pokemon-edition-speaker.html",
-      "publishedAt": "2026-10-13T15:51:53.000Z",
-      "author": "Sai Krishna",
-      "description": "Apple's Beats has officially launched the special-edition Pokemon Pill speaker. It comes with Pokemon and Mimikyu artwork on the grille.",
-      "image": "https://www.androidheadlines.com/wp-content/uploads/2026/10/beats-pokemon-pill-speaker.jpg",
-      "category": "喇叭",
-      "articleType": "新聞"
     },
     {
       "source": "SoundGuys",
@@ -4294,6 +4448,17 @@
       "articleType": "其他"
     },
     {
+      "source": "Tom's Guide",
+      "title": "Tonies Discount Code for Oct 2026 | 10% OFF",
+      "url": "https://www.tomsguide.com/audio/tonies-coupons",
+      "publishedAt": "2026-10-06T13:02:16.000Z",
+      "author": "Nathan Walters",
+      "description": "Use one of our 5 Tonies discount codes at the checkout to save money on the popular screen-free audio players for kids",
+      "image": "https://cdn.mos.cms.futurecdn.net/hWNjsm3utD9S7Hg9nFPRFc-2560-80.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
       "source": "The Verge",
       "title": "The wireless headphones that roll up into a Bluetooth speaker are now available",
       "url": "https://www.theverge.com/tech/1004860/tomorrow-doesnt-matter-tdm-neo-headphone-roll-up-bluetooth-speaker-us-availability",
@@ -5897,94 +6062,6 @@
       "description": "Compression is a key editing tool that helps artists sculpt sound. If used incorrectly, the end result can be worse than when you started.",
       "image": "https://www.bgr.com/img/gallery/audio-vs-file-compression-what-to-avoid-for-better-audio-quality/l-intro-1790111096.jpg",
       "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "BGR",
-      "title": "4 Non-Negotiable Features To Look For In Bluetooth Headphones In 2026 - BGR",
-      "url": "https://www.bgr.com/2265775/bluetooth-headphones-non-negotiable-features/",
-      "publishedAt": "2026-09-27T20:47:00.000Z",
-      "author": "Michael Bizzaco",
-      "description": "Good sound isn't the only thing to look for in Bluetooth headphones. These features help make a pair of cans or buds worth using in 2026.",
-      "image": "https://www.bgr.com/img/gallery/4-non-negotiable-features-to-look-for-in-bluetooth-headphones-in-2026/l-intro-1790103330.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "BGR",
-      "title": "You're Wasting The Potential Of PlayStation 5 Headphones Without Trying This Feature - BGR",
-      "url": "https://www.bgr.com/2265758/playstation-5-3d-audio-profile-headphones/",
-      "publishedAt": "2026-09-27T18:17:00.000Z",
-      "author": "Chifundo Kasiya",
-      "description": "Stop using default audio settings. Learn how to calibrate PS5 Personalized 3D Audio and tweak EQ presets to unlock elite positional sound.",
-      "image": "https://www.bgr.com/img/gallery/youre-wasting-the-potential-of-playstation-5-headphones-without-trying-this-feature/l-intro-1790102771.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "TechRadar",
-      "title": "Spotify has made some monumental changes to the platform this year — here are 5 of the biggest upgrades you need to know about, including this Wikipedia-style song credits tool",
-      "url": "https://www.techradar.com/audio/spotify/ive-been-keeping-up-with-every-spotify-update-this-year-and-these-are-my-5-favorite-upgrades-from-songdna-to-its-reserved-concert-ticket-scheme",
-      "publishedAt": "2026-09-27T17:00:00.000Z",
-      "author": "Rowan Davies",
-      "description": "From Taste Profile to Reserved, these are the biggest changes Spotify has made over the past few months.",
-      "image": "https://cdn.mos.cms.futurecdn.net/yDZU4AQ9ew3QyzJJDVGysM-2000-80.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "BGR",
-      "title": "Who Owns Noble Audio, The Premium Headphone Brand? - BGR",
-      "url": "https://www.bgr.com/2264155/who-owns-noble-audio-headphones/",
-      "publishedAt": "2026-09-27T14:32:00.000Z",
-      "author": "Sead Fadilpasic",
-      "description": "Noble Audio is a brand well-known for making high-end and extremely expensive headphones, but who actually owns the company behind the products?",
-      "image": "https://www.bgr.com/img/gallery/who-owns-noble-audio-the-premium-headphone-brand/l-intro-1789853060.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "BGR",
-      "title": "The First Speaker Bose Ever Made Was An Odd-Shaped Failure - BGR",
-      "url": "https://www.bgr.com/2265315/first-speaker-bose-made-odd-shaped-failure/",
-      "publishedAt": "2026-09-27T13:47:00.000Z",
-      "author": "Anthoni Oisin",
-      "description": "Before Bose became a modern audio juggernaut, it released the 2201 speakers with an odd shape that would end up as an utter commercial failure.",
-      "image": "https://www.bgr.com/img/gallery/the-first-speaker-bose-ever-made-was-an-odd-shaped-failure/l-intro-1790089366.jpg",
-      "category": "喇叭",
-      "articleType": "新聞"
-    },
-    {
-      "source": "BGR",
-      "title": "How Much Is Apple Music In 2026? - BGR",
-      "url": "https://www.bgr.com/2265143/how-much-is-apple-music-2026/",
-      "publishedAt": "2026-09-27T12:47:00.000Z",
-      "author": "Gaurav Shukla",
-      "description": "The individual plan of Apple Music will set you back $12 a month, while the family plan, that can be split amongst five more family members, will cost you $20.",
-      "image": "https://www.bgr.com/img/gallery/how-much-is-apple-music-in-2026/l-intro-1790082293.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "Tom's Guide",
-      "title": "Could these $39 earbuds be budget heroes? I tested them to find out",
-      "url": "https://www.tomsguide.com/audio/earbuds/tribit-flybuds-c3-review",
-      "publishedAt": "2026-09-27T05:30:00.000Z",
-      "author": "",
-      "description": "The Tribit FlyBuds C3 are affordable earbuds with a sleek design, but there are a few trade-offs.",
-      "image": "https://cdn.mos.cms.futurecdn.net/6QPKjbVTdntvNcrFBy9jAj-1920-80.jpg",
-      "category": "耳機",
-      "articleType": "評測"
-    },
-    {
-      "source": "BGR",
-      "title": "Who Owns Deezer, The Apple Music Streaming Alternative? - BGR",
-      "url": "https://www.bgr.com/2264789/who-owns-deezer-apple-music-streaming-alternative/",
-      "publishedAt": "2026-09-27T03:47:00.000Z",
-      "author": "Trevor Mogg",
-      "description": "Deezer is a smaller but popular Apple Music alternative that has undergone several changes over the years. It is now publicly traded and owned by shareholders.",
-      "image": "https://www.bgr.com/img/gallery/who-owns-deezer-the-apple-music-streaming-alternative/l-intro-1790029960.jpg",
-      "category": "串流播放器",
       "articleType": "其他"
     }
   ]
