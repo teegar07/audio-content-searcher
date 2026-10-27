@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-26T23:30:50.132Z",
+  "generatedAt": "2026-10-27T00:20:59.455Z",
   "days": 30,
-  "count": 545,
+  "count": 546,
   "articles": [
     {
       "source": "TechRadar",
@@ -5656,6 +5656,17 @@
       "image": "https://www.bgr.com/img/gallery/how-to-get-the-best-audio-quality-out-of-your-tesla/l-intro-1790189125.jpg",
       "category": "其他音訊",
       "articleType": "其他"
+    },
+    {
+      "source": "Android Headlines",
+      "title": "Bose's latest earbuds dump wireless for plug and play",
+      "url": "https://www.androidheadlines.com/2026/09/boses-latest-earbuds-dump-wireless-for-plug-and-play.html",
+      "publishedAt": "2026-09-28T16:43:43.000Z",
+      "author": "Justin Diaz",
+      "description": "Back in early August, Bose unveiled its new QuietComfort 2nd Gen wireless headphones and then earlier this month, it revealed its new wireless open",
+      "image": "https://www.androidheadlines.com/wp-content/uploads/2026/09/Bose-Noise-Cancelling-Wired-Earbuds.jpg",
+      "category": "耳機",
+      "articleType": "新聞"
     },
     {
       "source": "SoundGuys",
