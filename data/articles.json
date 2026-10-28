@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-28T01:06:23.835Z",
+  "generatedAt": "2026-10-28T02:07:58.301Z",
   "days": 30,
-  "count": 550,
+  "count": 548,
   "articles": [
     {
       "source": "BGR",
@@ -6030,28 +6030,6 @@
       "image": "https://cdn.mos.cms.futurecdn.net/6m9mJkdH3x8iMuY6bgNh3k-2520-80.jpg",
       "category": "喇叭",
       "articleType": "評測"
-    },
-    {
-      "source": "BGR",
-      "title": "What Does The Purple Light On Your Alexa Speaker Mean? - BGR",
-      "url": "https://www.bgr.com/2266003/what-does-purple-light-on-alexa-speaker-mean/",
-      "publishedAt": "2026-09-28T01:47:00.000Z",
-      "author": "Michael Bizzaco",
-      "description": "A purple light on an Alexa speaker usually means the device is in Do Not Disturb mode, but it can also indicate problems connecting to a Wi-Fi network.",
-      "image": "https://www.bgr.com/img/gallery/what-does-the-purple-light-on-your-alexa-speaker-mean/l-intro-1790073867.jpg",
-      "category": "喇叭",
-      "articleType": "其他"
-    },
-    {
-      "source": "BGR",
-      "title": "Can You 3D Print A Playable Vinyl Record? - BGR",
-      "url": "https://www.bgr.com/2266214/can-you-3d-print-playable-vinyl-record/",
-      "publishedAt": "2026-09-28T01:17:00.000Z",
-      "author": "Sead Fadilpasic",
-      "description": "As 3D printing becomes increasingly popular across all industries, audiophiles may be happy to learn that it's possible to create a playable vinyl record.",
-      "image": "https://www.bgr.com/img/gallery/can-you-3d-print-a-playable-vinyl-record/l-intro-1790160316.jpg",
-      "category": "黑膠／唱盤",
-      "articleType": "其他"
     }
   ]
 }
