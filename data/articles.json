@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-28T00:22:15.839Z",
+  "generatedAt": "2026-10-28T01:06:23.835Z",
   "days": 30,
-  "count": 551,
+  "count": 550,
   "articles": [
     {
       "source": "BGR",
@@ -6051,17 +6051,6 @@
       "description": "As 3D printing becomes increasingly popular across all industries, audiophiles may be happy to learn that it's possible to create a playable vinyl record.",
       "image": "https://www.bgr.com/img/gallery/can-you-3d-print-a-playable-vinyl-record/l-intro-1790160316.jpg",
       "category": "黑膠／唱盤",
-      "articleType": "其他"
-    },
-    {
-      "source": "BGR",
-      "title": "The 5 Biggest Problems Users Have With Bluetooth On Windows 11 - BGR",
-      "url": "https://www.bgr.com/2266021/bluetooth-common-problems-windows-11/",
-      "publishedAt": "2026-09-28T00:47:00.000Z",
-      "author": "Asad Kashif",
-      "description": "Microsoft can't get Bluetooth right, whether it's random disconnects, disappearing toggles, poor audio quality, or bad device management.",
-      "image": "https://www.bgr.com/img/gallery/the-5-biggest-problems-users-have-with-bluetooth-on-windows-11/l-intro-1790117254.jpg",
-      "category": "其他音訊",
       "articleType": "其他"
     }
   ]
