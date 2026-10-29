@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-29T00:45:22.803Z",
+  "generatedAt": "2026-10-29T01:44:04.919Z",
   "days": 30,
-  "count": 541,
+  "count": 538,
   "articles": [
     {
       "source": "TechRadar",
@@ -5920,39 +5920,6 @@
       "image": "https://cdn.mos.cms.futurecdn.net/ERdDGMHykbYSyQf8TAA7jc-2560-80.jpg",
       "category": "耳機",
       "articleType": "其他"
-    },
-    {
-      "source": "TechRadar",
-      "title": "Nothing's priciest headphones ever land — and our full review verdict is in",
-      "url": "https://www.techradar.com/audio/headphones/nothings-priciest-headphones-ever-land-and-our-full-review-verdict-is-in",
-      "publishedAt": "2026-09-29T01:05:00.000Z",
-      "author": "Carrie Marshall",
-      "description": "Nothing's new flagship headphones are a glass act with hi-res audio and triple tuned drivers",
-      "image": "https://cdn.mos.cms.futurecdn.net/HYhPpPwFraxiXL87BpHzv4-2560-80.jpg",
-      "category": "耳機",
-      "articleType": "評測"
-    },
-    {
-      "source": "SoundGuys",
-      "title": "Nothing's Headphone (1) Pro has three drivers, better ANC, and one odd compromise",
-      "url": "https://www.soundguys.com/nothing-headphone-1-pro-launch-163800/",
-      "publishedAt": "2026-09-29T01:00:33.000Z",
-      "author": "Shimul Sood",
-      "description": "Nothing's Headphone (1) Pro brings three drivers, stronger ANC, and smart audio controls, but there's one surprising battery-life downgrade.",
-      "image": "https://www.soundguys.com/wp-content/uploads/2026/09/nothing-headphone-1-pro-case-open.jpg",
-      "category": "耳機",
-      "articleType": "新聞"
-    },
-    {
-      "source": "TechRadar",
-      "title": "Nothing Headphone (1) Pro review: is third time a charm for Nothing's new and most premium over-ears yet? Not quite, and it's an odd case…",
-      "url": "https://www.techradar.com/audio/wireless-headphones/nothing-headphone-1-pro-review",
-      "publishedAt": "2026-09-29T01:00:00.000Z",
-      "author": "",
-      "description": "The sound is much improved again, but if you ask me what I like about Headphone (1) Pro's heavy, pricey half-case, I'd have to say nothing…",
-      "image": "https://cdn.mos.cms.futurecdn.net/C2sHCQB7dCbxA5ZcYwQkpB-2560-80.jpg",
-      "category": "耳機",
-      "articleType": "評測"
     }
   ]
 }
