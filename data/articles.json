@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-29T01:44:04.919Z",
+  "generatedAt": "2026-10-29T02:17:22.908Z",
   "days": 30,
-  "count": 538,
+  "count": 533,
   "articles": [
     {
       "source": "TechRadar",
@@ -5548,17 +5548,6 @@
       "articleType": "其他"
     },
     {
-      "source": "Tom's Guide",
-      "title": "Best Buy has JBL speakers on sale from $39: here are my top picks",
-      "url": "https://www.tomsguide.com/audio/bluetooth-speakers/best-buy-has-jbl-speakers-on-sale-from-usd39-here-are-my-top-picks",
-      "publishedAt": "2026-09-30T20:23:58.000Z",
-      "author": "Louis Ramirez",
-      "description": "Score the perfect Bluetooth speaker for your next party",
-      "image": "https://cdn.mos.cms.futurecdn.net/aMa76CV9dXcPJkNGwmiMuM-2000-80.jpg",
-      "category": "喇叭",
-      "articleType": "其他"
-    },
-    {
       "source": "TechRadar",
       "title": "The retro Casio smartwatch that sold out in Japan has just hit US shelves — the $65 F-B100W has step counting, Bluetooth and is the ‘most fun’ watch of 2026",
       "url": "https://www.techradar.com/health-fitness/smartwatches/casios-f-b100w-retro-smartwatch-launches-in-the-us-usd65-tracker-lands-with-bluetooth-and-step-tracking-after-selling-out-in-japan",
@@ -5578,17 +5567,6 @@
       "description": "iFixit tore down the new AirPods 5 and found some notable improvements compared to their predecessors.",
       "image": "https://cdn.mos.cms.futurecdn.net/pcd4jDEWSpCCgfq4KKChgX-1920-80.jpg",
       "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "Tom's Guide",
-      "title": "I was one of the first to hear JBL’s new Wi-Fi speaker sound system — and if I were Sonos, I’d be quaking in my boots",
-      "url": "https://www.tomsguide.com/audio/smart-speakers/i-was-one-of-the-first-to-hear-jbls-new-wi-fi-speaker-sound-system-and-if-i-were-sonos-id-be-quaking-in-my-boots",
-      "publishedAt": "2026-09-30T16:40:20.000Z",
-      "author": "Erin Bashford",
-      "description": "The \"Cove\" sound system is supposed to eradicate connectivity headaches... well, I'll be the judge of that",
-      "image": "https://cdn.mos.cms.futurecdn.net/CuxpcjriTV7NZvC3sUKsFU-2176-80.jpg",
-      "category": "喇叭",
       "articleType": "其他"
     },
     {
@@ -5623,17 +5601,6 @@
       "image": "https://cdn.mos.cms.futurecdn.net/BkLAgUac2MK4Kgu5TFhXLF-2560-80.jpg",
       "category": "耳機",
       "articleType": "新聞"
-    },
-    {
-      "source": "Tom's Guide",
-      "title": "I've tested dozens of mini speakers, and my top pick is just $22 for Prime Big Deal Days",
-      "url": "https://www.tomsguide.com/audio/bluetooth-speakers/ive-tested-dozens-of-mini-speakers-and-my-top-pick-is-already-discounted-for-prime-big-deal-days",
-      "publishedAt": "2026-09-30T14:28:30.000Z",
-      "author": "Ashley Thieme",
-      "description": "The Tribit PocketGo is the small speaker I recommend to everyone — it's cheap and has a big sound.",
-      "image": "https://cdn.mos.cms.futurecdn.net/FhkwdSdHD8nTBw8U5o3AiZ-1920-80.jpg",
-      "category": "喇叭",
-      "articleType": "評測"
     },
     {
       "source": "SoundGuys",
@@ -5699,17 +5666,6 @@
       "description": "The Nothing Headphone 1 Pro case borrows the AirPods Max design, then drops the few things that made Apple's version work.",
       "image": "https://www.soundguys.com/wp-content/uploads/2026/09/nothing-headphone-1-pro-case-oblique.jpg",
       "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "Tom's Guide",
-      "title": "Massive JBL sale at Best Buy: my top speaker deals from $59",
-      "url": "https://www.tomsguide.com/audio/bluetooth-speakers/massive-jbl-sale-at-best-buy-my-top-speaker-deals-from-usd59",
-      "publishedAt": "2026-09-29T19:35:28.000Z",
-      "author": "Louis Ramirez",
-      "description": "The perfect companion for your next party",
-      "image": "https://cdn.mos.cms.futurecdn.net/yscy3vkuSpR96zbjSuArNB-2000-80.jpg",
-      "category": "喇叭",
       "articleType": "其他"
     },
     {
@@ -5907,17 +5863,6 @@
       "author": "Adam Birney",
       "description": "Qualcomm's Andrew Laister on lossless Bluetooth, Wi-Fi earbuds, and why the codec is no longer holding wireless audio back.",
       "image": "https://www.soundguys.com/wp-content/uploads/2026/09/1000053167-scaled.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "Tom's Guide",
-      "title": "Are the Beats 360 headphones actually good for running? I ran 10 miles in them to find out",
-      "url": "https://www.tomsguide.com/audio/over-ear-headphones/are-the-beats-360-headphones-actually-good-for-running-i-ran-10-miles-in-them-to-find-out",
-      "publishedAt": "2026-09-29T07:30:00.000Z",
-      "author": "Nick Harris-Fry",
-      "description": "Beats new over-ear headphones impressed me on my Sunday long run",
-      "image": "https://cdn.mos.cms.futurecdn.net/ERdDGMHykbYSyQf8TAA7jc-2560-80.jpg",
       "category": "耳機",
       "articleType": "其他"
     }
