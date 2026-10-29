@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-29T22:32:23.335Z",
+  "generatedAt": "2026-10-29T23:09:15.379Z",
   "days": 30,
-  "count": 526,
+  "count": 529,
   "articles": [
     {
       "source": "TechRadar",
@@ -1830,6 +1830,17 @@
       "articleType": "評測"
     },
     {
+      "source": "Tom's Guide",
+      "title": "I tested the Snoozeband Original with built-in speakers — now I can fall asleep fast even when I'm on the move",
+      "url": "https://www.tomsguide.com/wellness/sleep-tech/snoozeband-original-sleep-headphones-review",
+      "publishedAt": "2026-10-20T11:30:00.000Z",
+      "author": "",
+      "description": "The SnoozeBand Original is a cheap and comfortable solution to those who rely on white noise to fall asleep fast and drown out unwelcome noises, wherever you are.",
+      "image": "https://cdn.mos.cms.futurecdn.net/y8ty2un6wvYePYy8LRVJ8E-1920-80.jpg",
+      "category": "耳機",
+      "articleType": "評測"
+    },
+    {
       "source": "What Hi-Fi?",
       "title": "How to watch PSG vs Barcelona: live stream UCL game for FREE",
       "url": "https://www.whathifi.com/streaming-entertainment/how-to-watch/psg-vs-barcelona-champions-league-2026-27-free",
@@ -3423,6 +3434,17 @@
       "image": "https://www.bgr.com/img/gallery/buying-bose-quietcomfort-ultra-earbuds-here-are-5-comparable-choices-to-consider-instead/l-intro-1791298274.jpg",
       "category": "耳機",
       "articleType": "其他"
+    },
+    {
+      "source": "Android Headlines",
+      "title": "CMF by Nothing Launches Milk Carton-Inspired Speaker S and Speaker M with DIY Customization",
+      "url": "https://www.androidheadlines.com/2026/10/cmf-by-nothing-launches-speaker-s-m-specs-price.html",
+      "publishedAt": "2026-10-12T18:25:16.000Z",
+      "author": "Jean Leon",
+      "description": "CMF by Nothing launches the Speaker S and Speaker M, featuring modular 3D-printable panels, Bluetooth 6.0, and IP68 protection.",
+      "image": "https://www.androidheadlines.com/wp-content/uploads/2026/10/CMF-Speaker-M-colors-featured.jpg",
+      "category": "喇叭",
+      "articleType": "新聞"
     },
     {
       "source": "What Hi-Fi?",
@@ -5556,6 +5578,17 @@
       "description": "PMC’s big, brutal but surprisingly charming MB2 SE speakers bring high-end studio sound into the home.",
       "image": "https://cdn.mos.cms.futurecdn.net/diEzGqPMatM2k42LWL5xRJ-1920-80.jpg",
       "category": "喇叭",
+      "articleType": "其他"
+    },
+    {
+      "source": "Android Headlines",
+      "title": "Galaxy Buds On Are Official as Samsung's First Clip-On Earbuds",
+      "url": "https://www.androidheadlines.com/2026/10/galaxy-buds-on-are-official-as-samsungs-first-clip-on-earbuds.html",
+      "publishedAt": "2026-10-01T11:43:31.000Z",
+      "author": "Tyler Lee",
+      "description": "Meet the Galaxy Buds On, Samsung's first clip-on earbuds, with an open-ear fit, Gemini Live support, and up to 9.5 hours of battery.",
+      "image": "https://www.androidheadlines.com/wp-content/uploads/2026/10/Samsung-Galaxy-Buds-On.jpg",
+      "category": "耳機",
       "articleType": "其他"
     },
     {
