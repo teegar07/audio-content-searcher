@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-28T23:47:59.513Z",
+  "generatedAt": "2026-10-29T00:45:22.803Z",
   "days": 30,
-  "count": 540,
+  "count": 541,
   "articles": [
     {
       "source": "TechRadar",
@@ -2840,6 +2840,17 @@
       "image": "https://www.soundguys.com/wp-content/uploads/2026/10/Beats-Pill-–-Pokemon-Special-Edition-Promo.jpg",
       "category": "喇叭",
       "articleType": "其他"
+    },
+    {
+      "source": "Android Headlines",
+      "title": "Pikachu Meets Portable Audio in Apple’s New Pokémon Beats Pill",
+      "url": "https://www.androidheadlines.com/2026/10/apple-beats-pill-pokemon-edition-speaker.html",
+      "publishedAt": "2026-10-13T15:51:53.000Z",
+      "author": "Sai Krishna",
+      "description": "Apple's Beats has officially launched the special-edition Pokemon Pill speaker. It comes with Pokemon and Mimikyu artwork on the grille.",
+      "image": "https://www.androidheadlines.com/wp-content/uploads/2026/10/beats-pokemon-pill-speaker.jpg",
+      "category": "喇叭",
+      "articleType": "新聞"
     },
     {
       "source": "SoundGuys",
