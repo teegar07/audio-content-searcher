@@ -1,8 +1,19 @@
 {
-  "generatedAt": "2026-10-30T21:59:38.204Z",
+  "generatedAt": "2026-10-30T22:48:30.319Z",
   "days": 30,
-  "count": 532,
+  "count": 535,
   "articles": [
+    {
+      "source": "TechRadar",
+      "title": "Japan’s storage industry is spending billions on tape, memory and HDD",
+      "url": "https://www.techradar.com/pro/magnetic-tape-storage-is-seeing-a-second-lease-of-life-thanks-to-ai-and-now-its-largest-manufacturer-is-planning-a-huge-ramp-up-in-production",
+      "publishedAt": "2026-10-30T22:10:00.000Z",
+      "author": "Efosa Udinmwen",
+      "description": "AI is generating more data than companies can comfortably store, and Fujifilm plans a fivefold increase in tape production",
+      "image": "https://cdn.mos.cms.futurecdn.net/cykyRNYEZP7Y6tEeBYRhGM-1920-80.png",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
     {
       "source": "SoundGuys",
       "title": "Bose QuietComfort Ultra Headphones 2nd Gen get $80 discount",
@@ -3645,6 +3656,17 @@
       "articleType": "其他"
     },
     {
+      "source": "Android Headlines",
+      "title": "CMF by Nothing Launches Milk Carton-Inspired Speaker S and Speaker M with DIY Customization",
+      "url": "https://www.androidheadlines.com/2026/10/cmf-by-nothing-launches-speaker-s-m-specs-price.html",
+      "publishedAt": "2026-10-12T18:25:16.000Z",
+      "author": "Jean Leon",
+      "description": "CMF by Nothing launches the Speaker S and Speaker M, featuring modular 3D-printable panels, Bluetooth 6.0, and IP68 protection.",
+      "image": "https://www.androidheadlines.com/wp-content/uploads/2026/10/CMF-Speaker-M-colors-featured.jpg",
+      "category": "喇叭",
+      "articleType": "新聞"
+    },
+    {
       "source": "What Hi-Fi?",
       "title": "The B-100C is Luxman's first mono power amp in 20 years",
       "url": "https://www.whathifi.com/hi-fi/stereo-amplifiers/the-b-100c-is-luxmans-first-mono-power-amp-in-20-years",
@@ -5607,7 +5629,7 @@
       "title": "Sound Advice: your hi-fi and home cinema questions answered, live",
       "url": "https://www.whathifi.com/tv-home-cinema/sound-advice-your-hi-fi-and-home-cinema-questions-answered-live",
       "publishedAt": "2026-10-02T09:12:42.000Z",
-      "author": "Tom Parsons, Kashfia Kabir, Ketan Bharadia",
+      "author": "Tom Parsons, Ketan Bharadia, Kashfia Kabir",
       "description": "Letters from the postbag, plus a live Q&A",
       "image": "https://cdn.mos.cms.futurecdn.net/PoToA7opRJwpBtshJ8eRiQ-1920-80.jpg",
       "category": "其他音訊",
@@ -5776,6 +5798,17 @@
       "description": "PMC’s big, brutal but surprisingly charming MB2 SE speakers bring high-end studio sound into the home.",
       "image": "https://cdn.mos.cms.futurecdn.net/diEzGqPMatM2k42LWL5xRJ-1920-80.jpg",
       "category": "喇叭",
+      "articleType": "其他"
+    },
+    {
+      "source": "Android Headlines",
+      "title": "Galaxy Buds On Are Official as Samsung's First Clip-On Earbuds",
+      "url": "https://www.androidheadlines.com/2026/10/galaxy-buds-on-are-official-as-samsungs-first-clip-on-earbuds.html",
+      "publishedAt": "2026-10-01T11:43:31.000Z",
+      "author": "Tyler Lee",
+      "description": "Meet the Galaxy Buds On, Samsung's first clip-on earbuds, with an open-ear fit, Gemini Live support, and up to 9.5 hours of battery.",
+      "image": "https://www.androidheadlines.com/wp-content/uploads/2026/10/Samsung-Galaxy-Buds-On.jpg",
+      "category": "耳機",
       "articleType": "其他"
     },
     {
