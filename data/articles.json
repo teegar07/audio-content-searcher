@@ -1,8 +1,19 @@
 {
-  "generatedAt": "2026-10-30T00:42:49.916Z",
+  "generatedAt": "2026-10-30T01:46:43.370Z",
   "days": 30,
-  "count": 529,
+  "count": 530,
   "articles": [
+    {
+      "source": "TechRadar",
+      "title": "Anthropic sued over Elvis catalog — and the 274-song copyright battle shows the AI industry's 'fair use' excuses are getting old",
+      "url": "https://www.techradar.com/ai-platforms-assistants/anthropic-sued-for-allegedly-using-274-elvis-presley-songs-in-ai-training-and-its-about-time-ai-companies-faced-the-music",
+      "publishedAt": "2026-10-30T01:00:00.000Z",
+      "author": "Eric Hal Schwartz",
+      "description": "Anthropic's Elvis lawsuit shows why AI companies can't keep treating creativity as free training data.",
+      "image": "https://cdn.mos.cms.futurecdn.net/tKM8kwSbAKRgfrMxFLPcUf-2560-80.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
     {
       "source": "TechRadar",
       "title": "'A calm and sensible aesthetic is preferable to an overwrought and wilful one, but I'm concerned that for the PD5, Astell & Kern may have bypassed its industrial design team altogether': the DAP's sound is without question the best at the level, but I can't help missing A&K's visual design flourishes",
