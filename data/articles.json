@@ -1,8 +1,239 @@
 {
-  "generatedAt": "2026-10-30T02:33:14.117Z",
+  "generatedAt": "2026-10-30T21:59:38.204Z",
   "days": 30,
-  "count": 530,
+  "count": 532,
   "articles": [
+    {
+      "source": "SoundGuys",
+      "title": "Bose QuietComfort Ultra Headphones 2nd Gen get $80 discount",
+      "url": "https://www.soundguys.com/quietcomfort-ultra-headphones-2nd-gen-deal-165765/",
+      "publishedAt": "2026-10-30T21:17:18.000Z",
+      "author": "Matt Horne",
+      "description": "Bose’s new flagship ANC headphones are 18% off on Amazon, with up to 40 hours of battery life and USB-C lossless audio.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2025/09/Bose-QuietComfort-Ultra-Headphones-2nd-Gen-man-on-phone-looking-left-scaled.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "I lab-tested the best noise cancelling headphones, and these are what I'd buy",
+      "url": "https://www.soundguys.com/best-noise-cancelling-headphones-5220/",
+      "publishedAt": "2026-10-30T20:30:51.000Z",
+      "author": "Christian Thomas",
+      "description": "What are the best noise canceling headphones you can find in 2024? Explore our expert reviews and tips to find your perfect pair.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2025/09/bose-quietcomfort-ultra-2nd-gen003-scaled.jpg",
+      "category": "耳機",
+      "articleType": "評測"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "Bose’s new flagship soundbar is $200 off on Amazon",
+      "url": "https://www.soundguys.com/bose-new-lifestyle-ultra-soundbar-deal-amazon-165759/",
+      "publishedAt": "2026-10-30T20:13:29.000Z",
+      "author": "Matt Horne",
+      "description": "Bose’s new Lifestyle Ultra Soundbar drops to $899 on Amazon, with Dolby Atmos and support for Wi-Fi, Bluetooth, AirPlay, and Cast.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/05/Bose-Lifestyle-Soundbar-1-scaled.jpeg",
+      "category": "Soundbar",
+      "articleType": "其他"
+    },
+    {
+      "source": "TechRadar",
+      "title": "Fairphone Fairbuds 2 review: these AirPods rivals give me peace of mind because of what they're missing — and while it's a worthy cause, their sound quality isn't quite so stellar",
+      "url": "https://www.techradar.com/audio/earbuds-airpods/fairphone-fairbuds-2-review",
+      "publishedAt": "2026-10-30T18:00:00.000Z",
+      "author": "",
+      "description": "Fairphone FairBuds 2 review: green credentials and a lack of PFAS make up for the relatively slender feature set and serviceable sound quality.",
+      "image": "https://cdn.mos.cms.futurecdn.net/DbHPcotnB6CA3vs5qCC4GM-2510-80.jpg",
+      "category": "耳機",
+      "articleType": "評測"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "I just saw the new Xgimi Horizon 30 series, and the future looks bright for the upgraded 4K projector lineup",
+      "url": "https://www.whathifi.com/tv-home-cinema/projectors/i-just-saw-the-new-xgimi-horizon-30-series-and-the-future-looks-bright-for-the-upgraded-4k-projector-lineup",
+      "publishedAt": "2026-10-30T17:40:37.000Z",
+      "author": "Daniel Furn",
+      "description": "A new horizon for Xgimi's step-down projector series?",
+      "image": "https://cdn.mos.cms.futurecdn.net/FnvpejkTFJzSbhf5DKxk3N-2560-80.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "The best deals on Award-winning OLED TVs, five-star soundbar systems and legendary CD players, handpicked by our experts",
+      "url": "https://www.whathifi.com/av/the-best-deals-on-award-winning-oled-tvs-five-star-soundbar-systems-and-legendary-cd-players-handpicked-by-our-experts",
+      "publishedAt": "2026-10-30T16:52:29.000Z",
+      "author": "Daniel Furn",
+      "description": "Some frightfully good deals this Halloween",
+      "image": "https://cdn.mos.cms.futurecdn.net/Rt5mPBbfPEYuEuyM94thQb-1920-80.jpg",
+      "category": "Soundbar",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "Amazon cuts $70 off Bose QuietComfort Ultra Earbuds 2nd Gen",
+      "url": "https://www.soundguys.com/amazon-cuts-70-bose-quietcomfort-ultra-165747/",
+      "publishedAt": "2026-10-30T16:47:33.000Z",
+      "author": "Matt Horne",
+      "description": "Bose QuietComfort Ultra Earbuds 2nd Gen drop to $229 on Amazon, matching the lowest price we've seen this year.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2025/07/Bose-QuietComfort-Ultra-Earbuds-2nd-Gen_35-scaled.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "Amazon slashes Pixel Buds Pro 2 to $169 in all colors",
+      "url": "https://www.soundguys.com/deal-pixel-buds-pro-2-165739/",
+      "publishedAt": "2026-10-30T16:02:18.000Z",
+      "author": "Matt Horne",
+      "description": "Google Pixel Buds Pro 2 are 26% off RRP on Amazon with ANC, spatial audio, and up to 30 hours with the case.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2024/08/Pixel-Buds-Pro-2-in-case-open-scaled.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "TechRadar",
+      "title": "A big update for Google Home is rolling out to users now — and it addresses problems with Gemini and Matter devices",
+      "url": "https://www.techradar.com/home/smart-home/google-home-is-getting-a-major-update-with-improvements-for-matter-devices-google-speakers-and-nest-cameras-heres-how-to-get-it",
+      "publishedAt": "2026-10-30T15:51:15.000Z",
+      "author": "David Nield",
+      "description": "The latest Google Home update for Android and iOS is a big one, and here's what's coming your way.",
+      "image": "https://cdn.mos.cms.futurecdn.net/9dMqg8Mc3gDkSuPdJYcNcT-2000-80.jpg",
+      "category": "喇叭",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Will Atacama’s Moseco 6.2 speaker stands measure up to their Award-winning siblings?",
+      "url": "https://www.whathifi.com/av/speaker-stands/atacama-moseco-6-2",
+      "publishedAt": "2026-10-30T15:47:12.000Z",
+      "author": "",
+      "description": "Sturdy stands that will let your speakers sing",
+      "image": "https://cdn.mos.cms.futurecdn.net/dg9NpeHZm4ARYg9FQdzQbA-1920-80.jpg",
+      "category": "喇叭",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "The OLED iPad Mini has a 60Hz display, but it isn't a dealbreaker for on-the-move AV enthusiasts like me – here's why",
+      "url": "https://www.whathifi.com/smartphones-tablets/tablets/the-oled-ipad-mini-has-a-60hz-display-but-it-isnt-a-dealbreaker-for-on-the-move-av-enthusiasts-like-me-heres-why",
+      "publishedAt": "2026-10-30T15:44:58.000Z",
+      "author": "Lewis Empson",
+      "description": "I get the frustration, but is everyone being a bit overdramatic?",
+      "image": "https://cdn.mos.cms.futurecdn.net/8xzga7jAxAkDXWJxAMyVpC-2560-80.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "I’ve been testing these high-end headphones for over two weeks – and they’ve left me hugely disappointed",
+      "url": "https://www.whathifi.com/headphones/noble-fokus-artemis",
+      "publishedAt": "2026-10-30T15:43:48.000Z",
+      "author": "",
+      "description": "Noble’s Fokus Artemis combine three distinct driver technologies in a bid to outperform their high-end Focal and B&W counterparts, but do they hit the sonic mark?",
+      "image": "https://cdn.mos.cms.futurecdn.net/EDcXPdwnEfAJnKcUctyYh7-1920-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "Best deal yet on the Bose Lifestyle Ultra Speaker cuts $70 off RRP",
+      "url": "https://www.soundguys.com/bose-lifestyle-ultra-speaker-deal-165742/",
+      "publishedAt": "2026-10-30T15:04:28.000Z",
+      "author": "Matt Horne",
+      "description": "Bose Lifestyle Ultra Speaker drops to an all-time low of $279 on Amazon, with Wi-Fi, Bluetooth 5.3, AirPlay, Cast, and Alexa.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/05/Bose-Lifestyle-Ultra-3-1-scaled.jpeg",
+      "category": "喇叭",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Bose has bought Skullcandy, and I think it could be good news for its headphones business",
+      "url": "https://www.whathifi.com/headphones/wireless-headphones/bose-has-bought-skullcandy-but-is-it-going-to-be-good-for-business",
+      "publishedAt": "2026-10-30T14:19:08.000Z",
+      "author": "Andy Madden",
+      "description": "Bose has been splashing the cash… again",
+      "image": "https://cdn.mos.cms.futurecdn.net/VZwHJZ5yY8MqnCUmmt6PJY-1920-80.jpg",
+      "category": "耳機",
+      "articleType": "新聞"
+    },
+    {
+      "source": "TechRadar",
+      "title": "Best Buy just launched a huge pre-Black Friday sale — here are the 30+ deals I'd buy on TVs, Apple, laptops, headphones, and more",
+      "url": "https://www.techradar.com/seasonal-sales/best-buys-doorbooster-sale-is-packed-with-deals-here-are-30-id-buy-including-tvs-apple-laptops-headphones-and-more",
+      "publishedAt": "2026-10-30T13:49:23.000Z",
+      "author": "Alex Whitelock",
+      "description": "Best Buy's huge Techtober sale is ending soon, so don't hesitate to get these Black Friday-level deals before they expire.",
+      "image": "https://cdn.mos.cms.futurecdn.net/8aSVsbqtKkoSQVaLYd4PeA-2560-80.jpg",
+      "category": "耳機",
+      "articleType": "新聞"
+    },
+    {
+      "source": "Tom's Guide",
+      "title": "Top-rated earbuds are already discounted ahead of Black Friday — save 29% on JBL, plus Apple and Bose",
+      "url": "https://www.tomsguide.com/audio/earbuds/top-rated-earbuds-are-already-discounted-ahead-of-black-friday-save-29-percent-on-jbl-plus-apple-and-bose",
+      "publishedAt": "2026-10-30T13:48:48.000Z",
+      "author": "Erin Bashford",
+      "description": "$70 off Bose QuietComfort Ultra 2nd Gen? Don't mind if I do...",
+      "image": "https://cdn.mos.cms.futurecdn.net/zAbjDuUjLBiAKwFvVFYM5B-2560-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "Tom's Guide",
+      "title": "21 Best Buy doorBOOster deals with 50% off or more: I found the biggest discounts on LG OLED TVs, Sony headphones and Shark vacuum cleaners",
+      "url": "https://www.tomsguide.com/sales-events/21-best-buy-doorbooster-deals-with-50-percent-off-or-more-i-found-the-biggest-discounts-on-lg-oled-tvs-sony-headphones-and-shark-vacuum-cleaners",
+      "publishedAt": "2026-10-30T11:54:47.000Z",
+      "author": "Millie Davis-Williams",
+      "description": "Get ready for some scary-good deals this weekend! Best Buy's DoorBOOster sale slashes 50% off or more on a huge range of popular tech.",
+      "image": "https://cdn.mos.cms.futurecdn.net/S4nqyTNgAtKc2z3zYNufsh-2000-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "I tried Bose's $99 wired ANC earbuds, but I'm sticking with Bluetooth",
+      "url": "https://www.soundguys.com/bose-noise-cancelling-wired-earbuds-review-165288/",
+      "publishedAt": "2026-10-30T09:00:12.000Z",
+      "author": "Dave Carr",
+      "description": "Bose Noise Canceling Wired Earbuds review: ANC, Aware mode, sound quality, and whether these USB-C earbuds are worth buying.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/10/Bose-Noise-Canceling-Wired-Earbuds-10-scaled.jpeg",
+      "category": "耳機",
+      "articleType": "評測"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "We lab tested the world's most maintainable earbuds: Fairphone Fairbuds 2 review",
+      "url": "https://www.soundguys.com/we-lab-tested-the-worlds-most-maintainable-earbuds-fairphone-fairbuds-2-review-165283/",
+      "publishedAt": "2026-10-30T09:00:05.000Z",
+      "author": "Christian Thomas",
+      "description": "The original Fairbuds left a lot to be desired, but how does the sequel fare? Find out in our Fairphone Fairbuds 2 review.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/10/fairphone-fairbuds-2-hero.jpg",
+      "category": "耳機",
+      "articleType": "評測"
+    },
+    {
+      "source": "Tom's Guide",
+      "title": "I test Bluetooth speakers for a living — and these are the early Black Friday deals I'm recommending to music lovers",
+      "url": "https://www.tomsguide.com/audio/bluetooth-speakers/i-test-bluetooth-speakers-for-a-living-and-these-are-the-early-black-friday-deals-im-recommending-to-music-lovers",
+      "publishedAt": "2026-10-30T09:00:00.000Z",
+      "author": "Ashley Thieme",
+      "description": "Early deals are the best deals",
+      "image": "https://cdn.mos.cms.futurecdn.net/J5iBdWZxPufG3hEFVHu2BK-1920-80.jpg",
+      "category": "喇叭",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "Why does Apple Music make it so hard to play its best quality tracks?",
+      "url": "https://www.soundguys.com/apple-music-lossless-third-party-apps-165683/",
+      "publishedAt": "2026-10-30T08:00:58.000Z",
+      "author": "Simon Cohen",
+      "description": "Bluesound now supports Apple Music, but only in lossy AAC. Here’s why Apple keeps lossless and hi-res out of third-party apps.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2023/12/apple-music-with-airpods-pro-2-scaled-e1793308756672.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
     {
       "source": "TechRadar",
       "title": "Anthropic sued over Elvis catalog — and the 274-song copyright battle shows the AI industry's 'fair use' excuses are getting old",
@@ -34,28 +265,6 @@
       "description": "Wait, a year when Bowers & Wilkins isn't winning our Product of the Year Award in the headphone arena? Novel…",
       "image": "https://cdn.mos.cms.futurecdn.net/tVqjKMEy4Dden3UcCH8cEZ-2560-80.jpg",
       "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "Android Headlines",
-      "title": "The Apple AirPods Pro 3 have sank to $199 in defiance of normal pricing",
-      "url": "https://www.androidheadlines.com/2026/10/the-apple-airpods-pro-3-have-sank-to-199-in-defiance-of-normal-pricing.html",
-      "publishedAt": "2026-10-29T19:07:20.000Z",
-      "author": "Justin Diaz",
-      "description": "The AirPods Pro 3 are among the better earbuds available for iPhone users, and more so for the level of integration they offer for the iOS ecosystem than",
-      "image": "https://www.androidheadlines.com/wp-content/uploads/2025/09/Apple-AirPods-Pro-3-1-scaled.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "The Verge",
-      "title": "Ikea’s colorful donut-shaped smart lamp is $20 off",
-      "url": "https://www.theverge.com/gadgets/1022440/ikea-varmblixt-smart-lamp-deal-sale",
-      "publishedAt": "2026-10-29T18:18:36.000Z",
-      "author": "Sheena Vasani",
-      "description": "The sale ends November 11th.",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268444_Ikea_Varmblixt_lamp_JTuohy_0006.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "category": "其他音訊",
       "articleType": "其他"
     },
     {
@@ -301,17 +510,6 @@
       "articleType": "新聞"
     },
     {
-      "source": "Engadget",
-      "title": "Samsung's Galaxy Buds On are its first clip-on, open-ear wireless earbuds - Engadget",
-      "url": "https://www.engadget.com/2299270/samsungs-galaxy-buds-on-are-clip-on-open-ear-wireless-headphones/",
-      "publishedAt": "2026-10-28T12:00:00.000Z",
-      "author": "Mat Smith",
-      "description": "Samsung is returning to open-ear design wireless buds and these ones clip on.",
-      "image": "https://www.engadget.com/img/gallery/samsungs-galaxy-buds-on-are-its-first-clip-on-open-ear-wireless-earphones/l-intro-1793184044.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
       "source": "TechRadar",
       "title": "'We analyzed 119 million ear data points' — how Samsung builtGalaxy Buds On, its first open-type earbuds",
       "url": "https://www.techradar.com/audio/earbuds-airpods/we-analyzed-119-million-ear-data-points-how-samsung-built-galaxy-buds-open-its-first-open-type-earbuds",
@@ -526,8 +724,8 @@
       "url": "https://www.whathifi.com/streaming-entertainment/how-to-watch/south-africa-vs-australia-3rd-test-2026",
       "publishedAt": "2026-10-27T05:00:00.000Z",
       "author": "Krishi Chowdhary",
-      "description": "Australia take control of the third Test as they begin day three on 330-4",
-      "image": "https://cdn.mos.cms.futurecdn.net/a7K4u4YcjCm4AgKK922e79-2560-80.jpg",
+      "description": "The Proteas in trouble as they begin day four on 140-4, leading by just 40 runs",
+      "image": "https://cdn.mos.cms.futurecdn.net/8EVVy8B9fmx3Tcy9fuRAyH-2560-80.jpg",
       "category": "串流播放器",
       "articleType": "其他"
     },
@@ -2766,7 +2964,7 @@
     },
     {
       "source": "What Hi-Fi?",
-      "title": "How to watch Rugby League World Cup 2026 online from anywhere: free live streams for every match, England vs Papua New Guinea",
+      "title": "How to watch Rugby League World Cup 2026 online from anywhere: free live streams for every match, New Zealand vs Fiji & Australia vs Cook Islands",
       "url": "https://www.whathifi.com/streaming-entertainment/watch-rugby-league-world-cup-2026-free",
       "publishedAt": "2026-10-14T14:00:00.000Z",
       "author": "Adam Marshall",
@@ -3445,17 +3643,6 @@
       "image": "https://www.bgr.com/img/gallery/buying-bose-quietcomfort-ultra-earbuds-here-are-5-comparable-choices-to-consider-instead/l-intro-1791298274.jpg",
       "category": "耳機",
       "articleType": "其他"
-    },
-    {
-      "source": "Android Headlines",
-      "title": "CMF by Nothing Launches Milk Carton-Inspired Speaker S and Speaker M with DIY Customization",
-      "url": "https://www.androidheadlines.com/2026/10/cmf-by-nothing-launches-speaker-s-m-specs-price.html",
-      "publishedAt": "2026-10-12T18:25:16.000Z",
-      "author": "Jean Leon",
-      "description": "CMF by Nothing launches the Speaker S and Speaker M, featuring modular 3D-printable panels, Bluetooth 6.0, and IP68 protection.",
-      "image": "https://www.androidheadlines.com/wp-content/uploads/2026/10/CMF-Speaker-M-colors-featured.jpg",
-      "category": "喇叭",
-      "articleType": "新聞"
     },
     {
       "source": "What Hi-Fi?",
@@ -5592,17 +5779,6 @@
       "articleType": "其他"
     },
     {
-      "source": "Android Headlines",
-      "title": "Galaxy Buds On Are Official as Samsung's First Clip-On Earbuds",
-      "url": "https://www.androidheadlines.com/2026/10/galaxy-buds-on-are-official-as-samsungs-first-clip-on-earbuds.html",
-      "publishedAt": "2026-10-01T11:43:31.000Z",
-      "author": "Tyler Lee",
-      "description": "Meet the Galaxy Buds On, Samsung's first clip-on earbuds, with an open-ear fit, Gemini Live support, and up to 9.5 hours of battery.",
-      "image": "https://www.androidheadlines.com/wp-content/uploads/2026/10/Samsung-Galaxy-Buds-On.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
       "source": "Tom's Guide",
       "title": "I ran, cycled and worked out with the Shokz OpenFit Air 2 for three weeks — here’s my verdict",
       "url": "https://www.tomsguide.com/audio/headphones/shokz-openfit-air-2-review",
@@ -5677,160 +5853,6 @@
       "description": "A redesigned remote and a speedier experience… but at what cost?",
       "image": "https://cdn.mos.cms.futurecdn.net/AQeohfTg6Qwcwc4Xc9NM2n-813-80.jpg",
       "category": "串流播放器",
-      "articleType": "其他"
-    },
-    {
-      "source": "Tom's Guide",
-      "title": "Best Buy has JBL speakers on sale from $39: here are my top picks",
-      "url": "https://www.tomsguide.com/audio/bluetooth-speakers/best-buy-has-jbl-speakers-on-sale-from-usd39-here-are-my-top-picks",
-      "publishedAt": "2026-09-30T20:23:58.000Z",
-      "author": "Louis Ramirez",
-      "description": "Score the perfect Bluetooth speaker for your next party",
-      "image": "https://cdn.mos.cms.futurecdn.net/aMa76CV9dXcPJkNGwmiMuM-2000-80.jpg",
-      "category": "喇叭",
-      "articleType": "其他"
-    },
-    {
-      "source": "TechRadar",
-      "title": "The retro Casio smartwatch that sold out in Japan has just hit US shelves — the $65 F-B100W has step counting, Bluetooth and is the ‘most fun’ watch of 2026",
-      "url": "https://www.techradar.com/health-fitness/smartwatches/casios-f-b100w-retro-smartwatch-launches-in-the-us-usd65-tracker-lands-with-bluetooth-and-step-tracking-after-selling-out-in-japan",
-      "publishedAt": "2026-09-30T17:04:30.000Z",
-      "author": "Alex Blake",
-      "description": "Casio’s F-B100W watch is now available in the US after going on sale in Japan in August.",
-      "image": "https://cdn.mos.cms.futurecdn.net/zoWPMrxDXSe9uxSxjhUwHi-2116-80.jpg",
-      "category": "其他音訊",
-      "articleType": "新聞"
-    },
-    {
-      "source": "TechRadar",
-      "title": "AirPods 5 become the first wireless Apple earbuds to score above zero in iFixit’s repairability teardown — but they’re still a long way behind Sennheiser",
-      "url": "https://www.techradar.com/audio/earbuds-airpods/ifixits-airpods-5-teardown-reveals-surprise-repairability-boost-hairdryer-test-reveals-user-replaceable-batteries-but-glued-case-remains-a-disaster",
-      "publishedAt": "2026-09-30T16:42:31.000Z",
-      "author": "Alex Blake",
-      "description": "iFixit tore down the new AirPods 5 and found some notable improvements compared to their predecessors.",
-      "image": "https://cdn.mos.cms.futurecdn.net/pcd4jDEWSpCCgfq4KKChgX-1920-80.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "Tom's Guide",
-      "title": "I was one of the first to hear JBL’s new Wi-Fi speaker sound system — and if I were Sonos, I’d be quaking in my boots",
-      "url": "https://www.tomsguide.com/audio/smart-speakers/i-was-one-of-the-first-to-hear-jbls-new-wi-fi-speaker-sound-system-and-if-i-were-sonos-id-be-quaking-in-my-boots",
-      "publishedAt": "2026-09-30T16:40:20.000Z",
-      "author": "Erin Bashford",
-      "description": "The \"Cove\" sound system is supposed to eradicate connectivity headaches... well, I'll be the judge of that",
-      "image": "https://cdn.mos.cms.futurecdn.net/CuxpcjriTV7NZvC3sUKsFU-2176-80.jpg",
-      "category": "喇叭",
-      "articleType": "其他"
-    },
-    {
-      "source": "TechRadar",
-      "title": "Amazon's Echo smart speakers all look roughly the same — here's how to tell your Spots from your Dots, and how to choose the right one for your needs",
-      "url": "https://www.techradar.com/home/smart-speakers/amazon-echo-spot-dot-show-smart-speaker-guide",
-      "publishedAt": "2026-09-30T16:26:35.000Z",
-      "author": "Ruth Hamilton",
-      "description": "Now's an especially good time to buy a new Amazon Echo smart speaker, but if you're not sure which one, head this way.",
-      "image": "https://cdn.mos.cms.futurecdn.net/6uv7CLohXd439GK6WK2xYX-1920-80.jpg",
-      "category": "喇叭",
-      "articleType": "其他"
-    },
-    {
-      "source": "SoundGuys",
-      "title": "This JBL Flip 6 deal beats every price we’ve seen on it this year",
-      "url": "https://www.soundguys.com/jbl-flip-6-deal-164007/",
-      "publishedAt": "2026-09-30T15:53:53.000Z",
-      "author": "Matt Horne",
-      "description": "JBL Flip 6 drops to $79.95 at Amazon, its best price this year for a rugged IP67 Bluetooth speaker with 12-hour battery life.",
-      "image": "https://www.soundguys.com/wp-content/uploads/2021/12/JBL-Flip-6-Outdoor-on-Beach-scaled.jpg",
-      "category": "喇叭",
-      "articleType": "其他"
-    },
-    {
-      "source": "TechRadar",
-      "title": "9 of the biggest new headphones and earbuds unveiled in September: top releases from Apple, Bose, Nothing, Sonos, Sony and more",
-      "url": "https://www.techradar.com/audio/headphones/9-of-the-best-new-headphones-and-earbuds-revealed-in-september-huge-releases-from-apple-bose-nothing-sony-technics-and-more",
-      "publishedAt": "2026-09-30T14:44:05.000Z",
-      "author": "Becky Scarrott, Ruth Hamilton",
-      "description": "In what has been a huge month for headphones and earbuds, we pick just the 9 most-prominent products in the portable audio listening gear space — strap in, there's a lot to get through!",
-      "image": "https://cdn.mos.cms.futurecdn.net/BkLAgUac2MK4Kgu5TFhXLF-2560-80.jpg",
-      "category": "耳機",
-      "articleType": "新聞"
-    },
-    {
-      "source": "Tom's Guide",
-      "title": "I've tested dozens of mini speakers, and my top pick is just $22 for Prime Big Deal Days",
-      "url": "https://www.tomsguide.com/audio/bluetooth-speakers/ive-tested-dozens-of-mini-speakers-and-my-top-pick-is-already-discounted-for-prime-big-deal-days",
-      "publishedAt": "2026-09-30T14:28:30.000Z",
-      "author": "Ashley Thieme",
-      "description": "The Tribit PocketGo is the small speaker I recommend to everyone — it's cheap and has a big sound.",
-      "image": "https://cdn.mos.cms.futurecdn.net/FhkwdSdHD8nTBw8U5o3AiZ-1920-80.jpg",
-      "category": "喇叭",
-      "articleType": "評測"
-    },
-    {
-      "source": "SoundGuys",
-      "title": "Technics latest flagship headphones use tech from its Hi-Fi speakers",
-      "url": "https://www.soundguys.com/technics-eah-a1000-headphones-launched-163985/",
-      "publishedAt": "2026-09-30T11:41:05.000Z",
-      "author": "Akshay Gangwar",
-      "description": "Technics has today launched the EAH-A1000 flagship headphones with LDAC support, a 40mm magnetic fluid driver, and ANC for $449.",
-      "image": "https://www.soundguys.com/wp-content/uploads/2026/09/technics-eah-a1000-headphones-featured-image.jpg",
-      "category": "耳機",
-      "articleType": "新聞"
-    },
-    {
-      "source": "SoundGuys",
-      "title": "Logitech's new headphones let you easily swap the battery, but it's not a one-trick pony",
-      "url": "https://www.soundguys.com/logitech-zone-vibe-pro-launch-163981/",
-      "publishedAt": "2026-09-30T11:12:31.000Z",
-      "author": "Aamir Siddiqui",
-      "description": "Logitech debuts the Zone Vibe Pro featuring adaptive ANC, AI voice isolation, user-replaceable parts, and enterprise business features.",
-      "image": "https://www.soundguys.com/wp-content/uploads/2026/09/Logitech-Zone-Vibe-Pro_5.jpg",
-      "category": "耳機",
-      "articleType": "新聞"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "Loewe's snazzy-looking Bluetooth speaker promises \"exceptional acoustic power\", but comes at a premium price",
-      "url": "https://www.whathifi.com/speakers/wireless-speakers/loewes-snazzy-looking-bluetooth-speaker-promises-exceptional-acoustic-power-but-comes-at-a-premium-price",
-      "publishedAt": "2026-09-30T10:34:16.000Z",
-      "author": "Harry McKerrell",
-      "description": "Is the Loewe Neo the Chosen One?",
-      "image": "https://cdn.mos.cms.futurecdn.net/Z3asc66tGMcmQ8gR3TFY2U-2560-80.jpg",
-      "category": "喇叭",
-      "articleType": "其他"
-    },
-    {
-      "source": "TechRadar",
-      "title": "Why upgrade your iPhone when you can just upgrade what it can do? These new cheap Bluetooth dongles unlock LDAC and aptX hi-res Bluetooth for better music",
-      "url": "https://www.techradar.com/audio/dont-upgrade-your-handset-upgrade-what-it-can-do-these-new-cheap-hi-fi-bluetooth-dongles-unlock-hi-res-music-from-your-phone-and-ping-it-to-your-wireless-earbuds",
-      "publishedAt": "2026-09-30T10:06:30.000Z",
-      "author": "Tom Bedford",
-      "description": "Three new hi-res USB-C audio dongles from class-leaders of the game: plug in and get ready for LDAC and aptX, even from your iPhone",
-      "image": "https://cdn.mos.cms.futurecdn.net/573TBiHT5LmH6eHbFA9eaL-2000-80.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "SoundGuys",
-      "title": "AirPods 5 break Apple's decade-long repairability curse with a surprising design twist",
-      "url": "https://www.soundguys.com/apple-airpods-5-repairability-curse-broken-163970/",
-      "publishedAt": "2026-09-30T08:13:25.000Z",
-      "author": "Aamir Siddiqui",
-      "description": "AirPods 5 earned a 2/10 repairability score, breaking Apple's 0/10 streak thanks to replaceable earbud batteries.",
-      "image": "https://www.soundguys.com/wp-content/uploads/2026/09/Apple-AirPods-5-and-Apple-AirPods-5-with-Wireless-Charging-22.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "SoundGuys",
-      "title": "Nothing copied the worst part of the AirPods Max and somehow made it worse",
-      "url": "https://www.soundguys.com/nothing-headphone-1-pro-case-airpods-max-163936/",
-      "publishedAt": "2026-09-30T08:00:59.000Z",
-      "author": "Adam Birney",
-      "description": "The Nothing Headphone 1 Pro case borrows the AirPods Max design, then drops the few things that made Apple's version work.",
-      "image": "https://www.soundguys.com/wp-content/uploads/2026/09/nothing-headphone-1-pro-case-oblique.jpg",
-      "category": "耳機",
       "articleType": "其他"
     }
   ]
