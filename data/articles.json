@@ -1,8 +1,85 @@
 {
-  "generatedAt": "2026-10-31T02:09:32.069Z",
+  "generatedAt": "2026-10-31T21:00:03.427Z",
   "days": 30,
-  "count": 536,
+  "count": 523,
   "articles": [
+    {
+      "source": "Engadget",
+      "title": "Why your AirPods keep disconnecting without warning: These settings can fix it - Engadget",
+      "url": "https://www.engadget.com/2298547/why-mac-keeps-disconnecting-airpods/",
+      "publishedAt": "2026-10-31T18:45:00.000Z",
+      "author": "Thomas Godwin",
+      "description": "If your AirPods won't consistently play music from a given device, you might need to disable some of their handy functions.",
+      "image": "https://www.engadget.com/img/gallery/why-your-airpods-keep-disconnecting-without-warning-these-settings-can-fix-it/l-intro-1793121072.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "How to watch AC Milan vs Inter: live stream Serie A game for free from anywhere, team news",
+      "url": "https://www.whathifi.com/streaming-entertainment/how-to-watch/ac-milan-vs-inter-live-stream-serie-a-free",
+      "publishedAt": "2026-10-31T14:00:00.000Z",
+      "author": "Aatif Sulleyman",
+      "description": "The Rossoneri are unbeaten in seven against table-toppers Inter",
+      "image": "https://cdn.mos.cms.futurecdn.net/tqPXHK8S9mmh9d9pJ9heRe-2560-80.jpg",
+      "category": "串流播放器",
+      "articleType": "新聞"
+    },
+    {
+      "source": "TechRadar",
+      "title": "'I cannot believe AirPods 5 with Wireless Charging can cancel noise this well': after weeks of testing, only their stamina stops me from yelling about Apple's cheap earbuds from the hills",
+      "url": "https://www.techradar.com/audio/earbuds-airpods/apple-airpods-5-with-wireless-charging-review",
+      "publishedAt": "2026-10-31T11:00:00.000Z",
+      "author": "",
+      "description": "Apple's upset its own apple cart, here — because this budget buy is really, really good",
+      "image": "https://cdn.mos.cms.futurecdn.net/4kNfLXuksjLbsbAiyZEdRF-2560-80.jpg",
+      "category": "耳機",
+      "articleType": "評測"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Which albums sound great on vinyl? We asked, and you all gave a different answer",
+      "url": "https://www.whathifi.com/hi-fi/which-albums-sound-great-on-vinyl-we-asked-and-you-all-gave-a-different-answer",
+      "publishedAt": "2026-10-31T09:00:00.000Z",
+      "author": "Alastair Stevenson",
+      "description": "But one thing united you…",
+      "image": "https://cdn.mos.cms.futurecdn.net/644935A3kTxLHRAQKmQ6De-1920-80.jpg",
+      "category": "黑膠／唱盤",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "I went to this grassroots film club – and it reminded me that home cinema is not a competitive sport",
+      "url": "https://www.whathifi.com/av/i-went-to-this-grassroots-film-club-and-it-reminded-me-that-home-cinema-is-not-a-competitive-sport",
+      "publishedAt": "2026-10-31T08:00:00.000Z",
+      "author": "Robyn Quick",
+      "description": "Home cinema for all",
+      "image": "https://cdn.mos.cms.futurecdn.net/EYFcqVjgAF3oaVd944VFX5-1920-80.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "Tom's Guide",
+      "title": "I tested Reddit's favorite value hi-fi headphones — and now I get the hype",
+      "url": "https://www.tomsguide.com/audio/over-ear-headphones/i-tested-reddits-favorite-value-hi-fi-headphones-and-now-i-get-the-hype",
+      "publishedAt": "2026-10-31T05:30:00.000Z",
+      "author": "",
+      "description": "Beautiful by name, beautiful by (sonic) nature",
+      "image": "https://cdn.mos.cms.futurecdn.net/dASuxSt8NubHWUZ9UXm43L-2560-80.jpg",
+      "category": "耳機",
+      "articleType": "評測"
+    },
+    {
+      "source": "BGR",
+      "title": "5 Useful Bose Headphone Settings You Need To Manually Enable - BGR",
+      "url": "https://www.bgr.com/2297520/useful-bose-headphone-settings-manually-enable/",
+      "publishedAt": "2026-10-31T03:17:00.000Z",
+      "author": "Joshua Hawkins",
+      "description": "Wind Block, Remember My Mode, EQ, Self Voice, and the volume strip shortcut are 5 Bose settings worth adjusting on your QuietComfort Ultra headphones.",
+      "image": "https://www.bgr.com/img/gallery/5-useful-bose-headphone-settings-you-need-to-manually-enable/l-intro-1793041878.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
     {
       "source": "What Hi-Fi?",
       "title": "How to watch Pakistan vs Sri Lanka: live stream ODI tri-series final for free from anywhere",
@@ -488,17 +565,6 @@
       "articleType": "其他"
     },
     {
-      "source": "Engadget",
-      "title": "Audio Technica just released its first set of wireless StreamSet headphones - Engadget",
-      "url": "https://www.engadget.com/2299600/audio-technica-just-released-its-first-set-of-wireless-streamset-headphones/",
-      "publishedAt": "2026-10-28T15:34:06.000Z",
-      "author": "Lawrence Bonk",
-      "description": "This expands the lineup beyond XLR and USB-connected models.",
-      "image": "https://www.engadget.com/img/gallery/audio-technica-just-released-its-first-set-of-wireless-streamset-headphones/l-intro-1793201478.jpg",
-      "category": "耳機",
-      "articleType": "新聞"
-    },
-    {
       "source": "SoundGuys",
       "title": "CMF Clip Pro earbuds drop to $69, matching Prime Day low",
       "url": "https://www.soundguys.com/cmf-clip-pro-deal-amazon-165560/",
@@ -757,8 +823,8 @@
       "url": "https://www.whathifi.com/streaming-entertainment/how-to-watch/south-africa-vs-australia-3rd-test-2026",
       "publishedAt": "2026-10-27T05:00:00.000Z",
       "author": "Krishi Chowdhary",
-      "description": "The Proteas in trouble as they begin day four on 140-4, leading by just 40 runs",
-      "image": "https://cdn.mos.cms.futurecdn.net/8EVVy8B9fmx3Tcy9fuRAyH-2560-80.jpg",
+      "description": "Australia need 288 runs to win the Test and clinch the series",
+      "image": "https://cdn.mos.cms.futurecdn.net/WPCiVDzMvusUTAYKc88C4R-2364-80.jpg",
       "category": "串流播放器",
       "articleType": "其他"
     },
@@ -3678,17 +3744,6 @@
       "articleType": "其他"
     },
     {
-      "source": "Android Headlines",
-      "title": "CMF by Nothing Launches Milk Carton-Inspired Speaker S and Speaker M with DIY Customization",
-      "url": "https://www.androidheadlines.com/2026/10/cmf-by-nothing-launches-speaker-s-m-specs-price.html",
-      "publishedAt": "2026-10-12T18:25:16.000Z",
-      "author": "Jean Leon",
-      "description": "CMF by Nothing launches the Speaker S and Speaker M, featuring modular 3D-printable panels, Bluetooth 6.0, and IP68 protection.",
-      "image": "https://www.androidheadlines.com/wp-content/uploads/2026/10/CMF-Speaker-M-colors-featured.jpg",
-      "category": "喇叭",
-      "articleType": "新聞"
-    },
-    {
       "source": "What Hi-Fi?",
       "title": "The B-100C is Luxman's first mono power amp in 20 years",
       "url": "https://www.whathifi.com/hi-fi/stereo-amplifiers/the-b-100c-is-luxmans-first-mono-power-amp-in-20-years",
@@ -5700,204 +5755,6 @@
       "image": "https://cdn.mos.cms.futurecdn.net/sqgPvAtJVLcLoDfzHKMFkU-2560-80.jpg",
       "category": "Soundbar",
       "articleType": "評測"
-    },
-    {
-      "source": "SoundGuys",
-      "title": "UGREEN follows Samsung's lead and launches a new pair of clip-on earbuds",
-      "url": "https://www.soundguys.com/ugreen-clipbuds-pro-2-launch-164036/",
-      "publishedAt": "2026-10-01T18:01:54.000Z",
-      "author": "Ryan McNeal",
-      "description": "Samsung isn't the only company launching clip-on earbuds this week, UGREEN has announced the ClipBuds Pro 2.",
-      "image": "https://www.soundguys.com/wp-content/uploads/2026/10/UGREEN-ClipBuds-Pro-2.jpg",
-      "category": "耳機",
-      "articleType": "新聞"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "iFi’s special-edition DAC packs updated circuitry and filters tuned by a Brit Award-winning producer",
-      "url": "https://www.whathifi.com/hi-fi/dacs/ifis-special-edition-dac-packs-upgraded-circuitry-and-filters-tuned-by-a-brit-award-winning-producer",
-      "publishedAt": "2026-10-01T18:00:00.000Z",
-      "author": "Harry McKerrell",
-      "description": "The iDSD GR 2 MT is a special spin on the established iDSD GR 2",
-      "image": "https://cdn.mos.cms.futurecdn.net/u33yQszM4doGBbvcTRGmG8-853-80.jpg",
-      "category": "DAC／擴大機",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "Ask The Reader: what's the first record you play when you christen a new turntable?",
-      "url": "https://www.whathifi.com/hi-fi/vinyl/ask-the-reader-whats-the-first-record-you-play-when-you-christen-a-new-turntable",
-      "publishedAt": "2026-10-01T16:02:17.000Z",
-      "author": "Joe Svetlik",
-      "description": "It's a big decision for your new deck's maiden voyage...",
-      "image": "https://cdn.mos.cms.futurecdn.net/5bpWoTZwjtgZNQaMK3nyjU-1920-80.jpg",
-      "category": "黑膠／唱盤",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "We asked what got you into hi-fi – and glorious audio-related chaos ensued",
-      "url": "https://www.whathifi.com/hi-fi/we-asked-what-got-you-into-hi-fi-and-glorious-audio-related-chaos-ensued",
-      "publishedAt": "2026-10-01T15:35:21.000Z",
-      "author": "Alastair Stevenson",
-      "description": "Reel-to-reel, Cold War smuggling, DIY speakers: the variety is endless",
-      "image": "https://cdn.mos.cms.futurecdn.net/3yDz3NVSen4FXbhH7r2mf3-1920-80.jpg",
-      "category": "喇叭",
-      "articleType": "其他"
-    },
-    {
-      "source": "TechRadar",
-      "title": "Is it a hi-fi system or a coffee maker? The stealthy Loewe aura.matic hides a luxury dual-hopper setup behind a sleek glass door",
-      "url": "https://www.techradar.com/home/coffee-machines/premium-hi-fi-brand-loewe-just-launched-a-luxury-espresso-machine-for-international-coffee-day-and-it-looks-more-like-a-speaker-than-a-kitchen-appliance",
-      "publishedAt": "2026-10-01T15:20:20.000Z",
-      "author": "Cat Ellis",
-      "description": "The Loewe aura.matic has a wooden frame, aluminum case, and a tinted glass door to hide everything away between brews",
-      "image": "https://cdn.mos.cms.futurecdn.net/CSBpfMxmryjuXBpofWfK4g-2560-80.jpg",
-      "category": "喇叭",
-      "articleType": "新聞"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "Little or large? Panasonic launches two new micro hi-fi systems, including a mini-me for smaller spaces and budgets",
-      "url": "https://www.whathifi.com/hi-fi/stereo-systems/little-or-large-panasonic-launches-two-new-micro-hi-fi-systems-including-a-mini-me-for-smaller-spaces-and-budgets",
-      "publishedAt": "2026-10-01T14:50:58.000Z",
-      "author": "Joe Svetlik",
-      "description": "Meet the SC-PMX112 and smaller SC-PM302",
-      "image": "https://cdn.mos.cms.futurecdn.net/qHpcQZPiYhnCojTscYoGNc-2400-80.jpg",
-      "category": "其他音訊",
-      "articleType": "新聞"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "This punchy KEF subwoofer is part of an Award-winning system – and now it's 25% off",
-      "url": "https://www.whathifi.com/speakers/subwoofers/this-punchy-kef-subwoofer-is-part-of-an-award-winning-system-and-now-its-25-percent-off",
-      "publishedAt": "2026-10-01T14:42:13.000Z",
-      "author": "Daniel Furn",
-      "description": "Save £200 on KEF's bulky but brilliant Kube 12 MIE subwoofer",
-      "image": "https://cdn.mos.cms.futurecdn.net/EVPFzs2DJYEz8kvdsGrBxF-1920-80.jpg",
-      "category": "喇叭",
-      "articleType": "其他"
-    },
-    {
-      "source": "BGR",
-      "title": "9 Of The Best Noise-Cancelling Headphones & Earbuds For Frequent Flyers - BGR",
-      "url": "https://www.bgr.com/2270211/best-noise-cancelling-headphones-earbuds-for-flying/",
-      "publishedAt": "2026-10-01T14:02:00.000Z",
-      "author": "Sydney Louw Butler",
-      "description": "The best noise-cancelling headphones for frequent flyers combine quiet-making technology with comfort and performance. Top picks come from Bose, Apple, and JBL.",
-      "image": "https://www.bgr.com/img/gallery/9-of-the-best-noise-cancelling-headphones-earbuds-for-frequent-flyers/l-intro-1790468516.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "BGR",
-      "title": "Are AirPods More Likely To Damage Your Hearing Than Wired Headphones? - BGR",
-      "url": "https://www.bgr.com/2270816/are-airpods-more-harmful-wired-headphones/",
-      "publishedAt": "2026-10-01T12:17:00.000Z",
-      "author": "Chifundo Kasiya",
-      "description": "AirPods aren't inherently more harmful than wired headphones, but certain listening habits can make hearing damage more likely over longer periods.",
-      "image": "https://www.bgr.com/img/gallery/are-airpods-more-likely-to-damage-your-hearing-than-wired-headphones/l-intro-1790611026.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "I've spent a month listening to these monster PMC monitors, and their blend of muscle and finesse is truly addictive",
-      "url": "https://www.whathifi.com/speakers/hi-fi-speakers/pmc-mb2-se",
-      "publishedAt": "2026-10-01T11:59:19.000Z",
-      "author": "",
-      "description": "PMC’s big, brutal but surprisingly charming MB2 SE speakers bring high-end studio sound into the home.",
-      "image": "https://cdn.mos.cms.futurecdn.net/diEzGqPMatM2k42LWL5xRJ-1920-80.jpg",
-      "category": "喇叭",
-      "articleType": "其他"
-    },
-    {
-      "source": "Android Headlines",
-      "title": "Galaxy Buds On Are Official as Samsung's First Clip-On Earbuds",
-      "url": "https://www.androidheadlines.com/2026/10/galaxy-buds-on-are-official-as-samsungs-first-clip-on-earbuds.html",
-      "publishedAt": "2026-10-01T11:43:31.000Z",
-      "author": "Tyler Lee",
-      "description": "Meet the Galaxy Buds On, Samsung's first clip-on earbuds, with an open-ear fit, Gemini Live support, and up to 9.5 hours of battery.",
-      "image": "https://www.androidheadlines.com/wp-content/uploads/2026/10/Samsung-Galaxy-Buds-On.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "Tom's Guide",
-      "title": "I ran, cycled and worked out with the Shokz OpenFit Air 2 for three weeks — here’s my verdict",
-      "url": "https://www.tomsguide.com/audio/headphones/shokz-openfit-air-2-review",
-      "publishedAt": "2026-10-01T11:30:00.000Z",
-      "author": "",
-      "description": "A cheaper alternative to the OpenFit Pro",
-      "image": "https://cdn.mos.cms.futurecdn.net/qrVs8F2w5QnFQ6b6QKTrKR-1416-80.jpg",
-      "category": "耳機",
-      "articleType": "評測"
-    },
-    {
-      "source": "BGR",
-      "title": "What Makes Tidal's Audio Quality Better Than Other Streamers? - BGR",
-      "url": "https://www.bgr.com/2271740/what-makes-tidal-audio-quality-better/",
-      "publishedAt": "2026-10-01T11:17:00.000Z",
-      "author": "Jonathan Sayers",
-      "description": "Tidal is able to compete with some of the biggest names in streaming media because it's known for delivering high-quality lossless audio.",
-      "image": "https://www.bgr.com/img/gallery/what-makes-tidals-audio-quality-better-than-other-streamers/l-intro-1790684705.jpg",
-      "category": "串流播放器",
-      "articleType": "其他"
-    },
-    {
-      "source": "TechRadar",
-      "title": "Galaxy Buds On? Right on! Samsung's first ever clip-on open earbuds have been unveiled",
-      "url": "https://www.techradar.com/audio/samsung-finally-announces-its-first-ever-clip-on-open-earbuds-with-a-neat-galaxy-buds-4-feature-but-you-cant-buy-them-yet",
-      "publishedAt": "2026-10-01T10:02:04.000Z",
-      "author": "Tom Bedford",
-      "description": "The Samsung Galaxy Buds On are the brand's new clip-style open earbuds, with some design and feature inspirations from the Buds 4.",
-      "image": "https://cdn.mos.cms.futurecdn.net/acJMWZijuXPBNEwXKJW62a-2560-80.jpg",
-      "category": "耳機",
-      "articleType": "新聞"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "Cambridge Audio adds Dolby Audio and a new colourway to its affordable wireless earbuds",
-      "url": "https://www.whathifi.com/headphones/wireless-earbuds/cambridge-audio-adds-dolby-audio-and-a-new-colourway-to-its-affordable-wireless-earbuds",
-      "publishedAt": "2026-10-01T09:00:00.000Z",
-      "author": "Harry McKerrell",
-      "description": "The A100 SE are a special spin on the Melomania A100",
-      "image": "https://cdn.mos.cms.futurecdn.net/oT8sJxDyUkB3t5sLmSupVU-1238-80.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "TechRadar",
-      "title": "Cambridge A100 SE review: delightfully cheap wireless earbuds that hit all the right notes, but could be a just touch smoother in their delivery",
-      "url": "https://www.techradar.com/audio/earbuds-airpods/cambridge-a100-se-review",
-      "publishedAt": "2026-10-01T09:00:00.000Z",
-      "author": "",
-      "description": "Cambridge refreshes its true wireless in-ear offering with some enticing new specification and a very tempting asking price…",
-      "image": "https://cdn.mos.cms.futurecdn.net/wZHmJxA38GgUKqbytgPsmY-2560-80.png",
-      "category": "耳機",
-      "articleType": "評測"
-    },
-    {
-      "source": "SoundGuys",
-      "title": "Samsung's first clip-on Galaxy Buds are here, but you can't buy them just yet",
-      "url": "https://www.soundguys.com/samsung-galaxy-buds-on-launch-164024/",
-      "publishedAt": "2026-10-01T07:28:27.000Z",
-      "author": "Shimul Sood",
-      "description": "Samsung's first clip-on earbuds are finally here, promising reduced sound leakage and up to 9.5 hours of playback. But there's a catch.",
-      "image": "https://www.soundguys.com/wp-content/uploads/2026/10/Samsung-Galaxy-Buds-On-out-of-the-case.jpg",
-      "category": "耳機",
-      "articleType": "新聞"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "Amazon’s new Fire Stick promises to be faster and slimmer – but its pricing has us scratching our heads",
-      "url": "https://www.whathifi.com/streaming-entertainment/streaming-hardware/amazons-new-fire-stick-promises-to-be-faster-and-slimmer-but-its-pricing-has-us-scratching-our-heads",
-      "publishedAt": "2026-10-01T07:26:40.000Z",
-      "author": "Robyn Quick",
-      "description": "A redesigned remote and a speedier experience… but at what cost?",
-      "image": "https://cdn.mos.cms.futurecdn.net/AQeohfTg6Qwcwc4Xc9NM2n-813-80.jpg",
-      "category": "串流播放器",
-      "articleType": "其他"
     }
   ]
 }
