@@ -1,8 +1,19 @@
 {
-  "generatedAt": "2026-10-31T21:00:03.427Z",
+  "generatedAt": "2026-10-31T22:03:23.488Z",
   "days": 30,
-  "count": 523,
+  "count": 525,
   "articles": [
+    {
+      "source": "Engadget",
+      "title": "Why your Apple AirPods won't connect to your iPhone and how can you fix it - Engadget",
+      "url": "https://www.engadget.com/2302450/why-apple-airpods-wont-connect-to-iphone-fixes/",
+      "publishedAt": "2026-10-31T21:00:00.000Z",
+      "author": "Filipe Espósito",
+      "description": "AirPods won’t connect to your iPhone? Check the battery, Bluetooth and software, then reset if needed. Here’s how to fix common pairing problems fast.",
+      "image": "https://www.engadget.com/img/gallery/why-your-apple-airpods-wont-connect-to-your-iphone-and-how-can-you-fix-it/l-intro-1793293868.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
     {
       "source": "Engadget",
       "title": "Why your AirPods keep disconnecting without warning: These settings can fix it - Engadget",
@@ -3742,6 +3753,17 @@
       "image": "https://www.bgr.com/img/gallery/buying-bose-quietcomfort-ultra-earbuds-here-are-5-comparable-choices-to-consider-instead/l-intro-1791298274.jpg",
       "category": "耳機",
       "articleType": "其他"
+    },
+    {
+      "source": "Android Headlines",
+      "title": "CMF by Nothing Launches Milk Carton-Inspired Speaker S and Speaker M with DIY Customization",
+      "url": "https://www.androidheadlines.com/2026/10/cmf-by-nothing-launches-speaker-s-m-specs-price.html",
+      "publishedAt": "2026-10-12T18:25:16.000Z",
+      "author": "Jean Leon",
+      "description": "CMF by Nothing launches the Speaker S and Speaker M, featuring modular 3D-printable panels, Bluetooth 6.0, and IP68 protection.",
+      "image": "https://www.androidheadlines.com/wp-content/uploads/2026/10/CMF-Speaker-M-colors-featured.jpg",
+      "category": "喇叭",
+      "articleType": "新聞"
     },
     {
       "source": "What Hi-Fi?",
