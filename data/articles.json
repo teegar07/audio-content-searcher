@@ -1,8 +1,30 @@
 {
-  "generatedAt": "2026-10-31T01:32:58.290Z",
+  "generatedAt": "2026-10-31T02:09:32.069Z",
   "days": 30,
-  "count": 535,
+  "count": 536,
   "articles": [
+    {
+      "source": "What Hi-Fi?",
+      "title": "How to watch Pakistan vs Sri Lanka: live stream ODI tri-series final for free from anywhere",
+      "url": "https://www.whathifi.com/streaming-entertainment/how-to-watch/pakistan-vs-sri-lanka-odi-tri-series-final-free",
+      "publishedAt": "2026-10-31T02:00:00.000Z",
+      "author": "Krishi Chowdhary",
+      "description": "Hosts Pakistan take on Sri Lanka in the tri-series final",
+      "image": "https://cdn.mos.cms.futurecdn.net/8D8NHQYPwUoAYE9NQwt8mV-2560-80.jpg",
+      "category": "串流播放器",
+      "articleType": "其他"
+    },
+    {
+      "source": "TechRadar",
+      "title": "Someone found their lost Bose earbud in a field of gravel using ChatGPT, and it's genius — it's maybe not the most environmentally-friendly earbud finder, but it's better than having to buy a new pair",
+      "url": "https://www.techradar.com/ai-platforms-assistants/chatgpt/who-needs-find-my-earbuds-when-you-have-chatgpt-someone-found-their-lost-bose-bud-in-a-field-of-gravel-by-asking-chatgpt-to-spot-it-in-photos-of-the-ground",
+      "publishedAt": "2026-10-31T02:00:00.000Z",
+      "author": "Carrie Marshall",
+      "description": "ChatGPT has better eyes than humans",
+      "image": "https://cdn.mos.cms.futurecdn.net/3U4rgw72gs9LKdGiGkbt5a-1920-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
     {
       "source": "TechRadar",
       "title": "Japan’s storage industry is spending billions on tape, memory and HDD",
@@ -4192,17 +4214,6 @@
       "description": "Control Resonant composer Petri Alanko has suggested studios should value music more if they care about their games and avoid AI at all costs.",
       "image": "https://cdn.mos.cms.futurecdn.net/Hgtccu3MpEbR77qMjwtHAX-1920-80.jpg",
       "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "TechRadar",
-      "title": "I was blown away by JBL’s new Cove wireless speakers. They're finally available in Australia — and with a 20% discount via our coupon code",
-      "url": "https://www.techradar.com/audio/wireless-bluetooth-speakers/i-was-blown-away-by-jbls-new-cove-wireless-speakers-theyre-finally-available-in-australia-and-with-a-20-percent-discount-via-our-coupon-code",
-      "publishedAt": "2026-10-09T03:04:48.000Z",
-      "author": "Max Langridge",
-      "description": "JBL’s latest speakers promise flexible whole-home audio, Dolby Atmos support and easy integration with existing JBL products",
-      "image": "https://cdn.mos.cms.futurecdn.net/HzXEJUeWGfQF4SnTwKFpra-904-80.png",
-      "category": "喇叭",
       "articleType": "其他"
     },
     {
