@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-01T00:02:26.560Z",
+  "generatedAt": "2026-11-01T00:52:27.344Z",
   "days": 30,
-  "count": 525,
+  "count": 524,
   "articles": [
     {
       "source": "Engadget",
@@ -2854,7 +2854,7 @@
     },
     {
       "source": "Tom's Guide",
-      "title": "Edifier Promo Codes in Oct 2026 | Exclusive $10 Gift Card",
+      "title": "Edifier Promo Codes in Nov 2026 | Exclusive $10 Gift Card",
       "url": "https://www.tomsguide.com/audio/edifier-coupons",
       "publishedAt": "2026-10-15T14:08:53.000Z",
       "author": "Nathan Walters",
@@ -5087,7 +5087,7 @@
     },
     {
       "source": "Tom's Guide",
-      "title": "Tonies Discount Code for Oct 2026 | 10% OFF",
+      "title": "Tonies Discount Code for Nov 2026 | 10% OFF",
       "url": "https://www.tomsguide.com/audio/tonies-coupons",
       "publishedAt": "2026-10-06T13:02:16.000Z",
       "author": "Nathan Walters",
@@ -5765,17 +5765,6 @@
       "description": "Disappointed by the lack of proper new features, both I and a whole community of subscribers still think Apple Music has improvements to make.",
       "image": "https://www.bgr.com/img/gallery/apple-music-subscribers-reveal-the-key-features-they-want-next/l-intro-1790589494.jpg",
       "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "BGR",
-      "title": "Why Do Some Earbuds Sound Better When You Twist Them? - BGR",
-      "url": "https://www.bgr.com/2272139/why-do-earbuds-sound-better-twist-them/",
-      "publishedAt": "2026-10-02T00:17:00.000Z",
-      "author": "Anthoni Oisin",
-      "description": "Your earbuds are convenient for audio on the go, but twisting them is one of the key steps for getting the best quality earbud audio.",
-      "image": "https://www.bgr.com/img/gallery/why-do-some-earbuds-sound-better-when-you-twist-them/l-intro-1790699349.jpg",
-      "category": "耳機",
       "articleType": "其他"
     }
   ]
