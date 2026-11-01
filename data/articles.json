@@ -1,8 +1,19 @@
 {
-  "generatedAt": "2026-10-31T22:58:11.723Z",
+  "generatedAt": "2026-11-01T00:02:26.560Z",
   "days": 30,
   "count": 525,
   "articles": [
+    {
+      "source": "Engadget",
+      "title": "Why your Apple AirPods' battery drains so fast and how to make it last longer - Engadget",
+      "url": "https://www.engadget.com/2300231/why-airpods-battery-drains-fast-how-to-fix/",
+      "publishedAt": "2026-10-31T23:30:00.000Z",
+      "author": "Thomas Godwin",
+      "description": "If your Apple AirPods' battery is draining too fast, don't replace them just yet. Cleaning the case and changing a few settings may help.",
+      "image": "https://www.engadget.com/img/gallery/why-your-apple-airpods-battery-drains-so-fast-and-how-to-make-it-last-longer/l-intro-1793108793.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
     {
       "source": "Engadget",
       "title": "Why your Apple AirPods won't connect to your iPhone and how can you fix it - Engadget",
@@ -3074,7 +3085,7 @@
     },
     {
       "source": "What Hi-Fi?",
-      "title": "How to watch Rugby League World Cup 2026 online from anywhere: free live streams for every match, New Zealand vs Fiji & Australia vs Cook Islands",
+      "title": "How to watch Rugby League World Cup 2026 online from anywhere: free live streams for every match, Tonga vs Samoa",
       "url": "https://www.whathifi.com/streaming-entertainment/watch-rugby-league-world-cup-2026-free",
       "publishedAt": "2026-10-14T14:00:00.000Z",
       "author": "Adam Marshall",
@@ -5766,17 +5777,6 @@
       "image": "https://www.bgr.com/img/gallery/why-do-some-earbuds-sound-better-when-you-twist-them/l-intro-1790699349.jpg",
       "category": "耳機",
       "articleType": "其他"
-    },
-    {
-      "source": "TechRadar",
-      "title": "‘The audio equivalent of a highbrow hardback book on a coffee table’ — the Focal Mu-so Hekla wowed me with gorgeous industrial design and powerful immersive Dolby Atmos sound… just don’t call it ‘a soundbar’",
-      "url": "https://www.techradar.com/televisions/soundbars/one-of-the-most-successful-one-box-spatial-audio-solutions-around-the-immersive-dolby-atmos-sound-the-focal-mu-so-hekla-drenched-me-in-was-astounding-although-its-price-is-similarly-staggering",
-      "publishedAt": "2026-10-01T23:00:00.000Z",
-      "author": "",
-      "description": "Our review of the Focal Mu-so Hekla asks, among other things: when is a soundbar not a soundbar? And when is a Naim Mu-so speaker not a Naim Mu-so speaker?",
-      "image": "https://cdn.mos.cms.futurecdn.net/sqgPvAtJVLcLoDfzHKMFkU-2560-80.jpg",
-      "category": "Soundbar",
-      "articleType": "評測"
     }
   ]
 }
