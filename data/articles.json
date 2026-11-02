@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-02T01:24:40.476Z",
+  "generatedAt": "2026-11-02T02:14:01.569Z",
   "days": 30,
-  "count": 512,
+  "count": 511,
   "articles": [
     {
       "source": "Engadget",
@@ -5623,17 +5623,6 @@
       "image": "https://cdn.mos.cms.futurecdn.net/TvcpKZ4tFVCLB6pzCsLQgR-1920-80.jpg",
       "category": "耳機",
       "articleType": "評測"
-    },
-    {
-      "source": "BGR",
-      "title": "Why Your Bluetooth Audio Quality Randomly Degrades (And How To Fix It) - BGR",
-      "url": "https://www.bgr.com/2268743/how-to-fix-bluetooth-audio-quality-randomly-bad/",
-      "publishedAt": "2026-10-03T01:32:00.000Z",
-      "author": "Michael Bizzaco",
-      "description": "Bluetooth sound quality is much better than it was years ago, but it can still randomly degrade. Causes include a weak internet signal and interference.",
-      "image": "https://www.bgr.com/img/gallery/why-your-bluetooth-audio-quality-randomly-degrades-and-how-to-fix-it/l-intro-1790288932.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
     }
   ]
 }
