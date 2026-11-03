@@ -1,8 +1,19 @@
 {
-  "generatedAt": "2026-11-03T22:56:15.206Z",
+  "generatedAt": "2026-11-03T23:47:41.604Z",
   "days": 30,
   "count": 530,
   "articles": [
+    {
+      "source": "Engadget",
+      "title": "Here's how to adjust Apple AirPods for small ears - Engadget",
+      "url": "https://www.engadget.com/2300409/how-adjust-apple-airpods-for-small-ears/",
+      "publishedAt": "2026-11-03T23:00:00.000Z",
+      "author": "Jonny Evans",
+      "description": "Some of the Apple AirPods' best features require them to be well-fitted to your ears, which can sometimes prove challenging if your ears are smaller.",
+      "image": "https://www.engadget.com/img/gallery/heres-how-to-adjust-apple-airpods-for-small-ears/l-intro-1793121569.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
     {
       "source": "The Verge",
       "title": "Here’s what it’s like to use Audio Intelligence on the Apple Watch",
@@ -463,17 +474,6 @@
       "description": "All the key happenings in the worlds of hi-fi and home cinema",
       "image": "https://cdn.mos.cms.futurecdn.net/FPSSMUxAjAHKvxArCi4PJ6-1920-80.jpg",
       "category": "喇叭",
-      "articleType": "其他"
-    },
-    {
-      "source": "Engadget",
-      "title": "This is the right way to clean your vinyl records - Engadget",
-      "url": "https://www.engadget.com/2300311/this-is-the-right-way-to-clean-your-vinyl-records/",
-      "publishedAt": "2026-11-01T23:30:00.000Z",
-      "author": "Will Shanklin",
-      "description": "The answer depends on your budget — and how hardcore you want to get.",
-      "image": "https://www.engadget.com/img/gallery/this-is-the-right-way-to-clean-your-vinyl-records/l-intro-1793204302.jpg",
-      "category": "黑膠／唱盤",
       "articleType": "其他"
     },
     {
@@ -4298,7 +4298,7 @@
       "title": "'Its nature is very prominent, and there is a psychological aspect to it all' — Control Resonant composer says every Remedy game has 'absolute evil lurking in there' and he relies on the player's intelligence to understand it through music",
       "url": "https://www.techradar.com/gaming/every-remedy-game-has-an-absolute-evil-lurking-at-its-core-that-affects-the-music-says-control-resonant-composer-and-he-uses-the-players-intelligence-and-the-ability-to-think-to-portray-the-psychological-aspect-in-the-soundtrack",
       "publishedAt": "2026-10-12T10:00:00.000Z",
-      "author": "Demi Williams, Rob Dwiar",
+      "author": "Demi Williams",
       "description": "Control Resonant composer Petri Alanko says each Remedy title has \"evil\" at its core, and he relies on the player's intelligence to understand it through music.",
       "image": "https://cdn.mos.cms.futurecdn.net/bPgqGvvWbrhavCzvmfgpLP-1920-80.jpg",
       "category": "其他音訊",
@@ -4683,7 +4683,7 @@
       "title": "'Please, no library or AI music. Love your game, love your handiwork' — Control Resonant composer suggests studios should appreciate music more if they 'value and respect your IP and your game'",
       "url": "https://www.techradar.com/gaming/control-resonant-composer-says-studios-should-avoid-ai-music-and-care-more-about-the-soundtrack-if-they-value-and-respect-your-ip-and-your-game-respect-the-client-the-gamers-the-fans-dammit",
       "publishedAt": "2026-10-09T07:33:22.000Z",
-      "author": "Demi Williams, Rob Dwiar",
+      "author": "Demi Williams",
       "description": "Control Resonant composer Petri Alanko has suggested studios should value music more if they care about their games and avoid AI at all costs.",
       "image": "https://cdn.mos.cms.futurecdn.net/Hgtccu3MpEbR77qMjwtHAX-1920-80.jpg",
       "category": "其他音訊",
@@ -5299,7 +5299,7 @@
       "title": "'The weirder, the better' — Control Resonant composer says he records sounds on a 'daily basis' that he then turns 'into something I could use musically,' but there is no 'audio bible' for Remedy's games",
       "url": "https://www.techradar.com/gaming/with-remedy-its-about-philosophy-and-the-emotional-layer-control-resonant-composer-says-to-create-remedys-atmospheric-music-he-records-sounds-on-a-daily-basis-that-hell-later-manipulate-into-harmonies-the-weirder-the-better",
       "publishedAt": "2026-10-06T22:30:00.000Z",
-      "author": "Demi Williams, Rob Dwiar",
+      "author": "Demi Williams",
       "description": "Control Resonant composer Petri Alanko has explained how he created the eclectic soundtrack for Remedy Entertainment's latest game.",
       "image": "https://cdn.mos.cms.futurecdn.net/zTERM5fGiehpEtCUFhyS43-2560-80.jpg",
       "category": "其他音訊",
