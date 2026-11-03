@@ -1,8 +1,19 @@
 {
-  "generatedAt": "2026-11-03T02:53:49.417Z",
+  "generatedAt": "2026-11-03T03:25:26.467Z",
   "days": 30,
-  "count": 514,
+  "count": 515,
   "articles": [
+    {
+      "source": "BGR",
+      "title": "4 Affordable Skullcandy Headphones You Should Try - BGR",
+      "url": "https://www.bgr.com/2300194/affordable-skullcandy-headphones-for-music-lovers/",
+      "publishedAt": "2026-11-03T03:17:00.000Z",
+      "author": "Michael Bizzaco",
+      "description": "The audio market is vast, but if you want a pair of Skullcandy headphones with a reasonable price tag, we've got you covered.",
+      "image": "https://www.bgr.com/img/gallery/4-affordable-skullcandy-headphones-you-should-try/l-intro-1793213441.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
     {
       "source": "What Hi-Fi?",
       "title": "A short history of legendary Australia's Halcro – and their Candy man",
