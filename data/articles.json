@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-05T00:07:43.856Z",
+  "generatedAt": "2026-11-05T00:40:39.528Z",
   "days": 30,
-  "count": 530,
+  "count": 529,
   "articles": [
     {
       "source": "SoundGuys",
@@ -5821,17 +5821,6 @@
       "image": "https://www.soundguys.com/wp-content/uploads/2026/10/jbl-partybox-ultimate-2-hero-image.jpg",
       "category": "喇叭",
       "articleType": "新聞"
-    },
-    {
-      "source": "TechRadar",
-      "title": "The portable speaker I use most at home is this tiny cheap five-star JBL model — it wins out over my Sonos and Bang & Olufsen options for one simple reason: it lives in the bathroom",
-      "url": "https://www.techradar.com/audio/wireless-bluetooth-speakers/after-3-months-of-using-it-as-my-shower-speaker-the-jbl-go-5-is-now-my-favorite-little-bluetooth-speaker-and-id-doubly-recommend-it-now-its-had-a-price-cut",
-      "publishedAt": "2026-10-06T00:00:00.000Z",
-      "author": "Matt Bolton",
-      "description": "This little JBL speaker soundtracks my life — the best speaker is the one you have with you.",
-      "image": "https://cdn.mos.cms.futurecdn.net/bAXAmEEVnQr4FA2auwkee5-1920-80.jpg",
-      "category": "喇叭",
-      "articleType": "其他"
     }
   ]
 }
