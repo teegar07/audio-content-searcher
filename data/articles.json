@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-07T21:25:52.562Z",
+  "generatedAt": "2026-11-07T22:30:05.146Z",
   "days": 30,
-  "count": 484,
+  "count": 482,
   "articles": [
     {
       "source": "Tom's Guide",
@@ -24,17 +24,6 @@
       "image": "https://cdn.mos.cms.futurecdn.net/pnBYk39dnDkDUaU5ELNeX4-2560-80.jpg",
       "category": "喇叭",
       "articleType": "評測"
-    },
-    {
-      "source": "Engadget",
-      "title": "Apple also made its classical music app's logo black and white - Engadget",
-      "url": "https://www.engadget.com/2310114/apple-also-made-its-classical-music-apps-logo-black-and-white/",
-      "publishedAt": "2026-11-07T17:06:13.000Z",
-      "author": "Mariella Moon",
-      "description": "Apple Music Classical now has a black-and-white logo, as well.",
-      "image": "https://www.engadget.com/img/gallery/apple-also-made-its-classical-music-apps-logo-black-and-white/l-intro-1794070514.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
     },
     {
       "source": "What Hi-Fi?",
@@ -5315,17 +5304,6 @@
       "image": "https://cdn.mos.cms.futurecdn.net/ZywQfmECqkfZaJUomLs2iW-2560-80.jpg",
       "category": "串流播放器",
       "articleType": "其他"
-    },
-    {
-      "source": "SoundGuys",
-      "title": "Beats 360 are the Beats over-ear headphones I've always wanted, but they're no Studio Pro",
-      "url": "https://www.soundguys.com/beats-360-review-163545/",
-      "publishedAt": "2026-10-08T21:48:22.000Z",
-      "author": "Brady Snyder",
-      "description": "The Beats 360 are comfortable and customizable, but the lack of lossless audio might feel like a downgrade compared to Studio Pro.",
-      "image": "https://www.soundguys.com/wp-content/uploads/2026/09/Beats-360-review-8-scaled.jpg",
-      "category": "耳機",
-      "articleType": "評測"
     }
   ]
 }
