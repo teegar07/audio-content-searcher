@@ -1,8 +1,129 @@
 {
-  "generatedAt": "2026-11-07T02:41:08.078Z",
+  "generatedAt": "2026-11-07T21:25:52.562Z",
   "days": 30,
-  "count": 492,
+  "count": 484,
   "articles": [
+    {
+      "source": "Tom's Guide",
+      "title": "19 early Black Friday Apple deals to shop now — MacBook Air M5 hits all-time low, AirPods drop to $89, and more",
+      "url": "https://www.tomsguide.com/sales-events/19-early-black-friday-apple-deals-to-shop-now-macbook-air-m5-hits-all-time-low-airpods-drop-to-usd89-and-more",
+      "publishedAt": "2026-11-07T19:42:38.000Z",
+      "author": "Alyse Stanley",
+      "description": "Skip the wait",
+      "image": "https://cdn.mos.cms.futurecdn.net/iUys4XHk7Ku9926GwXNp84-2000-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "TechRadar",
+      "title": "Creative's XF1 affordable active desktop speakers are 'absolutely ideal for those who want to feel like they’re having plenty of input into the sound they’re experiencing', although they're not truly perfect",
+      "url": "https://www.techradar.com/audio/speakers/creative-xf1-review",
+      "publishedAt": "2026-11-07T18:00:00.000Z",
+      "author": "",
+      "description": "Creative is no stranger to the affordable-yet-high-achieving speaker system — and with the XF1 it will be hoping lightning will strike for the umpteenth time…",
+      "image": "https://cdn.mos.cms.futurecdn.net/pnBYk39dnDkDUaU5ELNeX4-2560-80.jpg",
+      "category": "喇叭",
+      "articleType": "評測"
+    },
+    {
+      "source": "Engadget",
+      "title": "Apple also made its classical music app's logo black and white - Engadget",
+      "url": "https://www.engadget.com/2310114/apple-also-made-its-classical-music-apps-logo-black-and-white/",
+      "publishedAt": "2026-11-07T17:06:13.000Z",
+      "author": "Mariella Moon",
+      "description": "Apple Music Classical now has a black-and-white logo, as well.",
+      "image": "https://www.engadget.com/img/gallery/apple-also-made-its-classical-music-apps-logo-black-and-white/l-intro-1794070514.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "I'm a big fan of Filmmaker Mode – but it's in a bit of a weird place right now",
+      "url": "https://www.whathifi.com/tv-home-cinema/televisions/im-a-big-fan-of-filmmaker-mode-but-its-in-a-bit-of-a-weird-place-right-now",
+      "publishedAt": "2026-11-07T15:39:47.000Z",
+      "author": "Lewis Empson",
+      "description": "Is Filmmaker Mode the all-in-one solution we once thought it was?",
+      "image": "https://cdn.mos.cms.futurecdn.net/dv9V8uLXB53bVD5WHbu24K-992-80.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "BGR",
+      "title": "7 Useful Apps That Can Control Your Home Audio System - BGR",
+      "url": "https://www.bgr.com/2305032/useful-apps-can-control-home-audio-system/",
+      "publishedAt": "2026-11-07T15:02:00.000Z",
+      "author": "Asad Khan",
+      "description": "There are several useful apps available that can help you control your home audio system. Among the most useful are Google Home, Bose, and Yamaha MusicCast.",
+      "image": "https://www.bgr.com/img/gallery/7-useful-apps-that-can-control-your-home-audio-system/l-intro-1793633629.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "3 Bluetooth speakers I'd buy instead of those CMF Milk Cartons",
+      "url": "https://www.soundguys.com/cmf-speaker-alternatives-165924/",
+      "publishedAt": "2026-11-07T10:30:11.000Z",
+      "author": "Dave Carr",
+      "description": "CMF's Speaker S and Speaker M sound pretty good, but these three Bluetooth speakers offer more bass, practical features, and better value.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/11/CMF-Speaker-S-and-M-alternatives-1-scaled.jpeg",
+      "category": "喇叭",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "I've been loyal to AirPods for years, but these Sennheiser earbuds changed my mind",
+      "url": "https://www.soundguys.com/sennheiser-momentum-true-wireless-5-changed-my-mind-165982/",
+      "publishedAt": "2026-11-07T10:00:23.000Z",
+      "author": "Sanuj Bhatia",
+      "description": "After a month with the Sennheiser Momentum True Wireless 5, I'm finally ready to replace my AirPods Pro 3. Here's why.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/11/sennheiser-vs-airpods-pro-3-1.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "I tried Sony’s revived Walkman headphones, and nostalgia only goes so far",
+      "url": "https://www.soundguys.com/sony-mdr-3r-review-165990/",
+      "publishedAt": "2026-11-07T09:30:10.000Z",
+      "author": "Christian Thomas",
+      "description": "Interested in retro headphones? Sony re-released the MDR-3, now in USB-C form. We see if it's any good in our Sony MDR-3R review.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/11/SG_Sony-MDR-3R-USB-C-01.jpg",
+      "category": "耳機",
+      "articleType": "評測"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "Headphone apps keep making me create an account, and I’m done.",
+      "url": "https://www.soundguys.com/headphone-apps-keep-making-me-create-an-account-and-im-done-165780/",
+      "publishedAt": "2026-11-07T09:00:55.000Z",
+      "author": "Christian Thomas",
+      "description": "Why does every headphone company seem to want you to make an account? Most of your headphones' features don't need it!",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/11/apps-install-hero.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "How to watch Scotland vs New Zealand: live stream Nations Championship 2026 match for free from anywhere",
+      "url": "https://www.whathifi.com/streaming-entertainment/how-to-watch/scotland-vs-new-zealand-nations-championship-2026-free",
+      "publishedAt": "2026-11-07T08:00:00.000Z",
+      "author": "Tom Bailey",
+      "description": "Scotland look for a first ever victory against the All Blacks as they welcome them to Murrayfield",
+      "image": "https://cdn.mos.cms.futurecdn.net/6HGeVGotB7LfA4Dp5s7Ys5-2560-80.jpg",
+      "category": "串流播放器",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Watch New Zealand vs Tonga: live stream RLWC 2026 semi-final for FREE",
+      "url": "https://www.whathifi.com/streaming-entertainment/how-to-watch/new-zealand-vs-tonga-rugby-league-world-cup-2026-semi-final-free",
+      "publishedAt": "2026-11-07T04:00:00.000Z",
+      "author": "Aatif Sulleyman",
+      "description": "How to watch New Zealand vs Tonga live streams from anywhere in the 2026 RLWC semi-final. Free coverage, TV channels and broadcast details from Newcastle.",
+      "image": "https://cdn.mos.cms.futurecdn.net/MhtfMpH2EnPe2CbKMARRfN-1920-80.jpg",
+      "category": "串流播放器",
+      "articleType": "其他"
+    },
     {
       "source": "TechRadar",
       "title": "'Multiplayer is completely unpredictable' — Call of Duty: Modern Warfare 4 composer says multiplayer music requires a 'much more flexible framework' compared to the campaign and is 'more about supporting the player's experience without getting in the way of the gameplay'",
@@ -477,17 +598,6 @@
       "articleType": "其他"
     },
     {
-      "source": "Engadget",
-      "title": "Bluetooth is going to get a lot faster in 2027 - Engadget",
-      "url": "https://www.engadget.com/2306723/bluetooth-is-going-to-get-a-lot-faster-in-2027/",
-      "publishedAt": "2026-11-04T17:14:21.000Z",
-      "author": "Matt Tate",
-      "description": "Bluetooth HDT’s rollout will benefit a wide range of wireless devices and how they communicate.",
-      "image": "https://www.engadget.com/img/gallery/bluetooth-is-going-to-get-a-lot-faster-in-2027/l-intro-1793812232.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
       "source": "What Hi-Fi?",
       "title": "I'm a deals writer – here are the Award winners I'm watching this Black Friday",
       "url": "https://www.whathifi.com/seasonal-sales/im-a-deals-writer-here-are-the-award-winners-im-watching-this-black-friday",
@@ -566,34 +676,12 @@
     },
     {
       "source": "TechRadar",
-      "title": "Want a chance to win a RIG R8 PRO gaming headset? Enter now",
-      "url": "https://www.techradar.com/tech/become-a-techradar-insider-for-a-chance-to-win-a-rig-r8-pro-and-miami-inspired-mod-set",
-      "publishedAt": "2026-11-04T12:19:36.000Z",
-      "author": "TechRadar",
-      "description": "Ready to level up your gaming audio setup? Become a TechRadar Insider for free and you could win a RIG R8 PRO wireless headset, plus a Miami-inspired Mod-Set to customize it.",
-      "image": "https://cdn.mos.cms.futurecdn.net/rHp6mTrBot7chfnAteTbGB-1920-80.png",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "TechRadar",
       "title": "Sony's new $6,000 hi-res audio Walkman has already been totally overshadowed by a mystery 'new, yet original' release",
       "url": "https://www.techradar.com/audio/portable-media-players/sony-launches-two-new-elite-walkman-devices-then-teases-a-retro-inspired-third-walkman-adjacent-release-which-im-far-more-excited-about",
       "publishedAt": "2026-11-04T11:13:21.000Z",
       "author": "Tom Bedford",
       "description": "The Sony Walkman NW-WM1ZM3 and NW-WM1AM3 both offer premium audio experiences, but it's an upcoming third product that's stealing everyone's attention.",
       "image": "https://cdn.mos.cms.futurecdn.net/42QQuHQt849Kj3gUiAkAfm-356-80.jpg",
-      "category": "其他音訊",
-      "articleType": "新聞"
-    },
-    {
-      "source": "Engadget",
-      "title": "Apple Music's upcoming feature will let you record yourself doing karaoke - Engadget",
-      "url": "https://www.engadget.com/2306269/apple-music-selfie-sing-karaoke-video/",
-      "publishedAt": "2026-11-04T11:02:04.000Z",
-      "author": "Mariella Moon",
-      "description": "Apple Music will launch ‘Selfie Sing’ with iOS 27.3.",
-      "image": "https://www.engadget.com/img/gallery/apple-musics-upcoming-feature-will-let-you-record-yourself-doing-karaoke/l-intro-1793789894.jpg",
       "category": "其他音訊",
       "articleType": "新聞"
     },
@@ -4042,7 +4130,7 @@
     },
     {
       "source": "What Hi-Fi?",
-      "title": "How to watch Rugby League World Cup 2026 online from anywhere: free live streams for every match, New Zealand vs Tonga",
+      "title": "How to watch Rugby League World Cup 2026 online from anywhere: free live streams for every match, Australia vs Samoa",
       "url": "https://www.whathifi.com/streaming-entertainment/watch-rugby-league-world-cup-2026-free",
       "publishedAt": "2026-10-14T14:00:00.000Z",
       "author": "Adam Marshall",
@@ -5238,182 +5326,6 @@
       "image": "https://www.soundguys.com/wp-content/uploads/2026/09/Beats-360-review-8-scaled.jpg",
       "category": "耳機",
       "articleType": "評測"
-    },
-    {
-      "source": "BGR",
-      "title": "This Hidden iPhone Feature Can Drastically Improve Audio Quality In Videos - BGR",
-      "url": "https://www.bgr.com/2276353/audio-mix-iphone-feature-to-improve-audio-quality-in-videos/",
-      "publishedAt": "2026-10-08T21:17:00.000Z",
-      "author": "José Adorno",
-      "description": "There's a slew of new features for the current model iPhone, and one of them is a hidden feature that will make your videos sound better.",
-      "image": "https://www.bgr.com/img/gallery/this-hidden-iphone-feature-can-drastically-improve-audio-quality-in-videos/l-intro-1790974047.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "SoundGuys",
-      "title": "I've tested the top clip-on earbuds of 2026, and these are the ones worth buying",
-      "url": "https://www.soundguys.com/best-clip-on-earbuds-2026-155602/",
-      "publishedAt": "2026-10-08T21:01:03.000Z",
-      "author": "Adam Birney",
-      "description": "HUAWEI, Sony, and Bose manufacture some of the best clip-on earbuds on the market. Here's how they stack up in 2026.",
-      "image": "https://www.soundguys.com/wp-content/uploads/2026/10/best-clip-on-earbuds-scaled.jpg",
-      "category": "耳機",
-      "articleType": "評測"
-    },
-    {
-      "source": "SoundGuys",
-      "title": "Timekettle LiveTalk brings real-time translation to your everyday earbuds",
-      "url": "https://www.soundguys.com/timekettle-livetalk-164310/",
-      "publishedAt": "2026-10-08T18:00:40.000Z",
-      "author": "Chase Bernath",
-      "description": "From lectures abroad to your daily playlist, these AI interpreter earbuds are designed to do more than translate a quick conversation.",
-      "image": "https://www.soundguys.com/wp-content/uploads/2026/10/Timekettle-Livetalk-earbud-held-in-hand-2-scaled.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "SoundGuys",
-      "title": "I've tested sleep earbuds for years, and these are the best headphones for sleeping in 2026",
-      "url": "https://www.soundguys.com/best-headphones-for-sleeping-2-164435/",
-      "publishedAt": "2026-10-08T15:59:31.000Z",
-      "author": "Adam Birney",
-      "description": "The best earbuds and headphones for sleeping in 2026, from noise canceling sleep buds to soft headbands, picked for comfort and quiet.",
-      "image": "https://www.soundguys.com/wp-content/uploads/2026/01/anker-soundcore-sleep-a30-special-two-pairs-in-hand-scaled-e1767768228527.jpg",
-      "category": "耳機",
-      "articleType": "評測"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "The iPhone 18 Pro looks almost identical to its predecessor – so why does it look and sound better?",
-      "url": "https://www.whathifi.com/smartphones-tablets/smartphones/apple-iphone-18-pro",
-      "publishedAt": "2026-10-08T15:29:24.000Z",
-      "author": "",
-      "description": "A superb portable AV device, with subtle but worthwhile improvements to picture and sound",
-      "image": "https://cdn.mos.cms.futurecdn.net/7uL2vqc3zwJuFGVB8HjjAZ-1920-80.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "SoundGuys",
-      "title": "The Galaxy Buds 3 FE are still at their $99.99 Prime Day price",
-      "url": "https://www.soundguys.com/galaxy-buds-3-fe-deal-164493/",
-      "publishedAt": "2026-10-08T15:26:50.000Z",
-      "author": "Matt Horne",
-      "description": "The Samsung Galaxy Buds 3 FE are $50 off at Amazon, making these feature-packed Galaxy earbuds a strong post-Prime Day buy.",
-      "image": "https://www.soundguys.com/wp-content/uploads/2023/10/samsung-galaxy-buds-fe-in-case-1000w-563h.jpg-1.webp",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "I’ve been desperate to listen to Rega’s Planar 6 RS Edition turntable all year – and it’s been more than worth the wait",
-      "url": "https://www.whathifi.com/hi-fi/turntables/rega-planar-6-rs-edition",
-      "publishedAt": "2026-10-08T14:13:21.000Z",
-      "author": "",
-      "description": "Rega’s Planar 6 RS Edition turntable combines the best bits of two of its premium five-star record players to huge success.",
-      "image": "https://cdn.mos.cms.futurecdn.net/7WMAw5rPHTFrgxyH5KifC6-1920-80.jpg",
-      "category": "黑膠／唱盤",
-      "articleType": "其他"
-    },
-    {
-      "source": "Tom's Guide",
-      "title": "Best Buy TechTober sale: 25 deals I'd buy on laptops, OLED TVs, JBL, and more",
-      "url": "https://www.tomsguide.com/sales-events/best-buy-techtober-sale-lives-on-25-best-deals-on-dell-laptops-lg-oled-tvs-jbl-speakers-and-more",
-      "publishedAt": "2026-10-08T13:46:30.000Z",
-      "author": "Millie Davis-Williams",
-      "description": "Amazon's October Prime Day sale is over, but Best Buy's TechTober lives on! Check out the biggest deals from the event on everything from smartwatches to TVs.",
-      "image": "https://cdn.mos.cms.futurecdn.net/S4nqyTNgAtKc2z3zYNufsh-2000-80.jpg",
-      "category": "喇叭",
-      "articleType": "其他"
-    },
-    {
-      "source": "TechRadar",
-      "title": "The Sony WH-1000XM6 are at a record-low price today — and I'm severely tempted by these class-leading heaphones",
-      "url": "https://www.techradar.com/audio/wireless-headphones/psa-this-is-the-best-headphone-deal-youll-see-this-side-of-black-friday-the-sony-wh-1000xm6-are-at-a-record-low-price",
-      "publishedAt": "2026-10-08T13:21:03.000Z",
-      "author": "Alex Whitelock",
-      "description": "The Sony WH-1000XM6 are easily some of the best headphones you can buy — particularly because Walmart has them listed for a new record-low price.",
-      "image": "https://cdn.mos.cms.futurecdn.net/8BgMC23zCWBCQrtRNvwiBF-1600-80.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "Amazon announces a new premium tablet line to take on iPad with a “nanomatte” display – and I’ve tried it",
-      "url": "https://www.whathifi.com/smartphones-tablets/tablets/amazon-announces-a-new-premium-tablet-line-to-take-on-ipad-with-a-nanomatte-display-and-ive-tried-it",
-      "publishedAt": "2026-10-08T13:00:00.000Z",
-      "author": "Daniel Furn",
-      "description": "Could Amazon’s most powerful tablet yet also be its best for movie watching?",
-      "image": "https://cdn.mos.cms.futurecdn.net/LBHfv6Xri68QhFY2VCFZsc-2560-80.jpg",
-      "category": "其他音訊",
-      "articleType": "新聞"
-    },
-    {
-      "source": "TechRadar",
-      "title": "Prime Day is over, but Amazon still has 60 Black Friday-level deals on products we love — AirPods, Google Pixel 11, Sony headphones, TVs, and more",
-      "url": "https://www.techradar.com/tech/prime-day-has-ended-but-amazon-still-has-60-record-low-prices-on-products-we-love-airpods-google-pixel-11-sony-headphones-tvs-and-more",
-      "publishedAt": "2026-10-08T10:45:08.000Z",
-      "author": "Alex Whitelock",
-      "description": "Amazon Prime Day may be over, but the retailer still has Black Friday-level deals available today.",
-      "image": "https://cdn.mos.cms.futurecdn.net/UvrLeLoAuia4qHSLcHpMj9-1920-80.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "This family has been championing movies since the 1870s – and its cinemas offer something that streaming never can",
-      "url": "https://www.whathifi.com/streaming-entertainment/this-family-has-been-championing-movies-since-the-1870s-and-its-cinemas-offer-something-that-streaming-never-can",
-      "publishedAt": "2026-10-08T10:42:45.000Z",
-      "author": "Joe Svetlik",
-      "description": "From \"flickering pictures\" at 19th-century fairgrounds to 4K projectors and 7.1 surround sound, the Jervis family has seen it all",
-      "image": "https://cdn.mos.cms.futurecdn.net/Z36rzeGNU9WZrospNBFkNY-1920-80.jpg",
-      "category": "串流播放器",
-      "articleType": "其他"
-    },
-    {
-      "source": "TechRadar",
-      "title": "Magico's new speakers look like they were designed by NASA and cost more than a holiday cottage... and I want them",
-      "url": "https://www.techradar.com/audio/speakers/magicos-new-speakers-look-like-they-were-designed-by-nasa-and-cost-more-than-a-holiday-cottage-and-i-want-them",
-      "publishedAt": "2026-10-08T10:40:30.000Z",
-      "author": "Tom Bedford",
-      "description": "The Magic A3 2027 isn't an upgrade, but a complete overhaul — and it costs nearly £30,000 (or equivalent, where you live)",
-      "image": "https://cdn.mos.cms.futurecdn.net/5fzoS3z2xPVsqk4H3mB83e-1600-80.jpg",
-      "category": "喇叭",
-      "articleType": "新聞"
-    },
-    {
-      "source": "SoundGuys",
-      "title": "AirPods 4 owners, most of you can skip the AirPods 5",
-      "url": "https://www.soundguys.com/airpods-4-vs-airpods-5-164235/",
-      "publishedAt": "2026-10-08T09:00:29.000Z",
-      "author": "Dave Carr",
-      "description": "AirPods 4 vs AirPods 5: We compare sound, noise canceling, features, and more to see whether AirPods 4 owners should upgrade.",
-      "image": "https://www.soundguys.com/wp-content/uploads/2026/10/AirPods-4-w-Active-Noise-Cancellation-vs-AirPods-5-with-Wireless-Charging-Case-4-scaled.jpeg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "Tom's Guide",
-      "title": "Cambridge Audio L/R X review: Big on bass, big on features, big on price",
-      "url": "https://www.tomsguide.com/audio/speakers/cambridge-audio-l-r-x-review",
-      "publishedAt": "2026-10-08T08:30:46.000Z",
-      "author": "",
-      "description": "They're just BIG, okay?!",
-      "image": "https://cdn.mos.cms.futurecdn.net/ZJDF2TjUYNUwDAn2nBHDxm-2560-80.jpg",
-      "category": "喇叭",
-      "articleType": "評測"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "\"We charged extended lunchtime pub tabs to expenses\" – from litigation to listening rooms; the joys and challenges of producing What Hi-Fi? in a pre-digital era",
-      "url": "https://www.whathifi.com/hi-fi/we-charged-extended-lunchtime-pub-tabs-to-expenses-from-litigation-to-listening-rooms-the-joys-and-challenges-of-producing-what-hi-fi-in-a-pre-digital-era",
-      "publishedAt": "2026-10-08T07:00:00.000Z",
-      "author": "Jez Ford",
-      "description": "Jez Ford looks back on a formative – and hugely enjoyable – period in his career",
-      "image": "https://cdn.mos.cms.futurecdn.net/2ZwxQmg4zqmg46W9ediUfe-2100-80.png",
-      "category": "其他音訊",
-      "articleType": "其他"
     }
   ]
 }
