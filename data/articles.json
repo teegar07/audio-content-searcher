@@ -1,8 +1,19 @@
 {
-  "generatedAt": "2026-11-08T22:38:42.409Z",
+  "generatedAt": "2026-11-08T23:19:08.918Z",
   "days": 30,
-  "count": 470,
+  "count": 471,
   "articles": [
+    {
+      "source": "What Hi-Fi?",
+      "title": "Retro or ANC? Sony and Bose are courting the younger generation with two very different wired headphone designs, and I'm all for it",
+      "url": "https://www.whathifi.com/headphones/retro-or-anc-sony-and-bose-are-courting-the-younger-generation-with-two-very-different-wired-headphone-designs-and-im-all-for-it",
+      "publishedAt": "2026-11-08T23:03:22.000Z",
+      "author": "Kashfia Kabir",
+      "description": "Sony and Bose are going wired in two completely different ways",
+      "image": "https://cdn.mos.cms.futurecdn.net/dvthUMyZGuxj6QBZsJYsYC-1920-80.png",
+      "category": "耳機",
+      "articleType": "其他"
+    },
     {
       "source": "Engadget",
       "title": "Suno AI music generator sued again for copyright infringement - Engadget",
