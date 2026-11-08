@@ -1,8 +1,19 @@
 {
-  "generatedAt": "2026-11-08T01:17:04.701Z",
+  "generatedAt": "2026-11-08T02:11:59.248Z",
   "days": 30,
-  "count": 482,
+  "count": 483,
   "articles": [
+    {
+      "source": "Engadget",
+      "title": "Syncing Apple Music across your devices is easier than you think - Engadget",
+      "url": "https://www.engadget.com/2307469/how-to-sync-apple-music-across-devices/",
+      "publishedAt": "2026-11-08T01:30:00.000Z",
+      "author": "Filipe Espósito",
+      "description": "Enabling the Sync Library feature on iPhone, iPad, Mac, and Windows (the feature is enabled by default on Android) will allow Apple Music to sync.",
+      "image": "https://www.engadget.com/img/gallery/syncing-apple-music-across-your-devices-is-easier-than-you-think/l-intro-1793849755.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
     {
       "source": "Tom's Guide",
       "title": "19 early Black Friday Apple deals to shop now — MacBook Air M5 hits all-time low, AirPods drop to $89, and more",
