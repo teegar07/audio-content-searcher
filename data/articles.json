@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-09T01:34:47.104Z",
+  "generatedAt": "2026-11-09T02:32:05.142Z",
   "days": 30,
-  "count": 470,
+  "count": 469,
   "articles": [
     {
       "source": "What Hi-Fi?",
@@ -5160,17 +5160,6 @@
       "description": "I was talking, but no one was listening",
       "image": "https://cdn.mos.cms.futurecdn.net/BnWZaz7R22jsbxxSVEdUgF-2000-80.jpg",
       "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "BGR",
-      "title": "The Big Problem Of Using A Soundbar With A Mac - BGR",
-      "url": "https://www.bgr.com/2277751/big-problem-using-soundbar-with-a-mac/",
-      "publishedAt": "2026-10-10T02:17:00.000Z",
-      "author": "Ethan Stinson",
-      "description": "Since soundbars connect primarily via HDMI and several MacBooks don't have an HDMI port, a soundbar isn't ideal. Moreover, Bluetooth also introduces latency.",
-      "image": "https://www.bgr.com/img/gallery/the-big-problem-of-using-a-soundbar-with-a-mac/l-intro-1791222567.jpg",
-      "category": "Soundbar",
       "articleType": "其他"
     }
   ]
