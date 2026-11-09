@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-08T23:19:08.918Z",
+  "generatedAt": "2026-11-09T00:39:37.358Z",
   "days": 30,
-  "count": 471,
+  "count": 470,
   "articles": [
     {
       "source": "What Hi-Fi?",
@@ -5171,17 +5171,6 @@
       "description": "Since soundbars connect primarily via HDMI and several MacBooks don't have an HDMI port, a soundbar isn't ideal. Moreover, Bluetooth also introduces latency.",
       "image": "https://www.bgr.com/img/gallery/the-big-problem-of-using-a-soundbar-with-a-mac/l-intro-1791222567.jpg",
       "category": "Soundbar",
-      "articleType": "其他"
-    },
-    {
-      "source": "TechRadar",
-      "title": "Man sent to prison for using an army of bots to boost his AI music streams — he made $8m from the scheme and had nearly 10 times the plays of Taylor Swift",
-      "url": "https://www.techradar.com/audio/audio-streaming/man-jailed-after-fraudulently-making-usd8m-from-ai-music-using-1-000-bots-as-google-reveals-its-watermarked-240-000-years-worth-of-ai-audio",
-      "publishedAt": "2026-10-10T00:00:00.000Z",
-      "author": "Alex Blake",
-      "description": "A man has been sentenced to prison for fraudulently making $8 million from streams of his AI music.",
-      "image": "https://cdn.mos.cms.futurecdn.net/hHnuFjdnhv4FTTTinaA7fP-2560-80.jpg",
-      "category": "串流播放器",
       "articleType": "其他"
     }
   ]
