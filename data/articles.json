@@ -1,8 +1,217 @@
 {
-  "generatedAt": "2026-11-10T04:33:51.679Z",
+  "generatedAt": "2026-11-10T22:54:10.867Z",
   "days": 30,
-  "count": 473,
+  "count": 484,
   "articles": [
+    {
+      "source": "The Verge",
+      "title": "Google’s Pixel Tag tracker is now available",
+      "url": "https://www.theverge.com/tech/1030766/google-pixel-tag-tracker-find-hub-uwb-bluetooth-sounding",
+      "publishedAt": "2026-11-10T19:00:00.000Z",
+      "author": "Andrew Liszewski",
+      "description": "You can now buy Google’s AirTag competitor.",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/pixeltag2.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "Tom's Guide",
+      "title": "Best Buy is slashing the price of JLab headphones: 3 deals I'd shop from $14",
+      "url": "https://www.tomsguide.com/audio/headphones/best-buy-is-slashing-the-price-of-jlab-headphones-3-deals-id-shop-from-usd14",
+      "publishedAt": "2026-11-10T18:22:40.000Z",
+      "author": "Grace Dean",
+      "description": "Secure budget headphones just in time for the holidays",
+      "image": "https://cdn.mos.cms.futurecdn.net/cMWNYwwP7jerZ9zWpXbX6B-2000-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "TechRadar",
+      "title": "‘Get you out of your device and back to your vacation’ — Disney’s new AI experiment with Ray-Ban Meta could change how you explore Disneyland",
+      "url": "https://www.techradar.com/computing/websites-apps/get-you-out-of-your-device-and-back-to-your-vacation-disneys-new-ai-experiment-could-change-how-you-explore-disneyland-whether-youre-using-an-iphone-ray-ban-metas-or-airpods",
+      "publishedAt": "2026-11-10T17:26:46.000Z",
+      "author": "Jacob Krol",
+      "description": "It's coming soon for Magic Key Holders first",
+      "image": "https://cdn.mos.cms.futurecdn.net/6TRNEMFWST4Ed32cZvoCsE-1920-80.jpg",
+      "category": "耳機",
+      "articleType": "新聞"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "This classic 1970s David Bowie film now has a 50th anniversary special edition 4K Blu-ray",
+      "url": "https://www.whathifi.com/tv-home-cinema/blu-ray-players/this-classic-1970s-david-bowie-film-now-has-a-50th-anniversary-special-edition-4k-blu-ray",
+      "publishedAt": "2026-11-10T16:20:13.000Z",
+      "author": "Joe Svetlik",
+      "description": "Complete with Dolby Vision and SteelBook artwork",
+      "image": "https://cdn.mos.cms.futurecdn.net/wSA4DaqikqACqBcVv4Rf5i-2560-80.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "JBL Live 680NC (2026) headphones drop to their lowest price ever",
+      "url": "https://www.soundguys.com/jbl-live-680nc-deal-166116/",
+      "publishedAt": "2026-11-10T15:26:55.000Z",
+      "author": "Matt Horne",
+      "description": "Save $81 on the JBL Live 680NC (2026) at Amazon. These on-ear ANC headphones with up to 80 hours of battery hit an all-time low.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/11/JBL-Live-680NC-Featured.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "TechRadar",
+      "title": "With the latest iOS update Apple has changed the Apple Music app icon from its familiar red to white, and not everyone is going to love the new look — but there's a simple way to bring back the classic red icon on your iPhone",
+      "url": "https://www.techradar.com/audio/apple-music/dont-like-apple-musics-new-white-icon-me-neither-heres-how-to-get-the-classic-red-icon-back-on-your-iphone",
+      "publishedAt": "2026-11-10T15:12:08.000Z",
+      "author": "Graham Barlow",
+      "description": "The latest iOS update has swapped the Apple Music icon out for a new white one, but you can revert back to the red icon with these tips.",
+      "image": "https://cdn.mos.cms.futurecdn.net/BTXsJDAPHCMti4biZTZ7Za-1920-80.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "TechRadar",
+      "title": "'Makes the wired headphone trend seem boring': two new elite wireless earbuds land, boasting multi-driver acoustic architecture plus perks such as listening tests and even optimisation for IMAX movies",
+      "url": "https://www.techradar.com/audio/earbuds-airpods/its-not-all-about-wired-hedphones-in-2026-two-new-pairs-of-wireless-iems-launch-with-multiple-drivers-bespoke-audio-and-eye-watering-price-tags",
+      "publishedAt": "2026-11-10T15:00:00.000Z",
+      "author": "Tom Bedford",
+      "description": "Breggz and Noble both unveil premium in-ear wireless buds on the same day, proving it's not all about wired in 2026",
+      "image": "https://cdn.mos.cms.futurecdn.net/GqDsabnuGQTfLYFu3qQanc-2000-80.jpg",
+      "category": "耳機",
+      "articleType": "新聞"
+    },
+    {
+      "source": "TechRadar",
+      "title": "Original Mass Effect composer says BioWare made Vigil the loading screen music at the last minute before shipping instead of the classic theme — ‘When I got the game and popped it into my Xbox, I was blown away to hear that track. The game instantly had a vibe’",
+      "url": "https://www.techradar.com/gaming/the-game-instantly-had-a-vibe-original-mass-effect-composer-says-vigil-was-a-particularly-important-track-that-bioware-made-the-menu-music-instead-of-mass-effect-theme-at-the-last-moment-before-shipping",
+      "publishedAt": "2026-11-10T15:00:00.000Z",
+      "author": "Demi Williams",
+      "description": "Original Mass Effect composer Jack Wall has revealed how orchestral and synth music influenced the series and how the iconic Vigil track changed the game.",
+      "image": "https://cdn.mos.cms.futurecdn.net/2MB9Sg8mRQRFsAQXqBHR98-1920-80.jpg",
+      "category": "其他音訊",
+      "articleType": "新聞"
+    },
+    {
+      "source": "Tom's Guide",
+      "title": "Samsung's bringing the movie theater home: save $800 on this Dolby Atmos system ahead of Black Friday",
+      "url": "https://www.tomsguide.com/audio/soundbars/samsungs-bringing-the-movie-theater-home-save-usd800-on-this-dolby-atmos-system-ahead-of-black-friday",
+      "publishedAt": "2026-11-10T14:36:45.000Z",
+      "author": "Erin Bashford",
+      "description": "Samsung has slashed the price of its 7.1.2 channel Dolby Atmos system ahead of Black Friday: you can save $800 right now.",
+      "image": "https://cdn.mos.cms.futurecdn.net/GXxtV6Y6VNtqv8Ei9625en-1600-80.jpg",
+      "category": "Soundbar",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "If you’re after a premium native 4K home cinema projector, we recommend this Award-winning discounted Sony model",
+      "url": "https://www.whathifi.com/tv-home-cinema/projectors/if-youre-after-a-premium-native-4k-home-cinema-projector-we-recommend-this-award-winning-discounted-sony-model",
+      "publishedAt": "2026-11-10T14:18:53.000Z",
+      "author": "Daniel Furn",
+      "description": "For the second year in a row, the Sony Bravia Projector 8 is our top premium projector pick",
+      "image": "https://cdn.mos.cms.futurecdn.net/RdGd2j9K55JYqUsTCgEAs7-1920-80.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "BGR",
+      "title": "5 Reasons Why Users Ditch Their Bose Headphones - BGR",
+      "url": "https://www.bgr.com/2308149/reasons-people-ditch-bose-headphones/",
+      "publishedAt": "2026-11-10T14:17:00.000Z",
+      "author": "Nichols deCourville",
+      "description": "Bose headphones aren't cheap, and some owners don't feel like they got their money's worth. Here are the most common complaints around the brand.",
+      "image": "https://www.bgr.com/img/gallery/5-reasons-why-users-ditch-their-bose-headphones/l-intro-1793901103.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Meet the Dolby Atmos soundbar that looks like a cushion",
+      "url": "https://www.whathifi.com/tv-home-cinema/soundbars/this-dolby-atmos-soundbar-is-designed-to-fit-in-with-your-homeware-but-i-see-a-problem",
+      "publishedAt": "2026-11-10T14:00:00.000Z",
+      "author": "Joe Svetlik",
+      "description": "The Knit Form is the brainchild of a former Denon/Marantz executive",
+      "image": "https://cdn.mos.cms.futurecdn.net/Hx3fyhdzHe27MgDjew9NvH-2245-80.jpg",
+      "category": "Soundbar",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Leica’s upgraded premium 4K projector promises versatility and a bright display “even in ambient light”",
+      "url": "https://www.whathifi.com/tv-home-cinema/projectors/leicas-upgraded-premium-4k-projector-promises-versatility-and-a-bright-display-even-in-ambient-light",
+      "publishedAt": "2026-11-10T14:00:00.000Z",
+      "author": "Robyn Quick",
+      "description": "The camera brand takes another step into home cinema",
+      "image": "https://cdn.mos.cms.futurecdn.net/r8v5atJ6Hp8wtVqTTjV7M3-2560-80.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "TechRadar",
+      "title": "'Designed to blend in, not stand out': This Dolby Atmos soundbar uses a fabric design to fit into your room's decor — and it has Denon and Marantz heritage behind it",
+      "url": "https://www.techradar.com/televisions/soundbars/this-powerful-new-dolby-atmos-soundbar-has-14-speakers-and-a-fabric-design-thats-meant-to-blend-into-the-room-and-it-comes-from-a-brand-new-company-with-denon-and-marantz-heritage-behind-it",
+      "publishedAt": "2026-11-10T14:00:00.000Z",
+      "author": "Carrie Marshall",
+      "description": "The Knit Form soundbar comes from a former Sound United product leader and is designed to blend in, not stand out",
+      "image": "https://cdn.mos.cms.futurecdn.net/DRAUAF7VAdwyFMnPTky2YM-2048-80.png",
+      "category": "Soundbar",
+      "articleType": "其他"
+    },
+    {
+      "source": "TechRadar",
+      "title": "Mass Effect 1 and 2 composer says ‘cinematic moments that propel the story forward’ are a ‘favorite’ part of writing since ‘the music won’t change in those moments depending on the gameplay as they are baked into the visuals’ — ‘They are wonderful pauses for the player to take it all in. Especially for a game like Mass Effect’",
+      "url": "https://www.techradar.com/gaming/this-is-our-opportunity-to-give-the-player-goosebumps-original-mass-effect-composer-says-cinematic-moments-that-propel-the-story-forward-are-a-favorite-part-of-the-writing-process-since-the-music-is-baked-into-the-visuals",
+      "publishedAt": "2026-11-10T14:00:00.000Z",
+      "author": "Demi Williams",
+      "description": "Jack Wall, the composer for Mass Effect 1 and Mass Effect 2, has explained how the game's cinematic music acted as an integral part of each narrative.",
+      "image": "https://cdn.mos.cms.futurecdn.net/H2Y2iLjWhtzcJwr38tzHy7-1920-80.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "BGR",
+      "title": "CMF Speaker M Review: Sounds So Good, I Bought One Myself - BGR",
+      "url": "https://www.bgr.com/2311677/cmf-speaker-m-review/",
+      "publishedAt": "2026-11-10T13:45:00.000Z",
+      "author": "Connor Jewiss",
+      "description": "CMF by Nothing introduced its first portable Bluetooth speakers, and the medium-sized Speaker M provides plenty of great features for the price.",
+      "image": "https://www.bgr.com/img/gallery/cmf-speaker-m-review-sounds-so-good-i-bought-another/l-intro-1794265958.jpg",
+      "category": "喇叭",
+      "articleType": "評測"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Sony’s PlayStation Pulse Elevate speakers delayed indefinitely due to production issue",
+      "url": "https://www.whathifi.com/speakers/wireless-speakers/sonys-playstation-pulse-elevate-speakers-delayed-indefinitely-due-to-production-issue",
+      "publishedAt": "2026-11-10T12:19:38.000Z",
+      "author": "Joe Svetlik",
+      "description": "Sony hopes to be releasing them “soon”",
+      "image": "https://cdn.mos.cms.futurecdn.net/EG9Yvz4pjM7PExpxbYzt3a-1088-80.jpg",
+      "category": "喇叭",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "The What Hi-Fi? reference system: an in-depth look at our hi-fi test room's kit that we use to test all other audio products",
+      "url": "https://www.whathifi.com/hi-fi/the-what-hi-fi-reference-system-naims-flagship-streamer-a-high-end-technics-turntable-powerful-burmester-amplification-and-legendary-atc-speakers",
+      "publishedAt": "2026-11-10T11:48:06.000Z",
+      "author": "Jonathan Evans",
+      "description": "Meet the premium products that live permanently in our hi-fi test rooms; we present the kit we use to test all other kit",
+      "image": "https://cdn.mos.cms.futurecdn.net/HjriXaZvMkywPxqVevDvbX-1920-80.jpg",
+      "category": "喇叭",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Acoustic Energy's revamped 500 series inherits flagship driver technologies to achieve \"exceptional refinement and integration\"",
+      "url": "https://www.whathifi.com/speakers/hi-fi-speakers/acoustic-energys-revamped-500-speaker-series-inherits-flagship-technology-to-achieve-exceptional-refinement",
+      "publishedAt": "2026-11-10T11:18:14.000Z",
+      "author": "Harry McKerrell",
+      "description": "Can Acoustic Energy continue its stellar run?",
+      "image": "https://cdn.mos.cms.futurecdn.net/ArjeUAkuaBzD5feaGwPhs-1456-80.jpg",
+      "category": "喇叭",
+      "articleType": "其他"
+    },
     {
       "source": "BGR",
       "title": "How Long Do Owners Say JBL Speakers Last? - BGR",
@@ -77,17 +286,6 @@
       "author": "Matt Horne",
       "description": "New Sennheiser Momentum 5 headphones hit an all-time low on Amazon at $349.95 with ANC, 57-hour battery life, and Bluetooth 5.4.",
       "image": "https://www.soundguys.com/wp-content/uploads/2026/05/Sennheiser-MOMENTUM-5-Wireless_015-scaled.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "Tom's Guide",
-      "title": "I wouldn't wait for Black Friday to buy the LG B6 OLED, Asics Gel-Kayano 30 and Bose QuietComfort headphones — they're all 50% off before Black Friday, plus 10 more deals I actually want for myself",
-      "url": "https://www.tomsguide.com/sales-events/the-early-black-friday-deals-id-actually-buy-starting-from-under-usd15",
-      "publishedAt": "2026-11-09T14:35:28.000Z",
-      "author": "Millie Davis-Williams",
-      "description": "Early Black Friday sales are getting started — these are the deals that I actually want to buy for myself.",
-      "image": "https://cdn.mos.cms.futurecdn.net/6g6DfCqMekjWBKVsoXNiiG-2000-80.jpg",
       "category": "耳機",
       "articleType": "其他"
     },
@@ -1090,17 +1288,6 @@
       "description": "The audio market is vast, but if you want a pair of Skullcandy headphones with a reasonable price tag, we've got you covered.",
       "image": "https://www.bgr.com/img/gallery/4-affordable-skullcandy-headphones-you-should-try/l-intro-1793213441.jpg",
       "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "A short history of legendary Australia's Halcro – and their Candy man",
-      "url": "https://www.whathifi.com/hi-fi/a-short-history-of-halcro-and-the-candy-man",
-      "publishedAt": "2026-11-02T23:45:23.000Z",
-      "author": "Jez Ford",
-      "description": "There’s a lot more to the story of \"The Best Amplifier Ever\" than just the best amplifier ever...",
-      "image": "https://cdn.mos.cms.futurecdn.net/LwYrBvvr3JNWDb7dbLAFrm-1920-80.jpg",
-      "category": "DAC／擴大機",
       "articleType": "其他"
     },
     {
@@ -4317,7 +4504,7 @@
     },
     {
       "source": "What Hi-Fi?",
-      "title": "How to watch Rugby League World Cup 2026 online from anywhere: free live streams for every match, Australia vs Samoa",
+      "title": "How to watch Rugby League World Cup 2026 online from anywhere: free live streams for every match",
       "url": "https://www.whathifi.com/streaming-entertainment/watch-rugby-league-world-cup-2026-free",
       "publishedAt": "2026-10-14T14:00:00.000Z",
       "author": "Adam Marshall",
@@ -5138,72 +5325,6 @@
       "description": "It was a week of reviews, reviews and more reviews, plus a couple of bits of news",
       "image": "https://cdn.mos.cms.futurecdn.net/hgsv6cjpPSXG6NKHXFGe4b-1920-80.jpg",
       "category": "喇叭",
-      "articleType": "評測"
-    },
-    {
-      "source": "TechRadar",
-      "title": "As a casual DJ and house music lover, the Sony ULT Tower 5 might just be one of my favorite speakers I’ve tested — here’s why",
-      "url": "https://www.techradar.com/audio/wireless-bluetooth-speakers/sony-ult-tower-5-review",
-      "publishedAt": "2026-10-11T20:00:00.000Z",
-      "author": "",
-      "description": "Sony’s new ULT Tower 5 boasts colossal bass output, a striking look, and plenty of connectivity options at an affordable price, and it’s one of the best party speakers of the year.",
-      "image": "https://cdn.mos.cms.futurecdn.net/3S3ZT7YaWhcknwnWaQfA6E-1920-80.jpg",
-      "category": "喇叭",
-      "articleType": "評測"
-    },
-    {
-      "source": "BGR",
-      "title": "The Hidden Cost To Compare Before Buying Powered Or Passive Speakers - BGR",
-      "url": "https://www.bgr.com/2279835/powered-vs-passive-speakers-full-system-cost/",
-      "publishedAt": "2026-10-11T18:17:00.000Z",
-      "author": "Michael Bizzaco",
-      "description": "Comparing powered and passive speaker prices seems simple enough — until you add up everything you need to actually listen to your music.",
-      "image": "https://www.bgr.com/img/gallery/the-hidden-cost-to-compare-before-buying-powered-or-passive-speakers/l-intro-1791379107.jpg",
-      "category": "喇叭",
-      "articleType": "其他"
-    },
-    {
-      "source": "BGR",
-      "title": "If Your Expensive Bluetooth Headphones Sound Underwhelming, This Could Be Why - BGR",
-      "url": "https://www.bgr.com/2279505/why-expensive-bluetooth-headphones-sound-underwhelming/",
-      "publishedAt": "2026-10-11T17:17:00.000Z",
-      "author": "Michael Bizzaco",
-      "description": "If your headphones sound underwhelming, it could be because you need to tweak the EQ settings, but it may also be because of the audio source.",
-      "image": "https://www.bgr.com/img/gallery/if-your-expensive-bluetooth-headphones-sound-underwhelming-this-could-be-why/l-intro-1791321875.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "BGR",
-      "title": "5 Cheaper Alternatives To Beats Headphones Actually Worth Buying - BGR",
-      "url": "https://www.bgr.com/2279419/cheaper-alternatives-beats-headphones/",
-      "publishedAt": "2026-10-11T15:47:00.000Z",
-      "author": "Asad Kashif",
-      "description": "You don't have to pay Beats prices for good wireless headphones. These cheaper pairs offer noise cancellation, plenty of bass, and more.",
-      "image": "https://www.bgr.com/img/gallery/5-cheaper-alternatives-to-beats-headphones-actually-worth-buying/l-intro-1791318557.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "BGR",
-      "title": "5 Affordable Wireless Headsets You Can Use For Gaming And Music - BGR",
-      "url": "https://www.bgr.com/2279200/best-affordable-wireless-headsets-for-gaming-music/",
-      "publishedAt": "2026-10-11T12:17:00.000Z",
-      "author": "Nichols deCourville",
-      "description": "You want your wireless headsets to sound great no matter what you do, and these five are designed to get the best audio out of your music and your games.",
-      "image": "https://www.bgr.com/img/gallery/5-affordable-wireless-headsets-you-can-use-for-gaming-and-music/l-intro-1791311652.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "Tom's Guide",
-      "title": "I tested Sony’s new $68 headphones and they prove that you don’t have to spend more money for better sound",
-      "url": "https://www.tomsguide.com/audio/headphones/sony-wh-ch530-review",
-      "publishedAt": "2026-10-11T10:45:00.000Z",
-      "author": "",
-      "description": "Sign me up for a pop of color",
-      "image": "https://cdn.mos.cms.futurecdn.net/n8oehDpKxU5UGuF4rt95Ng-2520-80.jpg",
-      "category": "耳機",
       "articleType": "評測"
     }
   ]
