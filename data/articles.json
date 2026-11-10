@@ -1,8 +1,173 @@
 {
-  "generatedAt": "2026-11-09T02:32:05.142Z",
+  "generatedAt": "2026-11-10T00:50:06.542Z",
   "days": 30,
-  "count": 469,
+  "count": 473,
   "articles": [
+    {
+      "source": "BGR",
+      "title": "How Long Do Owners Say JBL Speakers Last? - BGR",
+      "url": "https://www.bgr.com/2309874/how-long-owners-say-jbl-speakers-last-lifespan/",
+      "publishedAt": "2026-11-09T17:17:00.000Z",
+      "author": "Nala Ortiz",
+      "description": "JBL sells a wide range of speakers, and their lifespans vary. Owners have shared how long theirs have lasted and what needed attention first.",
+      "image": "https://www.bgr.com/img/gallery/how-long-do-owners-say-jbl-speakers-last/l-intro-1794000314.jpg",
+      "category": "喇叭",
+      "articleType": "其他"
+    },
+    {
+      "source": "BGR",
+      "title": "3 Audio Accessories That Can Improve Your Roku Setup - BGR",
+      "url": "https://www.bgr.com/2307552/accessories-improve-roku-audio-setup/",
+      "publishedAt": "2026-11-09T16:47:00.000Z",
+      "author": "Michael Bizzaco",
+      "description": "The Roku wireless speakers, Soundcore Space 2 headphones, and Polk Audio Signa S2 Soundbar are some recommended accessories for better audio on your Roku TV.",
+      "image": "https://www.bgr.com/img/gallery/3-audio-accessories-that-can-improve-your-roku-setup/l-intro-1793873614.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "This portable turntable has touch controls and is made by a renowned record player manufacturer",
+      "url": "https://www.whathifi.com/hi-fi/turntables/this-portable-turntable-has-touch-controls-and-is-made-by-a-renowned-record-player-manufacturer",
+      "publishedAt": "2026-11-09T16:35:30.000Z",
+      "author": "Joe Svetlik",
+      "description": "Looks like much more than a reheated Sound Burger",
+      "image": "https://cdn.mos.cms.futurecdn.net/shnyDWWdSYP7KHa6wTvcXf-1280-80.jpg",
+      "category": "黑膠／唱盤",
+      "articleType": "其他"
+    },
+    {
+      "source": "TechRadar",
+      "title": "Sony's WH-1000XM6 headphones just plummeted to an all new low price — who needs Black Friday?",
+      "url": "https://www.techradar.com/audio/wireless-headphones/too-early-for-black-friday-sonys-wh-1000xm6-headphones-just-plummeted-to-a-new-all-time-low-price-of-usd378-and-really-thats-all-she-wrote",
+      "publishedAt": "2026-11-09T15:50:44.000Z",
+      "author": "Becky Scarrott",
+      "description": "You're getting them? Then my work here is done",
+      "image": "https://cdn.mos.cms.futurecdn.net/uAXBLTtRBh2rqdhNErwQVQ-1920-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "TechRadar",
+      "title": "Timekettle LiveTalk AI Translation Earbuds review",
+      "url": "https://www.techradar.com/pro/timekettle-livetalk-ai-translation-earbuds-review",
+      "publishedAt": "2026-11-09T15:23:33.000Z",
+      "author": "",
+      "description": "An in-ear translation device that offers audio translation as well as text",
+      "image": "https://cdn.mos.cms.futurecdn.net/GuEK9DdehXHMxHqphEg4KF-1200-80.jpg",
+      "category": "耳機",
+      "articleType": "評測"
+    },
+    {
+      "source": "TechRadar",
+      "title": "Meet Eric. He plays CDs, he's cheap, and he has loads of cool features",
+      "url": "https://www.techradar.com/audio/portable-media-players/gadhouses-new-cheap-portable-cd-player-packs-way-more-features-than-youd-expect-for-the-price-and-you-can-buy-it-now",
+      "publishedAt": "2026-11-09T15:00:00.000Z",
+      "author": "Tom Bedford",
+      "description": "Gadhouse's new CD player could be the budget option to beat, with a low price and some impressive tools.",
+      "image": "https://cdn.mos.cms.futurecdn.net/a2o8EwbyHKzPPSkheNk3Z7-922-80.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "Save $50 on Sennheiser Momentum 5 in first price drop",
+      "url": "https://www.soundguys.com/sennheiser-momentum-5-deal-166074/",
+      "publishedAt": "2026-11-09T14:44:25.000Z",
+      "author": "Matt Horne",
+      "description": "New Sennheiser Momentum 5 headphones hit an all-time low on Amazon at $349.95 with ANC, 57-hour battery life, and Bluetooth 5.4.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/05/Sennheiser-MOMENTUM-5-Wireless_015-scaled.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "Tom's Guide",
+      "title": "I wouldn't wait for Black Friday to buy the LG B6 OLED, Asics Gel-Kayano 30 and Bose QuietComfort headphones — they're all 50% off before Black Friday, plus 10 more deals I actually want for myself",
+      "url": "https://www.tomsguide.com/sales-events/the-early-black-friday-deals-id-actually-buy-starting-from-under-usd15",
+      "publishedAt": "2026-11-09T14:35:28.000Z",
+      "author": "Millie Davis-Williams",
+      "description": "Early Black Friday sales are getting started — these are the deals that I actually want to buy for myself.",
+      "image": "https://cdn.mos.cms.futurecdn.net/6g6DfCqMekjWBKVsoXNiiG-2000-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Thinking of starting a physical music collection? This Black Friday could be the perfect time",
+      "url": "https://www.whathifi.com/seasonal-sales/thinking-of-starting-a-physical-music-collection-now-is-a-good-time-to-start-as-black-friday-approaches",
+      "publishedAt": "2026-11-09T14:31:30.000Z",
+      "author": "Ioan Hazell",
+      "description": "Keep an eye out for discounted discs and great-value vinyl this sales season",
+      "image": "https://cdn.mos.cms.futurecdn.net/rWsGUpms4vCoME6TQuBBrQ-2560-80.jpg",
+      "category": "黑膠／唱盤",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Acoustic Energy’s resurrected AE2 40th Anniversary speakers are charming and persuasive alternatives to the more obvious modern class leaders",
+      "url": "https://www.whathifi.com/speakers/hi-fi-speakers/acoustic-energy-ae2-40th-anniversary",
+      "publishedAt": "2026-11-09T14:22:14.000Z",
+      "author": "",
+      "description": "A past master resurrected to great effect",
+      "image": "https://cdn.mos.cms.futurecdn.net/YnFT84YQ4BMg4cnBz3yeiK-1920-80.jpg",
+      "category": "喇叭",
+      "articleType": "其他"
+    },
+    {
+      "source": "TechRadar",
+      "title": "My pick of the deals on Nothing, JLab, Sennheiser and Soundcore headphones as an audio editor — why wait for Black Friday?",
+      "url": "https://www.techradar.com/audio/earbuds-airpods/huge-deals-on-nothing-sennheiser-and-jlab-headphones-just-landed-and-as-techradars-audio-editor-i-wouldnt-wait-for-black-friday",
+      "publishedAt": "2026-11-09T13:37:09.000Z",
+      "author": "Becky Scarrott",
+      "description": "Looking for headphones this Black Friday? It seems the massive sale's come early at Amazon — and don't just take our word for it, have a look!",
+      "image": "https://cdn.mos.cms.futurecdn.net/xDTALErJidQSXu6vFhVHge-2560-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "The Award-winning earbuds I use every day have fallen to a new low price, with 50% off",
+      "url": "https://www.whathifi.com/headphones/wireless-earbuds/the-award-winning-earbuds-i-use-every-day-have-fallen-to-a-new-low-price-with-50-percent-off",
+      "publishedAt": "2026-11-09T11:41:09.000Z",
+      "author": "Joe Svetlik, Daniel Furn",
+      "description": "Black Friday comes early: the Sony WF-C710N are now nearly half price",
+      "image": "https://cdn.mos.cms.futurecdn.net/GSdfws3gCPzqQUEzjVNBoW-1920-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "TechRadar",
+      "title": "Want to really hit those Spotify Wrapped hours? You can now listen on United flight seatbacks",
+      "url": "https://www.techradar.com/audio/spotify/forgot-to-download-your-spotify-playlists-before-a-flight-not-a-problem-thanks-to-a-new-partnership-with-united-airlines",
+      "publishedAt": "2026-11-09T10:33:34.000Z",
+      "author": "Tom Bedford",
+      "description": "Spotify Wrapped is going to monitor every second of your listening, so up those hours with United's new streaming option",
+      "image": "https://cdn.mos.cms.futurecdn.net/7TggXPZdjJXLQHLBgxjyai-1440-80.jpg",
+      "category": "串流播放器",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Huawei takes aim at Sony and Bose with its affordable noise-cancelling wireless earbuds",
+      "url": "https://www.whathifi.com/headphones/wireless-earbuds/huawei-takes-aim-at-sony-and-bose-with-its-affordable-noise-cancelling-wireless-earbuds",
+      "publishedAt": "2026-11-09T10:00:00.000Z",
+      "author": "Harry McKerrell",
+      "description": "Huawei lifts the lid on the FreeBuds SE 5 Max",
+      "image": "https://cdn.mos.cms.futurecdn.net/84xmXNPrdqijt9dUkgXEPF-2560-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Pro-Ject debuts a new turntable, Sony goes retro, we try out Sonus Faber's floorstanders",
+      "url": "https://www.whathifi.com/hi-fi/pro-ject-debuts-a-new-turntable-sony-goes-retro-and-we-try-out-sonus-fabers-gbp20-000-floorstanders",
+      "publishedAt": "2026-11-09T09:00:00.000Z",
+      "author": "Harry McKerrell",
+      "description": "Plus, we take LG's entry-level OLED for a spin",
+      "image": "https://cdn.mos.cms.futurecdn.net/uqFz4c4zeXFkzm8AKQVR4d-1920-80.png",
+      "category": "黑膠／唱盤",
+      "articleType": "新聞"
+    },
     {
       "source": "What Hi-Fi?",
       "title": "Retro or ANC? Sony and Bose are courting the younger generation with two very different wired headphone designs, and I'm all for it",
@@ -12,50 +177,6 @@
       "description": "Sony and Bose are going wired in two completely different ways",
       "image": "https://cdn.mos.cms.futurecdn.net/dvthUMyZGuxj6QBZsJYsYC-1920-80.png",
       "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "Engadget",
-      "title": "Suno AI music generator sued again for copyright infringement - Engadget",
-      "url": "https://www.engadget.com/2310316/suno-ai-music-generator-sued-again-for-copyright-infringement/",
-      "publishedAt": "2026-11-08T19:42:14.000Z",
-      "author": "Jackson Chen",
-      "description": "Groups that own the music rights to Elvis Presley and Eminem’s tracks filed the latest lawsuits.",
-      "image": "https://www.engadget.com/img/gallery/suno-ai-music-generator-sued-again-for-copyright-infringement/l-intro-1794166799.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "The Verge",
-      "title": "Elvis and Eminem rights holders are suing Suno",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
-      "publishedAt": "2026-11-08T17:23:19.000Z",
-      "author": "Terrence O'Brien",
-      "description": "Suno is facing two more lawsuits over AI music clones.",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22202367/517216004.jpg?quality=90&strip=all&crop=0%2C3.4730210448443%2C100%2C41.13900448979&w=1200",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "Engadget",
-      "title": "How long can you expect your Apple AirPods to last? - Engadget",
-      "url": "https://www.engadget.com/2307837/how-long-expect-apple-airpods-last/",
-      "publishedAt": "2026-11-08T16:30:00.000Z",
-      "author": "Filipe Espósito",
-      "description": "Here's how to get the most out of your AirPods.",
-      "image": "https://www.engadget.com/img/gallery/how-long-can-you-expect-your-apple-airpods-to-last/l-intro-1793612865.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "Engadget",
-      "title": "AI music can be difficult to detect, but there are some telltale signs - Engadget",
-      "url": "https://www.engadget.com/2308062/ai-music-difficult-to-detect-telltale-signs/",
-      "publishedAt": "2026-11-08T16:15:00.000Z",
-      "author": "Jack Peachey",
-      "description": "Not sure if a song was made by AI? Here's what to listen for in the vocals, lyrics and instrumentals, plus quick ways to check if an artist is real.",
-      "image": "https://www.engadget.com/img/gallery/ai-music-can-be-difficult-to-detect-but-there-are-some-telltale-signs/l-intro-1793895779.jpg",
-      "category": "其他音訊",
       "articleType": "其他"
     },
     {
@@ -276,17 +397,6 @@
       "description": "Black Friday – and some genuinely good discounts – arrive a few weeks early",
       "image": "https://cdn.mos.cms.futurecdn.net/j47u3tUzXtmtQFRPxgrdoE-1920-80.jpg",
       "category": "黑膠／唱盤",
-      "articleType": "其他"
-    },
-    {
-      "source": "The Verge",
-      "title": "How Akai and Moog are embracing vibe-coded mods",
-      "url": "https://www.theverge.com/tech/1028720/vibe-coding-open-source-inmusic-akai",
-      "publishedAt": "2026-11-06T16:34:39.000Z",
-      "author": "Terrence O'Brien",
-      "description": "inMusic is making open-source MPCs and hackable synths.",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/assets_47c5d023e7b3451a86ac03602c65dce8_43f25647cf8a4cbb8786829bc29ee2fb.webp?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "category": "其他音訊",
       "articleType": "其他"
     },
     {
@@ -3029,17 +3139,6 @@
       "articleType": "其他"
     },
     {
-      "source": "The Verge",
-      "title": "Apple Music has a new logo",
-      "url": "https://www.theverge.com/tech/1015533/apple-music-new-logo",
-      "publishedAt": "2026-10-21T15:48:12.000Z",
-      "author": "Jay Peters",
-      "description": "Boom.",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/videoframe_70284.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
       "source": "What Hi-Fi?",
       "title": "This Dolby Atmos soundbar system just won a What Hi-Fi? Award – and now it’s £713 off",
       "url": "https://www.whathifi.com/tv-home-cinema/soundbars/this-dolby-atmos-soundbar-system-just-won-a-what-hi-fi-award-and-now-its-gbp713-off",
@@ -5106,61 +5205,6 @@
       "image": "https://cdn.mos.cms.futurecdn.net/n8oehDpKxU5UGuF4rt95Ng-2520-80.jpg",
       "category": "耳機",
       "articleType": "評測"
-    },
-    {
-      "source": "BGR",
-      "title": "Buying A HomePod? Here Are 5 Smart Speakers To Try Instead - BGR",
-      "url": "https://www.bgr.com/2278723/smart-speakers-try-instead-apple-homepod/",
-      "publishedAt": "2026-10-11T00:17:00.000Z",
-      "author": "José Adorno",
-      "description": "Instead of an Apple HomePod, people should check out the JBL Authentic 500, Google Home Speaker, Amazon Echo Studio2, Sonos Play, and Amazon Echo Dot Max.",
-      "image": "https://www.bgr.com/img/gallery/buying-a-homepod-here-are-5-smart-speakers-to-try-instead/l-intro-1791296801.jpg",
-      "category": "喇叭",
-      "articleType": "其他"
-    },
-    {
-      "source": "TechRadar",
-      "title": "I test audio kit, and love these Ruark passive speakers' impeccable design and detailed sound — but you need a small room to enjoy them properly",
-      "url": "https://www.techradar.com/audio/speakers/ruark-audio-talisman-r-review",
-      "publishedAt": "2026-10-10T18:00:00.000Z",
-      "author": "",
-      "description": "The Ruark Audio Talisman-R doubles the size of its range of passive floorstanders",
-      "image": "https://cdn.mos.cms.futurecdn.net/cSdTjCBpaThepoFL5J4Em9-2560-80.jpg",
-      "category": "喇叭",
-      "articleType": "評測"
-    },
-    {
-      "source": "BGR",
-      "title": "What Is The AUX Port On Your Alexa Echo Speakers For? - BGR",
-      "url": "https://www.bgr.com/2278044/aux-port-amazon-alexa-uses-explained/",
-      "publishedAt": "2026-10-10T16:32:00.000Z",
-      "author": "Michael Bizzaco",
-      "description": "You may have noticed your Amazon Echo Speakers have an AUX port, but what purpose does the AUX port serve on your Echo device of choice?",
-      "image": "https://www.bgr.com/img/gallery/what-is-the-aux-port-on-your-alexa-echo-speakers-for/l-intro-1791229783.jpg",
-      "category": "喇叭",
-      "articleType": "其他"
-    },
-    {
-      "source": "BGR",
-      "title": "8 Of The Best Spatial Audio Earbuds You Can Buy In 2026 - BGR",
-      "url": "https://www.bgr.com/2279678/best-spatial-audio-earbuds-can-buy/",
-      "publishedAt": "2026-10-10T14:02:00.000Z",
-      "author": "Sydney Louw Butler",
-      "description": "Two separate Apple AirPods and Beats models are great for spatial audio and more; options from Sony, Google, Samsung, and Bose are worthy competitors.",
-      "image": "https://www.bgr.com/img/gallery/8-of-the-best-spatial-audio-earbuds-you-can-buy-in-2026/l-intro-1791397107.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "Tom's Guide",
-      "title": "I asked an audio engineer which earbuds he actually wears — and it’s not Apple, Bose or Sony",
-      "url": "https://www.tomsguide.com/audio/earbuds/i-asked-an-audio-engineer-which-earbuds-he-uses-and-all-i-have-to-say-is-this-i-told-you-so",
-      "publishedAt": "2026-10-10T08:30:00.000Z",
-      "author": "Erin Bashford",
-      "description": "I was talking, but no one was listening",
-      "image": "https://cdn.mos.cms.futurecdn.net/BnWZaz7R22jsbxxSVEdUgF-2000-80.jpg",
-      "category": "耳機",
-      "articleType": "其他"
     }
   ]
 }
