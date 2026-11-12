@@ -1,8 +1,19 @@
 {
-  "generatedAt": "2026-11-12T00:04:33.932Z",
+  "generatedAt": "2026-11-12T01:11:37.976Z",
   "days": 30,
-  "count": 482,
+  "count": 483,
   "articles": [
+    {
+      "source": "TechRadar",
+      "title": "Forget waiting for Black Friday — my favourite Apple earbuds just got a massive AU$130 discount",
+      "url": "https://www.techradar.com/audio/earbuds-airpods/forget-waiting-for-black-friday-my-favourite-apple-earbuds-just-got-a-massive-aud130-discount",
+      "publishedAt": "2026-11-12T00:15:00.000Z",
+      "author": "Max Langridge",
+      "description": "Plus score 20% off the AirPods Max 2 over ears",
+      "image": "https://cdn.mos.cms.futurecdn.net/QUDSfjH5kc29Ln76sma9Lh-1920-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
     {
       "source": "Tom's Guide",
       "title": "Bose recalls 670,000 Bluetooth speaker batteries due to fire risk — what to do now",
