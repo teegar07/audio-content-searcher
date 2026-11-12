@@ -1,8 +1,173 @@
 {
-  "generatedAt": "2026-11-11T02:38:37.286Z",
+  "generatedAt": "2026-11-12T00:04:33.932Z",
   "days": 30,
-  "count": 484,
+  "count": 482,
   "articles": [
+    {
+      "source": "Tom's Guide",
+      "title": "Bose recalls 670,000 Bluetooth speaker batteries due to fire risk — what to do now",
+      "url": "https://www.tomsguide.com/audio/bluetooth-speakers/bose-recalls-670-000-bluetooth-speaker-batteries-due-to-fire-risk-what-to-do-now",
+      "publishedAt": "2026-11-11T19:34:40.000Z",
+      "author": "Scott Younker",
+      "description": "Affects the S1 Pro and S1 Pro+ systems",
+      "image": "https://cdn.mos.cms.futurecdn.net/7SkKfeZKjrFUTemvSJX8cF-1182-80.jpg",
+      "category": "喇叭",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "Sony ULT WEAR headphones get a $105 Amazon price cut",
+      "url": "https://www.soundguys.com/sony-ult-wear-headphones-deal-2-166139/",
+      "publishedAt": "2026-11-11T17:02:19.000Z",
+      "author": "Matt Horne",
+      "description": "Sony ULT WEAR headphones drop to $144.95 on Amazon, bringing bass-heavy sound, ANC, and up to 50 hours of battery life.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2024/04/sony-ult-wear-topdown-reverse.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Looking for a top Dolby Atmos soundbar? These are all the soundbars to which our experts gave a 2026 What Hi-Fi? Award",
+      "url": "https://www.whathifi.com/speakers/looking-for-a-top-dolby-atmos-soundbar-these-are-all-the-soundbars-to-which-our-experts-gave-a-2026-what-hi-fi-award",
+      "publishedAt": "2026-11-11T16:33:36.000Z",
+      "author": "Daniel Furn",
+      "description": "Fantastic soundbars, and where to find them",
+      "image": "https://cdn.mos.cms.futurecdn.net/h9JCk23KQqh8Emhyk4izsh-1920-80.jpg",
+      "category": "Soundbar",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "Amazon cuts Baseus Bowie MC2 to $49.99, matching all-time low",
+      "url": "https://www.soundguys.com/baseus-bowie-mc2-deal-166131/",
+      "publishedAt": "2026-11-11T15:37:57.000Z",
+      "author": "Matt Horne",
+      "description": "Save $30 on the Baseus Bowie MC2 open-ear earbuds. This all-time low Amazon deal brings clip-on comfort and bassy sound for less.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/07/Baseus-Bowie-MC2-Earbuds-Press-Image.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "LG quietly announces one of its 2027 OLED TVs early – but it’s not a C6 successor",
+      "url": "https://www.whathifi.com/tv-home-cinema/televisions/lg-quietly-announces-one-of-its-2027-oled-tvs-early-but-its-not-a-c6-successor",
+      "publishedAt": "2026-11-11T15:28:00.000Z",
+      "author": "Lewis Empson",
+      "description": "A new wafer-thin TV for your wall?",
+      "image": "https://cdn.mos.cms.futurecdn.net/SNn6KwZecAuw8g5HC4fHvK-1600-80.jpg",
+      "category": "其他音訊",
+      "articleType": "新聞"
+    },
+    {
+      "source": "TechRadar",
+      "title": "Which headphones or earbuds should you buy this Black Friday? Take our simple quiz to find out, and find the perfect pair to give as a gift",
+      "url": "https://www.techradar.com/audio/wireless-headphones/get-the-best-headphones-or-earbuds-for-you-with-our-simple-headphone-finder-quiz-all-picked-by-an-audio-editor",
+      "publishedAt": "2026-11-11T15:00:00.000Z",
+      "author": "Becky Scarrott",
+      "description": "A few quick questions, a few great models to test drive",
+      "image": "https://cdn.mos.cms.futurecdn.net/nHdq3x2WeR7rueaRN2ndkA-2560-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Their charming and easy-going nature makes these Ruark floorstanders an appealing listen",
+      "url": "https://www.whathifi.com/speakers/hi-fi-speakers/ruark-talisman-r",
+      "publishedAt": "2026-11-11T14:56:40.000Z",
+      "author": "",
+      "description": "Ruark’s Talisman-R floorstanders are nicely made, easy to partner and a pleasure to listen to.",
+      "image": "https://cdn.mos.cms.futurecdn.net/5y2QVkVttdoG5o4NiL3j68-1920-80.jpg",
+      "category": "喇叭",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Watching this blockbuster made me wonder if we have a volume problem in cinemas – but do you agree?",
+      "url": "https://www.whathifi.com/av/watching-this-blockbuster-made-me-wonder-if-we-have-a-volume-problem-in-cinemas-but-do-you-agree",
+      "publishedAt": "2026-11-11T14:04:50.000Z",
+      "author": "Robyn Quick",
+      "description": "The movie lover’s Goldilocks Conundrum",
+      "image": "https://cdn.mos.cms.futurecdn.net/ufE79QBgmRc8XiHiCHftkP-2560-80.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "TechRadar",
+      "title": "6 things you need to think about before upgrading to an AV receiver and surround sound speaker home theater system — make life easy on yourself with our tips",
+      "url": "https://www.techradar.com/televisions/home-theater/6-things-to-think-about-before-upgrading-to-an-av-receiver-and-surround-sound-speaker-system",
+      "publishedAt": "2026-11-11T13:46:45.000Z",
+      "author": "James Davidson",
+      "description": "A problem-solving solution",
+      "image": "https://cdn.mos.cms.futurecdn.net/FYo7YNMnejWsmS3eo5UGcE-2560-80.jpg",
+      "category": "喇叭",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "This five-star turntable is easy to use, has stupendous sound and is at a new low price – but only until midnight",
+      "url": "https://www.whathifi.com/hi-fi/turntables/this-five-star-turntable-is-easy-to-use-has-stupendous-sound-and-is-at-a-new-low-price-but-only-until-midnight",
+      "publishedAt": "2026-11-11T12:53:02.000Z",
+      "author": "Daniel Furn",
+      "description": "An outstanding opportunity to get a versatile, all-in-one turntable",
+      "image": "https://cdn.mos.cms.futurecdn.net/v7zEFZ2tmenV8QzotsWKn3-1920-80.jpg",
+      "category": "黑膠／唱盤",
+      "articleType": "其他"
+    },
+    {
+      "source": "Tom's Guide",
+      "title": "9 early Black Friday Apple deals — AirPods Pro 3 $60 off, $100 off iPhone Air and $200 off MacBook Air M5",
+      "url": "https://www.tomsguide.com/computing/ipads/9-of-the-best-early-black-friday-apple-discounts-available-airpods-pro-3-mac-mini-m6-iphone-air-and-more",
+      "publishedAt": "2026-11-11T12:29:49.000Z",
+      "author": "Tom Pritchard",
+      "description": "Apple discounts are rare, so take advantage while you can",
+      "image": "https://cdn.mos.cms.futurecdn.net/XKQCLNddWK9LBX5qY4xgRP-2000-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "TechRadar",
+      "title": "I can’t believe how good Sony’s new on-ear headphones sound for the price, but one thing may still put you off — here’s why I think they’re worth it",
+      "url": "https://www.techradar.com/audio/wireless-headphones/sony-wh-ch530-review",
+      "publishedAt": "2026-11-11T12:00:00.000Z",
+      "author": "",
+      "description": "The Sony WH-CH530 are excellent on-ear headphones with impactful warm bass and an exquisite low price to match.",
+      "image": "https://cdn.mos.cms.futurecdn.net/vvvmxWsnL8NBjC2e3VkJ8f-1920-80.jpg",
+      "category": "耳機",
+      "articleType": "評測"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "What Hi-Fi? Awards 2026: four superb CD players with outstanding sound quality send us into a spin",
+      "url": "https://www.whathifi.com/hi-fi/cd-players/what-hi-fi-awards-2026-four-superb-cd-players-with-outstanding-sound-quality-send-us-into-a-spin",
+      "publishedAt": "2026-11-11T10:39:48.000Z",
+      "author": "Andy Madden",
+      "description": "There’s a double win for Arcam",
+      "image": "https://cdn.mos.cms.futurecdn.net/bGNACudCcvmvbS6uJbCa7M-1920-80.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Cambridge Audio brings room correction technology to its L/R active speakers",
+      "url": "https://www.whathifi.com/speakers/hi-fi-speakers/cambridge-audio-brings-room-correction-to-its-l-r-x-and-l-r-m-speakers",
+      "publishedAt": "2026-11-11T10:00:00.000Z",
+      "author": "Ioan Hazell",
+      "description": "The update comes via a free update to the StreamMagic app",
+      "image": "https://cdn.mos.cms.futurecdn.net/9Y7Ymirj7g4ciWdXLKib9B-2043-80.jpg",
+      "category": "喇叭",
+      "articleType": "其他"
+    },
+    {
+      "source": "Tom's Guide",
+      "title": "I’ve been testing the Bose Noise Cancelling Wired Earbuds for a week, and now I see why they’ve been sold out since launch",
+      "url": "https://www.tomsguide.com/audio/earbuds/bose-noise-cancelling-wired-earbuds-review",
+      "publishedAt": "2026-11-11T07:30:00.000Z",
+      "author": "",
+      "description": "Say buh-bye to your Apple EarPods — or even your favorite budget wireless earbuds.",
+      "image": "https://cdn.mos.cms.futurecdn.net/fhSBsds9WFG4TLTfbKgktf-2560-80.jpg",
+      "category": "耳機",
+      "articleType": "評測"
+    },
     {
       "source": "The Verge",
       "title": "Google’s Pixel Tag tracker is now available",
@@ -2023,7 +2188,7 @@
       "publishedAt": "2026-10-28T22:01:32.000Z",
       "author": "",
       "description": "Sonos’s mid-sized soundbar is an apartment and bedroom cinema beast",
-      "image": "https://cdn.mos.cms.futurecdn.net/7bgpkkC6RJyxWk7xdjiWz3-2560-80.jpg",
+      "image": "https://cdn.mos.cms.futurecdn.net/Sa4FS6JDsFbnpNn4ogc7z3-2560-80.jpg",
       "category": "Soundbar",
       "articleType": "評測"
     },
@@ -3948,7 +4113,7 @@
       "publishedAt": "2026-10-17T20:02:00.000Z",
       "author": "Phaedra Corrente",
       "description": "Smartphone manufacturers compete on every conceivable level, including which can squeeze the most high-quality sound out of factory-installed speakers.",
-      "image": "https://www.bgr.com/img/gallery/5-phones-with-the-best-built-in-speakers/l-intro-1791900542.jpg",
+      "image": "https://www.bgr.com/img/gallery/5-phones-with-the-best-built-in-speakers/l-intro-1794417740.jpg",
       "category": "喇叭",
       "articleType": "其他"
     },
@@ -5139,193 +5304,6 @@
       "image": "https://www.soundguys.com/wp-content/uploads/2026/09/Bose-Noise-Canceling-wired-earbuds-on-a-table.jpg",
       "category": "耳機",
       "articleType": "其他"
-    },
-    {
-      "source": "BGR",
-      "title": "Buying Bose QuietComfort Ultra Earbuds? Here Are 5 Comparable Choices To Consider Instead - BGR",
-      "url": "https://www.bgr.com/2280651/bose-quietcomfort-ultra-earbuds-alternatives-consider-instead/",
-      "publishedAt": "2026-10-12T23:47:00.000Z",
-      "author": "Shahmeer Shahzad",
-      "description": "Bose's QuietComfort Ultra buds are considered by many to be the gold standard ANC option. However, lots of other premium (and budget) options are also great.",
-      "image": "https://www.bgr.com/img/gallery/buying-bose-quietcomfort-ultra-earbuds-here-are-5-comparable-choices-to-consider-instead/l-intro-1791298274.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "The B-100C is Luxman's first mono power amp in 20 years",
-      "url": "https://www.whathifi.com/hi-fi/stereo-amplifiers/the-b-100c-is-luxmans-first-mono-power-amp-in-20-years",
-      "publishedAt": "2026-10-12T16:26:44.000Z",
-      "author": "Joe Svetlik",
-      "description": "And it looks like it was worth the wait",
-      "image": "https://cdn.mos.cms.futurecdn.net/itiX2eKDwj7JLf2gjMLjL3-2560-80.jpg",
-      "category": "DAC／擴大機",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "I’d heard Dali’s Sonik speakers were good with music, but I wasn’t prepared for this home cinema performance",
-      "url": "https://www.whathifi.com/tv-home-cinema/surround-sound-systems/dali-sonik-5-5-1",
-      "publishedAt": "2026-10-12T16:07:59.000Z",
-      "author": "",
-      "description": "Can Dali turn two five-star stereo speakers into a surround sound package that’s even better than the sum of its parts?",
-      "image": "https://cdn.mos.cms.futurecdn.net/JMVViirzhHPAEBuDL63AQo-1920-80.jpg",
-      "category": "喇叭",
-      "articleType": "其他"
-    },
-    {
-      "source": "SoundGuys",
-      "title": "Sony WH-1000XM5 headphones are back to their $198 all-time low",
-      "url": "https://www.soundguys.com/sony-wh-1000xm5-headphones-amazon-deal-164599/",
-      "publishedAt": "2026-10-12T14:45:13.000Z",
-      "author": "Matt Horne",
-      "description": "Despite Prime Day being over, Sony’s WH-1000XM5 noise-canceling headphones are still 50% off the $400 RRP.",
-      "image": "https://www.soundguys.com/wp-content/uploads/2023/10/Sony-WXM5-Headphones-Featured-Image-1-scaled.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "Fyne Audio celebrates its 10th anniversary with super limited floorstanders",
-      "url": "https://www.whathifi.com/speakers/hi-fi-speakers/fyne-audios-new-limited-edition-speakers-are-a-celebration-of-fyne-audios-first-decade",
-      "publishedAt": "2026-10-12T14:33:04.000Z",
-      "author": "Ioan Hazell",
-      "description": "Fyne fanatics act fast, only 30 pairs are available worldwide",
-      "image": "https://cdn.mos.cms.futurecdn.net/bg7giEbHz5wxe7tDdecn8P-2048-80.jpg",
-      "category": "喇叭",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "I’ve tested Arcam’s new CD player, and it's a shot in the arm for audiophiles who love the format",
-      "url": "https://www.whathifi.com/hi-fi/cd-players/arcam-cd25",
-      "publishedAt": "2026-10-12T13:57:37.000Z",
-      "author": "",
-      "description": "We’re hoping for big things from Arcam’s step-up CD player – can it deliver?",
-      "image": "https://cdn.mos.cms.futurecdn.net/ycYT4x5PMsWD7KDmJpFaCV-1920-80.jpg",
-      "category": "其他音訊",
-      "articleType": "評測"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "Is the latest 13-inch iPad Air the pick of the range for movies on the move? I tested it to find out",
-      "url": "https://www.whathifi.com/smartphones-tablets/tablets/apple-ipad-air-13-inch-m4",
-      "publishedAt": "2026-10-12T13:30:20.000Z",
-      "author": "",
-      "description": "New chip, same awesome portable picture and sound performance.",
-      "image": "https://cdn.mos.cms.futurecdn.net/zrm4JvPLmM9cxVfQbKbnbm-1920-80.jpg",
-      "category": "其他音訊",
-      "articleType": "評測"
-    },
-    {
-      "source": "SoundGuys",
-      "title": "Nothing's CMF is making some noise with its first Bluetooth speakers",
-      "url": "https://www.soundguys.com/cmf-speaker-s-and-speaker-m-launch-164584/",
-      "publishedAt": "2026-10-12T13:00:59.000Z",
-      "author": "Shimul Sood",
-      "description": "CMF has launched its first Bluetooth speakers with IP68 protection, up to 18 hours of battery life, and prices starting at $59.",
-      "image": "https://www.soundguys.com/wp-content/uploads/2026/10/CMF-Speaker-S-and-Speaker-M-in-a-group.jpg",
-      "category": "喇叭",
-      "articleType": "新聞"
-    },
-    {
-      "source": "The Verge",
-      "title": "CMF’s first wireless speakers look like musical milk cartons",
-      "url": "https://www.theverge.com/tech/1008191/nothing-cmf-speaker-m-s-series-bluetooth-design-customize",
-      "publishedAt": "2026-10-12T13:00:00.000Z",
-      "author": "Andrew Liszewski",
-      "description": "CMF’s new speakers are not an excellent source of calcium.",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/cmf1.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
-      "category": "喇叭",
-      "articleType": "新聞"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "CMF's first Bluetooth speakers look like milk cartons, promise a full-fat sound",
-      "url": "https://www.whathifi.com/speakers/wireless-speakers/cmfs-first-bluetooth-speakers-look-like-milk-cartons-promise-a-full-fat-sound",
-      "publishedAt": "2026-10-12T13:00:00.000Z",
-      "author": "Joe Svetlik",
-      "description": "Nothing's sub-brand has a new range of colourful, capable wireless speakers",
-      "image": "https://cdn.mos.cms.futurecdn.net/A8QVxZ3o5A9YZ3VyR3Yf4a-2560-80.jpg",
-      "category": "喇叭",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "This LG OLED convinced me that small TVs can deliver a cinematic experience – and it’s £400 off",
-      "url": "https://www.whathifi.com/tv-home-cinema/televisions/this-lg-oled-convinced-me-that-small-tvs-can-deliver-a-cinematic-experience-and-its-gbp400-off",
-      "publishedAt": "2026-10-12T12:06:43.000Z",
-      "author": "Daniel Furn",
-      "description": "Small screen, low price, big impact",
-      "image": "https://cdn.mos.cms.futurecdn.net/XEy8WDzS5wCEPLsvxcrAJf-1920-80.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "TechRadar",
-      "title": "Technics EAH-A1000 review: over-ear headphones with class, detail and comfort that err just slightly on the side of caution",
-      "url": "https://www.techradar.com/audio/wireless-headphones/technics-eah-a1000-review",
-      "publishedAt": "2026-10-12T12:00:00.000Z",
-      "author": "",
-      "description": "Stunning and refined throughout, almost to a fault",
-      "image": "https://cdn.mos.cms.futurecdn.net/X8owCqqztoeSstG8V6dTGP-2560-80.jpg",
-      "category": "耳機",
-      "articleType": "評測"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "HMV to close flagship Oxford Street shop just three years after comeback – but record store fans still have reasons to smile",
-      "url": "https://www.whathifi.com/hi-fi/vinyl/hmv-to-close-flagship-oxford-street-shop-just-three-years-after-comeback-but-record-store-fans-still-have-reasons-to-smile",
-      "publishedAt": "2026-10-12T10:57:09.000Z",
-      "author": "Joe Svetlik",
-      "description": "The vinyl nail in the coffin? Soaring rent",
-      "image": "https://cdn.mos.cms.futurecdn.net/ptpw3JcjCKEXV49xgH3jRm-810-80.jpg",
-      "category": "黑膠／唱盤",
-      "articleType": "其他"
-    },
-    {
-      "source": "TechRadar",
-      "title": "'Its nature is very prominent, and there is a psychological aspect to it all' — Control Resonant composer says every Remedy game has 'absolute evil lurking in there' and he relies on the player's intelligence to understand it through music",
-      "url": "https://www.techradar.com/gaming/every-remedy-game-has-an-absolute-evil-lurking-at-its-core-that-affects-the-music-says-control-resonant-composer-and-he-uses-the-players-intelligence-and-the-ability-to-think-to-portray-the-psychological-aspect-in-the-soundtrack",
-      "publishedAt": "2026-10-12T10:00:00.000Z",
-      "author": "Demi Williams",
-      "description": "Control Resonant composer Petri Alanko says each Remedy title has \"evil\" at its core, and he relies on the player's intelligence to understand it through music.",
-      "image": "https://cdn.mos.cms.futurecdn.net/bPgqGvvWbrhavCzvmfgpLP-1920-80.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "Tom's Guide",
-      "title": "Massive Shokz sale takes 5% off our top bone conduction headphones",
-      "url": "https://www.tomsguide.com/audio/headphones/huge-sitewide-shokz-sale-save-5-percent-on-our-top-bone-conduction-headphones",
-      "publishedAt": "2026-10-12T09:30:00.000Z",
-      "author": "Louis Ramirez",
-      "description": "If you're a runner, Shokz makes the best open ear headphones to allow you to safely run outdoors. Use our exclusive coupon to save 5% on your next order.",
-      "image": "https://cdn.mos.cms.futurecdn.net/BNjTeZnVvJGThmgQynCxSQ-2000-80.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "Tom's Guide",
-      "title": "The Nothing Headphone (1) Pro prove the third time’s the charm as they’re the brand’s best headphones yet — but are they worth $399?",
-      "url": "https://www.tomsguide.com/audio/over-ear-headphones/nothing-headphone-1-pro-review",
-      "publishedAt": "2026-10-12T07:30:00.000Z",
-      "author": "",
-      "description": "They could walk the ramp at Paris Fashion Week and no one would bat an eye",
-      "image": "https://cdn.mos.cms.futurecdn.net/kayRBcKTEFNgEPCBSfbdXc-1920-80.jpg",
-      "category": "耳機",
-      "articleType": "評測"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "High-end speakers, an affordable five-star treat for home cinema fans, new Rega turntable rated and more",
-      "url": "https://www.whathifi.com/av/high-end-speakers-an-affordable-five-star-treat-for-home-cinema-fans-new-rega-turntable-rated-and-more",
-      "publishedAt": "2026-10-12T07:00:00.000Z",
-      "author": "Alastair Stevenson",
-      "description": "It was a week of reviews, reviews and more reviews, plus a couple of bits of news",
-      "image": "https://cdn.mos.cms.futurecdn.net/hgsv6cjpPSXG6NKHXFGe4b-1920-80.jpg",
-      "category": "喇叭",
-      "articleType": "評測"
     }
   ]
 }
