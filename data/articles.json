@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-14T22:02:17.268Z",
+  "generatedAt": "2026-11-14T22:51:43.609Z",
   "days": 30,
-  "count": 448,
+  "count": 447,
   "articles": [
     {
       "source": "TechRadar",
@@ -4918,17 +4918,6 @@
       "description": "The best way to experience movies at home",
       "image": "https://cdn.mos.cms.futurecdn.net/bEF944cLoHX4ukwm7dyFja-2560-80.jpg",
       "category": "Soundbar",
-      "articleType": "其他"
-    },
-    {
-      "source": "BGR",
-      "title": "YouTube Is Tackling A Big Problem With Music Transparency - BGR",
-      "url": "https://www.bgr.com/2288243/youtube-big-problem-with-ai-music-content-tags/",
-      "publishedAt": "2026-10-15T22:17:00.000Z",
-      "author": "Suzanne Bonnett",
-      "description": "For once, fans, artists, and the music industry agree that something needs to change, and YouTube Music is taking a big step toward making them happy.",
-      "image": "https://www.bgr.com/img/gallery/youtube-is-tackling-a-big-problem-with-music-transparency/l-intro-1792096905.jpg",
-      "category": "其他音訊",
       "articleType": "其他"
     }
   ]
