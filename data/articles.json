@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-14T01:22:44.965Z",
+  "generatedAt": "2026-11-14T02:05:10.920Z",
   "days": 30,
-  "count": 458,
+  "count": 457,
   "articles": [
     {
       "source": "Tom's Guide",
@@ -775,17 +775,6 @@
     },
     {
       "source": "What Hi-Fi?",
-      "title": "Leica’s upgraded premium 4K projector promises versatility and a bright display “even in ambient light”",
-      "url": "https://www.whathifi.com/tv-home-cinema/projectors/leicas-upgraded-premium-4k-projector-promises-versatility-and-a-bright-display-even-in-ambient-light",
-      "publishedAt": "2026-11-10T14:00:00.000Z",
-      "author": "Robyn Quick",
-      "description": "The camera brand takes another step into home cinema",
-      "image": "https://cdn.mos.cms.futurecdn.net/r8v5atJ6Hp8wtVqTTjV7M3-2560-80.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
       "title": "Meet the Dolby Atmos soundbar that looks like a cushion",
       "url": "https://www.whathifi.com/tv-home-cinema/soundbars/this-dolby-atmos-soundbar-is-designed-to-fit-in-with-your-homeware-but-i-see-a-problem",
       "publishedAt": "2026-11-10T14:00:00.000Z",
@@ -793,6 +782,17 @@
       "description": "The Knit Form is the brainchild of a former Denon/Marantz executive",
       "image": "https://cdn.mos.cms.futurecdn.net/Hx3fyhdzHe27MgDjew9NvH-2245-80.jpg",
       "category": "Soundbar",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Leica’s upgraded premium 4K projector promises versatility and a bright display “even in ambient light”",
+      "url": "https://www.whathifi.com/tv-home-cinema/projectors/leicas-upgraded-premium-4k-projector-promises-versatility-and-a-bright-display-even-in-ambient-light",
+      "publishedAt": "2026-11-10T14:00:00.000Z",
+      "author": "Robyn Quick",
+      "description": "The camera brand takes another step into home cinema",
+      "image": "https://cdn.mos.cms.futurecdn.net/r8v5atJ6Hp8wtVqTTjV7M3-2560-80.jpg",
+      "category": "其他音訊",
       "articleType": "其他"
     },
     {
@@ -5028,17 +5028,6 @@
       "description": "The Sennheiser Momentum True Wireless 5 have almost everything I want, but their design made me realize why I prefer stem earbuds.",
       "image": "https://www.soundguys.com/wp-content/uploads/2026/09/sennheiser-momentum-true-wireless-5-bud.jpg",
       "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "How to watch Australia vs New Zealand online for free from anywhere",
-      "url": "https://www.whathifi.com/streaming-entertainment/how-to-watch/australia-vs-new-zealand-free-rugby-league-world-cup-2026",
-      "publishedAt": "2026-10-15T02:00:00.000Z",
-      "author": "Adam Marshall",
-      "description": "How to watch Australia vs New Zealand online around the world. See TV channels, broadcast details, free live streams and Rugby League World Cup kick-off times.",
-      "image": "https://cdn.mos.cms.futurecdn.net/V96PJvgfLQCX7g73jCg4od-1920-80.jpg",
-      "category": "串流播放器",
       "articleType": "其他"
     }
   ]
