@@ -1,8 +1,63 @@
 {
-  "generatedAt": "2026-11-14T03:01:02.471Z",
+  "generatedAt": "2026-11-14T22:02:17.268Z",
   "days": 30,
-  "count": 457,
+  "count": 448,
   "articles": [
+    {
+      "source": "TechRadar",
+      "title": "'It’s time to retire the stereotype that gaming is a waste of time': Logitech is giving workers the day off to play video games — just as GTA VI is set to launch",
+      "url": "https://www.techradar.com/pro/its-time-to-retire-the-stereotype-that-gaming-is-a-waste-of-time-logitech-is-giving-workers-the-day-off-to-play-video-games-just-as-gta-vi-is-set-to-launch",
+      "publishedAt": "2026-11-14T19:05:00.000Z",
+      "author": "Mike Moore",
+      "description": "Better gamers make better workers, Logitech finds",
+      "image": "https://cdn.mos.cms.futurecdn.net/BqQtezEiLZaYHLpwR3rtsm-960-80.jpg",
+      "category": "其他音訊",
+      "articleType": "新聞"
+    },
+    {
+      "source": "Engadget",
+      "title": "Your Apple AirPods Pro can test your hearing in five minutes, but are they accurate? - Engadget",
+      "url": "https://www.engadget.com/2311946/apple-airpods-pro-test-hearing-five-minutes-accuracy/",
+      "publishedAt": "2026-11-14T18:45:00.000Z",
+      "author": "Robin Bea",
+      "description": "Can Apple's AirPods Pro really test a user's hearing to a recognized standard? They don't replace a doctor's appointment, but there's no harm in checking.",
+      "image": "https://www.engadget.com/img/gallery/your-apple-airpods-pro-can-test-your-hearing-in-five-minutes-but-are-they-accurate/l-intro-1794220922.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "BGR",
+      "title": "Ripping Your Old Discs Gets You Lossless Music That No Subscription Can Take Away - BGR",
+      "url": "https://www.bgr.com/2312110/ripping-old-cd-discs-lossless-music-no-subscription/",
+      "publishedAt": "2026-11-14T18:17:00.000Z",
+      "author": "Jordan Gloor",
+      "description": "Rip CDs into lossless FLAC or ALAC with Windows Media Player, Apple Music, or Android’s Discs app, then tag your music files using MusicBrainz Picard.",
+      "image": "https://www.bgr.com/img/gallery/ripping-your-old-discs-gets-you-lossless-music-that-no-subscription-can-take-away/l-intro-1794326629.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "TechRadar",
+      "title": "Get wired: the best IEMs, earbuds, headphones and hi-fi gifts of 2026, all chosen by TechRadar's audio expert",
+      "url": "https://www.techradar.com/audio/earbuds-airpods/get-wired-the-12-best-wired-headphones-earbuds-iems-players-and-hi-fi-gifts-of-2026-all-picked-by-an-audio-expert",
+      "publishedAt": "2026-11-14T11:00:00.000Z",
+      "author": "Becky Scarrott",
+      "description": "Whether you want to gift cheap wired earbuds, elite open-back cans, passive tower speakers or any kind of portable DAC, these are the best we've used the year",
+      "image": "https://cdn.mos.cms.futurecdn.net/PzsLRu2GCHsF57LbFkSHhc-2050-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "Tom's Guide",
+      "title": "Don’t wait for Black Friday to upgrade your commute: the Sony, Bose and CMF by Nothing headphones and earbuds I use to stay in the zone have already dropped in price",
+      "url": "https://www.tomsguide.com/audio/dont-wait-for-black-friday-to-upgrade-your-commute-the-sony-bose-and-cmf-by-nothing-headphones-and-earbuds-i-use-to-stay-in-the-zone-when-travelling-have-already-dropped-in-price",
+      "publishedAt": "2026-11-14T07:00:00.000Z",
+      "author": "Ashley Thieme",
+      "description": "I love my commuting bubble",
+      "image": "https://cdn.mos.cms.futurecdn.net/zDG7F7MVayYKKperaf3DhM-1920-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
     {
       "source": "Tom's Guide",
       "title": "3 best new to Netflix movies you should stream this weekend — including a new mystery thriller set in Music City that stars an Oscar winner (Nov. 13–15)",
@@ -390,12 +445,12 @@
     },
     {
       "source": "What Hi-Fi?",
-      "title": "How to watch Australia vs England ODI series 2026: Live stream cricket for free from anywhere",
+      "title": "How to watch Australia vs England ODI series 2026: Live stream cricket for free from anywhere, 2nd ODI",
       "url": "https://www.whathifi.com/streaming-entertainment/how-to-watch/australia-vs-england-odi-series-2026",
       "publishedAt": "2026-11-12T21:00:00.000Z",
       "author": "Andy Murray",
-      "description": "With the 50-over World Cup looming, the old foes clash Down Under for a three-match tune-up",
-      "image": "https://cdn.mos.cms.futurecdn.net/wEWNYCEVrErtWPW5TyxuvC-1024-80.jpg",
+      "description": "With the 50-over World Cup looming, the old foes clash Down Under with the hosts one up",
+      "image": "https://cdn.mos.cms.futurecdn.net/T6oKUyWFsykb6J78u8cw3i-1024-80.jpg",
       "category": "串流播放器",
       "articleType": "其他"
     },
@@ -4874,160 +4929,6 @@
       "description": "For once, fans, artists, and the music industry agree that something needs to change, and YouTube Music is taking a big step toward making them happy.",
       "image": "https://www.bgr.com/img/gallery/youtube-is-tackling-a-big-problem-with-music-transparency/l-intro-1792096905.jpg",
       "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "Tom's Guide",
-      "title": "AI-generated music is flooding streaming services — here's how YouTube Music is fighting back",
-      "url": "https://www.tomsguide.com/ai/ai-generated-music-is-flooding-streaming-services-heres-how-youtube-music-is-fighting-back",
-      "publishedAt": "2026-10-15T19:14:16.000Z",
-      "author": "Elton Jones",
-      "description": "AI slop tunes will be a lot harder to spot with YouTube Music’s new system",
-      "image": "https://cdn.mos.cms.futurecdn.net/rSPHnCjQ7RoeV2Sb7wp42B-2560-80.jpg",
-      "category": "串流播放器",
-      "articleType": "其他"
-    },
-    {
-      "source": "SoundGuys",
-      "title": "I've tested the best cheap earbuds of 2026, and these are the ones under $100 worth buying",
-      "url": "https://www.soundguys.com/best-wireless-earbuds-under-100-20397/",
-      "publishedAt": "2026-10-15T19:00:34.000Z",
-      "author": "Adam Birney",
-      "description": "You don't need to settle. We're here to tell you which affordable wireless earbuds under $100 are actually worth buying in 2026.",
-      "image": "https://www.soundguys.com/wp-content/uploads/2026/07/Earbuds-buying-guide-hero-1-scaled.jpeg",
-      "category": "耳機",
-      "articleType": "評測"
-    },
-    {
-      "source": "SoundGuys",
-      "title": "The Nothing Headphone (1) Pro has features I wish every headphone had",
-      "url": "https://www.soundguys.com/nothing-headphone-1-pro-review-163291/",
-      "publishedAt": "2026-10-15T18:31:02.000Z",
-      "author": "Christian Thomas",
-      "description": "Nothing just released a step up to the Headphone (1). We take a deep dive in our Nothing Headphone (1) Pro review.",
-      "image": "https://www.soundguys.com/wp-content/uploads/2026/09/nothing-headphone-1-pro-hero.jpg",
-      "category": "耳機",
-      "articleType": "評測"
-    },
-    {
-      "source": "TechRadar",
-      "title": "‘The explosion of AI-generated content continues to impact the whole music ecosystem’: Deezer will let you ban AI music from your feed as YouTube Music adds warning labels for slop",
-      "url": "https://www.techradar.com/audio/audio-streaming/youtube-music-adds-ai-labels-to-warn-you-about-slop-as-deezer-goes-further-with-new-on-off-toggle-for-millions-of-ai-generated-songs",
-      "publishedAt": "2026-10-15T16:54:44.000Z",
-      "author": "Alex Blake",
-      "description": "YouTube Music and Deezer are taking steps to label and exclude AI music from users’ feeds",
-      "image": "https://cdn.mos.cms.futurecdn.net/X82eAuwGtgjwDveULymzWg-2000-80.jpg",
-      "category": "串流播放器",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "Are you a Sky Sports subscriber? You can now save money by paying only for the sports you want to watch",
-      "url": "https://www.whathifi.com/streaming-entertainment/are-you-a-sky-sports-subscriber-you-can-now-save-money-by-paying-only-for-the-sports-you-want-to-watch",
-      "publishedAt": "2026-10-15T16:04:13.000Z",
-      "author": "Daniel Furn",
-      "description": "Subscribing just for football? We have good news for you...",
-      "image": "https://cdn.mos.cms.futurecdn.net/uejzdj9scoWgn3uhAbuSTo-1920-80.jpg",
-      "category": "串流播放器",
-      "articleType": "新聞"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "Modern Classics: NAD unveils a new streaming amplifier and CD player in its Classic Series",
-      "url": "https://www.whathifi.com/hi-fi/cd-players/modern-classics-nad-unveils-a-new-streaming-amplifier-and-cd-player-in-its-classic-series",
-      "publishedAt": "2026-10-15T15:18:45.000Z",
-      "author": "Joe Svetlik",
-      "description": "Say hello to the C 359S streaming amp and C 569 CD player",
-      "image": "https://cdn.mos.cms.futurecdn.net/SmX893NUUYAiYkZuvknV6Z-2560-80.jpg",
-      "category": "DAC／擴大機",
-      "articleType": "新聞"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "Three 4K home cinema projectors are set to trump their predecessors with an \"upgraded viewing experience\"",
-      "url": "https://www.whathifi.com/tv-home-cinema/projectors/three-4k-home-cinema-projectors-are-set-to-trump-their-predecessors-with-an-upgraded-viewing-experience",
-      "publishedAt": "2026-10-15T14:54:56.000Z",
-      "author": "Robyn Quick",
-      "description": "A new generation for Xgimi's Horizon Series",
-      "image": "https://cdn.mos.cms.futurecdn.net/Q82ZboAx4vrjUnYXGsmujK-1920-80.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "Tom's Guide",
-      "title": "Edifier Promo Codes in Nov 2026 | Exclusive $10 Gift Card",
-      "url": "https://www.tomsguide.com/audio/edifier-coupons",
-      "publishedAt": "2026-10-15T14:08:53.000Z",
-      "author": "Nathan Walters",
-      "description": "Use one of our 6 Edifier promo codes to help you save on audiophile-level headphones, gaming headsets, earphones and speakers",
-      "image": "https://cdn.mos.cms.futurecdn.net/DGvVkD8T9xf5LYxLede2Dh-1920-80.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "Moon's premium integrated amplifier vows to combine \"exceptional sound\" with an \"elegant, timeless form\"",
-      "url": "https://www.whathifi.com/hi-fi/stereo-amplifiers/moons-premium-integrated-amplifier-vows-to-combine-exceptional-sound-with-an-elegant-timeless-form",
-      "publishedAt": "2026-10-15T14:07:09.000Z",
-      "author": "Harry McKerrell",
-      "description": "The Moon 341 is yours for £4400",
-      "image": "https://cdn.mos.cms.futurecdn.net/kmYLRFpRsU8X9qU2KiR3Ci-1920-80.jpg",
-      "category": "DAC／擴大機",
-      "articleType": "其他"
-    },
-    {
-      "source": "TechRadar",
-      "title": "‘The sort of bass that you feel in your soul’: I tested Marshall’s smallest party speaker yet, and it offers no shortage of low-end might — but is it worth its steep asking price?",
-      "url": "https://www.techradar.com/audio/wireless-bluetooth-speakers/marshall-bromley-150-review",
-      "publishedAt": "2026-10-15T13:00:00.000Z",
-      "author": "",
-      "description": "Marshall’s new cube-shaped party speaker blew me away with its astonishing bass output, luxurious lights, and timeless aesthetic.",
-      "image": "https://cdn.mos.cms.futurecdn.net/82hx35V2DHWiXpKyU6Gu5K-1920-80.jpg",
-      "category": "喇叭",
-      "articleType": "評測"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "It has been two years since we reviewed these £28 Sony earbuds – here’s why they are still winning What Hi-Fi? Awards",
-      "url": "https://www.whathifi.com/headphones/wireless-earbuds/it-has-been-two-years-since-we-reviewed-these-gbp28-sony-earbuds-heres-why-they-are-still-winning-what-hi-fi-awards",
-      "publishedAt": "2026-10-15T12:20:05.000Z",
-      "author": "Daniel Furn",
-      "description": "One of our cheapest-ever Award winners gets the gong for the third time",
-      "image": "https://cdn.mos.cms.futurecdn.net/owENLFHgWCrKxKZwPmqobR-1920-80.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "The Fairbuds 2 are repairable, support hi-res audio and cost less than their predecessors",
-      "url": "https://www.whathifi.com/headphones/wireless-earbuds/the-fairbuds-2-are-repairable-support-hi-res-audio-and-cost-less-than-their-predecessors",
-      "publishedAt": "2026-10-15T11:41:04.000Z",
-      "author": "Joe Svetlik",
-      "description": "An eco-friendly design meets audiophile specification",
-      "image": "https://cdn.mos.cms.futurecdn.net/5qaHVSVeKMC7Q3CSLYY2Lf-2560-80.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "TechRadar",
-      "title": "Google is breathing new life into your old Nest speaker with a new firmware update, but you need Preview Program access — here’s how you can sign up",
-      "url": "https://www.techradar.com/home/smart-speakers/no-google-hasnt-forgotten-about-your-old-nest-speakers-and-theres-a-big-firmware-update-for-the-preview-program-coming-heres-how-you-can-sign-up",
-      "publishedAt": "2026-10-15T11:22:38.000Z",
-      "author": "Rowan Davies",
-      "description": "A handful of older speakers are getting audio streaming upgrades, as well as fixes for smart-home controls and connectivity.",
-      "image": "https://cdn.mos.cms.futurecdn.net/87vHSxLt2Ywu7EjENCoq9N-1920-80.jpg",
-      "category": "喇叭",
-      "articleType": "其他"
-    },
-    {
-      "source": "SoundGuys",
-      "title": "The Sennheiser Momentum True Wireless 5 made me realize I'm a stem guy",
-      "url": "https://www.soundguys.com/the-sennheiser-momentum-true-wireless-5-made-me-realize-im-a-stem-guy-164644/",
-      "publishedAt": "2026-10-15T09:00:23.000Z",
-      "author": "Dave Carr",
-      "description": "The Sennheiser Momentum True Wireless 5 have almost everything I want, but their design made me realize why I prefer stem earbuds.",
-      "image": "https://www.soundguys.com/wp-content/uploads/2026/09/sennheiser-momentum-true-wireless-5-bud.jpg",
-      "category": "耳機",
       "articleType": "其他"
     }
   ]
