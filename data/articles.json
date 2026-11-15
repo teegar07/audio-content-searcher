@@ -1,8 +1,19 @@
 {
-  "generatedAt": "2026-11-14T23:33:01.828Z",
+  "generatedAt": "2026-11-15T00:51:24.027Z",
   "days": 30,
   "count": 447,
   "articles": [
+    {
+      "source": "BGR",
+      "title": "5 Android Tablets That Still Have A Headphone Jack In 2026 - BGR",
+      "url": "https://www.bgr.com/2313192/android-tablets-with-headphone-jack-available-now/",
+      "publishedAt": "2026-11-14T23:47:00.000Z",
+      "author": "Andrew Morrisey",
+      "description": "Despite a trend toward wireless connections, some Android tablets still have a headphone jack in 2026. Among them are models from TCL, Samsung, and Lenovo.",
+      "image": "https://www.bgr.com/img/gallery/5-android-tablets-that-still-have-a-headphone-jack-in-2026/l-intro-1794400517.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
     {
       "source": "TechRadar",
       "title": "'It’s time to retire the stereotype that gaming is a waste of time': Logitech is giving workers the day off to play video games — just as GTA VI is set to launch",
@@ -13,17 +24,6 @@
       "image": "https://cdn.mos.cms.futurecdn.net/BqQtezEiLZaYHLpwR3rtsm-960-80.jpg",
       "category": "其他音訊",
       "articleType": "新聞"
-    },
-    {
-      "source": "Engadget",
-      "title": "Your Apple AirPods Pro can test your hearing in five minutes, but are they accurate? - Engadget",
-      "url": "https://www.engadget.com/2311946/apple-airpods-pro-test-hearing-five-minutes-accuracy/",
-      "publishedAt": "2026-11-14T18:45:00.000Z",
-      "author": "Robin Bea",
-      "description": "Can Apple's AirPods Pro really test a user's hearing to a recognized standard? They don't replace a doctor's appointment, but there's no harm in checking.",
-      "image": "https://www.engadget.com/img/gallery/your-apple-airpods-pro-can-test-your-hearing-in-five-minutes-but-are-they-accurate/l-intro-1794220922.jpg",
-      "category": "耳機",
-      "articleType": "其他"
     },
     {
       "source": "BGR",
