@@ -1,8 +1,19 @@
 {
-  "generatedAt": "2026-11-15T23:41:34.843Z",
+  "generatedAt": "2026-11-16T00:52:43.400Z",
   "days": 30,
-  "count": 438,
+  "count": 439,
   "articles": [
+    {
+      "source": "TechRadar",
+      "title": "Merlin's beard: are those AirPods? Nope, but they look close enough, and offer some key extra features",
+      "url": "https://www.techradar.com/audio/earbuds-airpods/one-of-our-favorite-cheap-earbuds-brands-just-launched-airpods-pro-3-rivals-costing-half-as-much-as-apples-buds-but-with-decent-battery-life",
+      "publishedAt": "2026-11-16T00:05:00.000Z",
+      "author": "Tom Bedford",
+      "description": "The Soundpeats Air6 Pro look like AirPods Pro 3s but cost half as much, and have multiple drivers, LDAC support and a much longer-lasting battery.",
+      "image": "https://cdn.mos.cms.futurecdn.net/DYLvQa9JR9i3bjpN79HmjL-2479-80.jpg",
+      "category": "耳機",
+      "articleType": "新聞"
+    },
     {
       "source": "TechRadar",
       "title": "The Apple AirPods Pro 3 plummet to their lowest-ever Aussie price — now just AU$289 for today only",
