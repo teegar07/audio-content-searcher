@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-16T00:52:43.400Z",
+  "generatedAt": "2026-11-16T01:52:36.019Z",
   "days": 30,
-  "count": 439,
+  "count": 437,
   "articles": [
     {
       "source": "TechRadar",
@@ -4808,28 +4808,6 @@
       "description": "Building better playlists and adding more movies to my streaming queues, thanks to AI",
       "image": "https://cdn.mos.cms.futurecdn.net/ThEVo67v8BFSTb5kuVJ7fP-2560-80.jpg",
       "category": "串流播放器",
-      "articleType": "其他"
-    },
-    {
-      "source": "BGR",
-      "title": "5 Amazon Finds For The Ultimate Music Production Starter Kit - BGR",
-      "url": "https://www.bgr.com/2284384/amazon-finds-ultimate-music-production-starter-kit/",
-      "publishedAt": "2026-10-17T01:17:00.000Z",
-      "author": "Nichols deCourville",
-      "description": "IK Multimedia makes a device that's great for connecting an instrument to MacBooks, but a MIDI keyboard controller from Akai can expand instrumentation options.",
-      "image": "https://www.bgr.com/img/gallery/5-amazon-finds-for-the-ultimate-music-production-starter-kit/l-intro-1791828718.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "TechRadar",
-      "title": "The headphones that transmit bass through your skin just got an upgraded version — and it's no gimmick: we said the first model 'recreates the experience of being at a live gig much better than I could've imagined'",
-      "url": "https://www.techradar.com/audio/wireless-headphones/visceral-sound-these-headphones-promise-better-bass-by-transmitting-it-through-your-skin-not-your-ears-we-tried-the-first-generation-of-the-tech-and-its-astoundingly-good-so-were-excited-by-this-upgraded-version",
-      "publishedAt": "2026-10-17T01:00:00.000Z",
-      "author": "Carrie Marshall",
-      "description": "Sonic Lamb's new Beyond headphones deliver low-frequency pulses through your skin for 'visceral sound'",
-      "image": "https://cdn.mos.cms.futurecdn.net/VehKMN3Y54GvACiyq5RdZX-2048-80.png",
-      "category": "耳機",
       "articleType": "其他"
     }
   ]
