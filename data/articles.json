@@ -1,8 +1,30 @@
 {
-  "generatedAt": "2026-11-16T01:52:36.019Z",
+  "generatedAt": "2026-11-16T02:41:19.590Z",
   "days": 30,
-  "count": 437,
+  "count": 439,
   "articles": [
+    {
+      "source": "What Hi-Fi?",
+      "title": "The Amazon Australia Black Friday sale goes live tomorrow — shop these 20 early deals and beat the crowds",
+      "url": "https://www.whathifi.com/seasonal-sales/amazon-black-friday-sales-au",
+      "publishedAt": "2026-11-16T02:24:28.000Z",
+      "author": "Max Langridge",
+      "description": "Now's your chance to save big on headphones, speakers, projectors and more",
+      "image": "https://cdn.mos.cms.futurecdn.net/fRe7PQ5UNhGayXjzDQsFL3-800-80.png",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "BGR",
+      "title": "Who Needs A Bluetooth Tracker For Their Luggage? - BGR",
+      "url": "https://www.bgr.com/2315226/who-needs-bluetooth-tracker-luggage/",
+      "publishedAt": "2026-11-16T02:17:00.000Z",
+      "author": "Suzanne Bonnett",
+      "description": "Bluetooth trackers are great for keeping tabs on all manner of everyday items, but does it also make sense to put one in your luggage?",
+      "image": "https://www.bgr.com/img/gallery/who-needs-a-bluetooth-tracker-for-their-luggage/l-intro-1794510073.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
     {
       "source": "TechRadar",
       "title": "Merlin's beard: are those AirPods? Nope, but they look close enough, and offer some key extra features",
