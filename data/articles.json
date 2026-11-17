@@ -1,8 +1,19 @@
 {
-  "generatedAt": "2026-11-17T01:34:22.916Z",
+  "generatedAt": "2026-11-17T02:14:49.492Z",
   "days": 30,
-  "count": 440,
+  "count": 441,
   "articles": [
+    {
+      "source": "TechRadar",
+      "title": "Black Friday hasn’t even started but I’m already callin’ it: Sony’s WH-1000XM6 at a record-low price is the best headphones deal of the season",
+      "url": "https://www.techradar.com/audio/wireless-headphones/amazon-may-have-already-won-black-friday-headphone-deals-with-this-record-low-price-on-the-sony-wh-1000xm6",
+      "publishedAt": "2026-11-17T01:35:27.000Z",
+      "author": "Max Langridge",
+      "description": "If you’ve been holding out for Sony’s flagship over-ears, this is your sign",
+      "image": "https://cdn.mos.cms.futurecdn.net/7ab2272asnYZjFrkihRmVR-2000-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
     {
       "source": "TechRadar",
       "title": "‘We feel art is only interesting if it is made by real people, informed by their experiences of life’ — 007 First Light composers say it will be a ‘sad day’ when companies decide to choose AI over real people",
@@ -159,7 +170,7 @@
     },
     {
       "source": "What Hi-Fi?",
-      "title": "The Amazon Australia Black Friday sale is live — shop these 30+ deals and beat the crowds",
+      "title": "The Amazon Australia Black Friday sale is live — shop these 20+ deals and beat the crowds",
       "url": "https://www.whathifi.com/seasonal-sales/amazon-black-friday-sales-au",
       "publishedAt": "2026-11-16T02:24:28.000Z",
       "author": "Max Langridge",
@@ -1061,17 +1072,6 @@
     },
     {
       "source": "What Hi-Fi?",
-      "title": "Meet the Dolby Atmos soundbar that looks like a cushion",
-      "url": "https://www.whathifi.com/tv-home-cinema/soundbars/this-dolby-atmos-soundbar-is-designed-to-fit-in-with-your-homeware-but-i-see-a-problem",
-      "publishedAt": "2026-11-10T14:00:00.000Z",
-      "author": "Joe Svetlik",
-      "description": "The Knit Form is the brainchild of a former Denon/Marantz executive",
-      "image": "https://cdn.mos.cms.futurecdn.net/Hx3fyhdzHe27MgDjew9NvH-2245-80.jpg",
-      "category": "Soundbar",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
       "title": "Leica’s upgraded premium 4K projector promises versatility and a bright display “even in ambient light”",
       "url": "https://www.whathifi.com/tv-home-cinema/projectors/leicas-upgraded-premium-4k-projector-promises-versatility-and-a-bright-display-even-in-ambient-light",
       "publishedAt": "2026-11-10T14:00:00.000Z",
@@ -1079,6 +1079,17 @@
       "description": "The camera brand takes another step into home cinema",
       "image": "https://cdn.mos.cms.futurecdn.net/r8v5atJ6Hp8wtVqTTjV7M3-2560-80.jpg",
       "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Meet the Dolby Atmos soundbar that looks like a cushion",
+      "url": "https://www.whathifi.com/tv-home-cinema/soundbars/this-dolby-atmos-soundbar-is-designed-to-fit-in-with-your-homeware-but-i-see-a-problem",
+      "publishedAt": "2026-11-10T14:00:00.000Z",
+      "author": "Joe Svetlik",
+      "description": "The Knit Form is the brainchild of a former Denon/Marantz executive",
+      "image": "https://cdn.mos.cms.futurecdn.net/Hx3fyhdzHe27MgDjew9NvH-2245-80.jpg",
+      "category": "Soundbar",
       "articleType": "其他"
     },
     {
