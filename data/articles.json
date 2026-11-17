@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T03:32:53.192Z",
+  "generatedAt": "2026-11-17T04:28:07.863Z",
   "days": 30,
   "count": 441,
   "articles": [
@@ -1072,17 +1072,6 @@
     },
     {
       "source": "What Hi-Fi?",
-      "title": "Leica’s upgraded premium 4K projector promises versatility and a bright display “even in ambient light”",
-      "url": "https://www.whathifi.com/tv-home-cinema/projectors/leicas-upgraded-premium-4k-projector-promises-versatility-and-a-bright-display-even-in-ambient-light",
-      "publishedAt": "2026-11-10T14:00:00.000Z",
-      "author": "Robyn Quick",
-      "description": "The camera brand takes another step into home cinema",
-      "image": "https://cdn.mos.cms.futurecdn.net/r8v5atJ6Hp8wtVqTTjV7M3-2560-80.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
       "title": "Meet the Dolby Atmos soundbar that looks like a cushion",
       "url": "https://www.whathifi.com/tv-home-cinema/soundbars/this-dolby-atmos-soundbar-is-designed-to-fit-in-with-your-homeware-but-i-see-a-problem",
       "publishedAt": "2026-11-10T14:00:00.000Z",
@@ -1090,6 +1079,17 @@
       "description": "The Knit Form is the brainchild of a former Denon/Marantz executive",
       "image": "https://cdn.mos.cms.futurecdn.net/Hx3fyhdzHe27MgDjew9NvH-2245-80.jpg",
       "category": "Soundbar",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Leica’s upgraded premium 4K projector promises versatility and a bright display “even in ambient light”",
+      "url": "https://www.whathifi.com/tv-home-cinema/projectors/leicas-upgraded-premium-4k-projector-promises-versatility-and-a-bright-display-even-in-ambient-light",
+      "publishedAt": "2026-11-10T14:00:00.000Z",
+      "author": "Robyn Quick",
+      "description": "The camera brand takes another step into home cinema",
+      "image": "https://cdn.mos.cms.futurecdn.net/r8v5atJ6Hp8wtVqTTjV7M3-2560-80.jpg",
+      "category": "其他音訊",
       "articleType": "其他"
     },
     {
