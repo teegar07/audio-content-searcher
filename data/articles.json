@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-17T00:47:59.626Z",
+  "generatedAt": "2026-11-17T01:34:22.916Z",
   "days": 30,
-  "count": 441,
+  "count": 440,
   "articles": [
     {
       "source": "TechRadar",
@@ -159,7 +159,7 @@
     },
     {
       "source": "What Hi-Fi?",
-      "title": "The Amazon Australia Black Friday sale is live — shop these 20+ deals and beat the crowds",
+      "title": "The Amazon Australia Black Friday sale is live — shop these 30+ deals and beat the crowds",
       "url": "https://www.whathifi.com/seasonal-sales/amazon-black-friday-sales-au",
       "publishedAt": "2026-11-16T02:24:28.000Z",
       "author": "Max Langridge",
@@ -4842,17 +4842,6 @@
       "image": "https://cdn.mos.cms.futurecdn.net/Zv2hvsrRMDGX563uz6F9wS-2560-80.jpg",
       "category": "串流播放器",
       "articleType": "其他"
-    },
-    {
-      "source": "TechRadar",
-      "title": "We've tested dozens of pairs of earbuds this year — these are the models that impressed us most",
-      "url": "https://www.techradar.com/audio/earbuds-airpods/our-top-earbuds-of-2026-so-far-all-the-buds-that-wowed-us-in-testing-including-budget-stunners-that-deliver-stellar-sound-for-under-usd40-gbp30",
-      "publishedAt": "2026-10-18T01:00:00.000Z",
-      "author": "Ruth Hamilton",
-      "description": "If you're in the market for some new in-ear headphones, here's where to start.",
-      "image": "https://cdn.mos.cms.futurecdn.net/sH4xaeLpHgrt5LFxacmfSG-1920-80.jpg",
-      "category": "耳機",
-      "articleType": "評測"
     }
   ]
 }
