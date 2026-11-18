@@ -1,8 +1,294 @@
 {
-  "generatedAt": "2026-11-17T05:02:19.141Z",
+  "generatedAt": "2026-11-18T00:32:33.669Z",
   "days": 30,
-  "count": 441,
+  "count": 464,
   "articles": [
+    {
+      "source": "SoundGuys",
+      "title": "CMF Speaker S drops to a record low of $39 on Amazon",
+      "url": "https://www.soundguys.com/cmf-speaker-s-deal-166355/",
+      "publishedAt": "2026-11-17T20:39:50.000Z",
+      "author": "Matt Horne",
+      "description": "The CMF Speaker S is 34% off on Amazon at $39, a record low for Nothing's IP68 speaker with Bluetooth 6.0 and 18-hour battery.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/10/CMF-Speaker-S-and-M-Edits-2-scaled.jpeg",
+      "category": "喇叭",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "Skullcandy Crusher 540 Active gym headphones drop to $99.99, half off",
+      "url": "https://www.soundguys.com/skullcandy-crusher-540-active-deal-166353/",
+      "publishedAt": "2026-11-17T20:28:14.000Z",
+      "author": "Matt Horne",
+      "description": "The Skullcandy Crusher 540 Active are 52% off on Amazon at $99.99, a record low for sweat-resistant headphones with Sensory Bass.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/11/Skullcandy-Crusher-540-Active-Featured.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "The best bone conduction headphones you can buy: our top picks for 2026",
+      "url": "https://www.soundguys.com/best-bone-conduction-headphones-30293/",
+      "publishedAt": "2026-11-17T20:26:16.000Z",
+      "author": "Chase Bernath",
+      "description": "We tested a variety of bone conduction headphones to determine which are the best buy. Hint, Shokz is still king.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2022/11/Shokz-OpenRun-Pro-person-wears-bone-conduction-headphones-scaled-e1667420566498.jpg",
+      "category": "耳機",
+      "articleType": "評測"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "The best translation earbuds in 2026: Speak fluently anywhere in the world",
+      "url": "https://www.soundguys.com/best-translation-earbuds-2-152438/",
+      "publishedAt": "2026-11-17T19:30:57.000Z",
+      "author": "Tom Triggs",
+      "description": "The Timekettle W4 Pro are the best overall translation earbuds on the market, but popular consumer earbuds are catching up.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/02/translation-earbuds-scaled.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "JBL Tune Flex 2 earbuds are 55% off, matching their lowest price",
+      "url": "https://www.soundguys.com/jbl-tune-flex-2-deal-166328/",
+      "publishedAt": "2026-11-17T19:11:43.000Z",
+      "author": "Matt Horne",
+      "description": "The JBL Tune Flex 2 are $49.95 on Amazon, matching their low with adaptive ANC, two ear tip styles, and up to 48 hours of playback.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/11/JBL-Tune-Flex-2-Product-Image.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "TechRadar",
+      "title": "I test hi-fi kit for a living and I've just found the best cheap turntable system for Black Friday (and you don't need McCartney's millions to buy it)",
+      "url": "https://www.techradar.com/seasonal-sales/im-an-audio-editor-and-this-is-the-only-turntable-system-im-recommending-this-black-friday",
+      "publishedAt": "2026-11-17T18:15:35.000Z",
+      "author": "Becky Scarrott",
+      "description": "Black Friday turntable deals are landing in mid November, and I suppose really I'm OK with that…",
+      "image": "https://cdn.mos.cms.futurecdn.net/wVcsM7fdpHChJcMpCeHfwQ-1920-80.jpg",
+      "category": "黑膠／唱盤",
+      "articleType": "其他"
+    },
+    {
+      "source": "Engadget",
+      "title": "Grado's GW200 Headphones Boast Fresh Drivers And A Longer Battery Life - Engadget",
+      "url": "https://www.engadget.com/2319483/grados-gw200-headphones-boast-fresh-drivers-and-a-longer-battery-life/",
+      "publishedAt": "2026-11-17T18:07:29.000Z",
+      "author": "Lawrence Bonk",
+      "description": "They run $329 and are up for preorder now.",
+      "image": "https://www.engadget.com/img/gallery/grados-gw200-headphones-boast-fresh-drivers-and-a-longer-battery-life/l-intro-1794938760.jpg",
+      "category": "耳機",
+      "articleType": "新聞"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "The Nothing Ear (3) just hit a new record low of $94",
+      "url": "https://www.soundguys.com/nothing-ear-3-deal-black-friday-166326/",
+      "publishedAt": "2026-11-17T18:03:42.000Z",
+      "author": "Matt Horne",
+      "description": "Nothing's Ear (3) earbuds are 37% off on Amazon in white, a new record low with 45dB adaptive ANC, LDAC, and a Super Mic case.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2025/09/SG_Nothing-Ear-3-07.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "Tom's Guide",
+      "title": "Multiple Apple services were down including Apple Music and iCloud — live updates on sudden outage",
+      "url": "https://www.tomsguide.com/news/live/apple-outage-november-17-2026",
+      "publishedAt": "2026-11-17T17:51:36.000Z",
+      "author": "Scott Younker",
+      "description": "Outage affecting iCloud, Apple Pay and more",
+      "image": "https://cdn.mos.cms.futurecdn.net/ZrRNiMNgJJDFWd7ykuKj4U-2000-80.jpg",
+      "category": "其他音訊",
+      "articleType": "新聞"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "I've tested hundreds of headphones, and these are the best for music in 2026",
+      "url": "https://www.soundguys.com/best-headphones-for-music-120267/",
+      "publishedAt": "2026-11-17T17:43:28.000Z",
+      "author": "Adam Birney",
+      "description": "Discover the best headphones for music across genres. Our expert guide helps you choose the perfect pair for your listening needs.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/01/Audeze-LCD-5s-at-NAMM-2026-8.jpg",
+      "category": "耳機",
+      "articleType": "評測"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "OLED or Mini LED? Powered speakers or hi-fi separates? Ask us anything this Friday",
+      "url": "https://www.whathifi.com/tv-home-cinema/got-a-question-for-our-hi-fi-av-and-tv-experts-join-our-sound-advice-live-q-and-a-this-friday",
+      "publishedAt": "2026-11-17T17:02:53.000Z",
+      "author": "Tom Parsons",
+      "description": "Put your burning questions to the What Hi-Fi? team and get personalised advice from our reviewers",
+      "image": "https://cdn.mos.cms.futurecdn.net/PoToA7opRJwpBtshJ8eRiQ-1920-80.jpg",
+      "category": "喇叭",
+      "articleType": "其他"
+    },
+    {
+      "source": "Tom's Guide",
+      "title": "This iPhone 18 Pro Black Friday deal comes with a free Apple Watch and AirPods 5 — here’s how to get it",
+      "url": "https://www.tomsguide.com/phones/iphones/this-iphone-18-pro-black-friday-deal-comes-with-a-free-apple-watch-and-airpods-5-heres-how-to-get-it",
+      "publishedAt": "2026-11-17T16:34:54.000Z",
+      "author": "John Velasco",
+      "description": "You don't need to activate it on a pricey cell phone plan either",
+      "image": "https://cdn.mos.cms.futurecdn.net/EfCTMdkrPtv7y6Vgf4KnJT-2560-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "JBL's 76-hour Tune 730BT (2026) headphones are 44% off",
+      "url": "https://www.soundguys.com/jbl-tune-730bt-2026-deal-166318/",
+      "publishedAt": "2026-11-17T16:22:02.000Z",
+      "author": "Matt Horne",
+      "description": "The JBL Tune 730BT (2026) over-ear headphones are $40 off on Amazon at $49.95, their lowest price yet, with up to 76 hours of battery life.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/11/JBL-Tune-730BT-Featured.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "These five-star Sony headphones are excellent all-rounders and a What Hi-Fi? favourite – now at a new lowest price for Black Friday",
+      "url": "https://www.whathifi.com/headphones/wireless-headphones/these-five-star-sony-headphones-are-excellent-all-rounders-and-a-what-hi-fi-favourite-now-at-a-new-lowest-price-for-black-friday",
+      "publishedAt": "2026-11-17T15:32:50.000Z",
+      "author": "Daniel Furn",
+      "description": "Get the XM6 as well as GTA 6…",
+      "image": "https://cdn.mos.cms.futurecdn.net/ccPzKfcZ9qigFKBimiXepb-2560-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "Save $120 on the Skullcandy Crusher Evo and feel the bass",
+      "url": "https://www.soundguys.com/skullcandy-crusher-evo-early-black-friday-deal-166311/",
+      "publishedAt": "2026-11-17T15:20:38.000Z",
+      "author": "Matt Horne",
+      "description": "Feel the bass for less: the Skullcandy Crusher Evo is 57% off on Amazon at $89.99, matching its lowest price for these headphones.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2020/09/Skullcandy-Crusher-Evo-2-of-10.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Sky’s big OS upgrade is here, complete with a redesigned homepage and a smarter voice assistant",
+      "url": "https://www.whathifi.com/streaming-entertainment/streaming-hardware/skys-big-os-upgrade-is-here-complete-with-a-redesigned-homepage-and-a-smarter-voice-assistant",
+      "publishedAt": "2026-11-17T15:09:01.000Z",
+      "author": "Robyn Quick",
+      "description": "And it’s all free of charge",
+      "image": "https://cdn.mos.cms.futurecdn.net/tVedmMbfeZqRhSSe8Cp738-1920-80.jpg",
+      "category": "串流播放器",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Hyped for Grand Theft Auto? Here's why I’m excited about the GTA 6 vinyl for testing",
+      "url": "https://www.whathifi.com/streaming-entertainment/music-streaming/hyped-for-grand-theft-auto-heres-why-im-excited-about-the-gta-6-vinyl-record-for-testing",
+      "publishedAt": "2026-11-17T14:37:29.000Z",
+      "author": "Harry McKerrell",
+      "description": "Hear the game before you play it",
+      "image": "https://cdn.mos.cms.futurecdn.net/xPTUiGsgDCsFcXpWanN3eU-2560-80.jpg",
+      "category": "黑膠／唱盤",
+      "articleType": "其他"
+    },
+    {
+      "source": "TechRadar",
+      "title": "Are these the best open earbuds yet? I've been using them for a few weeks and I think so — bravo, Xiaomi!",
+      "url": "https://www.techradar.com/audio/earbuds-airpods/these-new-open-earbuds-might-be-the-best-clip-on-buds-ive-tested-yet-but-one-big-question-remains-before-i-can-recommend-them",
+      "publishedAt": "2026-11-17T14:30:00.000Z",
+      "author": "Tom Bedford",
+      "description": "The Xiaomi Clip are here, and after some weeks with them, I can't get over their sound quality, small form factor and useful extra features.",
+      "image": "https://cdn.mos.cms.futurecdn.net/3NetEXEcLyCf2zRXJj9wMS-2329-80.jpg",
+      "category": "耳機",
+      "articleType": "評測"
+    },
+    {
+      "source": "Engadget",
+      "title": "5 important Bose headphone settings that need to be manually turned on - Engadget",
+      "url": "https://www.engadget.com/2315018/bose-headphone-settings-manually-turn-on/",
+      "publishedAt": "2026-11-17T14:15:00.000Z",
+      "author": "Robin Bea",
+      "description": "Take control of your Bose headphones with these settings changes that'll help you move beyond the defaults and make your everyday listening feel more personal.",
+      "image": "https://www.engadget.com/img/gallery/5-important-bose-headphone-settings-that-needs-to-be-manually-turned-on/l-intro-1794487917.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Grado's new open-back, wireless headphones aim to bring “musical expression” to wireless listening",
+      "url": "https://www.whathifi.com/headphones/wireless-headphones/grado-labs-latest-open-back-wireless-headphones-combine-natural-musical-expression-with-the-freedom-of-wireless-listening",
+      "publishedAt": "2026-11-17T14:00:00.000Z",
+      "author": "Ioan Hazell",
+      "description": "The GW200 promise 60+ hours of battery life",
+      "image": "https://cdn.mos.cms.futurecdn.net/jK5u6JSxmGGqpUKgTMbUji-2560-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "Engadget",
+      "title": "Neurable One review: The brain-scanning headphones that helped me stay focused - Engadget",
+      "url": "https://www.engadget.com/2317916/neurable-one-review-brain-scanning-headphones-eeg/",
+      "publishedAt": "2026-11-17T12:30:00.000Z",
+      "author": "Daniel Cooper",
+      "description": "Neurable One isn’t your average pair of high-end headphones. They have a built-in EEG that scans your brain while you work.",
+      "image": "https://www.engadget.com/img/gallery/neurable-one-review-brain-scanning-headphones-keep-an-eye-on-your-focus/l-intro-1794848419.jpg",
+      "category": "耳機",
+      "articleType": "評測"
+    },
+    {
+      "source": "TechRadar",
+      "title": "No, it's not Black Friday yet, but some of these headphones and earbuds are still at their lowest ever prices",
+      "url": "https://www.techradar.com/seasonal-sales/no-its-not-black-friday-yet-so-why-am-i-seeing-some-of-the-best-noise-cancelling-headphones-deals-ever-plus-earbuds-at-their-lowest-seen-prices",
+      "publishedAt": "2026-11-17T12:13:21.000Z",
+      "author": "Becky Scarrott",
+      "description": "Black Friday headphones and earbuds deals are happening in mid November, and I suppose really I'm OK with that…",
+      "image": "https://cdn.mos.cms.futurecdn.net/YL8TS4R2PEASEzzyKin8SK-1920-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Chord's first-ever Class G amplifier wants to bring high-end performance to a (slightly) more affordable price point",
+      "url": "https://www.whathifi.com/hi-fi/stereo-amplifiers/chords-first-ever-class-g-amplifier-pledges-high-end-performance-in-its-most-affordable-ultima-package",
+      "publishedAt": "2026-11-17T11:14:35.000Z",
+      "author": "Harry McKerrell",
+      "description": "Chord's Ultimate 7 clocks in at £6500",
+      "image": "https://cdn.mos.cms.futurecdn.net/dKe4Mcy7r4cqfJi5ZvCvDb-1600-80.jpg",
+      "category": "DAC／擴大機",
+      "articleType": "其他"
+    },
+    {
+      "source": "Tom's Guide",
+      "title": "I found the 21 best early Apple Black Friday deals on AirPods, MacBooks, iPads, Apple Watches and more",
+      "url": "https://www.tomsguide.com/live/news/apple-black-friday-deals-tuesday-november-17-2026",
+      "publishedAt": "2026-11-17T11:00:00.000Z",
+      "author": "Olivia Halevy",
+      "description": "Rare Apple deals worth grabbing before Black Friday",
+      "image": "https://cdn.mos.cms.futurecdn.net/oawuy2CuLBr373V7XdDEWh-2560-80.jpg",
+      "category": "耳機",
+      "articleType": "新聞"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "After a full, compact Dolby Atmos system? This discounted Sonos bundle is built around an Award-winning soundbar",
+      "url": "https://www.whathifi.com/tv-home-cinema/soundbars/after-a-full-compact-dolby-atmos-system-this-discounted-sonos-bundle-is-built-around-an-award-winning-soundbar",
+      "publishedAt": "2026-11-17T10:51:37.000Z",
+      "author": "Daniel Furn",
+      "description": "Big sound, small speakers in one tidy package",
+      "image": "https://cdn.mos.cms.futurecdn.net/CrhTkPXD9SvfSRMKdGz9kR-602-80.jpg",
+      "category": "Soundbar",
+      "articleType": "其他"
+    },
+    {
+      "source": "Tom's Guide",
+      "title": "Hurry! LG's Sound Suite Wi-Fi speakers are up to $270 off at Best Buy",
+      "url": "https://www.tomsguide.com/audio/smart-speakers/hurry-lgs-sound-suite-wi-fi-speakers-are-up-to-usd270-off-at-best-buy",
+      "publishedAt": "2026-11-17T06:40:41.000Z",
+      "author": "Louis Ramirez",
+      "description": "Upgrade your home theater setup with these smart speakers",
+      "image": "https://cdn.mos.cms.futurecdn.net/xg3eg4SXbjjmupcjCZV4b9-2000-80.jpg",
+      "category": "喇叭",
+      "articleType": "其他"
+    },
     {
       "source": "TechRadar",
       "title": "Black Friday hasn’t even started but I’m already callin’ it: Sony’s WH-1000XM6 at a record-low price is the best headphones deal of the season",
@@ -247,23 +533,23 @@
     },
     {
       "source": "What Hi-Fi?",
+      "title": "How to watch I’m A Celebrity…Get Me Out of Here! 2026: Live stream for free from anywhere",
+      "url": "https://www.whathifi.com/streaming-entertainment/how-to-watch-im-a-celebrity-get-me-out-of-here-2026-free",
+      "publishedAt": "2026-11-15T15:00:00.000Z",
+      "author": "Krishi Chowdhary",
+      "description": "AJ Odudu is the first to go as the 2026 series gets off to a dramatic start",
+      "image": "https://cdn.mos.cms.futurecdn.net/wW3sVBxVFun3TTDRBhE4jR-830-80.jpg",
+      "category": "串流播放器",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
       "title": "How to watch Grey Cup 2026: live stream Elks vs Alouettes for free online from anywhere",
       "url": "https://www.whathifi.com/streaming-entertainment/how-to-watch/how-to-watch-grey-cup-2026-live-stream-elks-vs-alouettes-for-free",
       "publishedAt": "2026-11-15T15:00:00.000Z",
       "author": "Tom Bailey",
       "description": "Anticipation is off the scale with Dupont set to start the blockbuster clash at fly-half",
       "image": "https://cdn.mos.cms.futurecdn.net/tFnLPTEjnW6WLWzfBPgSZS-2560-80.jpg",
-      "category": "串流播放器",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "How to watch I’m A Celebrity…Get Me Out of Here! 2026: Live stream for free from anywhere",
-      "url": "https://www.whathifi.com/streaming-entertainment/how-to-watch-im-a-celebrity-get-me-out-of-here-2026-free",
-      "publishedAt": "2026-11-15T15:00:00.000Z",
-      "author": "Krishi Chowdhary",
-      "description": "Wayne Rooney, AJ Odudu, and nine other celebrities take on the jungle's toughest challenges",
-      "image": "https://cdn.mos.cms.futurecdn.net/wW3sVBxVFun3TTDRBhE4jR-830-80.jpg",
       "category": "串流播放器",
       "articleType": "其他"
     },
@@ -687,12 +973,12 @@
     },
     {
       "source": "What Hi-Fi?",
-      "title": "How to watch Australia vs England ODI series 2026: Live stream cricket for free from anywhere, 2nd ODI",
+      "title": "How to watch Australia vs England ODI series 2026: Live stream cricket for free from anywhere, 3rd ODI",
       "url": "https://www.whathifi.com/streaming-entertainment/how-to-watch/australia-vs-england-odi-series-2026",
       "publishedAt": "2026-11-12T21:00:00.000Z",
       "author": "Andy Murray",
       "description": "With the 50-over World Cup looming, the old foes clash Down Under with the hosts one up",
-      "image": "https://cdn.mos.cms.futurecdn.net/T6oKUyWFsykb6J78u8cw3i-1024-80.jpg",
+      "image": "https://cdn.mos.cms.futurecdn.net/LPNHvoUexFwJF9gK6ToyVB-1024-80.jpg",
       "category": "串流播放器",
       "articleType": "其他"
     },
@@ -4820,39 +5106,6 @@
       "image": "https://cdn.mos.cms.futurecdn.net/ndudLhEWfwnPFtP8SsSNYa-1920-80.jpg",
       "category": "DAC／擴大機",
       "articleType": "新聞"
-    },
-    {
-      "source": "TechRadar",
-      "title": "I tested Sony’s towering Bluetooth speaker in a parking lot and I’m surprised I didn’t get any noise complaints — here’s why the new ULT Tower 7 should be your go-to for any party",
-      "url": "https://www.techradar.com/audio/wireless-bluetooth-speakers/sony-ult-tower-7-review",
-      "publishedAt": "2026-10-18T17:00:00.000Z",
-      "author": "",
-      "description": "Sony’s new hulking party speaker blew me away with its rippling bass and almighty power output.",
-      "image": "https://cdn.mos.cms.futurecdn.net/8PBt5TNjAQFoYhEnyPfh9a-1920-80.jpg",
-      "category": "喇叭",
-      "articleType": "評測"
-    },
-    {
-      "source": "Tom's Guide",
-      "title": "Sony WH-CH730N review: I fully recommend these headphones but not if you’re in the U.S. — here’s why",
-      "url": "https://www.tomsguide.com/audio/headphones/sony-wh-ch730n-review",
-      "publishedAt": "2026-10-18T11:30:00.000Z",
-      "author": "",
-      "description": "How much?!",
-      "image": "https://cdn.mos.cms.futurecdn.net/rgboZCL7H9h4jFAmABCBNc-2520-80.jpg",
-      "category": "耳機",
-      "articleType": "評測"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "How to watch Leeds vs Man Utd: free live stream for Premier League match",
-      "url": "https://www.whathifi.com/streaming-entertainment/how-to-watch/leeds-vs-man-utd-free-live-stream-for-premier-league-match",
-      "publishedAt": "2026-10-18T07:00:00.000Z",
-      "author": "Paul Hatton",
-      "description": "A fascinating encounter with all the pressure on Man Utd",
-      "image": "https://cdn.mos.cms.futurecdn.net/Zv2hvsrRMDGX563uz6F9wS-2560-80.jpg",
-      "category": "串流播放器",
-      "articleType": "其他"
     }
   ]
 }
