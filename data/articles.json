@@ -1,8 +1,19 @@
 {
-  "generatedAt": "2026-11-19T00:54:41.821Z",
+  "generatedAt": "2026-11-19T01:36:29.526Z",
   "days": 30,
-  "count": 465,
+  "count": 466,
   "articles": [
+    {
+      "source": "BGR",
+      "title": "Amazon Echo Time Review: Less Audio, More Visual - BGR",
+      "url": "https://www.bgr.com/2321333/amazon-echo-time-review/",
+      "publishedAt": "2026-11-19T01:00:00.000Z",
+      "author": "Christian de Looper",
+      "description": "Amazon's Echo Time is rather pricey for an Alexa-powered smart clock, but the touchscreen does open it up to features you won't find on an Echo Dot.",
+      "image": "https://www.bgr.com/img/gallery/amazon-echo-time-review-less-audio-more-visual/l-intro-1795045853.jpg",
+      "category": "其他音訊",
+      "articleType": "評測"
+    },
     {
       "source": "TechRadar",
       "title": "I can’t recommend Sonos enough for multi-room audio and home theatre — and that goes double with up to 30% off in its official Australian Black Friday sale",
