@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-20T01:33:40.950Z",
+  "generatedAt": "2026-11-20T02:07:06.344Z",
   "days": 30,
-  "count": 473,
+  "count": 474,
   "articles": [
     {
       "source": "SoundGuys",
@@ -4456,6 +4456,17 @@
       "description": "JBL and Samsung already discounted? Yes, please",
       "image": "https://cdn.mos.cms.futurecdn.net/ZqPZJ2QrZXpcdm2mdWs7f8-2000-80.jpg",
       "category": "Soundbar",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "Sennheiser ACCENTUM earbuds get a $120 Amazon price drop",
+      "url": "https://www.soundguys.com/sennheiser-accentum-deal-165190/",
+      "publishedAt": "2026-10-23T16:20:29.000Z",
+      "author": "Matt Horne",
+      "description": "Sennheiser ACCENTUM True Wireless earbuds drop to $99.95 on Amazon with ANC, 28-hour battery life, and Transparency mode.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2024/05/Sennheiser-Accentum-True-Wireless-in-hand-case-open.jpg",
+      "category": "耳機",
       "articleType": "其他"
     },
     {
