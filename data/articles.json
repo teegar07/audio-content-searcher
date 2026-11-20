@@ -1,8 +1,327 @@
 {
-  "generatedAt": "2026-11-19T04:05:29.378Z",
+  "generatedAt": "2026-11-20T00:18:26.800Z",
   "days": 30,
-  "count": 466,
+  "count": 474,
   "articles": [
+    {
+      "source": "SoundGuys",
+      "title": "Cleer ARC 5 Gaming brings THX Spatial Audio with Head Tracking to open-ear gaming earbuds",
+      "url": "https://www.soundguys.com/cleer-arc-5-gaming-brings-thx-spatial-audio-with-head-tracking-to-open-ear-gaming-earbuds-166151/",
+      "publishedAt": "2026-11-19T21:45:34.000Z",
+      "author": "Adam Birney",
+      "description": "Cleer's ARC 5 Gaming open-ear earbuds pair THX Spatial Audio with Head Tracking, a sub-30ms USB-C dongle, and 60 hours of playback.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/11/cleer-arc-5-gaming-hero-scaled.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "Cleer ARC 5 brings THX Certified sound to open-ear earbuds for $219.99",
+      "url": "https://www.soundguys.com/cleer-arc-5-open-ear-earbuds-165927/",
+      "publishedAt": "2026-11-19T21:42:41.000Z",
+      "author": "Adam Birney",
+      "description": "Cleer’s ARC 5 open-ear earbuds bring THX Certified sound, aptX Lossless, IPX7 waterproofing, and a touchscreen smart case for $219.99.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/11/cleer-arc-5-hello-screen-scaled.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "Bose Ultra Open Earbuds (2nd Gen) get their first Black Friday discount",
+      "url": "https://www.soundguys.com/ultra-open-earbuds-2nd-gen-deal-166508/",
+      "publishedAt": "2026-11-19T20:44:25.000Z",
+      "author": "Matt Horne",
+      "description": "The Bose Ultra Open Earbuds (2nd Gen) are down to $249 on Amazon. Get up to nine hours per charge, 28.5 hours with the case, and IPX4.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/11/Bose-Ultra-Open-Earbuds-2nd-Gen-Featured.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "The Verge",
+      "title": "Sonos is taking up to 30 percent off speakers and soundbars right now",
+      "url": "https://www.theverge.com/gadgets/1037042/sonos-black-friday-2026-speaker-soundbar-deals-sale",
+      "publishedAt": "2026-11-19T18:33:08.000Z",
+      "author": "Sheena Vasani",
+      "description": "You can buy a smart speaker for as little as $149.",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268417_Sonos_Play_speaker_JHiggins_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "category": "Soundbar",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "We've tested the new wave of USB-C wired earbuds, and these are the best to buy in 2026",
+      "url": "https://www.soundguys.com/best-wired-earbuds-under-20-10059/",
+      "publishedAt": "2026-11-19T16:25:00.000Z",
+      "author": "Adam Birney",
+      "description": "The best wired earbuds of 2026: plug-and-play USB-C picks from Sony, Bose, and more, with no charging, pairing, or dongle needed.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/11/wired-earbuds-in-box-scaled-e1793914895171.jpg",
+      "category": "耳機",
+      "articleType": "評測"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Take advantage of bundle discounts to build a room-filling Sony Dolby Atmos system that will put a solo soundbar to shame",
+      "url": "https://www.whathifi.com/tv-home-cinema/surround-sound-systems/take-advantage-of-bundle-discounts-to-build-a-room-filling-sony-dolby-atmos-system-that-will-put-a-solo-soundbar-to-shame",
+      "publishedAt": "2026-11-19T16:07:26.000Z",
+      "author": "Tom Parsons",
+      "description": "Save hundreds by combining Black Friday and bundle deals",
+      "image": "https://cdn.mos.cms.futurecdn.net/sQECcBo4ckxDojcNzj45SZ-1920-80.jpg",
+      "category": "Soundbar",
+      "articleType": "其他"
+    },
+    {
+      "source": "Tom's Guide",
+      "title": "Up to 40% off Shokz open-ear headphones and a further 5% off with this exclusive code",
+      "url": "https://www.tomsguide.com/sales-events/up-to-40-percent-off-shokz-open-ear-headphones-and-a-further-5-percent-off-with-this-exclusive-code",
+      "publishedAt": "2026-11-19T15:18:35.000Z",
+      "author": "Paul Hatton",
+      "description": "Treat yourself or a loved one this Black Friday",
+      "image": "https://cdn.mos.cms.futurecdn.net/iMri2UEhQuMe67runAWXuY-2000-80.png",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "Sony WH-1000XM6 drop to $348 in an early Black Friday deal",
+      "url": "https://www.soundguys.com/sony-xm6-black-friday-deal-166475/",
+      "publishedAt": "2026-11-19T14:36:59.000Z",
+      "author": "Matt Horne",
+      "description": "Save $112 on the Sony WH-1000XM6 on Amazon. You get excellent noise canceling, LDAC support, and up to 30 hours of battery with ANC on.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2025/05/sony-wh-1000xm6-hero.jpg",
+      "category": "DAC／擴大機",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Rega Replay vs Rega Planar 1: which budget turntable should you pick?",
+      "url": "https://www.whathifi.com/hi-fi/turntables/rega-replay-vs-rega-planar-1-which-budget-turntable-should-you-pick",
+      "publishedAt": "2026-11-19T13:11:06.000Z",
+      "author": "Harry McKerrell",
+      "description": "The battle of the budget Regas",
+      "image": "https://cdn.mos.cms.futurecdn.net/g7xTTyZcjNouyKCr4fhgpQ-1920-80.jpg",
+      "category": "黑膠／唱盤",
+      "articleType": "其他"
+    },
+    {
+      "source": "The Verge",
+      "title": "I let Apple’s always-listening AI summarize my life for two weeks",
+      "url": "https://www.theverge.com/tech/1037100/apple-siri-recap-audio-intelligence-hands-on",
+      "publishedAt": "2026-11-19T13:00:00.000Z",
+      "author": "Victoria Song",
+      "description": "I’m left asking myself: was it worth it?",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268874_siri_recaps_AKrales_0070.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "category": "其他音訊",
+      "articleType": "評測"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "I tried this streaming service – and it's a must-have for classical music fans",
+      "url": "https://www.whathifi.com/streaming-entertainment/tv-streaming-services/this-niche-streaming-service-brings-dolby-atmos-classical-concerts-to-your-living-room-and-it-blew-me-away",
+      "publishedAt": "2026-11-19T12:13:37.000Z",
+      "author": "Robyn Quick",
+      "description": "Add this one to your Liszt",
+      "image": "https://cdn.mos.cms.futurecdn.net/jhqFyRaEnDdqHnZqWpxTgM-2560-80.jpg",
+      "category": "串流播放器",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "The Volumio Rivo Ultra streaming transport promises to “set a new bar” for audio",
+      "url": "https://www.whathifi.com/hi-fi/music-streamers/the-volumio-rivo-ultra-streaming-transport-promises-to-set-a-new-bar-for-audio",
+      "publishedAt": "2026-11-19T11:51:10.000Z",
+      "author": "Joe Svetlik",
+      "description": "Costing £3500, it sits above the more compact Rivo Plus",
+      "image": "https://cdn.mos.cms.futurecdn.net/TWWAQDTZEW5Kv3MrZi6enX-2560-80.jpg",
+      "category": "串流播放器",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Want to get into vinyl but don’t know where to start? The budget Rega Replay turntable could be the ideal diving-off point for hi-fi newbies",
+      "url": "https://www.whathifi.com/hi-fi/turntables/rega-replay",
+      "publishedAt": "2026-11-19T11:49:21.000Z",
+      "author": "",
+      "description": "Rega has brought its considerable pedigree to a new entry-level turntable – and the results are masterful.",
+      "image": "https://cdn.mos.cms.futurecdn.net/DaKPEyGBSo5njFacoVapeh-1920-80.jpg",
+      "category": "黑膠／唱盤",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "Beats Studio Pro are 53% off for Black Friday",
+      "url": "https://www.soundguys.com/beats-studio-pro-headphones-deal-166415/",
+      "publishedAt": "2026-11-19T11:48:03.000Z",
+      "author": "Matt Horne",
+      "description": "Beats Studio Pro are down to $140 on Amazon. Get adaptive ANC, Transparency mode, USB-C lossless audio, and up to 40 hours of battery.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2023/07/beats-studio-pro-reverse-e1690900885278.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "Bose's tiny SoundLink Micro (2nd Gen) is $50 off on Amazon",
+      "url": "https://www.soundguys.com/deal-bose-soundlink-micro-2nd-gen-166407/",
+      "publishedAt": "2026-11-19T11:19:44.000Z",
+      "author": "Matt Horne",
+      "description": "Bose SoundLink Micro (2nd Gen) is 39% off on Amazon. This IP67 speaker clips onto your bag with up to 12 hours of battery, now just $79.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2025/09/Bose-SoundLink-Micro-2nd-Gen-9-scaled.jpeg",
+      "category": "喇叭",
+      "articleType": "其他"
+    },
+    {
+      "source": "Tom's Guide",
+      "title": "I asked ChatGPT & Gemini to find the best gifts for a drummer who loves vinyl — here’s the winner",
+      "url": "https://www.tomsguide.com/ai/i-asked-chatgpt-and-gemini-to-find-the-perfect-gifts-for-a-drummer-who-loves-vinyl-heres-the-chatbot-that-gave-me-better-recommendations",
+      "publishedAt": "2026-11-19T11:00:00.000Z",
+      "author": "Elton Jones",
+      "description": "With two of my father’s most prominent loves in mind, I tested two chatbots to see which one could give me the best Christmas gift picks worth considering.",
+      "image": "https://cdn.mos.cms.futurecdn.net/AGsshAvGWjBdNuT2o3PWXG-2560-80.jpg",
+      "category": "黑膠／唱盤",
+      "articleType": "評測"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "Belkin SoundForm Dot ANC earbuds drop to $28.49 in Black Friday deal",
+      "url": "https://www.soundguys.com/belkin-soundform-dot-anc-deal-166417/",
+      "publishedAt": "2026-11-19T10:52:38.000Z",
+      "author": "Matt Horne",
+      "description": "Save $11 on the Belkin SoundForm Dot ANC on Amazon. These earbuds add ANC, multipoint, IPX5 protection, and 30 hours of battery.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/11/Belkin-SoundForm-Dot-ANC-Featured.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "Samsung HW-Q600F soundbar is 24% off on Amazon",
+      "url": "https://www.soundguys.com/samsung-q600f-soundbar-amazon-deal-166396/",
+      "publishedAt": "2026-11-19T10:47:40.000Z",
+      "author": "Matt Horne",
+      "description": "The Samsung HW-Q600F soundbar is $379.99 on Amazon, bringing 3.1.2-channel Dolby Atmos, a center channel, and a wireless subwoofer for less.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/10/Samsung-HW-Q600F-Q-Series-Soundbar-Press-Image.jpg",
+      "category": "Soundbar",
+      "articleType": "其他"
+    },
+    {
+      "source": "TechRadar",
+      "title": "Don't buy cheap old stock this Black Friday; these top-end headphone makers just released stunning new products",
+      "url": "https://www.techradar.com/audio/headphones/forget-black-friday-for-headphones-meet-two-new-wired-and-oddly-wireless-headphones-and-iems-from-the-audiophile-worlds-heavy-hitters",
+      "publishedAt": "2026-11-19T10:42:49.000Z",
+      "author": "Tom Bedford",
+      "description": "Grado and Campfire Audio have ignored the black hole that is Black Friday, and are releasing brand-new audiophile kit to get excited about.",
+      "image": "https://cdn.mos.cms.futurecdn.net/oARdtNmr6f8HJzDj6xuCWb-2000-80.jpg",
+      "category": "耳機",
+      "articleType": "新聞"
+    },
+    {
+      "source": "Tom's Guide",
+      "title": "I'm tracking the best Apple Black Friday deals LIVE: MacBook Pro, AirPods, iPhones, iPads and more",
+      "url": "https://www.tomsguide.com/live/news/apple-black-friday-deals-thursday-11-19-2026",
+      "publishedAt": "2026-11-19T10:37:28.000Z",
+      "author": "Nikita Achanta, Will Salmon",
+      "description": "These are the deals I'd spend my money on",
+      "image": "https://cdn.mos.cms.futurecdn.net/q5xgcebQnzjqYbyRytgFbE-2560-80.jpg",
+      "category": "耳機",
+      "articleType": "新聞"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Looking to build your first proper home cinema? This stellar value, five-star system is one to watch over Black Friday",
+      "url": "https://www.whathifi.com/tv-home-cinema/looking-to-build-your-first-proper-home-cinema-this-stellar-value-five-star-system-is-one-to-watch-over-black-friday",
+      "publishedAt": "2026-11-19T10:32:52.000Z",
+      "author": "Alastair Stevenson",
+      "description": "Featuring former and current Award-winners, we expect its price will drop even further next week",
+      "image": "https://cdn.mos.cms.futurecdn.net/45km6NRNiSwxD7tvg8Z27L-1920-80.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "Score $100 off Beats Solo 4 on-ear headphones on Amazon",
+      "url": "https://www.soundguys.com/beats-solo-4-headphones-deal-166416/",
+      "publishedAt": "2026-11-19T10:11:50.000Z",
+      "author": "Matt Horne",
+      "description": "Beats Solo 4 headphones are 50% off on Amazon, with up to 50 hours of battery, Spatial Audio, and lossless audio via USB-C or 3.5mm.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2024/05/beats-solo-4-wireless-hero.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "Save $60 on the Sonos Play, the portable speaker built for home and away",
+      "url": "https://www.soundguys.com/sonos-play-deal-amazon-166352/",
+      "publishedAt": "2026-11-19T10:08:23.000Z",
+      "author": "Matt Horne",
+      "description": "Get $60 off the Sonos Play portable speaker on Amazon, with stereo sound, 24 hours of battery, IP67 protection, and Wi-Fi plus Bluetooth.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/03/Sonos-Play-2-1-scaled.jpeg",
+      "category": "喇叭",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "Soundcore P20i earbuds return to their all-time low of $19.92",
+      "url": "https://www.soundguys.com/soundcore-p20i-deal-166427/",
+      "publishedAt": "2026-11-19T09:47:11.000Z",
+      "author": "Matt Horne",
+      "description": "The Soundcore P20i are $19.92 on Amazon, matching their lowest price. Get 10mm drivers, 30 hours of playtime, and IPX5 protection.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/11/Soundcore-P20i-Featured.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "Soundcore Space 2 ANC headphones drop under $100 for the first time",
+      "url": "https://www.soundguys.com/soundcore-space-2-deal-166425/",
+      "publishedAt": "2026-11-19T09:39:03.000Z",
+      "author": "Matt Horne",
+      "description": "Soundcore Space 2 headphones are 23% off on Amazon. Get adaptive ANC, LDAC, Bluetooth 6.1, and up to 70 hours of battery for $99.99.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/04/anker-soundcore-space-2-on-neck-scaled.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Save big on AWOL LuxVision, the projector that works around you, with this Black Friday deal",
+      "url": "https://www.whathifi.com/seasonal-sales/save-big-on-awol-luxvision-the-projector-that-works-around-you-with-this-black-friday-deal",
+      "publishedAt": "2026-11-19T09:30:00.000Z",
+      "author": "What Hi-Fi?",
+      "description": "Buy one for $5,999/£4,999, get a next-gen projector screen absolutely free",
+      "image": "https://cdn.mos.cms.futurecdn.net/6MtAPk2LoX9D5XFVVXuDE6-2550-80.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "3 headphones I would buy instead of the Nothing Headphone (1) Pro",
+      "url": "https://www.soundguys.com/nothing-headphone-1-pro-alternatives-166384/",
+      "publishedAt": "2026-11-19T09:00:03.000Z",
+      "author": "Christian Thomas",
+      "description": "Interested in the Nothing Headphone (1) Pro, but not enough to buy? I've been testing headphones for 15 years; here are 3 alternatives.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/09/nothing-headphone-1-pro-case-open.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Give your home life the gift that keeps on giving this Black Friday, with a Waterdrop water filter",
+      "url": "https://www.whathifi.com/seasonal-sales/give-your-home-life-the-gift-that-keeps-on-giving-this-black-friday-with-a-waterdrop-water-filter",
+      "publishedAt": "2026-11-19T09:00:00.000Z",
+      "author": "What Hi-Fi?",
+      "description": "Purer, tastier drinking water that’s cheaper than bottled and better for the environment",
+      "image": "https://cdn.mos.cms.futurecdn.net/3qgcqt9aqVZEAjFQAHfpZD-1201-80.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "The best early Black Friday deals: discounts on OLED TVs, wireless headphones and more, handpicked by our experts",
+      "url": "https://www.whathifi.com/live/news/early-black-friday-deals-19-11-2026",
+      "publishedAt": "2026-11-19T08:31:04.000Z",
+      "author": "Daniel Furn",
+      "description": "The top audio and home cinema savings – brought to you live by our reviewers!",
+      "image": "https://cdn.mos.cms.futurecdn.net/tRAjd7P8EHpFhxRdsKBDxK-1175-80.jpg",
+      "category": "耳機",
+      "articleType": "新聞"
+    },
     {
       "source": "BGR",
       "title": "Amazon Echo Time Review: Less Audio, More Visual - BGR",
@@ -23,17 +342,6 @@
       "description": "Shop Australian discounts on the Arc Ultra, Ace headphones, Play portable and many, many more",
       "image": "https://cdn.mos.cms.futurecdn.net/BNrntRzThv4EkF6bWE5i6J-1920-80.jpg",
       "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "Tom's Guide",
-      "title": "How to watch 'CMA Awards 2026' online — stream the country music event from anywhere",
-      "url": "https://www.tomsguide.com/entertainment/streaming/how-to-watch-cma-awards-2026",
-      "publishedAt": "2026-11-18T23:00:00.000Z",
-      "author": "Jakob Barnes",
-      "description": "Celebrate the best of country music with the ceremony in Nashville",
-      "image": "https://cdn.mos.cms.futurecdn.net/M8n3yYQXqQZ8YYGczQAsnd-1920-80.jpg",
-      "category": "串流播放器",
       "articleType": "其他"
     },
     {
@@ -68,17 +376,6 @@
       "image": "https://cdn.mos.cms.futurecdn.net/AdqfAdFjzQgbBTHXgHEa2D-1920-80.jpg",
       "category": "耳機",
       "articleType": "其他"
-    },
-    {
-      "source": "The Verge",
-      "title": "8BitDo’s new gamepad modernizes the Nintendo GameCube’s WaveBird",
-      "url": "https://www.theverge.com/tech/1036578/8bitdo-gb-bluetooth-gamepad-wireless-controller-nintendo-gamecube-wavebird",
-      "publishedAt": "2026-11-18T16:00:00.000Z",
-      "author": "Andrew Liszewski",
-      "description": "Twenty-five years after the GameCube’s release in North America, 8BitDo resurrects the console’s controller.",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/8bitdogc1.jpg?quality=90&strip=all&crop=0%2C10.77427453053%2C100%2C78.45145093894&w=1200",
-      "category": "其他音訊",
-      "articleType": "新聞"
     },
     {
       "source": "SoundGuys",
@@ -225,17 +522,6 @@
     },
     {
       "source": "Tom's Guide",
-      "title": "LIVE: 23 Apple Black Friday deals I’d actually spend my money on — AirPods Pro 3, MacBook Neo, iPhone Duo and more",
-      "url": "https://www.tomsguide.com/live/news/best-apple-black-friday-deals-wednesday-november-18-2026",
-      "publishedAt": "2026-11-18T11:02:20.000Z",
-      "author": "Will Salmon, Olivia Halevy",
-      "description": "Keep track of all the biggest savings on Apple tech here",
-      "image": "https://cdn.mos.cms.futurecdn.net/oawuy2CuLBr373V7XdDEWh-2560-80.jpg",
-      "category": "耳機",
-      "articleType": "新聞"
-    },
-    {
-      "source": "Tom's Guide",
       "title": "The 4.5-star JBL speaker I use every day is $100 off — and it’s the bassiest, loudest, and most energetic speaker I’ve ever owned",
       "url": "https://www.tomsguide.com/audio/bluetooth-speakers/the-4-5-star-jbl-speaker-i-use-every-day-is-usd100-off-and-its-the-bassiest-loudest-and-most-energetic-speaker-ive-ever-owned",
       "publishedAt": "2026-11-18T10:32:00.000Z",
@@ -335,7 +621,7 @@
     },
     {
       "source": "Engadget",
-      "title": "Grado's GW200 Headphones Boast Fresh Drivers And A Longer Battery Life - Engadget",
+      "title": "Grado's GW200 headphones boast fresh drivers and a longer battery life - Engadget",
       "url": "https://www.engadget.com/2319483/grados-gw200-headphones-boast-fresh-drivers-and-a-longer-battery-life/",
       "publishedAt": "2026-11-17T18:07:29.000Z",
       "author": "Lawrence Bonk",
@@ -354,17 +640,6 @@
       "image": "https://www.soundguys.com/wp-content/uploads/2025/09/SG_Nothing-Ear-3-07.jpg",
       "category": "耳機",
       "articleType": "其他"
-    },
-    {
-      "source": "Tom's Guide",
-      "title": "Multiple Apple services were down including Apple Music and iCloud — live updates on sudden outage",
-      "url": "https://www.tomsguide.com/news/live/apple-outage-november-17-2026",
-      "publishedAt": "2026-11-17T17:51:36.000Z",
-      "author": "Scott Younker",
-      "description": "Outage affecting iCloud, Apple Pay and more",
-      "image": "https://cdn.mos.cms.futurecdn.net/ZrRNiMNgJJDFWd7ykuKj4U-2000-80.jpg",
-      "category": "其他音訊",
-      "articleType": "新聞"
     },
     {
       "source": "SoundGuys",
@@ -464,17 +739,6 @@
       "image": "https://cdn.mos.cms.futurecdn.net/3NetEXEcLyCf2zRXJj9wMS-2329-80.jpg",
       "category": "耳機",
       "articleType": "評測"
-    },
-    {
-      "source": "Engadget",
-      "title": "5 important Bose headphone settings that need to be manually turned on - Engadget",
-      "url": "https://www.engadget.com/2315018/bose-headphone-settings-manually-turn-on/",
-      "publishedAt": "2026-11-17T14:15:00.000Z",
-      "author": "Robin Bea",
-      "description": "Take control of your Bose headphones with these settings changes that'll help you move beyond the defaults and make your everyday listening feel more personal.",
-      "image": "https://www.engadget.com/img/gallery/5-important-bose-headphone-settings-that-needs-to-be-manually-turned-on/l-intro-1794487917.jpg",
-      "category": "耳機",
-      "articleType": "其他"
     },
     {
       "source": "What Hi-Fi?",
@@ -709,7 +973,7 @@
     },
     {
       "source": "What Hi-Fi?",
-      "title": "The Amazon Australia Black Friday sale is live — shop these 30+ deals on headphones, speakers, projectors, amplifiers and more",
+      "title": "I'm tracking AV deals in the Amazon Australia Black Friday sale — shop these 30+ deals on headphones, speakers, projectors, amplifiers and more",
       "url": "https://www.whathifi.com/seasonal-sales/amazon-black-friday-sales-au",
       "publishedAt": "2026-11-16T02:24:28.000Z",
       "author": "Max Langridge",
@@ -801,7 +1065,7 @@
       "url": "https://www.whathifi.com/streaming-entertainment/how-to-watch-im-a-celebrity-get-me-out-of-here-2026-free",
       "publishedAt": "2026-11-15T15:00:00.000Z",
       "author": "Krishi Chowdhary",
-      "description": "AJ Odudu could return as Wayne Rooney and Chloe Burrows tackle a gruesome food trial",
+      "description": "AJ Odudu and Leigh Francis are set to join the camp after completing a rescue mission",
       "image": "https://cdn.mos.cms.futurecdn.net/wW3sVBxVFun3TTDRBhE4jR-830-80.jpg",
       "category": "串流播放器",
       "articleType": "其他"
@@ -1226,7 +1490,7 @@
     },
     {
       "source": "What Hi-Fi?",
-      "title": "How to watch Australia vs England ODI series 2026: Live stream cricket from anywhere, 3rd ODI",
+      "title": "How to watch Australia vs England ODI series 2026: Live stream cricket for free from anywhere, 3rd ODI",
       "url": "https://www.whathifi.com/streaming-entertainment/how-to-watch/australia-vs-england-odi-series-2026",
       "publishedAt": "2026-11-12T21:00:00.000Z",
       "author": "Andy Murray",
@@ -4950,182 +5214,6 @@
       "author": "",
       "description": "Flexin' my music taste",
       "image": "https://cdn.mos.cms.futurecdn.net/HwmikmdktciZjDcApX2TuF-1920-80.jpg",
-      "category": "喇叭",
-      "articleType": "評測"
-    },
-    {
-      "source": "BGR",
-      "title": "Some Google Home Speakers Have A Big New Problem (And It's Not Gemini) - BGR",
-      "url": "https://www.bgr.com/2292376/google-home-speakers-big-data-problem-explained/",
-      "publishedAt": "2026-10-20T22:17:00.000Z",
-      "author": "Ethan Stinson",
-      "description": "Users who set up a brand-new Google Home Speaker are learning after the fact that their speaker has a flaw that could cost them a fortune.",
-      "image": "https://www.bgr.com/img/gallery/some-google-home-speakers-have-a-big-new-problem-and-its-not-gemini/l-intro-1792530922.jpg",
-      "category": "喇叭",
-      "articleType": "其他"
-    },
-    {
-      "source": "SoundGuys",
-      "title": "Save $31 on the Sony WH-CH520 headphones in rare price drop",
-      "url": "https://www.soundguys.com/deal-sony-wh-ch520-headphones-165003/",
-      "publishedAt": "2026-10-20T17:43:18.000Z",
-      "author": "Matt Horne",
-      "description": "Sony WH-CH520 headphones drop to $38 on Amazon, with 50-hour battery life, multipoint pairing, and a built-in mic.",
-      "image": "https://www.soundguys.com/wp-content/uploads/2023/09/Sony-WH-CH520-Featured-Image-3-scaled.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "BGR",
-      "title": "YouTube Premium Could Get Its Best Perk Yet, As Long As It Doesn't Pull A Spotify - BGR",
-      "url": "https://www.bgr.com/2291937/youtube-premium-best-perk-yet-audiobooks/",
-      "publishedAt": "2026-10-20T17:17:00.000Z",
-      "author": "Joshua Hawkins",
-      "description": "YouTube Premium's higher price might be easier to stomach with a reported new perk, as long as Google avoids Spotify's frustrating approach.",
-      "image": "https://www.bgr.com/img/gallery/youtube-premium-could-get-its-best-perk-yet-as-long-as-it-doesnt-pull-a-spotify/l-intro-1792515480.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "SoundGuys",
-      "title": "LG S30A soundbar hits record low with $70 discount",
-      "url": "https://www.soundguys.com/lg-s30a-soundbar-deal-165006/",
-      "publishedAt": "2026-10-20T16:53:35.000Z",
-      "author": "Matt Horne",
-      "description": "This LG compact S30A soundbar is at an all-time low on Amazon at $149.99, with a wireless subwoofer and Dolby Audio included.",
-      "image": "https://www.soundguys.com/wp-content/uploads/2026/10/LG-S30A-2.1-channel-Soundbar-Press-Image.jpg",
-      "category": "Soundbar",
-      "articleType": "其他"
-    },
-    {
-      "source": "Tom's Guide",
-      "title": "I just discovered an iPhone and Android hi-res music streaming app — and it's completely free, no ads, no subscription",
-      "url": "https://www.tomsguide.com/entertainment/music-streaming/i-just-discovered-an-iphone-and-android-hi-res-music-streaming-app-and-its-completely-free-no-ads-no-subscription",
-      "publishedAt": "2026-10-20T16:38:20.000Z",
-      "author": "Erin Bashford",
-      "description": "What's the catch, right? Seemingly none... just Audiophile.fm",
-      "image": "https://cdn.mos.cms.futurecdn.net/8AK9oCFNcRvkYGLavVjshL-2560-80.jpg",
-      "category": "串流播放器",
-      "articleType": "其他"
-    },
-    {
-      "source": "TechRadar",
-      "title": "Native Apple Music support is finally coming to a wireless speaker system other than Sonos — has Bluesound just become the Apple-loving audiophile's ideal option?",
-      "url": "https://www.techradar.com/audio/multi-room/theres-finally-a-proper-sonos-alternative-for-apple-loving-audiophiles-bluesound-is-getting-apple-music-as-a-free-upgrade-soon-and-not-just-on-its-own-devices",
-      "publishedAt": "2026-10-20T16:10:38.000Z",
-      "author": "Carrie Marshall",
-      "description": "Bluesound has updated BluOS with Apple Music integration. In addition to Bluesound devices, the platform also powers devices by big brands such as DALI and Monitor Audio.",
-      "image": "https://cdn.mos.cms.futurecdn.net/kDeFYY6KAJVDY3SLnmLDTW-1920-80.jpg",
-      "category": "喇叭",
-      "articleType": "其他"
-    },
-    {
-      "source": "SoundGuys",
-      "title": "Belkin’s new budget ANC earbuds get their first Amazon discount",
-      "url": "https://www.soundguys.com/belkin-soundform-isolate-buds-anc-deal-164999/",
-      "publishedAt": "2026-10-20T15:37:00.000Z",
-      "author": "Matt Horne",
-      "description": "Belkin SoundForm Isolate Buds ANC drop to $52.99 on Amazon, their best price so far for affordable noise-canceling earbuds.",
-      "image": "https://www.soundguys.com/wp-content/uploads/2026/09/Belkin-SoundForm-Isolate-Buds-white-2.jpeg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "Bluesound owners just got a free Apple Music upgrade",
-      "url": "https://www.whathifi.com/streaming-entertainment/music-streaming/bluesound-owners-just-got-a-free-apple-music-upgrade",
-      "publishedAt": "2026-10-20T14:06:21.000Z",
-      "author": "Ioan Hazell",
-      "description": "Access to the streaming service comes with the latest BluOS update",
-      "image": "https://cdn.mos.cms.futurecdn.net/YdZizSrzJRa2WEJGFLShjk-900-80.jpg",
-      "category": "串流播放器",
-      "articleType": "其他"
-    },
-    {
-      "source": "TechRadar",
-      "title": "‘Self sabotage by Spotify’: The music platform is cracking down on Family plan sharing, and it does nothing except reveal Spotify’s true colors",
-      "url": "https://www.techradar.com/audio/spotify/spotifys-crack-down-on-family-plan-sharing-could-land-you-a-12-month-ban-and-it-could-be-the-final-straw-for-users-myself-included",
-      "publishedAt": "2026-10-20T14:06:02.000Z",
-      "author": "Rowan Davies",
-      "description": "Premium Family members must now prove to Spotify they live in the same household as the account holder.",
-      "image": "https://cdn.mos.cms.futurecdn.net/Yun3kDt3wnpcQxHd4jNzb5-2560-80.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "I’ve been testing the AirPods 5 and they deliver outstanding ANC performance in an open design – but it’s not all plain sailing for Apple’s newest gen earbuds",
-      "url": "https://www.whathifi.com/headphones/wireless-earbuds/apple-airpods-5-with-wireless-charging-case",
-      "publishedAt": "2026-10-20T13:34:32.000Z",
-      "author": "",
-      "description": "The AirPods 5 feature improved ANC and updated sonic performance in this tried-and-tested design, along with plenty of new iOS features, but have they evolved enough?",
-      "image": "https://cdn.mos.cms.futurecdn.net/TqnxBB8roGGrwc6hLD9KxG-1920-80.jpg",
-      "category": "耳機",
-      "articleType": "評測"
-    },
-    {
-      "source": "Tom's Guide",
-      "title": "I tested the Snoozeband Original with built-in speakers — now I can fall asleep fast even when I'm on the move",
-      "url": "https://www.tomsguide.com/wellness/sleep-tech/snoozeband-original-sleep-headphones-review",
-      "publishedAt": "2026-10-20T11:30:00.000Z",
-      "author": "",
-      "description": "The SnoozeBand Original is a cheap and comfortable solution to those who rely on white noise to fall asleep fast and drown out unwelcome noises, wherever you are.",
-      "image": "https://cdn.mos.cms.futurecdn.net/y8ty2un6wvYePYy8LRVJ8E-1920-80.jpg",
-      "category": "耳機",
-      "articleType": "評測"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "How to watch PSG vs Barcelona: live stream UCL game for FREE",
-      "url": "https://www.whathifi.com/streaming-entertainment/how-to-watch/psg-vs-barcelona-champions-league-2026-27-free",
-      "publishedAt": "2026-10-20T11:00:00.000Z",
-      "author": "Aatif Sulleyman",
-      "description": "How to watch PSG vs Barcelona live streams from anywhere in the 2026/27 UCL. Free coverage, TV channels and broadcast details from Parc des Princes.",
-      "image": "https://cdn.mos.cms.futurecdn.net/LVbJsfskyxMu2gM52Fhd3A-1920-80.jpg",
-      "category": "串流播放器",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "All the TVs that won a 2026 What Hi-Fi? Award, plus their best prices and biggest discounts",
-      "url": "https://www.whathifi.com/tv-home-cinema/televisions/all-the-tvs-that-won-a-2026-what-hi-fi-award-plus-their-best-prices-and-biggest-discounts",
-      "publishedAt": "2026-10-20T10:23:06.000Z",
-      "author": "Daniel Furn",
-      "description": "The big winners for a very special 50th anniversary year...",
-      "image": "https://cdn.mos.cms.futurecdn.net/Lh4JnNFw9s6LswLofsxtVh-1920-80.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "\"Our projectors still offer a different, elevated and more precise experience for the discerning cinephile\" – manufacturers have their say on the rise of giant TVs",
-      "url": "https://www.whathifi.com/tv-home-cinema/projectors/are-giant-tvs-a-threat-to-projectors-we-asked-the-industry-to-find-out",
-      "publishedAt": "2026-10-20T09:44:59.000Z",
-      "author": "Tom Parsons",
-      "description": "According to Sony, Optoma, Anker and Xgimi, projectors continue to offer unique qualities that the biggest TVs can’t match",
-      "image": "https://cdn.mos.cms.futurecdn.net/rsgaVHe4uyzC7xXw8KBfxW-1920-80.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "Jamo’s new flagship HYG 5 wireless speaker is like a HomePod with added motion controls",
-      "url": "https://www.whathifi.com/speakers/wireless-speakers/jamos-new-flagship-hyg-5-wireless-speaker-is-like-a-homepod-with-added-motion-controls",
-      "publishedAt": "2026-10-20T08:00:00.000Z",
-      "author": "Joe Svetlik",
-      "description": "Just wave your hand to wake this Danish speaker",
-      "image": "https://cdn.mos.cms.futurecdn.net/rCWxdSHoqcZ4nDfm4Ta7kh-2534-80.jpg",
-      "category": "喇叭",
-      "articleType": "其他"
-    },
-    {
-      "source": "Tom's Guide",
-      "title": "I tested the Marshall Bromley 150 — and it blew me away with its ground-shaking bass",
-      "url": "https://www.tomsguide.com/audio/bluetooth-speakers/marshall-bromley-150-review",
-      "publishedAt": "2026-10-20T08:00:00.000Z",
-      "author": "",
-      "description": "The Marshall Bromley 150 is a beautiful little party speaker, boasting powerful bass, a wide soundstage, 40 hours of battery life, and a range of features.",
-      "image": "https://cdn.mos.cms.futurecdn.net/9cjtyeyAmdfexS8WzL8ufj-1920-80.jpg",
       "category": "喇叭",
       "articleType": "評測"
     }
