@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-20T23:43:18.226Z",
+  "generatedAt": "2026-11-21T00:28:42.806Z",
   "days": 30,
-  "count": 481,
+  "count": 480,
   "articles": [
     {
       "source": "SoundGuys",
@@ -5282,17 +5282,6 @@
       "image": "https://cdn.mos.cms.futurecdn.net/zQHSTzvcptNbzrApvh5MSf-2000-80.png",
       "category": "其他音訊",
       "articleType": "其他"
-    },
-    {
-      "source": "TechRadar",
-      "title": "‘A genuine Sonos rival’: the WiiM Bar is a strong Dolby Atmos soundbar that conjures up a delightfully wide soundstage and has no end of handy features — here’s whether I'd recommend it after hours of use",
-      "url": "https://www.techradar.com/televisions/soundbars/wiim-bar-review",
-      "publishedAt": "2026-10-22T00:00:00.000Z",
-      "author": "",
-      "description": "Can WiiM rival Sonos in the world of Dolby Atmos soundbars? Here’s my view after testing out the company’s first ever soundbar.",
-      "image": "https://cdn.mos.cms.futurecdn.net/VuDrgtc9A8AydwhofNVeX5-1920-80.jpg",
-      "category": "Soundbar",
-      "articleType": "評測"
     }
   ]
 }
