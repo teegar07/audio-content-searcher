@@ -1,8 +1,30 @@
 {
-  "generatedAt": "2026-11-22T00:04:02.233Z",
+  "generatedAt": "2026-11-22T01:02:27.134Z",
   "days": 30,
-  "count": 474,
+  "count": 475,
   "articles": [
+    {
+      "source": "BGR",
+      "title": "The 5 Most Common Problems With Smart Speakers (And How To Fix Them) - BGR",
+      "url": "https://www.bgr.com/2321141/common-problems-with-smart-speakers-fix/",
+      "publishedAt": "2026-11-22T00:17:00.000Z",
+      "author": "Nichols deCourville",
+      "description": "Your smart speaker ignoring you or talking too much doesn't have to be something you live with. There are fixes for these and other common problems.",
+      "image": "https://www.bgr.com/img/gallery/the-5-most-common-problems-with-smart-speakers-and-how-to-fix-them/l-intro-1795030006.jpg",
+      "category": "喇叭",
+      "articleType": "其他"
+    },
+    {
+      "source": "Engadget",
+      "title": "This is the best type of wireless earbuds for audio output - Engadget",
+      "url": "https://www.engadget.com/2319289/wireless-earbuds-type-best-for-audio-output/",
+      "publishedAt": "2026-11-22T00:00:00.000Z",
+      "author": "Roger Fingas",
+      "description": "Comfort, price and aesthetics obviously impact what we put on our ears, but if sound fidelity is your priority, this kind of wireless earbud is the best choice.",
+      "image": "https://www.engadget.com/img/gallery/this-is-the-best-type-of-wireless-earbuds-for-audio-output/l-intro-1794431151.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
     {
       "source": "Engadget",
       "title": "The trade-offs of using Apple's AirPods Max headphones - Engadget",
@@ -265,17 +287,6 @@
       "description": "The Sony ULT Tower MAX party speaker is 33% off on Amazon, a record low, with 2,150W of power, 360-degree sound, and karaoke features.",
       "image": "https://www.soundguys.com/wp-content/uploads/2026/09/Sony-ULT-series-6-scaled.jpeg",
       "category": "喇叭",
-      "articleType": "其他"
-    },
-    {
-      "source": "Engadget",
-      "title": "Teenage Engineering's first CD player kind of looks like a turntable - Engadget",
-      "url": "https://www.engadget.com/2323390/teenage-engineerings-first-cd-player-kind-of-looks-like-a-turntable/",
-      "publishedAt": "2026-11-20T18:53:49.000Z",
-      "author": "Lawrence Bonk",
-      "description": "The EP/BC-1 costs $329 and marks the start of a new line of \"broadcast\" audio equipment.",
-      "image": "https://www.engadget.com/img/gallery/teenage-engineerings-first-cd-player-kind-of-looks-like-a-turntable/l-intro-1795200766.jpg",
-      "category": "黑膠／唱盤",
       "articleType": "其他"
     },
     {
