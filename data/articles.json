@@ -1,8 +1,19 @@
 {
-  "generatedAt": "2026-11-23T02:27:26.383Z",
+  "generatedAt": "2026-11-23T03:38:42.672Z",
   "days": 30,
-  "count": 462,
+  "count": 463,
   "articles": [
+    {
+      "source": "BGR",
+      "title": "This Open-Source App Lets You Use Your AirPods As A Mouse - BGR",
+      "url": "https://www.bgr.com/2322343/use-airpods-as-mouse-air-cursor-app/",
+      "publishedAt": "2026-11-23T02:47:00.000Z",
+      "author": "Ethan Stinson",
+      "description": "An open-source app can put the motion sensors in your AirPods to use as a mostly hands-free alternative to a mouse or trackpad.",
+      "image": "https://www.bgr.com/img/gallery/this-open-source-app-lets-you-use-your-airpods-as-a-mouse/l-intro-1795119415.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
     {
       "source": "Engadget",
       "title": "Should you go with a headphone DAC/amp combo or a stack? - Engadget",
