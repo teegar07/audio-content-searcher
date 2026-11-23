@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-23T00:00:39.982Z",
+  "generatedAt": "2026-11-23T00:34:53.254Z",
   "days": 30,
-  "count": 462,
+  "count": 461,
   "articles": [
     {
       "source": "TechRadar",
@@ -5073,17 +5073,6 @@
       "image": "https://cdn.mos.cms.futurecdn.net/JXaGeNgWxEiKv4Ev5zKXo5-2560-80.jpg",
       "category": "喇叭",
       "articleType": "其他"
-    },
-    {
-      "source": "TechRadar",
-      "title": "This Dolby Atmos soundbar from JBL may not have up-firing speakers, but it still sounds more expansive than most models I’ve tested — here’s how I’d rate it after hours of testing",
-      "url": "https://www.techradar.com/televisions/soundbars/jbl-bar-800mk2-review",
-      "publishedAt": "2026-10-24T00:00:00.000Z",
-      "author": "",
-      "description": "I tested a JBL soundbar with battery powered detachable speakers, and it absolutely blew me away.",
-      "image": "https://cdn.mos.cms.futurecdn.net/QS3Ksc5iGqkBLoC9AM3ZZQ-1920-80.jpg",
-      "category": "Soundbar",
-      "articleType": "評測"
     }
   ]
 }
