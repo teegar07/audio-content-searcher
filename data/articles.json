@@ -1,8 +1,19 @@
 {
-  "generatedAt": "2026-11-23T00:34:53.254Z",
+  "generatedAt": "2026-11-23T01:28:28.405Z",
   "days": 30,
-  "count": 461,
+  "count": 462,
   "articles": [
+    {
+      "source": "Engadget",
+      "title": "Should you go with a headphone DAC/amp combo or a stack? - Engadget",
+      "url": "https://www.engadget.com/2311788/headphone-dac-amp-combo-vs-stack/",
+      "publishedAt": "2026-11-23T00:30:00.000Z",
+      "author": "Husain Parvez",
+      "description": "DAC/amps are usually more convenient than stacks but give up upgradability and, in some cases, the flexibility of dedicated units.",
+      "image": "https://www.engadget.com/img/gallery/should-you-go-with-a-headphone-dacamp-combo-or-a-stack/l-intro-1794285377.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
     {
       "source": "TechRadar",
       "title": "150+ Best Black Friday deals 2026 — record-low prices on LG OLED TVs, AirPods, Sony XM6, Ring doorbells and more",
@@ -1688,12 +1699,12 @@
     },
     {
       "source": "What Hi-Fi?",
-      "title": "I'm tracking AV deals in the Amazon Australia Black Friday sale — shop these 35+ deals on headphones, speakers, projectors, amplifiers and more",
+      "title": "The Amazon Australia Black Friday sale has terrific deals on AV kit — shop these 35+ deals on headphones, speakers, projectors, amplifiers and more",
       "url": "https://www.whathifi.com/seasonal-sales/amazon-black-friday-sales-au",
       "publishedAt": "2026-11-16T02:24:28.000Z",
       "author": "Max Langridge",
       "description": "Don't let these Black Friday discounts pass you by",
-      "image": "https://cdn.mos.cms.futurecdn.net/fRe7PQ5UNhGayXjzDQsFL3-800-80.png",
+      "image": "https://cdn.mos.cms.futurecdn.net/SRWbzWZYnV7frcideJDKZg-1175-80.jpg",
       "category": "耳機",
       "articleType": "其他"
     },
