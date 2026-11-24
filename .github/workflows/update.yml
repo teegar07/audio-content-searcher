@@ -8,6 +8,7 @@ on:
     # Run several times before 08:30 Asia/Taipei to provide retry opportunities if GitHub delays a scheduled run.
     # Keep UTC hours 18-23 (02:00-07:00 Taiwan time).
     # Daily schedule retry marker.
+    # Manual recovery trigger 2026-11-24.
     - cron: '0 18 * * *'
     - cron: '0 19 * * *'
     - cron: '0 20 * * *'
