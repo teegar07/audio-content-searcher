@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-24T00:49:41.917Z",
+  "generatedAt": "2026-11-24T03:52:25.055Z",
   "days": 30,
-  "count": 479,
+  "count": 478,
   "articles": [
     {
       "source": "SoundGuys",
@@ -5259,17 +5259,6 @@
       "description": "After testing the Bose QuietComfort Headphones (2nd Gen), I'd buy them over the pricier Ultras. Here's why they're all I need.",
       "image": "https://www.soundguys.com/wp-content/uploads/2026/10/Bose-QC-2-vs-Bose-QC-Ultra-2-1-scaled.jpeg",
       "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "BGR",
-      "title": "Some Audiophiles Avoid The Blue Yeti Microphone, So Here Are 4 Affordable Alternatives - BGR",
-      "url": "https://www.bgr.com/2291659/audiophiles-blue-yeti-affordable-microphone-alternatives/",
-      "publishedAt": "2026-10-25T02:17:00.000Z",
-      "author": "Joel Loynds",
-      "description": "The Blue Yeti helped make USB microphones mainstream, but there's plenty of competition now for those who want good audio without a studio setup.",
-      "image": "https://www.bgr.com/img/gallery/some-audiophiles-avoid-the-blue-yeti-microphone-so-here-are-4-affordable-alternatives/l-intro-1792506973.jpg",
-      "category": "其他音訊",
       "articleType": "其他"
     }
   ]
