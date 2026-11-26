@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T00:52:20.619Z",
+  "generatedAt": "2026-11-26T01:34:15.613Z",
   "days": 30,
   "count": 538,
   "articles": [
@@ -467,7 +467,7 @@
     },
     {
       "source": "Tom's Guide",
-      "title": "95+ best Amazon Black Friday deals LIVE: AirPods Pro, Nintendo Switch 2, Asics, Bose, Roku and more",
+      "title": "101+ best Amazon Black Friday deals LIVE: AirPods Pro, Nintendo Switch 2, Asics, Bose, Roku and more",
       "url": "https://www.tomsguide.com/live/news/best-amazon-black-friday-deals-wednesday-november-25-2026",
       "publishedAt": "2026-11-25T09:21:40.000Z",
       "author": "Kaycee Hill",
@@ -1402,23 +1402,23 @@
     },
     {
       "source": "TechRadar",
-      "title": "I put the best headphones from Apple, Technics, Bowers & Wilkins and Nothing in group test to find my ultimate winner — and the result may surprise you",
-      "url": "https://www.techradar.com/audio/wireless-headphones/i-tested-four-of-the-best-wireless-noise-canceling-headphones-in-2026-and-theres-only-one-pair-id-buy-on-black-friday",
-      "publishedAt": "2026-11-22T11:00:00.000Z",
-      "author": "Becky Scarrott",
-      "description": "With Black Friday's incoming discounts, is it worth opting for a mid-range set of cans that may drop to budget money? Not for me…",
-      "image": "https://cdn.mos.cms.futurecdn.net/ZEiwbp8MzwAuQEaiRGeRNn-2560-80.jpg",
-      "category": "耳機",
-      "articleType": "評測"
-    },
-    {
-      "source": "TechRadar",
       "title": "Xiaomi Clip review: simply the best open earbuds you can buy, and I've tested scores of them",
       "url": "https://www.techradar.com/audio/earbuds-airpods/xiaomi-clip-review",
       "publishedAt": "2026-11-22T11:00:00.000Z",
       "author": "",
       "description": "The Xiaomi Clip are the best open earbuds you can buy right now (if, indeed, you can buy them), offering great value and a range of impressive perks",
       "image": "https://cdn.mos.cms.futurecdn.net/iHtTVMvcNu8A5H3KWzC5M5-2545-80.jpg",
+      "category": "耳機",
+      "articleType": "評測"
+    },
+    {
+      "source": "TechRadar",
+      "title": "I put the best headphones from Apple, Technics, Bowers & Wilkins and Nothing in group test to find my ultimate winner — and the result may surprise you",
+      "url": "https://www.techradar.com/audio/wireless-headphones/i-tested-four-of-the-best-wireless-noise-canceling-headphones-in-2026-and-theres-only-one-pair-id-buy-on-black-friday",
+      "publishedAt": "2026-11-22T11:00:00.000Z",
+      "author": "Becky Scarrott",
+      "description": "With Black Friday's incoming discounts, is it worth opting for a mid-range set of cans that may drop to budget money? Not for me…",
+      "image": "https://cdn.mos.cms.futurecdn.net/ZEiwbp8MzwAuQEaiRGeRNn-2560-80.jpg",
       "category": "耳機",
       "articleType": "評測"
     },
