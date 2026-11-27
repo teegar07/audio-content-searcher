@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T01:30:32.612Z",
+  "generatedAt": "2026-11-27T02:04:23.555Z",
   "days": 30,
   "count": 571,
   "articles": [
@@ -598,6 +598,17 @@
       "articleType": "新聞"
     },
     {
+      "source": "What Hi-Fi?",
+      "title": "Black Friday hi-fi deals live: we're tracking the best savings on turntables, CD players, speakers, headphones and more",
+      "url": "https://www.whathifi.com/live/news/best-black-friday-headphone-speaker-hi-fi-deals-24-11-2026",
+      "publishedAt": "2026-11-26T10:13:08.000Z",
+      "author": "Kashfia Kabir",
+      "description": "Stay tuned to bag a bargain on great audio products",
+      "image": "https://cdn.mos.cms.futurecdn.net/B2rxqxbLjTL5riTaPParQU-1000-80.jpg",
+      "category": "耳機",
+      "articleType": "新聞"
+    },
+    {
       "source": "SoundGuys",
       "title": "USB-C finally made wired earbuds good again",
       "url": "https://www.soundguys.com/usb-c-wired-earbuds-comeback-166781/",
@@ -830,17 +841,6 @@
     },
     {
       "source": "TechRadar",
-      "title": "Forget Bluetooth: Bose's cheap Noise Cancelling Wired Earbuds wowed me for excellent ANC without the fuss",
-      "url": "https://www.techradar.com/audio/headphones/forget-bluetooth-i-tried-boses-noise-cancelling-wired-earbuds-and-theyre-the-easiest-cheapest-route-to-class-leading-noise-cancellation-in-2026",
-      "publishedAt": "2026-11-25T14:00:00.000Z",
-      "author": "Becky Scarrott",
-      "description": "Are they discounted for Black Friday? No — here's why I don't care",
-      "image": "https://cdn.mos.cms.futurecdn.net/83yaKSzzAevF5fkkQaEggi-2560-80.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "TechRadar",
       "title": "Bose vs Sony vs Sennheiser tested: I compared the latest wireless headphones for audio quality, noise cancellation and comfort — there’s a clear winner for me",
       "url": "https://www.techradar.com/audio/wireless-headphones/i-compared-the-sony-wh-1000xm6-bose-quietcomfort-ultra-headphones-2-and-sennheiser-momentum-5-after-hours-of-testing-this-is-the-pair-id-spend-my-money-on",
       "publishedAt": "2026-11-25T14:00:00.000Z",
@@ -849,6 +849,17 @@
       "image": "https://cdn.mos.cms.futurecdn.net/fv7nUByqLbutqsyt3pUvba-2560-80.jpg",
       "category": "耳機",
       "articleType": "評測"
+    },
+    {
+      "source": "TechRadar",
+      "title": "Forget Bluetooth: Bose's cheap Noise Cancelling Wired Earbuds wowed me for excellent ANC without the fuss",
+      "url": "https://www.techradar.com/audio/headphones/forget-bluetooth-i-tried-boses-noise-cancelling-wired-earbuds-and-theyre-the-easiest-cheapest-route-to-class-leading-noise-cancellation-in-2026",
+      "publishedAt": "2026-11-25T14:00:00.000Z",
+      "author": "Becky Scarrott",
+      "description": "Are they discounted for Black Friday? No — here's why I don't care",
+      "image": "https://cdn.mos.cms.futurecdn.net/83yaKSzzAevF5fkkQaEggi-2560-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
     },
     {
       "source": "What Hi-Fi?",
@@ -1575,17 +1586,6 @@
       "image": "https://cdn.mos.cms.futurecdn.net/NKSMMLJScYzHYBLatiL48-1500-80.jpg",
       "category": "黑膠／唱盤",
       "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "Black Friday hi-fi deals live: our experts track down the best savings on turntables, CD players, speakers, wireless headphones and more",
-      "url": "https://www.whathifi.com/live/news/best-black-friday-headphone-speaker-hi-fi-deals-24-11-2026",
-      "publishedAt": "2026-11-24T09:30:43.000Z",
-      "author": "Kashfia Kabir",
-      "description": "We're picking the best discounts on top audio products we've tested and genuinely recommend",
-      "image": "https://cdn.mos.cms.futurecdn.net/oHuxhUPFQHnYNPgTS8uYeR-1175-80.jpg",
-      "category": "耳機",
-      "articleType": "評測"
     },
     {
       "source": "SoundGuys",
