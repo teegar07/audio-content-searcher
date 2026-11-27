@@ -1,8 +1,624 @@
 {
-  "generatedAt": "2026-11-26T04:47:59.154Z",
+  "generatedAt": "2026-11-27T00:52:27.424Z",
   "days": 30,
-  "count": 538,
+  "count": 570,
   "articles": [
+    {
+      "source": "TechRadar",
+      "title": "How to watch Big Night of Musicals for free — stream from anywhere",
+      "url": "https://www.techradar.com/entertainment/how-to-watch/how-to-watch-big-night-of-musicals",
+      "publishedAt": "2026-11-27T00:05:00.000Z",
+      "author": "Jakob Barnes",
+      "description": "Jason Manford hosts this musical theater celebration",
+      "image": "https://cdn.mos.cms.futurecdn.net/xGqUDMEReREKo7pdPAYXHW-1920-80.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "Tom's Guide",
+      "title": "17+ best Apple Black Friday deals with all-time low prices on AirPods Pro 3, MacBook Neo, Apple Watch 12 and more",
+      "url": "https://www.tomsguide.com/sales-events/best-apple-black-friday-deals-11-26-26",
+      "publishedAt": "2026-11-26T22:55:51.000Z",
+      "author": "Dave LeClair",
+      "description": "No matter what kind of Apple product you have on your radar, there's a deal for you",
+      "image": "https://cdn.mos.cms.futurecdn.net/iFByssJKRgQDNmWwnCKgSF-2560-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "I built a cinephile starter pack with these Black Friday discounts",
+      "url": "https://www.whathifi.com/tv-home-cinema/black-friday-4k-blu-ray-deals-on-classic-films-every-real-movie-fan-should-see",
+      "publishedAt": "2026-11-26T21:50:56.000Z",
+      "author": "Robyn Quick",
+      "description": "From The Godfather to Avatar",
+      "image": "https://cdn.mos.cms.futurecdn.net/SosV7bN7zJXujZzs5vwfZX-2560-80.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Black Friday has arrived and Amazon's AV deals are in full swing — here are my 35+ top picks",
+      "url": "https://www.whathifi.com/seasonal-sales/amazon-black-friday-sales-au-2",
+      "publishedAt": "2026-11-26T21:20:33.000Z",
+      "author": "Max Langridge",
+      "description": "Whether you're a hi-fi enthusiast or a home cinema fanatic, there's a bargain here for you",
+      "image": "https://cdn.mos.cms.futurecdn.net/e4gm3WmMybGihcrsEMVyXg-1175-80.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "TechRadar",
+      "title": "Rawr! These leopard-print Skullcandy buds are so cheap right now and have sound tuned by Bose",
+      "url": "https://www.techradar.com/audio/earbuds-airpods/black-friday-earbuds-for-the-cougar-in-your-life-these-cut-price-skullcandy-buds-have-sound-tuned-by-bose-but-cost-a-lot-less-than-any-bose-buds",
+      "publishedAt": "2026-11-26T21:00:14.000Z",
+      "author": "Becky Scarrott",
+      "description": "A leopard never changes its spots… but it can buy buds to match 'em…",
+      "image": "https://cdn.mos.cms.futurecdn.net/RDwCskhG9BxGYmpUhq5NXh-1920-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "I made a five-star, cable-free Dolby Atmos home cinema for normal-sized living rooms using Black Friday deals",
+      "url": "https://www.whathifi.com/tv-home-cinema/i-made-a-five-star-cable-free-dolby-atmos-home-cinema-for-normal-sized-living-rooms-using-black-friday-deals",
+      "publishedAt": "2026-11-26T20:40:00.000Z",
+      "author": "Alastair Stevenson",
+      "description": "No drilling, cable management, or furniture schlepping required",
+      "image": "https://cdn.mos.cms.futurecdn.net/ppPpDfy2SvHkae3QLWEv4c-2560-80.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Want a five-star turntable this Black Friday? One of our favourite Bluetooth record players is back to its joint-lowest price",
+      "url": "https://www.whathifi.com/hi-fi/turntables/want-a-five-star-turntable-this-black-friday-one-of-our-favourite-bluetooth-record-players-is-back-to-its-joint-lowest-price",
+      "publishedAt": "2026-11-26T20:33:47.000Z",
+      "author": "Harry McKerrell",
+      "description": "£399 for the five-star Pro-Ject T1 Evo BT",
+      "image": "https://cdn.mos.cms.futurecdn.net/QvYPouFTom8RqHPT3gAZQ-1920-80.jpg",
+      "category": "黑膠／唱盤",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "This budget music streamer has won four What Hi-Fi? Awards – and it's back to its joint-lowest price for Black Friday",
+      "url": "https://www.whathifi.com/hi-fi/music-streamers/this-budget-music-streamer-has-won-four-what-hi-fi-awards-and-its-back-to-its-joint-lowest-price",
+      "publishedAt": "2026-11-26T18:51:08.000Z",
+      "author": "Harry McKerrell",
+      "description": "A great deal on the small but mighty Cambridge Audio MXN10",
+      "image": "https://cdn.mos.cms.futurecdn.net/KYMSj7VJfWihmzQCRcFTef-2560-80.jpg",
+      "category": "串流播放器",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Sonos’ latest Ultra Dolby Atmos soundbar is a tough sell right now – thankfully, there are two decent backups",
+      "url": "https://www.whathifi.com/tv-home-cinema/soundbars/sonos-latest-ultra-dolby-atmos-soundbar-is-a-tough-sell-right-now-thankfully-there-are-two-decent-backups",
+      "publishedAt": "2026-11-26T17:29:00.000Z",
+      "author": "Alastair Stevenson",
+      "description": "And both are heavily discounted, thanks to Black Friday",
+      "image": "https://cdn.mos.cms.futurecdn.net/VjiDQPfXXLBeFb67uDdXg4-1600-80.jpg",
+      "category": "Soundbar",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "The best Black Friday audio deals of 2026",
+      "url": "https://www.soundguys.com/best-black-friday-audio-deals-of-2026-166200/",
+      "publishedAt": "2026-11-26T17:15:11.000Z",
+      "author": "Adam Birney",
+      "description": "Our picks for the Black Friday headphone, earbud, and speaker deals worth buying, from Beats, Bose, Samsung, Sonos, and more.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/11/SGBF2027-scaled.jpeg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Upgrading your hi-fi system? Grab over £350 off Cyrus' Award-winning music streamer this Black Friday",
+      "url": "https://www.whathifi.com/hi-fi/music-streamers/upgrading-your-hi-fi-system-grab-over-gbp350-off-cyrus-award-winning-music-streamer-this-black-friday",
+      "publishedAt": "2026-11-26T17:01:10.000Z",
+      "author": "Harry McKerrell",
+      "description": "Cyrus the Great (deal)",
+      "image": "https://cdn.mos.cms.futurecdn.net/LuPP72hepisWMhB7g4XXFo-1920-80.jpg",
+      "category": "串流播放器",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "These are the 6 CD players I'm recommending to anyone wanting to revive their disc collection – and they're all discounted for Black Friday, too",
+      "url": "https://www.whathifi.com/hi-fi/cd-players/these-are-the-6-cd-players-im-recommending-to-anyone-wanting-to-revive-their-disc-collection-and-theyre-all-discounted-for-black-friday-too",
+      "publishedAt": "2026-11-26T16:49:30.000Z",
+      "author": "Kashfia Kabir",
+      "description": "CDs are back! Pick a budget, pick a CD player, enjoy.",
+      "image": "https://cdn.mos.cms.futurecdn.net/3ifnzGLtoMXj4p2EZCLttG-1175-80.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "TechRadar",
+      "title": "The most surprising Black Friday deal so far just dropped, with a fantastic saving on the new Sonos Ace Ultra wireless headphones — I’ve tested them and think they’re worth every last penny",
+      "url": "https://www.techradar.com/audio/wireless-headphones/i-wasnt-expecting-sonos-to-discount-my-favourite-headphones-of-2026-but-the-multi-room-giant-truly-upped-its-game-this-year-heres-why-the-ace-ultra-are-worth-every-penny-right-now",
+      "publishedAt": "2026-11-26T16:46:18.000Z",
+      "author": "Harry Padoan",
+      "description": "I love the Sonos Ace Ultra for their detailed sound, beautiful design, and excellent ANC — and they're somehow on sale already.",
+      "image": "https://cdn.mos.cms.futurecdn.net/oKRtbB8yukm8WzMm7AomxW-1920-80.jpg",
+      "category": "耳機",
+      "articleType": "評測"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "Save $54 on the Soundcore Liberty 5 ahead of Black Friday",
+      "url": "https://www.soundguys.com/soundcore-liberty-5-black-friday-deal-166927/",
+      "publishedAt": "2026-11-26T16:39:15.000Z",
+      "author": "Matt Horne",
+      "description": "Soundcore Liberty 5 noise canceling earbuds fall to a record-low $75.99 on Amazon, with Adaptive ANC 3.0, LDAC, and 48 hours of playback.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2025/05/Soundcore-Liberty-5-earbuds-in-case-angle.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "I’ll never get bored of recommending this awesome, old-school, five-star micro hi-fi system on Black Friday",
+      "url": "https://www.whathifi.com/hi-fi/stereo-systems/ill-never-get-bored-of-recommending-this-awesome-old-school-five-star-micro-hi-fi-system-on-black-friday",
+      "publishedAt": "2026-11-26T16:21:42.000Z",
+      "author": "Andy Madden",
+      "description": "It's back to its lowest price ever",
+      "image": "https://cdn.mos.cms.futurecdn.net/QQRdeRcHPMaSHoebyTuCWM-640-80.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "This Swiss Army knife system is amazing for desktop hi-fi and movies on the go",
+      "url": "https://www.whathifi.com/av/this-swiss-army-knife-system-is-amazing-for-desktop-hi-fi-and-movies-on-the-go",
+      "publishedAt": "2026-11-26T16:14:29.000Z",
+      "author": "Alastair Stevenson",
+      "description": "And two parts are heavily discounted for Black Friday",
+      "image": "https://cdn.mos.cms.futurecdn.net/WtjRVMHCD3mAmvb7FDMRGK-2560-80.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "TechRadar",
+      "title": "I tested 3 inexpensive Bluetooth speakers from Beats, JBL, and Sony — and there’s only one I’d pick above all others",
+      "url": "https://www.techradar.com/audio/wireless-bluetooth-speakers/beats-pill-vs-jbl-flip-7-vs-sony-ult-field-3",
+      "publishedAt": "2026-11-26T16:00:00.000Z",
+      "author": "Harry Padoan",
+      "description": "Beats, JBL, or Sony? I tested Bluetooth speakers from each brand to find the ultimate portable model this Black Friday.",
+      "image": "https://cdn.mos.cms.futurecdn.net/uvugVDqotdXwMWBa7ZfqyM-2560-80.jpg",
+      "category": "喇叭",
+      "articleType": "評測"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "I’m hunting for Black Friday home cinema bargains – and these are the best projector deals I have spotted so far",
+      "url": "https://www.whathifi.com/tv-home-cinema/projectors/im-hunting-for-black-friday-home-cinema-bargains-and-these-are-the-best-projector-deals-i-have-spotted-so-far",
+      "publishedAt": "2026-11-26T15:51:04.000Z",
+      "author": "Robyn Quick",
+      "description": "Big screen does not always mean high cost",
+      "image": "https://cdn.mos.cms.futurecdn.net/kbb4FYSzeZBS7Mffsq57SX-2560-80.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "Engadget",
+      "title": "Man sentenced to 47 months in prison after using AI to impersonate streamer N3on - Engadget",
+      "url": "https://www.engadget.com/2329150/man-sentenced-to-47-month-prison-sentence-after-using-ai-impersonate-streamer/",
+      "publishedAt": "2026-11-26T15:50:37.000Z",
+      "author": "Kris Holt",
+      "description": "David Anthony Sanchez, the man who impersonated N3on, scammed victims out of $260,000 worth of cryptocurrency.",
+      "image": "https://www.engadget.com/img/gallery/man-sentenced-to-47-months-in-prison-after-using-ai-to-impersonate-streamer-n3on/l-intro-1795707863.jpg",
+      "category": "串流播放器",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "I buy 4K Blu-rays every Black Friday – here are the deals I’m eyeing up this year",
+      "url": "https://www.whathifi.com/av/black-friday-4k-bluray-picks-2026",
+      "publishedAt": "2026-11-26T15:11:26.000Z",
+      "author": "Daniel Furn",
+      "description": "Including some What Hi-Fi? test room favourites",
+      "image": "https://cdn.mos.cms.futurecdn.net/6VyLWs4hCaTgaCUKhZG5cP-2560-80.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "Tom's Guide",
+      "title": "Apple’s AirPods Pro 3 fall to their lowest price ever for Black Friday",
+      "url": "https://www.tomsguide.com/audio/airpods/apples-airpods-pro-3-fall-to-their-lowest-price-ever-for-black-friday",
+      "publishedAt": "2026-11-26T15:03:06.000Z",
+      "author": "Kaycee Hill",
+      "description": "Sounds like a steal...",
+      "image": "https://cdn.mos.cms.futurecdn.net/LRTmvwwFPT5tvV22NSQisa-2560-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "Get true 5.1 surround sound for 45% off with the LG S6FTR",
+      "url": "https://www.soundguys.com/lg-s6ftr-black-friday-deal-166928/",
+      "publishedAt": "2026-11-26T14:52:58.000Z",
+      "author": "Matt Horne",
+      "description": "Save $180 on the LG S6FTR 5.1-channel soundbar with subwoofer and rear speakers on Amazon, $30 below its previous low price.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/11/LG-S6FTR-Lifestyle-Featured.jpg",
+      "category": "Soundbar",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "I've lived with this Award-winning Marantz CD player - trust me, this Black Friday deal is a steal",
+      "url": "https://www.whathifi.com/hi-fi/cd-players/ive-lived-with-marantzs-award-winning-cd-player-trust-me-this-black-friday-deal-is-a-steal",
+      "publishedAt": "2026-11-26T14:36:08.000Z",
+      "author": "Harry McKerrell",
+      "description": "The Award-winning Marantz CD6007 drops to just £349 at Richer Sounds",
+      "image": "https://cdn.mos.cms.futurecdn.net/VCRv2HFKd6NV34jR2cVt3R-2560-80.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Need something to play your Black Friday vinyl records on? Our experts recommend this Sony Bluetooth turntable deal",
+      "url": "https://www.whathifi.com/hi-fi/turntables/need-something-to-play-your-black-friday-vinyl-records-on-our-experts-recommend-this-sony-bluetooth-turntable-deal",
+      "publishedAt": "2026-11-26T14:26:00.000Z",
+      "author": "Ioan Hazell",
+      "description": "The PS-LX5BT is now available for a price that will make your records, not your head, spin",
+      "image": "https://cdn.mos.cms.futurecdn.net/hjVo86o4xP3RP8JYiNg2i3-1920-80.jpg",
+      "category": "黑膠／唱盤",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "I've tested all of Sony's latest wireless headphones – here are six pairs you need to consider this Black Friday",
+      "url": "https://www.whathifi.com/headphones/wireless-headphones/ive-tested-all-of-sonys-latest-wireless-headphones-here-are-six-pairs-you-need-to-consider-this-black-friday",
+      "publishedAt": "2026-11-26T14:14:31.000Z",
+      "author": "Andy Madden",
+      "description": "Great audio, great prices",
+      "image": "https://cdn.mos.cms.futurecdn.net/tMRLy2TbiPDoUfVS6WF6ec-1920-80.jpg",
+      "category": "耳機",
+      "articleType": "評測"
+    },
+    {
+      "source": "Tom's Guide",
+      "title": "We've tested the best wireless earbuds and these are the 8 I recommend right now for impressive audio for all budgets and phones",
+      "url": "https://www.tomsguide.com/audio/earbuds/the-best-wireless-earbuds",
+      "publishedAt": "2026-11-26T14:12:28.000Z",
+      "author": "Tammy Rogers",
+      "description": "These are the best wireless earbuds you can buy today",
+      "image": "https://cdn.mos.cms.futurecdn.net/GkwkCUFEjJbCdXnsgx9nrN-2560-80.jpg",
+      "category": "耳機",
+      "articleType": "評測"
+    },
+    {
+      "source": "Tom's Guide",
+      "title": "We've tested the best wireless earbuds and these are the 8 I recommend right now for impressive audio for all budgets and phones",
+      "url": "https://www.tomsguide.com/us/best-wireless-earbuds,review-6160.html",
+      "publishedAt": "2026-11-26T14:12:28.000Z",
+      "author": "Tammy Rogers",
+      "description": "These are the best wireless earbuds you can buy today",
+      "image": "https://cdn.mos.cms.futurecdn.net/GkwkCUFEjJbCdXnsgx9nrN-2560-80.jpg",
+      "category": "耳機",
+      "articleType": "評測"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "Sony WH-1000XM5 headphones drop to $169.99 for Black Friday",
+      "url": "https://www.soundguys.com/sony-wh-1000xm5-black-friday-deal-166926/",
+      "publishedAt": "2026-11-26T14:06:57.000Z",
+      "author": "Matt Horne",
+      "description": "The Sony WH-1000XM5 are 57% off on Amazon in Midnight Blue, $28 below the $198 deals they've hit this year, ahead of Black Friday.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2022/05/sony-wh-1000xm5-hero.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "Tom's Guide",
+      "title": "Black Friday headphone deals up to 67% off: lowest prices now on Beats, AirPods, Bose, Sony and more",
+      "url": "https://www.tomsguide.com/audio/headphones/black-friday-headphone-deals-november-26-2026",
+      "publishedAt": "2026-11-26T14:06:07.000Z",
+      "author": "Peter Wolinski",
+      "description": "Black Friday headphones deals are live, and pretty impressive",
+      "image": "https://cdn.mos.cms.futurecdn.net/mHRgTub2GJJMrPw8qHx4Cn-1523-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "TechRadar",
+      "title": "It's time to spill the tea on a brilliant Black Friday deal: I love this excellent audio upgrade for iPhones, Android, Macs and more",
+      "url": "https://www.techradar.com/audio/dacs/its-time-to-spill-the-tea-on-a-brilliant-black-friday-deal-we-love-this-excellent-audio-upgrade-for-iphones-android-macs-and-more",
+      "publishedAt": "2026-11-26T14:05:08.000Z",
+      "author": "TechRadar Team",
+      "description": "There's a great Black Friday discount on the Khadas Tea Pro DAC, a MagSafe DAC for hi-res audio",
+      "image": "https://cdn.mos.cms.futurecdn.net/rw9jxGTe4V2W4zSnMSeBr3-1920-80.jpg",
+      "category": "DAC／擴大機",
+      "articleType": "其他"
+    },
+    {
+      "source": "Tom's Guide",
+      "title": "I test dozens of workout headphones every year and these are the 6 sets I recommend right now",
+      "url": "https://www.tomsguide.com/wellness/fitness/the-best-workout-headphones",
+      "publishedAt": "2026-11-26T13:59:58.000Z",
+      "author": "James Frew",
+      "description": "Durable, secure, and with long battery life",
+      "image": "https://cdn.mos.cms.futurecdn.net/Qvqx9DquRKVeoWk3bLCoDM-2560-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "I test hi-fi for a living - these are the wireless speakers I've picked out in the Black Friday sales",
+      "url": "https://www.whathifi.com/speakers/wireless-speakers/i-test-hi-fi-for-a-living-these-are-the-wireless-speakers-ive-picked-out-in-the-black-friday-sales",
+      "publishedAt": "2026-11-26T13:54:56.000Z",
+      "author": "Harry McKerrell",
+      "description": "No wire, all fire",
+      "image": "https://cdn.mos.cms.futurecdn.net/ozaFELiW5BuYQ7Wvsr8SrX-2560-80.jpg",
+      "category": "喇叭",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "Take the waterproof JBL Go 5 anywhere for 27% off",
+      "url": "https://www.soundguys.com/jbl-go-5-speaker-deal-black-friday-166839/",
+      "publishedAt": "2026-11-26T13:45:00.000Z",
+      "author": "Matt Horne",
+      "description": "Save $15 on the JBL Go 5 Bluetooth speaker this Black Friday season. It's IP68 rated, supports Auracast, and slips into any bag.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/04/JBL-Go-5-2-scaled.jpeg",
+      "category": "喇叭",
+      "articleType": "其他"
+    },
+    {
+      "source": "Engadget",
+      "title": "Casetify's Pokémon 30th anniversary collection includes a Poké Ball case for your AirPods - Engadget",
+      "url": "https://www.engadget.com/2329106/casetifys-pokmon-30th-anniversary-collection-includes-a-pok-ball-case-for-your-airpods/",
+      "publishedAt": "2026-11-26T13:14:18.000Z",
+      "author": "Mariella Moon",
+      "description": "Casetify is releasing a Pokémon collection on December 1, and it includes an AirPods case that looks like a pixel Poké Ball.",
+      "image": "https://www.engadget.com/img/gallery/casetifys-pokmon-30th-anniversary-collection-includes-a-pok-ball-case-for-your-airpods/l-intro-1795698753.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "TechRadar",
+      "title": "From a compact desk to a creator setup, these Edifier Black Friday deals cover three audio needs",
+      "url": "https://www.techradar.com/seasonal-sales/from-a-compact-desk-to-a-creator-setup-these-edifier-black-friday-deals-cover-three-audio-needs",
+      "publishedAt": "2026-11-26T13:14:04.000Z",
+      "author": "Paul Hatton",
+      "description": "Speakers from $149.99",
+      "image": "https://cdn.mos.cms.futurecdn.net/KH5ZtFTM7HYAau9ihTYn3i-1999-80.png",
+      "category": "喇叭",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "Save $160 on the Sonos Five, Sonos' most powerful home speaker",
+      "url": "https://www.soundguys.com/sonos-five-deal-166862/",
+      "publishedAt": "2026-11-26T13:04:42.000Z",
+      "author": "Matt Horne",
+      "description": "The Sonos Five is $439 on Amazon ahead of Black Friday, its best price in a year for the six-driver Wi-Fi speaker with AirPlay 2.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2022/06/Roam_Sonos_5_4.jpg",
+      "category": "喇叭",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "How to watch UCI Cyclocross World Cup online from anywhere: live stream every round for free",
+      "url": "https://www.whathifi.com/streaming-entertainment/how-to-watch/uci-cyclocross-world-cup-free",
+      "publishedAt": "2026-11-26T13:00:00.000Z",
+      "author": "Simon Warren",
+      "description": "Find out how to watch the 2026-2027 UCI Cyclocross World Cup from anywhere in the world",
+      "image": "https://cdn.mos.cms.futurecdn.net/Abnkm6zMxzCbiyrYQMprBX-2560-80.jpg",
+      "category": "串流播放器",
+      "articleType": "其他"
+    },
+    {
+      "source": "Tom's Guide",
+      "title": "Black Friday Edifier speaker deals start at $149.99 on Amazon",
+      "url": "https://www.tomsguide.com/sales-events/black-friday-edifier-speaker-deals-start-at-usd149-99-on-amazon",
+      "publishedAt": "2026-11-26T12:25:52.000Z",
+      "author": "Paul Hatton",
+      "description": "4.5-star rated speakers",
+      "image": "https://cdn.mos.cms.futurecdn.net/zyWpUMttWsiG83C8RRtPqb-1999-80.png",
+      "category": "喇叭",
+      "articleType": "其他"
+    },
+    {
+      "source": "TechRadar",
+      "title": "Choose your Black Friday desk audio upgrade with Edifier speakers from $149.99",
+      "url": "https://www.techradar.com/seasonal-sales/choose-your-black-friday-desk-audio-upgrade-with-edifier-speakers-from-usd149-99",
+      "publishedAt": "2026-11-26T12:25:10.000Z",
+      "author": "Paul Hatton",
+      "description": "The perfect affordable upgrade",
+      "image": "https://cdn.mos.cms.futurecdn.net/jFhwC46TetX7GYQb5sWtT-1999-80.png",
+      "category": "喇叭",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "How to watch Macy’s Thanksgiving Day Parade 2026 – live stream from anywhere",
+      "url": "https://www.whathifi.com/streaming-entertainment/how-to-watch/macys-thanksgiving-day-parade-2026-live-stream",
+      "publishedAt": "2026-11-26T12:15:00.000Z",
+      "author": "Krishi Chowdhary",
+      "description": "The 100th parade features 100 inflatable elements, six new floats, musical performers such as Wyclef Jean",
+      "image": "https://cdn.mos.cms.futurecdn.net/ZCshv3KyDiUc9hf6vGMqdi-2534-80.png",
+      "category": "串流播放器",
+      "articleType": "其他"
+    },
+    {
+      "source": "TechRadar",
+      "title": "Save big on the iPhone 17 Pro, iPhone 18 Pro, and more with these Black Friday iPhone deals",
+      "url": "https://www.techradar.com/seasonal-sales/black-friday-iphone-deals-save-big-on-iphone-17-pro-and-iphone-air-plus-free-airpods-with-iphone-18-pro",
+      "publishedAt": "2026-11-26T12:13:50.000Z",
+      "author": "Axel Metz",
+      "description": "I've rounded up the best Black Friday iPhone deals in the US and UK.",
+      "image": "https://cdn.mos.cms.futurecdn.net/vDxyYBhSFexKayvsXH34DY-1920-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Stop! These five-star Sony headphones have hit a new low price for Black Friday – but only on the newest colour",
+      "url": "https://www.whathifi.com/headphones/wireless-headphones/stop-these-five-star-sony-headphones-have-hit-a-new-low-price-for-black-friday-but-only-on-the-newest-colour",
+      "publishedAt": "2026-11-26T11:41:34.000Z",
+      "author": "Joe Svetlik, Daniel Furn",
+      "description": "There's a big saving to be made, as long as you're not picky",
+      "image": "https://cdn.mos.cms.futurecdn.net/ccPzKfcZ9qigFKBimiXepb-2560-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Sonos is having a big Black Friday sale on its wireless smart speakers – but which model is right for you?",
+      "url": "https://www.whathifi.com/speakers/wireless-speakers/sonos-is-having-a-big-sale-on-its-wireless-smart-speakers-but-which-model-is-right-for-you",
+      "publishedAt": "2026-11-26T11:29:48.000Z",
+      "author": "Ioan Hazell",
+      "description": "Get a strong start to your wireless era",
+      "image": "https://cdn.mos.cms.futurecdn.net/RLuPE5bwBkFDh9EU8rP9C8-2000-80.jpg",
+      "category": "喇叭",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Travelling over Christmas? Don’t let endless festive songs ruin your journey with these noise-cancelling headphones our experts love",
+      "url": "https://www.whathifi.com/headphones/wireless-headphones/bose-quietcomfort-ultra-headphones-black-friday-2026",
+      "publishedAt": "2026-11-26T11:16:02.000Z",
+      "author": "Daniel Furn",
+      "description": "One of the best noise cancellers out there, now at a new lowest price",
+      "image": "https://cdn.mos.cms.futurecdn.net/ZVN2xE7nqhBTMFJnvXgwvh-1920-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Award-winning picture, sound and streaming for under £1000 – I’ve built a truly affordable 4K, Dolby Atmos-equipped system using the best Black Friday deals",
+      "url": "https://www.whathifi.com/tv-home-cinema/award-winning-picture-sound-and-streaming-for-under-gbp1000-ive-built-a-truly-affordable-4k-dolby-atmos-equipped-system-using-the-best-black-friday-deals",
+      "publishedAt": "2026-11-26T11:10:40.000Z",
+      "author": "Lewis Empson",
+      "description": "Plus, I have a bonus tip for fans of physical media",
+      "image": "https://cdn.mos.cms.futurecdn.net/fi7hYk7vgcWtUZoKRNaGWg-2560-80.jpg",
+      "category": "串流播放器",
+      "articleType": "其他"
+    },
+    {
+      "source": "TechRadar",
+      "title": "The best Black Friday Sony deals: our Audio Editor's pick of the Sony headphones, ANC buds and more",
+      "url": "https://www.techradar.com/seasonal-sales/black-friday-sony-deals-2026",
+      "publishedAt": "2026-11-26T10:52:32.000Z",
+      "author": "Becky Scarrott",
+      "description": "Came here for Sony? Good call, the company's kit is some of the most trusted in tech — and these are the best Black Friday deals",
+      "image": "https://cdn.mos.cms.futurecdn.net/NDUXKC4dquPDYeGc8FvYFY-1920-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "Sonos Move 2 takes stereo sound outdoors for 20% off",
+      "url": "https://www.soundguys.com/sonos-move-2-black-friday-deal-166861/",
+      "publishedAt": "2026-11-26T10:45:00.000Z",
+      "author": "Matt Horne",
+      "description": "Save $100 on the Sonos Move 2 this Black Friday season. It brings stereo sound, an IP56 rating, and up to 24 hours of playback to any room.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2023/07/Sonos-Move-2-Featured-Image-1-scaled.jpg",
+      "category": "其他音訊",
+      "articleType": "其他"
+    },
+    {
+      "source": "TechRadar",
+      "title": "The best Black Friday Sennheiser deals live now — lowest-seen prices on headphones, wired earbuds, cheap Dolby Atmos soundbars and more",
+      "url": "https://www.techradar.com/audio/earbuds-airpods/black-friday-sennehiser-deals-2026",
+      "publishedAt": "2026-11-26T10:35:55.000Z",
+      "author": "Becky Scarrott",
+      "description": "Sennheiser's excellent CX 80U wired buds wow us, even when pitted against pricier competition — and now, they're top of our Black Friday list!",
+      "image": "https://cdn.mos.cms.futurecdn.net/BDUiURmjX5y9gg7CeGyCF3-1920-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "TechRadar",
+      "title": "The best Black Friday Bluetooth speaker deals: lowest prices on JBL, Bose, Marshall, Sonos and more, all hand-picked by our expert audio reviewers",
+      "url": "https://www.techradar.com/seasonal-sales/black-friday-bluetooth-speakers-2026",
+      "publishedAt": "2026-11-26T10:29:57.000Z",
+      "author": "Harry Padoan",
+      "description": "Bargains on Bluetooth belters, all live now!",
+      "image": "https://cdn.mos.cms.futurecdn.net/D65cT3FjvK9wFb7cjdJYTR-1920-80.jpg",
+      "category": "喇叭",
+      "articleType": "其他"
+    },
+    {
+      "source": "TechRadar",
+      "title": "Thinking about getting into open earbuds? My favorite affordable pair is now over a third cheaper in the Black Friday sales",
+      "url": "https://www.techradar.com/seasonal-sales/these-are-my-favorite-budget-open-earbuds-which-were-cheap-before-losing-43-percent-of-their-price-to-black-friday-now-theyre-my-top-recommendation",
+      "publishedAt": "2026-11-26T10:21:23.000Z",
+      "author": "Tom Bedford",
+      "description": "I recommend the Baseus Bowie MC2 as my go-to budget clip-style earbuds, and deals on Amazon make them even cheaper than before.",
+      "image": "https://cdn.mos.cms.futurecdn.net/8e77SvJJ7bpNmaz9WU3TAE-2560-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "TechRadar",
+      "title": "Black Friday soundbar deals: from Dolby Atmos masters to cheap upgrades — from Sonos, Samsung, Sony, LG, Marshall and more",
+      "url": "https://www.techradar.com/televisions/soundbars/black-friday-soundbar-deals-sony-sonos-panasonic-samsung-and-more-from-cheap-tv-upgrades-to-dolby-atmos-beasts",
+      "publishedAt": "2026-11-26T10:15:41.000Z",
+      "author": "Matt Bolton",
+      "description": "Black Friday TV deals are live, so we've compiled our top picks into one list to suit every budget.",
+      "image": "https://cdn.mos.cms.futurecdn.net/U6qAPp9Ksxm3B4uzkJuLdD-1920-80.jpg",
+      "category": "Soundbar",
+      "articleType": "其他"
+    },
+    {
+      "source": "What Hi-Fi?",
+      "title": "Black Friday hi-fi deals live: we're tracking the best savings on turntables, CD players, speakers, headphones and more",
+      "url": "https://www.whathifi.com/live/news/best-black-friday-hi-fi-speaker-headphone-deals-26-11-2026",
+      "publishedAt": "2026-11-26T10:13:08.000Z",
+      "author": "Kashfia Kabir",
+      "description": "Stay tuned to bag a bargain on great audio products",
+      "image": "https://cdn.mos.cms.futurecdn.net/B2rxqxbLjTL5riTaPParQU-1000-80.jpg",
+      "category": "耳機",
+      "articleType": "新聞"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "USB-C finally made wired earbuds good again",
+      "url": "https://www.soundguys.com/usb-c-wired-earbuds-comeback-166781/",
+      "publishedAt": "2026-11-26T10:00:04.000Z",
+      "author": "Dave Carr",
+      "description": "After reviewing Bose's $99 wired ANC earbuds, I think USB-C has made going wired more appealing than ever, but I'm sticking with Bluetooth.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/10/Bose-Noise-Canceling-Wired-Earbuds-7-scaled.jpeg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "JBL Go 4 drops to a record low for Black Friday",
+      "url": "https://www.soundguys.com/jbl-go-4-record-low-deal-166863/",
+      "publishedAt": "2026-11-26T09:55:33.000Z",
+      "author": "Matt Horne",
+      "description": "The JBL Go 4 Bluetooth speaker is 36% off on Amazon this Black Friday season, now $31.95, its lowest price ever in most colors.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2024/06/5FFD7E55-EFAE-445D-A03E-F9CCD99BB821-scaled.jpeg",
+      "category": "喇叭",
+      "articleType": "其他"
+    },
+    {
+      "source": "SoundGuys",
+      "title": "Samsung's Galaxy Studio headphones need these 7 things to beat the Sony WH-1000XM6",
+      "url": "https://www.soundguys.com/samsung-galaxy-studio-wishlist-166747/",
+      "publishedAt": "2026-11-26T09:00:13.000Z",
+      "author": "Adam Birney",
+      "description": "Leaks show Samsung's Galaxy Studio headphones are coming. Here are 7 things they need to beat the Sony WH-1000XM6.",
+      "image": "https://www.soundguys.com/wp-content/uploads/2026/09/Samsung-headphones-gemini-scaled.jpg",
+      "category": "耳機",
+      "articleType": "新聞"
+    },
+    {
+      "source": "Tom's Guide",
+      "title": "I’ve tested the AirPods Max 2, Bose QuietComfort Ultra and Sony WH-1000XM6, and here’s the headphones I’d buy for Black Friday",
+      "url": "https://www.tomsguide.com/audio/headphones/ive-tested-the-airpods-max-2-bose-quietcomfort-ultra-and-sony-wh-1000xm6-heres-the-headphones-id-buy-for-black-friday",
+      "publishedAt": "2026-11-26T06:30:00.000Z",
+      "author": "Erin Bashford",
+      "description": "I've tested the most popular headphones: Apple AirPods Max 2, Bose QuietComfort Headphones 2nd Gen, and the Sony WH-1000XM6. Which would I buy for Black Friday?",
+      "image": "https://cdn.mos.cms.futurecdn.net/aqaESYfkLLAPJqLTPqGBbZ-1920-80.jpg",
+      "category": "耳機",
+      "articleType": "評測"
+    },
     {
       "source": "SoundGuys",
       "title": "CMF Speaker S drops to $39 for Black Friday, so you might as well buy two",
@@ -92,17 +708,6 @@
       "articleType": "其他"
     },
     {
-      "source": "Tom's Guide",
-      "title": "I’m tracking the best Walmart Black Friday deals LIVE on laptops, headphones, robot vacuums, air fryers and more",
-      "url": "https://www.tomsguide.com/live/news/walmart-black-friday-deals-wednesday-25-november-26",
-      "publishedAt": "2026-11-25T16:31:43.000Z",
-      "author": "Millie Davis-Williams",
-      "description": "Shop the biggest Black Friday Walmart deals",
-      "image": "https://cdn.mos.cms.futurecdn.net/AAQgRhxVpK7tE5HgRQvkYD-2560-80.jpg",
-      "category": "耳機",
-      "articleType": "新聞"
-    },
-    {
       "source": "Engadget",
       "title": "Nothing’s Ear (note) is a pair of earbuds with built-in AI notetaking - Engadget",
       "url": "https://www.engadget.com/2328122/nothings-ear-note-is-a-pair-of-earbuds-with-built-in-ai-notetaking/",
@@ -164,7 +769,7 @@
       "publishedAt": "2026-11-25T14:47:34.000Z",
       "author": "Alastair Stevenson",
       "description": "Calling all cinephiles and audiophiles",
-      "image": "https://cdn.mos.cms.futurecdn.net/3WNch9ahczghryEtFB8RE9-1175-80.jpg",
+      "image": "https://cdn.mos.cms.futurecdn.net/TTxR3yCht6xTX8ihvknJDh-1175-80.jpg",
       "category": "喇叭",
       "articleType": "其他"
     },
@@ -467,17 +1072,6 @@
     },
     {
       "source": "Tom's Guide",
-      "title": "101+ best Amazon Black Friday deals LIVE: AirPods Pro, Nintendo Switch 2, Asics, Bose, Roku and more",
-      "url": "https://www.tomsguide.com/live/news/best-amazon-black-friday-deals-wednesday-november-25-2026",
-      "publishedAt": "2026-11-25T09:21:40.000Z",
-      "author": "Kaycee Hill",
-      "description": "Our experts pick their favorite Amazon deals on apparel, gaming, tech and more",
-      "image": "https://cdn.mos.cms.futurecdn.net/w7zgyBo9JcXopKwtSM7ZpY-2560-80.jpg",
-      "category": "耳機",
-      "articleType": "新聞"
-    },
-    {
-      "source": "Tom's Guide",
       "title": "Turn up the volume without draining your wallet this Black Friday — massive savings on Bluetooth speakers from Marshall, Bose, Sonos, and more",
       "url": "https://www.tomsguide.com/audio/black-friday-savings-on-bluetooth-speakers-november-25-2026",
       "publishedAt": "2026-11-25T09:15:20.000Z",
@@ -486,17 +1080,6 @@
       "image": "https://cdn.mos.cms.futurecdn.net/4oPtC8TBikjUU6SpnxenH3-2560-80.png",
       "category": "喇叭",
       "articleType": "其他"
-    },
-    {
-      "source": "Tom's Guide",
-      "title": "Apple Black Friday deals LIVE: Lowest prices on AirPods Pro, Apple Watch 12, MacBook Neo and more",
-      "url": "https://www.tomsguide.com/live/news/apple-black-friday-deals-wednesday-november-25-2026",
-      "publishedAt": "2026-11-25T09:00:12.000Z",
-      "author": "Will Salmon",
-      "description": "The best Apple deals as picked by shopping experts",
-      "image": "https://cdn.mos.cms.futurecdn.net/wsPaap2tMbtrrMd6K6zFNV-2560-80.jpg",
-      "category": "耳機",
-      "articleType": "新聞"
     },
     {
       "source": "TechRadar",
@@ -517,17 +1100,6 @@
       "author": "Mike Prospero",
       "description": "Who knew retro would be so popular?",
       "image": "https://cdn.mos.cms.futurecdn.net/ZpYAd3bMujgNfqnvrF8FVG-2560-80.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "SoundGuys",
-      "title": "The best Black Friday audio deals of 2026",
-      "url": "https://www.soundguys.com/best-black-friday-audio-deals-of-2026-166200/",
-      "publishedAt": "2026-11-24T18:35:11.000Z",
-      "author": "Adam Birney",
-      "description": "Our picks for the Black Friday headphone, earbud, and speaker deals worth buying, from Beats, Bose, Samsung, Sonos, and more.",
-      "image": "https://www.soundguys.com/wp-content/uploads/2026/11/SGBF2027-scaled.jpeg",
       "category": "耳機",
       "articleType": "其他"
     },
@@ -836,17 +1408,6 @@
       "author": "Matt Horne",
       "description": "Soundcore's Liberty 5 Pro earbuds are 24% off on Amazon ahead of Black Friday, with ANC 4.0, LDAC, Bluetooth 6.1, and a smart case.",
       "image": "https://www.soundguys.com/wp-content/uploads/2026/05/hand-holding-the-liberty-5-pro-scaled.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "Tom's Guide",
-      "title": "Black Friday headphone deals are actually good this year — up to 53% off AirPods Max 2, Sony XM6, Sonos & Bose",
-      "url": "https://www.tomsguide.com/audio/headphones/black-friday-headphone-deals-2026-11-24",
-      "publishedAt": "2026-11-24T11:22:26.000Z",
-      "author": "Peter Wolinski",
-      "description": "No need to wait, the deals are already here",
-      "image": "https://cdn.mos.cms.futurecdn.net/GmLLqFcgUPw3Rw7HDqvreQ-2000-80.jpg",
       "category": "耳機",
       "articleType": "其他"
     },
@@ -1368,17 +1929,6 @@
       "articleType": "其他"
     },
     {
-      "source": "TechRadar",
-      "title": "I've rounded up the 26 best deals in the Argos Black Friday sale — Shark vacuums, Samsung TVs, Ninja air fryers, Sonos speakers, Garmin smartwatches, and more",
-      "url": "https://www.techradar.com/uk/seasonal-sales/26-best-deals-in-the-argos-black-friday-sale-shark-vacuums-samsung-tvs-ninja-air-fryers-sonos-speakers-garmin-smartwatches-and-more",
-      "publishedAt": "2026-11-22T12:35:52.000Z",
-      "author": "James Pickard",
-      "description": "The Argos Black Friday sale features hundreds of discounts across tech, gaming, appliances, homeware, and toys — I've picked the 26 best deals.",
-      "image": "https://cdn.mos.cms.futurecdn.net/DjF5ojwzi2LhmJD8YJ2cBL-2560-80.jpg",
-      "category": "喇叭",
-      "articleType": "其他"
-    },
-    {
       "source": "Tom's Guide",
       "title": "There are loads of headphones for under $50 this Black Friday — here are the pairs I'd recommend you buy",
       "url": "https://www.tomsguide.com/audio/headphones/there-are-loads-of-headphones-for-under-usd50-this-black-friday-here-are-the-pairs-id-recommend-you-buy",
@@ -1520,17 +2070,6 @@
       "image": "https://cdn.mos.cms.futurecdn.net/YCza38ys4nD6jstSckhs8R-1920-80.jpg",
       "category": "耳機",
       "articleType": "評測"
-    },
-    {
-      "source": "TechRadar",
-      "title": "I've found the 21 top deals from the Best Buy Black Friday sale — HP laptops, LG OLED TVs, cheap PS5 games, MacBooks, Sony headphones, and more",
-      "url": "https://www.techradar.com/seasonal-sales/21-top-deals-from-the-best-buy-black-friday-sale-hp-laptops-lg-oled-tvs-cheap-ps5-games-macbooks-sony-headphones-and-more",
-      "publishedAt": "2026-11-21T14:43:51.000Z",
-      "author": "James Pickard",
-      "description": "The Best Buy Black Friday sale has already got underway with some strong doorbuster deals, so I've rounded up the 21 best offers on TVs, laptops, headphones, tablets, phones, and more.",
-      "image": "https://cdn.mos.cms.futurecdn.net/2ySamJWwyAZxnEWhUEwVBE-1920-80.jpg",
-      "category": "耳機",
-      "articleType": "其他"
     },
     {
       "source": "TechRadar",
@@ -1681,8 +2220,8 @@
       "url": "https://www.whathifi.com/streaming-entertainment/how-to-watch-australia-vs-england-t20i-series-2026",
       "publishedAt": "2026-11-20T20:00:00.000Z",
       "author": "Krishi Chowdhary",
-      "description": "England need a strong response after dropping the first T20I despite Brook's blistering 65",
-      "image": "https://cdn.mos.cms.futurecdn.net/Ny4cejmRgrrGMGQHX4FFMQ-2454-80.jpg",
+      "description": "Australia need a strong response after England's 8-wicket thrashing in the second T20I",
+      "image": "https://cdn.mos.cms.futurecdn.net/sDyxsWdLR4mMferSV2KNGN-2560-80.jpg",
       "category": "串流播放器",
       "articleType": "其他"
     },
@@ -2611,17 +3150,6 @@
       "articleType": "其他"
     },
     {
-      "source": "What Hi-Fi?",
-      "title": "These five-star Sony headphones are excellent all-rounders and a What Hi-Fi? favourite – now at a new lowest price for Black Friday",
-      "url": "https://www.whathifi.com/headphones/wireless-headphones/these-five-star-sony-headphones-are-excellent-all-rounders-and-a-what-hi-fi-favourite-now-at-a-new-lowest-price-for-black-friday",
-      "publishedAt": "2026-11-17T15:32:50.000Z",
-      "author": "Daniel Furn",
-      "description": "Get the XM6 as well as GTA 6…",
-      "image": "https://cdn.mos.cms.futurecdn.net/ccPzKfcZ9qigFKBimiXepb-2560-80.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
       "source": "SoundGuys",
       "title": "Save $120 on the Skullcandy Crusher Evo and feel the bass",
       "url": "https://www.soundguys.com/skullcandy-crusher-evo-early-black-friday-deal-166311/",
@@ -2876,7 +3404,7 @@
     },
     {
       "source": "What Hi-Fi?",
-      "title": "Want to grow your 4K Blu-ray collection? Keep your ear to the ground this Black Friday",
+      "title": "Want to grow your 4K Blu-ray collection? This multibuy deal is well worth your time for Black Friday",
       "url": "https://www.whathifi.com/tv-home-cinema/want-to-grow-your-4k-blu-ray-collection-keep-your-ear-to-the-ground-this-black-friday",
       "publishedAt": "2026-11-16T08:25:00.000Z",
       "author": "Robyn Quick",
@@ -2968,7 +3496,7 @@
       "url": "https://www.whathifi.com/streaming-entertainment/how-to-watch-im-a-celebrity-get-me-out-of-here-2026-free",
       "publishedAt": "2026-11-15T15:00:00.000Z",
       "author": "Krishi Chowdhary",
-      "description": "Mariella finally gets a break after back-to-back trials, but is Leomie now in the firing line?",
+      "description": "Mariella returns to the firing line as Leigh and Leomie endure one of the season's grossest trials",
       "image": "https://cdn.mos.cms.futurecdn.net/wW3sVBxVFun3TTDRBhE4jR-830-80.jpg",
       "category": "串流播放器",
       "articleType": "其他"
@@ -3939,17 +4467,6 @@
       "description": "A past master resurrected to great effect",
       "image": "https://cdn.mos.cms.futurecdn.net/YnFT84YQ4BMg4cnBz3yeiK-1920-80.jpg",
       "category": "喇叭",
-      "articleType": "其他"
-    },
-    {
-      "source": "TechRadar",
-      "title": "My pick of the deals on Nothing, JLab, Sennheiser and Soundcore headphones as an audio editor — why wait for Black Friday?",
-      "url": "https://www.techradar.com/audio/earbuds-airpods/huge-deals-on-nothing-sennheiser-and-jlab-headphones-just-landed-and-as-techradars-audio-editor-i-wouldnt-wait-for-black-friday",
-      "publishedAt": "2026-11-09T13:37:09.000Z",
-      "author": "Becky Scarrott",
-      "description": "Looking for headphones this Black Friday? It seems the massive sale's come early at Amazon — and don't just take our word for it, have a look!",
-      "image": "https://cdn.mos.cms.futurecdn.net/xDTALErJidQSXu6vFhVHge-2560-80.jpg",
-      "category": "耳機",
       "articleType": "其他"
     },
     {
@@ -5755,171 +6272,6 @@
       "image": "https://www.soundguys.com/wp-content/uploads/2026/10/CMF-Speaker-S-and-M-Edits-1-scaled.jpeg",
       "category": "喇叭",
       "articleType": "評測"
-    },
-    {
-      "source": "BGR",
-      "title": "Samsung's New Galaxy Buds On Are Earbuds That Don't Actually Enter Your Ear - BGR",
-      "url": "https://www.bgr.com/2298868/samsung-new-galaxy-buds-on-released-korea/",
-      "publishedAt": "2026-10-27T21:17:00.000Z",
-      "author": "Nichols deCourville",
-      "description": "Fans looking for the latest and greatest in earbuds may not have much longer to wait for Samsung's next release, a pair of clip-on earbuds.",
-      "image": "https://www.bgr.com/img/gallery/samsungs-new-galaxy-buds-on-are-earbuds-that-dont-actually-enter-your-ear/l-intro-1793129716.jpg",
-      "category": "耳機",
-      "articleType": "新聞"
-    },
-    {
-      "source": "SoundGuys",
-      "title": "Samsung S700D deal knocks $151 off this slim Dolby Atmos soundbar",
-      "url": "https://www.soundguys.com/samsung-s700d-deal-165509/",
-      "publishedAt": "2026-10-27T20:21:37.000Z",
-      "author": "Matt Horne",
-      "description": "Save 28% off the RRP on the Samsung S700D, a slim 3.1-channel soundbar with Wireless Dolby Atmos and Wi-Fi.",
-      "image": "https://www.soundguys.com/wp-content/uploads/2026/10/Samsung-S700D-3.1ch-Soundbar-Product-Image.jpg",
-      "category": "Soundbar",
-      "articleType": "其他"
-    },
-    {
-      "source": "TechRadar",
-      "title": "‘The open-ear market has a strong new contender’: Sennheiser’s first clip-style open earbuds are a surprisingly solid first attempt, but they're not perfect",
-      "url": "https://www.techradar.com/audio/earbuds-airpods/sennheiser-accentum-clip-review",
-      "publishedAt": "2026-10-27T20:00:00.000Z",
-      "author": "",
-      "description": "Sennheiser enters the cuff-style market with convincing audio clarity and smart features, though a couple of fit and control quirks keep these from being a top pick",
-      "image": "https://cdn.mos.cms.futurecdn.net/JcCs5t55uuKQDazyqeuwN7-2560-80.jpg",
-      "category": "耳機",
-      "articleType": "評測"
-    },
-    {
-      "source": "TechRadar",
-      "title": "CD players are back, but even models with an 'incredibly attractive price' like this one aren't, well… very cheap",
-      "url": "https://www.techradar.com/audio/portable-media-players/cd-players-are-back-and-this-new-musical-fidelity-buy-has-an-incredibly-attractive-price-the-same-as-an-oppo-a7-pro-max-smartphone",
-      "publishedAt": "2026-10-27T16:33:22.000Z",
-      "author": "Tom Bedford",
-      "description": "The Musical Fidelity B1xcd is a CD player which capitalizes on the physical media resurgence, and it costs less than alternative models on the market.",
-      "image": "https://cdn.mos.cms.futurecdn.net/faGqNYZbh7HuCqMTsf5GR7-1169-80.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "SoundGuys",
-      "title": "Bose QuietComfort Headphones 2nd Gen return to Prime Day price",
-      "url": "https://www.soundguys.com/bose-quietcomfort-headphones-2nd-gen-deal-165482/",
-      "publishedAt": "2026-10-27T16:16:34.000Z",
-      "author": "Matt Horne",
-      "description": "Bose QuietComfort Headphones 2nd Gen are back to $319.99 on Amazon, tying the lowest price we've ever tracked.",
-      "image": "https://www.soundguys.com/wp-content/uploads/2026/08/Bose-QuietComfort-Headphones-2nd-Gen-Rosewood-Mauve.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "SoundGuys",
-      "title": "Amazon cuts CMF Buds 2 to $29 — lowest price in months",
-      "url": "https://www.soundguys.com/cmf-buds-2-deal-165478/",
-      "publishedAt": "2026-10-27T15:09:02.000Z",
-      "author": "Matt Horne",
-      "description": "Save $20 on the CMF Buds 2 and get features like hybrid ANC, dual-device pairing, spatial audio, and long battery life.",
-      "image": "https://www.soundguys.com/wp-content/uploads/2024/09/a-hand-holding-the-cmf-buds-pro-2-scaled.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "This Award-winning Dolby Atmos soundbar creates an immersive bubble of sound that's rare for this price – and it's on sale",
-      "url": "https://www.whathifi.com/tv-home-cinema/soundbars/this-award-winning-dolby-atmos-soundbar-creates-an-immersive-bubble-of-sound-thats-rare-for-this-price-and-its-on-sale",
-      "publishedAt": "2026-10-27T14:50:12.000Z",
-      "author": "Daniel Furn",
-      "description": "Sony's atypical soundbar system can't be beaten at this low price",
-      "image": "https://cdn.mos.cms.futurecdn.net/k5AWcWziRTVNKvwPqthvdk-1920-80.jpg",
-      "category": "Soundbar",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "Charming design and features aplenty, but will the Pure Bloom radio blossom when it comes to sound?",
-      "url": "https://www.whathifi.com/hi-fi/radio/pure-bloom",
-      "publishedAt": "2026-10-27T13:31:57.000Z",
-      "author": "",
-      "description": "A fun, affordable and capable digital radio",
-      "image": "https://cdn.mos.cms.futurecdn.net/953RMRenvkTgEG6r8ts7GA-1920-80.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "The Verge",
-      "title": "Airfly’s wireless headphone dongle adds a screen to guide you through the pairing process",
-      "url": "https://www.theverge.com/tech/1018679/twelve-south-airfly-view-screen-display-wireless-headphone-earbuds-airplane-adapter",
-      "publishedAt": "2026-10-27T13:00:00.000Z",
-      "author": "Andrew Liszewski",
-      "description": "The next Airfly audio streaming dongle makes it easier to pair your headphones.",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/airfly1.jpg?quality=90&strip=all&crop=0%2C10.743514466352%2C100%2C78.512971067296&w=1200",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "TechRadar",
-      "title": "Logitech Yeti 2 is one of the best mics for streaming I've ever used – it's just a shame about the higher price",
-      "url": "https://www.techradar.com/computing/mics-speakers/logitech-yeti-2",
-      "publishedAt": "2026-10-27T12:10:50.000Z",
-      "author": "",
-      "description": "The Logitech Yeti 2 has improved on its predecessor in almost every way, although the higher price is an unwelcome change.",
-      "image": "https://cdn.mos.cms.futurecdn.net/XxKmkzXpLcpd2VcC9teCPc-1920-80.jpg",
-      "category": "喇叭",
-      "articleType": "其他"
-    },
-    {
-      "source": "TechRadar",
-      "title": "7 of the biggest iOS 27.2 upgrades — from Siri improvements to the new Apple Music icon",
-      "url": "https://www.techradar.com/phones/ios/ios-27-2-has-landed-with-a-wealth-of-updates-these-are-the-7-biggest-changes-including-siri-improvements-and-a-new-apple-music-icon",
-      "publishedAt": "2026-10-27T11:41:37.000Z",
-      "author": "James Rogerson",
-      "description": "iOS 27.2 brings changes and improvements to Siri, Messages, Apple Music, FaceTime, the iPhone Duo, and more.",
-      "image": "https://cdn.mos.cms.futurecdn.net/JuUeKKYAEzfRckGqmZw6Kd-1920-80.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "These Award-winning Dolby Atmos soundbars have just trumped two old champions",
-      "url": "https://www.whathifi.com/tv-home-cinema/soundbars/these-award-winning-dolby-atmos-soundbars-have-just-trumped-two-old-champions",
-      "publishedAt": "2026-10-27T11:00:09.000Z",
-      "author": "Robyn Quick",
-      "description": "Find out how they came out on top",
-      "image": "https://cdn.mos.cms.futurecdn.net/k7GaxSYBvHdDVsxLsHMUqY-1920-80.jpg",
-      "category": "Soundbar",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "We pick our 10 favourite Leonard Cohen songs that will show off your hi-fi system's talents",
-      "url": "https://www.whathifi.com/hi-fi/10-of-the-best-leonard-cohen-songs-to-test-your-hi-fi-system",
-      "publishedAt": "2026-10-27T09:22:47.000Z",
-      "author": "Ioan Hazell",
-      "description": "Put your set-up to the test with the high priest of pathos",
-      "image": "https://cdn.mos.cms.futurecdn.net/4DRv3AZsxbRmywcVd76XPG-2560-80.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "I'm a big fan of Amazon’s stunning nanomatte tablet display – but there is a frustrating catch",
-      "url": "https://www.whathifi.com/smartphones-tablets/tablets/im-a-big-fan-of-amazons-stunning-nanomatte-tablet-display-but-there-is-a-frustrating-catch",
-      "publishedAt": "2026-10-27T08:02:06.000Z",
-      "author": "Daniel Furn",
-      "description": "It's the best-looking Amazon tablet yet, but film and TV fans will have to shell out for the Pro model",
-      "image": "https://cdn.mos.cms.futurecdn.net/gzRXyBtcNsWztLs3KAGjdF-2560-80.jpg",
-      "category": "其他音訊",
-      "articleType": "其他"
-    },
-    {
-      "source": "What Hi-Fi?",
-      "title": "How to watch South Africa vs Australia 3rd Test 2026: Live stream cricket for free from anywhere",
-      "url": "https://www.whathifi.com/streaming-entertainment/how-to-watch/south-africa-vs-australia-3rd-test-2026",
-      "publishedAt": "2026-10-27T05:00:00.000Z",
-      "author": "Krishi Chowdhary",
-      "description": "Australia need 288 runs to win the Test and clinch the series",
-      "image": "https://cdn.mos.cms.futurecdn.net/WPCiVDzMvusUTAYKc88C4R-2364-80.jpg",
-      "category": "串流播放器",
-      "articleType": "其他"
     }
   ]
 }
