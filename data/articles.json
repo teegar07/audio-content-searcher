@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T02:34:46.514Z",
+  "generatedAt": "2026-11-27T03:35:49.101Z",
   "days": 30,
   "count": 570,
   "articles": [
@@ -38,7 +38,7 @@
     },
     {
       "source": "Tom's Guide",
-      "title": "37 Amazon Black Friday deals actually worth it right now, including AirPods Pro 3, Skechers, Roku, Bose and more",
+      "title": "39 Amazon Black Friday deals actually worth it right now, including AirPods Pro 3, Skechers, Roku, Bose and more",
       "url": "https://www.tomsguide.com/sales-events/amazon-best-black-friday-deals-11-26-26",
       "publishedAt": "2026-11-26T22:20:18.000Z",
       "author": "Dave LeClair",
@@ -830,17 +830,6 @@
     },
     {
       "source": "TechRadar",
-      "title": "Forget Bluetooth: Bose's cheap Noise Cancelling Wired Earbuds wowed me for excellent ANC without the fuss",
-      "url": "https://www.techradar.com/audio/headphones/forget-bluetooth-i-tried-boses-noise-cancelling-wired-earbuds-and-theyre-the-easiest-cheapest-route-to-class-leading-noise-cancellation-in-2026",
-      "publishedAt": "2026-11-25T14:00:00.000Z",
-      "author": "Becky Scarrott",
-      "description": "Are they discounted for Black Friday? No — here's why I don't care",
-      "image": "https://cdn.mos.cms.futurecdn.net/83yaKSzzAevF5fkkQaEggi-2560-80.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "TechRadar",
       "title": "Bose vs Sony vs Sennheiser tested: I compared the latest wireless headphones for audio quality, noise cancellation and comfort — there’s a clear winner for me",
       "url": "https://www.techradar.com/audio/wireless-headphones/i-compared-the-sony-wh-1000xm6-bose-quietcomfort-ultra-headphones-2-and-sennheiser-momentum-5-after-hours-of-testing-this-is-the-pair-id-spend-my-money-on",
       "publishedAt": "2026-11-25T14:00:00.000Z",
@@ -849,6 +838,17 @@
       "image": "https://cdn.mos.cms.futurecdn.net/fv7nUByqLbutqsyt3pUvba-2560-80.jpg",
       "category": "耳機",
       "articleType": "評測"
+    },
+    {
+      "source": "TechRadar",
+      "title": "Forget Bluetooth: Bose's cheap Noise Cancelling Wired Earbuds wowed me for excellent ANC without the fuss",
+      "url": "https://www.techradar.com/audio/headphones/forget-bluetooth-i-tried-boses-noise-cancelling-wired-earbuds-and-theyre-the-easiest-cheapest-route-to-class-leading-noise-cancellation-in-2026",
+      "publishedAt": "2026-11-25T14:00:00.000Z",
+      "author": "Becky Scarrott",
+      "description": "Are they discounted for Black Friday? No — here's why I don't care",
+      "image": "https://cdn.mos.cms.futurecdn.net/83yaKSzzAevF5fkkQaEggi-2560-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
     },
     {
       "source": "What Hi-Fi?",
