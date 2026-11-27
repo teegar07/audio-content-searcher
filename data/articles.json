@@ -1,8 +1,19 @@
 {
-  "generatedAt": "2026-11-27T00:52:27.424Z",
+  "generatedAt": "2026-11-27T01:30:32.612Z",
   "days": 30,
-  "count": 570,
+  "count": 571,
   "articles": [
+    {
+      "source": "TechRadar",
+      "title": "The Sonos Ace Ultra are my new favourite headphones — but don't dismiss the originals",
+      "url": "https://www.techradar.com/audio/wireless-headphones/the-sonos-ace-ultra-have-replaced-my-all-time-favourite-headphones-but-id-still-recommend-the-originals",
+      "publishedAt": "2026-11-27T00:52:05.000Z",
+      "author": "Max Langridge",
+      "description": "Sonos has made a great pair of headphones even better, without changing what made me love them in the first place",
+      "image": "https://cdn.mos.cms.futurecdn.net/wLsRzzUKbapjxeAvXH8g33-2560-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
     {
       "source": "TechRadar",
       "title": "How to watch Big Night of Musicals for free — stream from anywhere",
@@ -22,6 +33,17 @@
       "author": "Dave LeClair",
       "description": "No matter what kind of Apple product you have on your radar, there's a deal for you",
       "image": "https://cdn.mos.cms.futurecdn.net/iFByssJKRgQDNmWwnCKgSF-2560-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "Tom's Guide",
+      "title": "25 Amazon Black Friday deals actually worth it right now, including AirPods Pro 3, Skechers, Roku, Bose and more",
+      "url": "https://www.tomsguide.com/sales-events/amazon-best-black-friday-deals-11-26-26",
+      "publishedAt": "2026-11-26T22:20:18.000Z",
+      "author": "Dave LeClair",
+      "description": "Our favorite Black Friday deals worth adding to your cart",
+      "image": "https://cdn.mos.cms.futurecdn.net/tSnYbTAnj7w9Hubefr3N68-2000-80.png",
       "category": "耳機",
       "articleType": "其他"
     },
@@ -4004,17 +4026,6 @@
       "author": "Nick Harris-Fry",
       "description": "The perfect $9 gift for runners and gymgoers",
       "image": "https://cdn.mos.cms.futurecdn.net/uTxnp7TpJRg8Fp4D58cUt6-684-80.jpg",
-      "category": "耳機",
-      "articleType": "其他"
-    },
-    {
-      "source": "TechRadar",
-      "title": "Forget waiting for Black Friday — my favourite Apple earbuds just got a massive AU$130 discount",
-      "url": "https://www.techradar.com/audio/earbuds-airpods/forget-waiting-for-black-friday-my-favourite-apple-earbuds-just-got-a-massive-aud130-discount",
-      "publishedAt": "2026-11-12T00:15:00.000Z",
-      "author": "Max Langridge",
-      "description": "Plus score 20% off the AirPods Max 2 over ears",
-      "image": "https://cdn.mos.cms.futurecdn.net/QUDSfjH5kc29Ln76sma9Lh-1920-80.jpg",
       "category": "耳機",
       "articleType": "其他"
     },
