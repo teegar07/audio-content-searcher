@@ -1,8 +1,30 @@
 {
-  "generatedAt": "2026-11-28T01:03:52.343Z",
+  "generatedAt": "2026-11-28T01:46:07.550Z",
   "days": 30,
-  "count": 592,
+  "count": 593,
   "articles": [
+    {
+      "source": "Tom's Guide",
+      "title": "27 best Apple Black Friday deals you can still get on AirPods, Apple Watch, iPads, MacBooks and more",
+      "url": "https://www.tomsguide.com/sales-events/apple-black-friday-deals-nov-27",
+      "publishedAt": "2026-11-28T01:27:08.000Z",
+      "author": "Mark Spoonauer",
+      "description": "The biggest price drops on the best Apple devices",
+      "image": "https://cdn.mos.cms.futurecdn.net/MorAB7JhNmZTKtJWsVKMR8-2560-80.jpg",
+      "category": "耳機",
+      "articleType": "其他"
+    },
+    {
+      "source": "Tom's Guide",
+      "title": "27 best Apple Black Friday deals you can still get on AirPods, Apple Watch, iPads, MacBooks and more",
+      "url": "https://www.tomsguide.com/live/news/apple-black-friday-deals-november-27-2026",
+      "publishedAt": "2026-11-28T01:27:08.000Z",
+      "author": "Mark Spoonauer",
+      "description": "The biggest price drops on the best Apple devices",
+      "image": "https://cdn.mos.cms.futurecdn.net/MorAB7JhNmZTKtJWsVKMR8-2560-80.jpg",
+      "category": "耳機",
+      "articleType": "新聞"
+    },
     {
       "source": "The Verge",
       "title": "Sony’s 1000XM4C headphones are a Black Friday bargain at $198",
@@ -33,17 +55,6 @@
       "author": "Jonathan Sayers",
       "description": "Nothing's new earbuds, the Ear (note) are designed with AI technology that will generate a transcription of your conversations as well as let you record.",
       "image": "https://www.bgr.com/img/gallery/nothings-new-earbuds-arent-for-music-heres-what-they-do-instead/l-intro-1795789536.jpg",
-      "category": "耳機",
-      "articleType": "新聞"
-    },
-    {
-      "source": "Tom's Guide",
-      "title": "I’m vetting the biggest Apple Black Friday deals LIVE, with lowest-ever prices on AirPods and top deals on MacBooks and iPads",
-      "url": "https://www.tomsguide.com/live/news/apple-black-friday-deals-november-27-2026",
-      "publishedAt": "2026-11-27T20:53:05.000Z",
-      "author": "Mark Spoonauer",
-      "description": "Tom's Guide team of experts tracks the biggest discounts on Apple gear, including lowest-ever prices on AirPods Pro 3, savings on MacBooks, and even Apple TV.",
-      "image": "https://cdn.mos.cms.futurecdn.net/V4vJyvbLMADA8QFaxHgzag-2560-80.jpg",
       "category": "耳機",
       "articleType": "新聞"
     },
